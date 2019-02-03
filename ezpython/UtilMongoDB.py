@@ -12,7 +12,7 @@ from pymongo import MongoClient
 
 
 class UtilMongoDB:
-    def __init__(self, host='127.0.0.1', port=27017):
+    def __init__(self, host='107.174.144.165', port=27017):
         self.host = host
         self.port = str(port)
         self.conn = MongoClient(host, port)
