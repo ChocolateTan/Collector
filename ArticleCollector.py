@@ -189,6 +189,10 @@ def create_index():
         # print 'collection=', collection, 'index=', index
         print('collection='+collection)
         result = db[collection].find().sort("pubDate", pymongo.DESCENDING)
+        
+        if result is None:
+            continue
+
         result = list(result)
 
         for post in result:
@@ -339,8 +343,8 @@ def run():
 
 
 # create_index_api()
-# create_index()
-run()
+create_index()
+# run()
 # UtilMongoDB.UtilMongoDB().run_backup()
 
 # def create_index():
