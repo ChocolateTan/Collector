@@ -299,7 +299,7 @@ def back_data():
 
 def run():
     print(u"Main thread doing an infinite wait loop...")
-    delay_time = 60 * 60 * 1
+    delay_time = 60 * 60 * 3
     file_name = 'collection.html'
     save_dir = os.path.abspath(os.path.join(os.getcwd(), "."))
     UtilFileIO.write_file(file_name, save_dir, json_util.dumps(scrapy_list))
