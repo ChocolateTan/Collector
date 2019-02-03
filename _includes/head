@@ -1,0 +1,49 @@
+<link rel=stylesheet type="text/css" href="{{ site.baseurl }}/asserts/css/weui.css">
+<link rel=stylesheet type="text/css" href="{{ site.baseurl }}/asserts/css/collector.css">
+<script type="text/javascript" src="{{ site.baseurl }}/asserts/js/collector.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/asserts/js/aes.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/asserts/js/jq.js"></script>
+
+    <script type="text/javascript">
+        var x = 0;
+        var y = 0;
+
+
+        function showDetail(item) {
+            x = $(document).scrollLeft();
+            y = $(document).scrollTop();
+            alert(item.attributes["data-description"].nodeValue[1]);
+            var dialog = document.getElementById('dialog_detail');
+            dialog.style.display = null;
+            var title = item.attributes["data-title"].nodeValue;
+            var asciiContent = JSON.parse(item.attributes["data-description"].nodeValue);
+
+            var description=""
+            //description = String.fromCharCode(description);
+            for(var i=0, size=asciiContent.length; i < size; i++){
+              description = description + String.fromCharCode(asciiContent[i]);
+            }
+
+            var pubDate = item.attributes["data-pubDate"].nodeValue;
+            var guid = item.attributes["data-guid"].nodeValue;
+            var category = item.attributes["data-category"].nodeValue;
+
+
+            var strong_title = document.getElementById('strong_title');
+            var div_content = document.getElementById('div_content');
+            var orginal_url = document.getElementById('orginal_url');
+
+            strong_title.innerHTML = title;
+            orginal_url.href = guid;
+            div_content.innerHTML = description;
+
+            div_content.scroll(0,0);
+
+        }
+        function hideDetail() {
+            var dialog = document.getElementById('dialog_detail');
+            dialog.style.display = "none";
+
+            window.scroll(x,y);
+        }
+    </script>

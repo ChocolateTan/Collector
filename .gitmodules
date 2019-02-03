@@ -1,0 +1,3 @@
+[submodule "ezpython"]
+	path = ezpython
+	url = https://bitbucket.org/dontan_nmg/ezpython

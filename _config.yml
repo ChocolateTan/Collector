@@ -1,0 +1,11 @@
+# Site settings
+title: Collector
+description: IT RSS
+keywords: RSS IT
+author: Don Tam
+baseurl: "/Collector/" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+exclude: [app]
+
+data_file_count: 38
