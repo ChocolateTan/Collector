@@ -23,7 +23,8 @@ from ezpython import UtilMongoDB
 # warnings.filterwarnings("ignore", category=UnicodeWarning)
 # reload(sys)
 # sys.setdefaultencoding('utf-8')
-
+reload(sys)
+sys.setdefaultencoding( "utf-8" )
 socket.setdefaulttimeout(10)
 
 # class JSONEncoder(json.JSONEncoder):
