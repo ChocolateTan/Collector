@@ -1,0 +1,4 @@
+    <script src="{{ site.baseurl }}/asserts/js/zepto.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/asserts/css/1.0.0/jweixin-1.0.0.js"></script>
+    <script src="{{ site.baseurl }}/asserts/js/weui.min.js"></script>
+    <script src="{{ site.baseurl }}/asserts/js/example.js"></script>
