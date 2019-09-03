@@ -1,4 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
-/_site/
-/.idea
-/.idea/
+.conf
+.DS_Store
+*.pyc
+creator/__pycache__/
