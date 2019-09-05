@@ -88,9 +88,10 @@ class CreateJson(object):
                 if item['pub_date'] != '0000-00-00 00:00:00':
                     date_str = item['pub_date'].strftime('%Y-%m-%d %H:%M:%S') + ' '
                 f.write('## <a href="' + link + '" target="_blank">'+ date_str + item['title'].strip()+'</a>\n')
-                f.write('<div style="display: none;">')
+                # f.write('<div style="display: none;">')
                 f.write(item['description'] + '\n')
-                f.write('</div>')
+                # f.write('</div>')
+                f.write('\n')
                 f.write('\n')
 
         f.close()         
