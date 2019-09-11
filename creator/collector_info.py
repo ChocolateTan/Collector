@@ -98,7 +98,7 @@ class CreateJson(object):
                 f.write('}else{')
                 f.write('e.style.display = \'none\';')
                 f.write('}\n')
-                f.write('')
+                f.write('}')
                 f.write('</script>\n')
                 f.write('\n')
                 f.write('\n')
