@@ -92,7 +92,7 @@ class CreateJson(object):
                 f.write('<div class="collector_content" id="div_'+ item['postid'] +'" onclick="onClickAction(\''+item['postid']+'\')">\n')
                 f.write(item['description'].strip() + '\n')
                 f.write('</div>\n')
-                f.write('<script src="./output/collectorjs.js"></script>\n')
+                f.write('<script src="../output/collectorjs.js"></script>\n')
 
         f.close()         
         page = page + 1
