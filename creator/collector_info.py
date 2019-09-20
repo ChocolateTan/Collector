@@ -87,10 +87,9 @@ class CreateJson(object):
                 date_str = ''
                 if item['pub_date'] != '0000-00-00 00:00:00':
                     date_str = item['pub_date'].strftime('%Y-%m-%d %H:%M:%S') + ' '
-                f.write('## <a href="' + link + '" target="_blank">' + item['title'].strip()+'</a>\n')
-                f.write('')
-                f.write(date_str + '  ' + '<a href="#" id="a_' + item['postid'] + '" onclick="onClickAction(' + item['postid'] + ')">[收起]</a>')
-                f.write('<div id="div_'+ item['postid'] +'" onclick="onClickAction('+item['postid']+')">')
+                f.write('## <a href="' + link + '" target="_blank">' + item['title'].strip()+'</a>')
+                f.write(date_str + '  ' + '<a href="#" id="a_' + item['postid'] + '" onclick="onClickAction(\'' + item['postid'] + '\')">[收起]</a>')
+                f.write('<div id="div_'+ item['postid'] +'" onclick="onClickAction(\''+item['postid']+'\')">')
                 f.write(item['description'].strip() + '\n')
                 f.write('</div>')
                 f.write('<script type="text/javascript">\n')
