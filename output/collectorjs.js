@@ -14,7 +14,8 @@
 
     function checkClose(month, id){
         let storage = window.localStorage;
-        if (!storage.getItem('month_' + month)) {
+        cart = storage.getItem('month_' + month);
+        if (!cart) {
             cart.push(id);
             window.localStorage.setItem("cartLocal", JSON.stringify(cart));
         } else {
