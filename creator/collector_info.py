@@ -96,7 +96,7 @@ class CreateJson(object):
                 f.write('<script>\n')
                 f.write('window.onload=function(){\n')
                 f.write('    let storage = window.localStorage;\n')
-                f.write('    var local = storage.getItem(\'month_' + month + '\');\n')
+                f.write('    var local = JSON.parse(storage.getItem(\'month_' + month + '\'));\n')
                 f.write('    if (local) {\n')
                 f.write('        var div_list = document.getElementsByClassName("collector_content");\n')
                 f.write('        for (var i = 0, size = div_list.lenght; i < size; i++) {\n')
