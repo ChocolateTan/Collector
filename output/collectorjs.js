@@ -16,16 +16,23 @@
         let storage = window.localStorage;
         let key = 'month_' + month;
         cart = storage.getItem(key);
-        if (!cart) {
+
+        if(!cart){
+            cart = [];
             cart.push(id);
-            window.localStorage.setItem(key, JSON.stringify(cart));
-        } else {
-            cart = JSON.parse(window.localStorage.getItem(key));
-            if (cart.indexOf(id) > -1) {
-                cart.remove(id);
-            } else {
+            storage.setItem(key, JSON.stringify(cart));
+        }else{
+            if (!cart.indexOf(id)) {
                 cart.push(id);
+                storage.setItem(key, JSON.stringify(cart));
+            } else {
+                cart = JSON.parse(storage.getItem(key));
+                if (cart.indexOf(id) > -1) {
+                    cart.remove(id);
+                } else {
+                    cart.push(id);
+                }
+                storage.setItem(key, JSON.stringify(cart));
             }
-            window.localStorage.setItem(key, JSON.stringify(cart));
         }
     }
