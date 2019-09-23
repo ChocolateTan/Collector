@@ -22,16 +22,13 @@
             cart.push(id);
             storage.setItem(key, JSON.stringify(cart));
         }else{
-            if (!cart.indexOf(id)) {
-                cart.push(id);
+            cart = JSON.parse(storage.getItem(key));
+            var index = cart.indexOf(id);
+            if (index > -1) {
+                cart.splice(index, 1);
                 storage.setItem(key, JSON.stringify(cart));
             } else {
-                cart = JSON.parse(storage.getItem(key));
-                if (cart.indexOf(id) > -1) {
-                    cart.remove(id);
-                } else {
-                    cart.push(id);
-                }
+                cart.push(id);
                 storage.setItem(key, JSON.stringify(cart));
             }
         }
