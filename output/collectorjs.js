@@ -1,4 +1,4 @@
-    function onClickAction(id){
+    function onClickAction(month, id){
         var eObject = document.getElementById('div_'+id);
         var aObject = document.getElementById('a_'+id);
         
@@ -9,6 +9,7 @@
             eObject.style.display = 'none';
             aObject.innerHTML = '[展开]';
         }
+        checkClose(month, id);
     }
 
     function checkClose(month, id){

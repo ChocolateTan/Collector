@@ -88,8 +88,8 @@ class CreateJson(object):
                 if item['pub_date'] != '0000-00-00 00:00:00':
                     date_str = item['pub_date'].strftime('%Y-%m-%d %H:%M:%S') + ' '
                 f.write('## <a href="' + link + '" target="_blank">' + item['title'].strip()+'</a>\n')
-                f.write(date_str + '  ' + '<a href="#" id="a_' + item['postid'] + '" onclick="onClickAction(\'' + item['postid'] + '\')">[收起]</a>\n')
-                f.write('<div class="collector_content" id="div_'+ item['postid'] +'" onclick="onClickAction(\''+item['postid']+'\')">\n')
+                f.write(date_str + '  ' + '<a href="#" id="a_' + item['postid'] + '" onclick="onClickAction(\''+month+'\',\'' + item['postid'] + '\')">[收起]</a>\n')
+                f.write('<div class="collector_content" id="div_'+ item['postid'] +'" onclick="onClickAction(\''+month+'\',\'' + item['postid']+'\')">\n')
                 f.write(item['description'].strip() + '\n')
                 f.write('</div>\n')
                 f.write('<script src="../../collectorjs.js"></script>\n')
