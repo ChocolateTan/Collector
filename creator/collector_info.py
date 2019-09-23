@@ -100,7 +100,7 @@ class CreateJson(object):
                 f.write('    if (!local) {\n')
                 f.write('        var div_list = document.getElementsByClassName("collector_content");\n')
                 f.write('        for (item in div_list) {\n')
-                f.write('            var id = item.id.replace(\'div_\');\n')
+                f.write('            var id = item.getAttribute("id").replace(\'div_\');\n')
                 f.write('            if(local.indexOf(id)){\n')
                 f.write('                var eObject = document.getElementById(\'div_\'+id);\n')
                 f.write('                var aObject = document.getElementById(\'a_\'+id);\n')
