@@ -1,4 +1,4 @@
-<script type="text/javascript">
+<script>
     function onClickAction(id){
         var eObject = document.getElementById('div_'+id);
         var aObject = document.getElementById('a_'+id);
