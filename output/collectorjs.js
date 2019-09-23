@@ -26,22 +26,3 @@
             window.localStorage.setItem("cartLocal", JSON.stringify(cart));
         }
     }
-    
-    window.onload=function(){
-        let storage = window.localStorage;
-        var local = storage.getItem('month_' + month);
-        if (!local) {
-            var div_list = document.getElementsByClassName("collector_content");
-            for (item in div_list) {
-                var id = item.id.replace('div_');
-                if(local.indexOf(id)){
-                    var eObject = document.getElementById('div_'+id);
-                    var aObject = document.getElementById('a_'+id);
-                    eObject.style.display = 'none';
-                    aObject.innerHTML = '[展开]';
-                }
-            }
-        }
-        var userName="xiaoming";
-        alert(userName);
-    }
