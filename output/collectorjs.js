@@ -4,10 +4,11 @@
         
         if(eObject.style.display == 'none'){
             eObject.style.display = '';
-            aObject.innerHTML = '[收起]';
+            aObject.innerHTML = '[展开]';
         }else{
             eObject.style.display = 'none';
-            aObject.innerHTML = '[展开]';
+            aObject.innerHTML = '[收起]';
+            eObject.innerHTML = eObject.getAttribute('data-desc');
         }
         checkClose(month, id);
     }
