@@ -1,0 +1,4 @@
+.conf
+.DS_Store
+*.pyc
+creator/__pycache__/
