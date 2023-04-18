@@ -25,15 +25,15 @@ jobs:
         pip install -r requirements.txt
         pip install scrapy
         scrapy crawl rss
-    - name: Commit
-        git config --global user.email 390032295@qq.com
-        git config --global user.name donGitHubAction
-        git add ./*
-        git commit -m"action:`date`"
-        git pull --rebase
+    # - name: Commit
+    #     git config --global user.email 390032295@qq.com
+    #     git config --global user.name donGitHubAction
+    #     git add ./*
+    #     git commit -m"action:`date`"
+    #     git pull --rebase
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+    # - name: Push changes
+    #   uses: ad-m/github-push-action@master
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     branch: master
