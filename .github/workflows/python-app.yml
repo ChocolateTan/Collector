@@ -24,6 +24,7 @@ jobs:
       run: |
         pip install -r ./RSSCollector/requirement.txt
         pip install scrapy
+        cd RSSCollector
         scrapy crawl rss
     # - name: Commit
     #     git config --global user.email 390032295@qq.com
