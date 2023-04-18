@@ -1,0 +1,13 @@
+@startmindmap
+* CollectorRSS
+** RSS 管理
+*** RSS 列表
+**** RSS 增加
+**** RSS 修改
+**** RSS 删除
+**** RSS 激活/禁用
+** GitHub action
+*** RSS 定时执行
+**** 错误跳过
+**** 生成 json 文件
+@endmindmap

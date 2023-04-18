@@ -1,5 +1,0 @@
-[MYSQL]
-HOST = localhost
-USER = testuser
-PASSWORD = test123
-DBNAME = TESTDB
