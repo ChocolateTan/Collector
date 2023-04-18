@@ -22,7 +22,7 @@ jobs:
 
     - name: Run a single-line script
       run: |
-        pip install -r ./RSSCollector/requirements.txt
+        pip install -r ./RSSCollector/requirement.txt
         pip install scrapy
         scrapy crawl rss
     # - name: Commit
