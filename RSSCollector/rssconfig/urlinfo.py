@@ -5,7 +5,7 @@ class UrlSource(Enum):
     # URL_36kr = "https://36kr.com/feed"
     URL_36kr = "https://36kr.com/feed-newsflash"
     # URL_36kr = "https://36kr.com/feed-article"
-    # URL_BLOG_GOOGLE = "https://blog.google/products/android/rss/"
+    URL_BLOG_GOOGLE = "https://blog.google/products/android/rss/"
 
 class UrlInfo(object):
 
