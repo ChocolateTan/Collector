@@ -2,3 +2,5 @@
 .DS_Store
 *.pyc
 creator/__pycache__/
+./RSSCollector/output/*
+./ressource/*
