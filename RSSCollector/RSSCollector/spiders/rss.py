@@ -40,7 +40,7 @@ class RssSpider(XMLFeedSpider):
 
         self.logger.debug(title)
         self.logger.debug(link)
-        resultPubDate = datetime.strftime(datetime.strptime(pubDate, urlSource.dateFormat), "%Y/%m/%d/ %H:%M:%S")
+        resultPubDate = datetime.strftime(datetime.strptime(pubDate, urlSource.dateFormat), "%Y-%m-%d %H:%M:%S")
         self.logger.debug(resultPubDate)
 
         # desc = node.xpath("description/text()").extract_first()

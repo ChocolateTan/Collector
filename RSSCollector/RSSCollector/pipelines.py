@@ -7,7 +7,7 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 from scrapy.exceptions import DropItem
-from datetime import datetime
+from datetime import datetime, timedelta
 from time import strftime, localtime
 import json
 
@@ -28,9 +28,13 @@ class RsscollectorPipeline:
         # self.file.write(line)
         if item["link"] in self.ids_seen:
             raise DropItem("Duplicate item found: %s" % item)
-        
-        if item["pubDate"] < strftime("%Y/%m/%d/ 00:00:00", localtime()):
-            raise DropItem("Not today item found: %s" % item)
+
+        currentDate = datetime.strptime(strftime("%Y-%m-%d 00:00:00", localtime()), "%Y-%m-%d 00:00:00")
+        pubDateDate = datetime.strptime(item["pubDate"], "%Y-%m-%d %H:%M:%S")
+
+
+        if (currentDate - pubDateDate).days > 2:
+            raise DropItem("Not collector item found: %s" % item)
 
         self.ids_seen.add(item["link"])
         self.itemList.append(dict(item))
