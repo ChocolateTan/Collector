@@ -25,7 +25,7 @@ class RssSpider(XMLFeedSpider):
             yield scrapy.Request(url=url, headers=self.headers,)
 
     def adapt_response(self, response):
-        page = response.url.split("/")[-2]
+        page = response.url.replace("/","_")
         filename = 'rsssource/quotes-%s.xml' % page
         with open(filename, 'wb') as f:
             f.write(response.body)

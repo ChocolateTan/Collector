@@ -6,6 +6,8 @@ class UrlSource(Enum):
     URL_36kr = "https://36kr.com/feed-newsflash"
     # URL_36kr = "https://36kr.com/feed-article"
     URL_BLOG_GOOGLE = "https://blog.google/products/android/rss/"
+    URL_MEITUAN = "https://tech.meituan.com/feed/"
+    URL_TECHWEB = "http://www.techweb.com.cn/rss/hotnews.xml"
 
 class UrlInfo(object):
 
@@ -15,7 +17,7 @@ class UrlInfo(object):
         self.allowedDomains = allowedDomains
         self.dateFormat = dateFormat
 
-
+NORMAL_DATE_FORMAT = "%a, %d %b %Y %H:%M:%S +%f"
 URL_LIST = {
         UrlSource.URL_36kr: UrlInfo(
             UrlSource.URL_36kr,
@@ -29,7 +31,21 @@ URL_LIST = {
             UrlSource.URL_BLOG_GOOGLE.value,
             "blog.google",
             # Tue, 15 Nov 2022 14:00:00 +0000
-            "%a, %d %b %Y %H:%M:%S +%f"
+            NORMAL_DATE_FORMAT
+        ),
+        UrlSource.URL_MEITUAN: UrlInfo(
+            UrlSource.URL_MEITUAN,
+            UrlSource.URL_MEITUAN.value,
+            "tech.meituan.com",
+            # Tue, 15 Nov 2022 14:00:00 +0000
+            NORMAL_DATE_FORMAT
+        ),
+        UrlSource.URL_TECHWEB: UrlInfo(
+            UrlSource.URL_TECHWEB,
+            UrlSource.URL_TECHWEB.value,
+            "www.techweb.com.cn",
+            # Tue, 15 Nov 2022 14:00:00 +0000
+            NORMAL_DATE_FORMAT
         )
     }
         
