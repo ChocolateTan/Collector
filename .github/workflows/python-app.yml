@@ -27,6 +27,7 @@ jobs:
         cd RSSCollector
         scrapy crawl rss
     - name: Commit
+      run: |
         git config --global user.email 390032295@qq.com
         git config --global user.name donGitHubAction
         git add ./*
