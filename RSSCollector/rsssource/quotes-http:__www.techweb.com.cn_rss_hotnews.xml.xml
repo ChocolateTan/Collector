@@ -5,14 +5,28 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Thu, 20 Apr 2023 02:12:42 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 08:42:51 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>苹果公司首家印度零售店在孟买正式开业 库克亲临现场</title>
+     <item><title>字节参战！火山引擎明确不做大模型 但已服务国内七成大模型厂商</title>
+<link>http://www.techweb.com.cn/it/2023-04-19/2924930.shtml</link>
+<description><![CDATA[<p>【TechWeb】“火山引擎自己是不做大模型的，我们首先服务好国内做大模型的厂商，等他们把大模型做好之后，我们再一起合作开展对外的服务。”火山引擎总裁谭待向TechWeb等表示。</p><p>随着ChatGPT的爆火，国内人工智能领域也风起云涌，互联网科技公司纷纷开启大模型军备竞赛。百度、阿里、360等大厂，以及MiniMax、智谱AI等创业公司，都已相继推出自己的大模型产品，与此同时云市场也在加速变革。</p><p>作为字节跳动旗下云服务平台，火山引擎明确不会做大模型，但发布了大模型训练云平台。谭待表示，AI大模型有巨大潜力和创新空间，火山引擎会服务客户做好大模型，共同推动各行业的智能化升级。</p><p>值得一提的是，在集团层面，字节跳动并未放弃自己做大模型。字节跳动副总裁杨震原在采访中透露，“公司在做一些学习和研究，现在还没有什么结果，未来这方面有了进展再同步。”</p><p><strong>火山引擎明确不做大模型</strong></p><p>火山引擎是字节跳动于2021年6月推出的云服务业务板块，被外界称为“字节云”，它和协同办公平台飞书共同构成字节跳动对外的To B服务体系。在百度、阿里等大厂相继推出大模型产品之后，有业内人士猜测，火山引擎可能也会推出自己的大模型产品。不过，这一消息被火山引擎方面明确否认。</p><p>4月18日，火山引擎原动力大会举办。在会后的采访中，火山引擎总裁谭待明确表示，“火山引擎自己是不做大模型的。”火山引擎将接入多家大模型深度合作，为大模型厂商提供服务。</p><p>这个思路与亚马逊类似。日前，亚马逊AWS宣布推出生成式 AI（AIGC）工具“全家桶”，包括用于生成文本、分类、开放式问答和信息提取等任务的生成式大语言模型以及文本嵌入大语言模型等，AWS瞄准的也是企业客户。</p><p>谭待表示，国内很多科技公司投入到大模型建设中，他们有优秀的技术团队，也有丰富的行业知识和创新想法，但往往缺乏经过大规模场景实践的系统工程能力。火山引擎要做的就是为大模型客户提供高稳定性和高性价比的AI基础设施。</p><p>值得一提的是，虽然火山引擎不做大模型，但在集团层面，字节跳动并未放弃自己做大模型。</p><p>今年2月，据36氪报道，字节跳动已经从语言和图像两种模态上布局大模型。其中，语言大模型团队在今年组建，由字节搜索部门牵头，探索方向主要为与搜索、广告等下游业务的结合；图像大模型团队则由产品研发与工程架构部下属的智能创作团队牵头。</p><p>3月底，有消息称，阿里M6大模型的前带头人杨红霞已加入字节跳动AI Lab（人工智能实验室），参与语言生成大模型的研发，并在语言生成大模型团队中处于领导地位，直接向字节跳动副总裁杨震原汇报。</p><p>对于上述市场消息，字节跳动方面当时均未予以回应。</p><p>在火山引擎原动力大会的采访中，杨震原透露，“大模型方面，其实公司也在做一些学习和研究，现在还没有什么结果，等未来这方面有了进展再同步。”</p><p><strong>如何满足大模型厂商需求？</strong></p><p>大模型需要大算力才能做出来，此外还需要很好的工程能力，去解决千卡甚至万卡并行的训练，去解决好网络问题，以及包括在训练过程中怎样使人可以更早地干预、观测等。</p><p>“对火山引擎来说，一方面是算力的供给，另一方面是云原生机器学习平台，以帮助企业应用好算力，进一步提升效率，把大模型训练的又快又稳定。”谭待如此说到。</p><p>据介绍，火山引擎机器学习平台经过抖音等海量用户业务长期打磨，支持单任务万卡级别的超大规模分布式并行训练场景。GPU弹性计算实例可灵活调度资源，随用随取，最高可以为客户节省70%的算力成本。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0419/1681906826380.jpg"></figure><p>MiniMax是目前国内少数已经推出自研大模型产品的AI技术公司，拥有文本、视觉、声音三种通用大模型引擎能力。据MiniMax联合创始人杨斌介绍，MiniMax与火山引擎合作建立了超大规模实验平台，实现千卡级常态化训练；超大规模推理平台有万卡级算力池，支撑单日过亿次调用。</p><p>据谭待透露，<strong>国内大模型领域，七成以上已是火山引擎客户，包括智谱AI、昆仑万维等。</strong></p><p>会上，火山引擎还宣布与字节跳动国内业务并池。基于内外统一的云原生基础架构，抖音等业务的空闲计算资源可极速调度给火山引擎客户使用，离线业务资源分钟级调度10万核CPU，在线业务资源也可潮汐复用。</p><p>只是，字节跳动的国内业务本身，用户数据已经很多，虽然有空闲的计算资源，字节本身也在做大模型的尝试，有多少算力能分到外部？对此，杨震原表示，“并池”实际上是一个技术问题，并不是资源问题。云计算本来就有很多客户，可以去调度一些资源，去错峰互用，把运力提上去。</p><p>“比如抖音，其实也有波峰和波谷，晚上或深夜用的人少，这种资源就很适合科学计算的能力，因为这个是批量的，并不需要非常实时的来做这个事情。这个例子也说明了为什么通过资源的混部能够更好降低云计算的成本。”杨震原进一步解释说。</p><p><strong>大模型不会一家独大</strong></p><p>有评论称，大模型将成为云厂商弯道超车的机会。谭待对此表示，大模型还在发展初期，面临数据安全、内容安全、隐私保护、版权保护等许多问题需要努力解决。但可以预见，大模型将带动云上AI算力急剧增长，AI算力的工作负载与通用算力的差距会越来越小，这会为各家云厂商带来新的机会，同时也会对数据中心、软硬件栈、PaaS平台带来新的挑战。</p><p>以数据中心的算力结构为例，谭待表示：“大模型需要大算力，虚拟化会带来资源损耗，规模越大就损耗越多。未来3年内，大规模的算力中心，都将形成’CPU+GPU+DPU’的混合算力结构，CPU负责通用计算，GPU负责AI计算，DPU负责资源卸载、加速和隔离，提升资源效率”。</p><p>此次原动力大会上，火山引擎发布了新一代自研DPU，实现计算、存储、网络的全组件卸载，释放更多资源给业务负载。现场数据显示，火山引擎自研DPU的网络性能高达5000万pps转发能力、延迟低至20us。</p><p>谭待认为，在大模型及下游应用发展推动下，无论传统企业还是初创企业，对AI算力都有迫切需求，企业使用多家云服务将成为常态。同时，各行业有自己高质量的私有语料，大模型不会一家独大，而是会在千行百业生长，形成多模型共生甚至协作的生态。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-19/2924930.shtml</guid>
+<author>周小白</author><pubDate>Wed, 19 Apr 2023 20:22:37 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>台积电今年营收预计将同比下滑 资本支出预计也将减少</title>
+<link>http://www.techweb.com.cn/world/2023-04-19/2924915.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】4月19日消息，据外媒报道，去年下半年开始由消费电子产品需求下滑引发的芯片需求下滑，目前仍在持续，众多芯片厂商受到了影响，芯片代工商台积电也不例外，他们的营收在去年四季度环比就已有下滑，预计今年一季度的营收同比环比均将下滑。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0419/1681896796184.jpg"></figure><p><code>芯片需求尚无好转的迹象，也就意味着相关芯片厂商受影响的时间将会更长，台积电等厂商今年的业绩，大概率也将受到影响。</code></p><p><code>对于台积电今年的营收，有半导体领域的消息人士预计可能会出现同比个位数的下滑。</code></p><p><code>从台积电的财报来看，他们在去年营收758.81亿美元，同比若下滑不超过10%，今年的营收就将在683亿美元之上。</code></p><p><code>除了营收下滑，本周早些时候也有消息称台积电将削减今年的资本支出预期，预计会在周四发布的财报中披露新的资本支出规模。在1月12日发布的财报中，台积电管理层是预计今年的资本支出在320-360亿美元。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-19/2924915.shtml</guid>
+<author>海蓝</author><pubDate>Wed, 19 Apr 2023 17:37:37 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>苹果公司首家印度零售店在孟买正式开业 库克亲临现场</title>
 <link>http://www.techweb.com.cn/world/2023-04-19/2924884.shtml</link>
 <description><![CDATA[<p>【TechWeb】4月19日消息，据外媒报道，当地时间周二，苹果在印度的第一家零售店BKC商店在孟买正式开业，苹果CEO蒂姆•库克(Tim Cook)亲临现场参加了开幕仪式。</p><p>苹果的在线商店于2020年9月在印度推出，但直到本周二，该公司才在印度开设实体零售店。</p><p>在苹果BKC商店开业后，苹果Saket商店将于当地时间4月20日（当地时间周四）上午10点在德里开业。</p><p>上周，苹果公司表示，这些零售店标志着苹果在印度的一次重大扩张，将为消费者提供浏览、发现和购买苹果产品的新方式。</p><p>近年来，印度一直是苹果公司增长最快的市场之一，该公司及其供应链合作伙伴持续加大对印度的投资，以扩大在印度的业务。苹果公司不仅将iPhone产能转移到印度工厂，还在印度开设零售旗舰店。</p><p>印度是全球第二大智能手机市场，该国的iPhone销量一直在稳步上升。苹果在印度开设零售店，显示出该公司对这个全球增长最快的智能手机市场的重视。</p><p>随着苹果公司继续扩大在印度的生产并减少对中国的依赖，该公司寻求在未来两年内将其在印度的iPhone产能提高两倍，这是该公司将其在亚洲的供应链多样化计划的一部分。</p><p>上周，外媒报道称，苹果公司已在印度班加罗尔中央商务区签署了一份为期10年的商业大楼租约。</p><p>根据数据分析公司Propstack提供的注册文件，该公司占据了该办公大楼的三层以及其它两层的部分区域，占地面积为116888平方英尺（约10859平方米）。据外媒报道，苹果公司计划将其用作全球能力中心。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
@@ -32,13 +46,6 @@
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/world/2023-04-19/2924911.shtml</guid>
 <author>小狐狸</author><pubDate>Wed, 19 Apr 2023 17:02:23 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>国家市场监管总局：严厉查处刷单炒信、网络直播虚假宣传等网络不正当竞争行为</title>
-<link>http://www.techweb.com.cn/it/2023-04-19/2924850.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月18日消息，据国家市场监督管理总局官网消息，市场监管总局近日组织开展2023年反不正当竞争“守护”专项执法行动。</p><p>专项执法行动突出三个重点：一是以查处互联网不正当竞争行为为重点，严厉查处刷单炒信、网络直播虚假宣传等网络不正当竞争行为，为数字经济发展保驾护航。二是以规范民生领域营销行为为重点，加强对新型商业营销行为监管，严打医药购销、餐饮旅游等重点行业商业贿赂违法行为，提升消费信心，促进消费提质升级。三是以保护企业核心竞争力为重点，加强商业秘密、商业标识和商业信誉等保护，激发企业创新活力，促进商品和要素高效流通，推动建设全国统一大市场。&nbsp;</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0419/1681865689781.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-19/2924850.shtml</guid>
-<author>周小白</author><pubDate>Wed, 19 Apr 2023 08:56:43 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>ChatGPT可能泄露商业机密 美国FTC称将重点关注AI违法行为</title>
 <link>http://www.techweb.com.cn/it/2023-04-19/2924844.shtml</link>
@@ -60,13 +67,6 @@
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/news/2023-04-19/2924858.shtml</guid>
 <author>Suky</author><pubDate>Wed, 19 Apr 2023 09:13:17 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>北京市消协：“大胃吃播”涉嫌违法 “达人探店”可能构成商业广告</title>
-<link>http://www.techweb.com.cn/it/2023-04-19/2924855.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月19日消息，北京市消费者协会官网发布消息称，近期，网络上各种“大胃王”直播引流以及存在虚假夸大宣传的“网络种草”“达人探店”等美食分享行为，不仅涉嫌误导消费者，而且涉嫌违反《反食品浪费法》有关规定。</p><p>北京市消费者协会提醒，网络主播在提供网络表演及视听节目服务过程中，不得出现铺张浪费粮食，展示假吃、暴饮暴食或其他易造成不良饮食消费、食物浪费示范的内容，此类行为已涉嫌违反《反食品浪费法》。</p><p>此外，北京市消费者协会提醒有关平台、商家和网红达人，通过知识介绍、体验分享、消费测评等形式推销商品或者服务，并附加购物链接等购买方式的，广告发布者应当显著标明“广告”。平台要对“网络种草”“达人探店”等行为加强审核，否则，同样要依法承担相应责任。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0419/1681873807853.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-19/2924855.shtml</guid>
-<author>周小白</author><pubDate>Wed, 19 Apr 2023 09:06:24 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>阿斯麦Q1净销售额67亿欧元 但净订单同比环比大幅减少</title>
 <link>http://www.techweb.com.cn/world/2023-04-19/2924910.shtml</link>
