@@ -5,48 +5,104 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Sun, 23 Apr 2023 08:48:56 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 14:12:16 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>2024北京车展将于明年4月25日至5月4日举办</title>
+     <item><title>研究人员发现ChatGPT生成的代码大部分不安全 但它不会主动告诉你</title>
+<link>http://www.techweb.com.cn/it/2023-04-23/2925140.shtml</link>
+<description><![CDATA[<p>4 月 23 日消息，ChatGPT 聊天机器人可以根据用户的输入生成各种各样的文本，包括代码。但是，加拿大魁北克大学的四位研究人员发现，ChatGPT 生成的代码往往存在严重的安全问题，而且它不会主动提醒用户这些问题，只有在用户询问时才会承认自己的错误。</p><p>研究人员在一篇论文中介绍了他们的发现，查看该论文发现，他们让 ChatGPT 生成了 21 个程序和脚本，涉及 C、C++、Python 和 Java 等语言。这些程序和脚本都是为了展示一些特定的安全漏洞，比如内存损坏、拒绝服务、反序列化和加密实现等方面的漏洞。结果显示，ChatGPT 在第一次尝试时生成的 21 个程序中只有 5 个是安全的。在进一步提示纠正其错误步骤后，该大型语言模型设法生成了 7 个更安全的应用程序，不过这只是与正在评估的特定漏洞有关的“安全”，并不是说最终的代码不存在任何其他可利用的漏洞。</p><p>研究人员指出，ChatGPT 的部分问题是由于它没有考虑敌对的代码执行模型。它会反复告诉用户，安全问题可以通过“不输入无效的数据”来避免，但这在现实世界中是不可行的。然而，它似乎能够意识到并承认自己建议的代码中存在的关键漏洞。</p><p>魁北克大学计算机科学与工程教授、论文的合著者之一 Raphaël Khoury 告诉《The Register》：“显然，它只是一个算法。它什么都不知道，但它可以识别出不安全的行为。”他说，最初 ChatGPT 对安全问题的回应是建议只使用有效的输入，这显然是不合理的。只有在之后被要求改进问题时，它才提供了有用的指导。</p><p>研究人员认为，ChatGPT 的这种行为并不理想，因为用户知道要问什么问题需要对特定的漏洞和编码技术有一定的了解。</p><p>研究人员还指出，在 ChatGPT 中存在着道德上的不一致性。它会拒绝创建攻击代码，但却会创建有漏洞的代码。他们举了一个 Java 反序列化漏洞的例子，“聊天机器人生成了有漏洞的代码，并提供了如何使其更安全的建议，但却说它无法创建更安全版本的代码。”</p><p>Khoury 认为，ChatGPT 在目前的形式下是一个风险，但这并不是说没有合理使用这种不稳定、表现不佳的 AI 助手的方法。“我们已经看到学生使用这个工具，程序员也会在现实中使用这个工具。”他说，“所以拥有一个生成不安全代码的工具是非常危险的。我们需要让学生意识到，如果代码是用这种类型的工具生成的，那么它很可能是不安全的。”他还称，让他感到惊讶的是，当他们让 ChatGPT 生成相同任务的不同语言的代码时，有时对于一种语言，它会生成安全的代码，而对于另一种语言，它会生成有漏洞的代码，“因为这种语言模型有点像一个黑盒子，我真的没有一个很好的解释或理论来说明这一点。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-23/2925140.shtml</guid>
+<author>远洋</author><pubDate>Sun, 23 Apr 2023 09:00:28 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>Omdia：苹果计划2027年推出32英寸和42英寸OLED外接显示器</title>
+<link>http://www.techweb.com.cn/world/2023-04-23/2925177.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月23日消息，据外媒报道，技术研究公司Omdia的一份新报告显示，苹果正在开发32英寸和42英寸的外接显示器，它们都将采用OLED屏幕，将于2027年发布。</p><p>实际上，早在2022年3月，韩国媒体就报道了苹果正在开发32英寸和42英寸OLED显示屏的传闻。</p><p>Omdia称，到2027年，苹果将把几乎所有iPad、MacBook和外接显示器都换成OLED显示屏。</p><p>Omdia认为，苹果将在2024年发布首款OLED屏iPad机型，将从iPad Pro开始，随后在2026年推出OLED屏MacBook Pro。</p><p>然而，其他报告却显示，MacBook Air将是首款采用OLED显示屏的Mac电脑，最早可能在2024年推出。</p><p>至于外接显示器，Omdia称，采用QD-OLED或WOLED面板的32英寸和42英寸机型将于2027年上市。</p><p>Omdia的最新IT OLED显示屏预测报告显示，全球OLED显示屏出货量将从2022年的约970万台迅速增长到2028年的7000多万台，这一增长主要由笔记本电脑推动。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-23/2925177.shtml</guid>
+<author>小狐狸</author><pubDate>Sun, 23 Apr 2023 10:48:00 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>曾比TikTok还火的「社死」app，和松弛感一样是个伪命题</title>
+<link>http://www.techweb.com.cn/viewpoint/2023-04-23/2925151.shtml</link>
+<description><![CDATA[<p>去年的美国最火应用是谁？</p><p>力压「霸榜王」TikTok，主打真实社交的 BeReal 在全年 22% 的日子里问鼎 App Store。</p><p>但你方唱罢我登场，没有什么始终屹立不倒。</p><p>BeReal 的日活用户，从 2022 年 10 月的约 1500 万，降至 3 月的不到 600 万。当时间来到 4 月，就连 App Store 的排名也在 150 名开外。</p><p>曾经比短视频还火的 app，为何悄无声息陨落了？</p><p><strong>玩法「社死」，但也很容易腻</strong></p><p>BeReal 的传统玩法是这样的：</p><p>在一天的某个随机时刻，你和朋友们同时收到通知，在 2 分钟的时间内，你们使用前后摄像头拍摄当下，没有滤镜也不做任何编辑，直接共享当天彼此的真实瞬间。</p><p>当通知到来时，你可能在地铁、办公室或公交车站，甚至在床上睡眼惺忪，做着日复一日的事，也有可能在打卡景点，让这天显得有些特别。</p><p>拍摄过程中，你只能看到一个摄像头的画面，前置摄像头拍得如何，只有照片显现时才能看到。</p><p>如果不够满意，你可以多次拍摄，也可以在超过 2 分钟后迟交，但你的重拍次数和迟交时间都会像呈堂证供一样，醒目地留在你当天的照片旁。</p><p>我在试玩的时候，通知有时是 10 点多，有时是 8 点多。每天在意想不到的时候被要求拍照，又无法编辑和完善图像，这是 BeReal 相信的「随机性将产生真实性」。</p><p>BeReal 人气下降，概括下来也无非两种原因。</p><p>一方面，用户不够长情；另一方面，用户的使用习惯改变了。</p><p>不够长情其实很好理解，大多数真实的日常就是无聊的，这是一个不言自明的事实，也是一些用户离开 BeReal 的原因。</p><p>外媒报道里的一位加州高中生，使用 BeReal 几个月后就厌倦并卸载了它。</p><p>起初他很享受其中，也很高兴地发现，大家其实都没有 Instagram 动态那般的光鲜亮丽，但现在的他转变了想法，不想再滚动浏览他和朋友们之间几乎相同的照片。</p><p>BeReal 火起来的节点，似乎也在验证着这个结论。</p><p>2020 年 1 月，BeReal 在法国面世，2022 年 2 月以后，它才在美国的大学校园火起来。当时，不少大学生是疫情以来第一次体验线下的校园生活，所以乐意用 BeReal 记录课堂、图书馆、社团活动等。但一时的新鲜劲没了，热情也就熄火了。</p><p>至于使用习惯改变，则直击着 BeReal 的要害。</p><p>就像上文所提到的，BeReal 不鼓励迟交照片。但有不少用户，宁愿错过 2 分钟的窗口期，让照片被标记为「迟到」，也要等到特殊的时间和地点再拍照。</p><p>迟到恰恰说明我们在记录与众不同的瞬间，想要在朋友的手机屏幕前盛装出现。兜兜转转，又回到了那种带点炫耀色彩、但大家都可以理解的小心思。<br>如此一来，BeReal 也失去了它的初衷，与它所反对的 Instagram「一丘之貉」。那么，我们何必违背自己的本性，不去拥抱更加主流、也更加五光十色的其他社交媒体？</p><p>去年夏天是 BeReal 的顶峰时刻，颓势则在去年 10 月显露端倪。</p><p>当时，BeReal 的全球下载量已经超过 5300 万，但在 2022 年第三季度，只有约 9% 的 Android 用户每天都打开它。相比之下，Instagram 和 TikTok 的比例分别为 39% 和 29%。</p><p>不过，这些数据都来自第三方数据平台，BeReal 倒十分佛系，从不透露用户数量，自称对自己和对用户的要求相同，不追逐名声或聚光灯，也不会被下载数量所束缚。</p><p>BeReal 不会让您出名。如果您想成为有影响力的人，可以留在 TikTok 和 Instagram 上。</p><p><strong>没有滤镜即真实，是个伪命题</strong></p><p>BeReal 的初衷其实很简单，即为用户提供一个窗口，让他们了解朋友们在日常生活中的真实情况。</p><p>这份真实在社交媒体显得十分奢侈。Instagram、小红书，便是个中代表。</p><p>远的例子有小红书的景点滤镜风波，近的例子则坐落在上海漕河泾地铁站附近，这里有个站立在木绣球花前的岗亭，因为有人冒着危险攀爬拍照引起热议，原来网红摄影已经卷到这个地步了。</p><p>但当真实落脚在 BeReal 本身，也不一定经得起推敲。它在自我简介里提到：BeReal 是生活、真实生活、没有滤镜的生活。但这本身其实是一个不真实、也没有意义的伪命题。</p><p>一方面，它对真实性的标准是简略的。不能加滤镜、不能编辑图片，其实并不等于真实。</p><p>拍照时间是随机的，又只有 2 分钟，拍下无聊甚至糊掉的图片很正常吧？但一些 BeReal 用户没有停止攀比有趣，甚至有人为了展示自己正在埃菲尔铁塔旁，在原地等待通知弹出。</p><p>更加吹毛求疵地说，用户们多少都会在 2 分钟内倒腾一下自己，至少从四仰八叉地躺着到人模人样地坐着。人性所致，我们在乎别人的目光。</p><p>另一方面，BeReal 对真实性的要求又近乎刻板。重拍次数也要被强调，似乎不一次性拍完，照片就是不真实的。</p><p>说到底，真实不是一个死物，它是流动的。一张修过的照片可能不真实，但如果你把多张照片放在一起，你或多或少能够了解这个人的某个切面。</p><p>相反，等待拍照通知到来，「精心」拍下没有滤镜的照片，这件事本就不自然。</p><p>所以，还是放轻松一点吧。</p><p>所谓的反滤镜、反修图、反社交压力，就像松弛感这个词一样诡异，当人们念叨着「营造松弛感」时，其实已经不够松弛了。松弛感的前提往往是有其他选择，不是通过穿搭等方式可以「营造」的。</p><p>但 BeReal 对真实的强调能够打动我们，其实也是满足了某种心态，类似于松弛感成为流行概念，是因为呼应了躺又躺不平、卷又卷不动的无奈。</p><p>要么过于精致，要么单调如一，生活在互联网时代，我们像钟摆一样晃荡不停，不会满足停滞在任何一种状态，但总会在某些时候，为其中一种买单。吃惯了甜的也想试试咸的，有需求就有市场，社交应用们就在这种空隙里蓬勃地生长。</p><p><strong>在社交媒体分神是一种常态</strong></p><p>当在 BeReal 占据上一个夏天的时候，TikTok、Instagram、Snapchat 等主流 app 向它「致敬」，内测了相似的功能。</p><p>模仿就是最好的赞美。它们对 BeReal 的仿效，可能将更多用户留在自己这边，原因很简单，在一个平台上集中体验各种功能，比起四散在各个 app 孤岛，显得更加方便。</p><p>社交媒体的「真实性」，或许真的更适合作为一个主流 app 的功能存在，它就在那里，你爱用就用，不用也可以。</p><p>当小众的社交媒体试图提供一片净土，从 TikTok、Instagram，到微博和小红书，主流应用始终逃不出「注意力经济」，各种功能都吸引着你，占据你的屏幕使用时间。</p><p>Facebook 首任总裁 Sean Parker 说过，注意力经济直接影响着奖赏通路中的多巴胺释放。</p><p>我们在社交媒体上，其实就是一种不断分神、不断汲取多巴胺的状态。它们的算法，将最吸引人的内容推送到你面前，赚取你的注意力，然后通过广告等手段变现。</p><p>理查德·西摩的《推特机器》谈到，社交媒体让人渴望持续不断的新东西，渴望开发利用自己琐碎的仇恨和欲望。它将人们注意的能力，分解成一系列需要被骚的痒。</p><p>所以，BeReal 仍然是一次宝贵的尝试，它好就好在足够纯粹，提供了社交的另一种模样，而且显得更不功利。</p><p>因为它不需要你反复滚动信息，保持永久在线，从中不断获取多巴胺。当第二天的通知到来，前一天的照片就会在公共领域消失，只有你自己可以看到之前发布的照片。</p><p>每日一次的随机约定，让人回到了真实的生活中去，呼应当下流动着的时刻，有人将它当作回忆录，有人将它作为与朋友分享东西的日常仪式，尽管它也不可避免地有所包装。</p><p>然而，最为讽刺的是，为了避免错过它的拍照通知，用户需要始终开着手机。</p><p>2022 年 4 月，BeReal 经历过一次故障，然后在 Twitter 说：</p><p>BeReal 已关闭，因此你可以在现实世界中与朋友共度更多时间。</p><p>事实的确如此。</p><p>BeReal 鼓励人们活在当下，践行它的最好方式，恰恰是不去在意它。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/viewpoint/2023-04-23/2925151.shtml</guid>
+<author>张成晨</author><pubDate>Sun, 23 Apr 2023 09:29:46 +0800</pubDate>
+<source>爱范儿</source>
+</item><item><title>长城汽车一季度营收290.39亿元 净利润下跌近90%</title>
+<link>http://www.techweb.com.cn/smarttraveling/2023-04-23/2925158.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月23日消息，长城汽车近日公布了2023年第一季度财报。报告显示，今年一季度营收290.39亿元，同比下滑13.63%；归母净利润1.74亿元，同比下滑89.34%；扣非净亏损2.17亿元，同比下滑116.65%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682215009103.jpg"></figure><p>对于业绩下滑，长城汽车表示，盈利下滑主要系报告期仍处于产品结构调整期，基于2023年新产品上市节奏，加大新能源品牌建设及研发投入所致。</p><p>此外，长城汽车今年一季度研发费用为15.34亿元，较2022年四季度的13.24亿元增加了2.1亿元。</p><p>销量方面，长城汽车今年1-3月共销售22万辆新车，同比下滑22.41%，其中，仅长城皮卡销量实现了正增长，其余包括哈弗、魏牌、坦克、欧拉品牌销量均有所下滑。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/smarttraveling/2023-04-23/2925158.shtml</guid>
+<author>萧健</author><pubDate>Sun, 23 Apr 2023 09:57:53 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>特斯拉Model Y是Q1欧洲最畅销汽车 在美国非皮卡中销量也居首</title>
+<link>http://www.techweb.com.cn/world/2023-04-23/2925165.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】4月23日消息，据外媒报道，特斯拉2019年3月份推出、次年开始交付的跨界运动型多用途电动汽车Model Y，很快就在部分市场取代Model 3，成为特斯拉旗下销量最高的电动汽车，随着产量的提升，这一款电动汽车在部分市场甚至取代经典燃油车型，成为了最畅销的汽车。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682215686458.jpg"></figure><p><code>外媒最新的报道就显示，特斯拉Model Y在今年一季度，就是欧洲市场最畅销的汽车，“特斯拉欧洲”也已在社交媒体上公布了这一消息。</code></p><p><code>此外，在美国的非皮卡领域，特斯拉Model Y也是最畅销的。</code></p><p><code>对于特斯拉Model Y在欧洲市场的表现，外媒称并不意外，在法国、德国、英国等主要的欧洲市场，Model Y一直销量可观。</code></p><p><code>特斯拉Model Y在一季度成为欧洲市场最畅销的汽车，也与他们在欧洲的首座整车工厂，也就是柏林超级工厂的产量不断提升有关。这一在去年3月份举行开业典礼的超级工厂，目前仅生产Model Y，自投产以来产量在不断提升，周产量在2月底达到了4000辆，3月底更上一层楼，增至5000辆。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-23/2925165.shtml</guid>
+<author>海蓝</author><pubDate>Sun, 23 Apr 2023 10:11:25 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>苹果有望脚踏两只船？消息称三星4nm工艺良品率接近台积电</title>
+<link>http://www.techweb.com.cn/it/2023-04-23/2925173.shtml</link>
+<description><![CDATA[<p>根据报道，三星已经解决了4nm工艺的一系列障碍，第三代4nm工艺的良品率已经提升至60%以上，并有望进一步增加到70%以上；从而领先于外界的预期。据业内人士透露，苹果的团队会议记录显示，其估计三星4nm工艺的良品率已经接近台积电。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682217060682.jpg"></figure><p>此前，三星在12英寸晶圆代工稼动率也有所提升。三星在2022年事业报告中表示，已确保第二代和第三代4nm工艺在良品率上的稳定性，计划在2023年上半年量产。三星的第二代4LPP和第三代4LPP+工艺不仅在效能、功耗和密度上都做了提升，在良品率方面也有了明显的改善。谷歌将在今年晚些时候推出Pixel 8系列智能手机，搭载Tensor G3芯片，这将是一个非常好的标尺，能够检验三星4nm工艺的实际进展如何。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-23/2925173.shtml</guid>
+<author>姚立伟</author><pubDate>Sun, 23 Apr 2023 10:34:00 +0800</pubDate>
+<source>中关村在线</source>
+</item><item><title>训练效果未及预期，31名ChatGPT训练派遣工遭解雇</title>
+<link>http://www.techweb.com.cn/it/2023-04-23/2925141.shtml</link>
+<description><![CDATA[<p>4月23日消息，据知情人士爆料和内部沟通文件显示，今年3月，30余名帮助培训爆火聊天机器人ChatGPT背后语言模型的派遣工被解雇。</p><p>Slack内部聊天截图显示，截至3月16日，总部位于旧金山的外包公司Invisible Technologies解雇了31名派遣工。不过，OpenAI在其整个公司范围内仍在继续招聘。</p><p>截图还显示，数百名被称为“高级人工智能数据训练师”的Invisible Technologies公司派遣工与OpenAI合作，帮助后者训练其GPT聊天机器人。一位派遣工表示，该公司的人工智能数据培训师负责提高模型的编码技能，增强它们的创造性写作能力，或者训练它们拒绝对某些话题做出响应。由于签署了保密协议，这名派遣工要求保持匿名，不过知情人证实了他的身份和就业情况。</p><p>Invisible Technologies公司运营副总裁卡姆伦·帕里兹班(Kamron Palizban)在3月份的一次全体员工会议上谈到了裁员问题。他在被泄露的会议录音中表示，由于业务需求发生变化，OpenAI希望减少派遣工数量。帕里兹班在会议上还说，许多被解雇派遣工从事的项目没有为OpenAI提供足够高的投资回报。</p><p>OpenAI大幅削减派遣工数量</p><p>Invisible Technologies与OpenAI的关系让人们得以一窥这家ChatGPT制造商的数据训练情况。在很大程度上，OpenAI始终对这些训练保密。</p><p>在OpenAI与Invisible Technologies的合同调整之前，有报道称前者连续六个月增加员工数量。知情人士表示，截至今年1月，OpenAI已在东欧和拉丁美洲等地雇佣了近1000名数据标注派遣工。</p><p>就在Invisible Technologies裁员两个月前，微软刚刚向OpenAI注资100亿美元。但Invisible Technologies并不是唯一一家与OpenAI合作的外包企业。</p><p>《时代》周刊的一项调查显示，2022年2月，同样位于旧金山的外包公司Sama在得知其在肯尼亚的数据标注员工正在审查性虐待、仇恨言论和暴力等有害内容后，终止了与OpenAI的合作关系。</p><p>在给《时代》周刊的一份声明中，OpenAI发言人解释称：“对有害的文本和图像进行分类和过滤，是将训练数据中包含的暴力和色情内容数量降至最低的必要步骤，并有助于创建可以检测有害内容的工具。”</p><p>人工智能训练师的工作</p><p>根据Invisible Technologies公司派遣工的说法，人工智能训练师最基本的职责包括审查人工智能与其用户之间的对话，以识别潜在的非法、侵犯隐私、攻击性或充满错误的消息。接受采访的派遣工这样描述了他们的日常生活：</p><p>开始轮班后，他们首先要打开内部工作浏览器，查看团队的任务清单。他们可能会点击这样的任务：“在禁止浏览的情况下就一个随机话题进行对话”，然后在消息框中输入一个查询。</p><p>提交查询后，OpenAI的模型将生成四个响应。派遣工通过打开下拉菜单并选择存在的错误类型，如事实错误、拼写或语法错误，抑或是存在骚扰行为，以此来评估每个响应。然后，派遣工将错误的严重程度分为一到七级，其中七级代表“基本完美”的答案。</p><p>接下来，派遣工必须精心设计一个完美的回应，并提交以示完成任务。派遣工表示，结果将被发送给OpenAI和Invisible Technologies公司的质量检查员。对于接下来的每个任务，都需要不断重复这个流程。</p><p>Invisible Technologies运营副总裁卡姆伦·帕里兹班在会议中提到OpenAI时表示：“他们正处在这样一个阶段：即将对自己的发展方向有更多的清晰认识。”</p><p>Invisible Technologies合伙人兼运营经理格蕾丝·马特利奇（Grace Matelich）在录制的会议上表示，该公司根据完成任务的“质量”和“吞吐量”等绩效指标解雇了表现不佳的派遣工。</p><p>马特利奇称，表现不佳的派遣工以及那些被录用但没有“达到认证门槛”的派遣工都被解雇，不过有些人被允许选择转移到不同的OpenAI团队。他还说：“如果你们今天还在这里，我想让你们知道，这是因为我相信你们有能力出色地完成任务。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-23/2925141.shtml</guid>
+<author>小小</author><pubDate>Sun, 23 Apr 2023 09:02:22 +0800</pubDate>
+<source>网易科技</source>
+</item><item><title>德国杂志用AI生成车王舒马赫“专访”引争议 涉事主编已被解雇</title>
+<link>http://www.techweb.com.cn/it/2023-04-23/2925152.shtml</link>
+<description><![CDATA[<p>众所周知，“F1车王”舒马赫，在2013年发生滑雪意外，颅脑遭遇重创，随后陷入长达数年的昏迷状态，其家庭花费重金为其救治。至今，舒马赫还未完全康复。</p><p>4月23日消息，近日，<strong>德国一本杂志《DieAktuelle》用人工智能生成了一篇对车王迈克尔·舒马赫的“采访”。</strong></p><p>杂志封面是一张舒马赫微笑的照片，标题是“迈克尔·舒马赫，首次采访”。推介词还补充道：“这听起来像是真的。”但读者发现文章中的引述内容都是人工智能生成的。</p><p>文章发布后引发舒马赫家人不满，舒马赫的家人本周表示，他们正计划对《DieAktuelle》采取法律行动。</p><p>随后，杂志出版商Funke媒体集团已在官网上发表了声明道歉，并且，杂志出版商已经解雇了该杂志主编，同时向舒马赫的家人道歉。</p><p>Funke负责杂志业务的总经理向公众表示：“这篇无味且具有误导性的文章根本不应该出现。”“这绝对不符合我们和读者对Funke这种出版商要求的标准。””“自2009年以来一直把关《DieAktuelle》新闻工作的杂志主编安妮·霍夫曼，将于今天被解除职务。”</p><p>据悉，迈克尔·舒马赫1969年1月3日出生于许尔特，德国一级方程式赛车车手，现代最伟大的F1车手之一，在他头16年的职业生涯中，总共赢得7次总冠军，亦曾是唯一赢得总冠军的德国车手。</p><p>不幸的是，2013年12月29，舒马赫及其儿子以及一群好友在法国阿尔卑斯地区梅瑞贝尔滑雪时发生事故，颅脑损伤严重，昏迷长达数年。</p><p>直到2019年，有媒体报道称，舒马赫接受了干细胞治疗，并且似乎恢复意识。但因为长年卧床不起，这导致其肌肉和骨骼持续萎缩。</p><p>而在舒马赫昏迷期间，他的妻子科琳娜一直对他照顾的无微不至，<strong>更是雇佣了一组有15人组成的医疗队，全天24小时进行看护，而聘请这个医疗队每周的费用就高达10万欧元。</strong></p><p>为此，科琳娜已经卖掉了一套别墅和私人飞机级，据英国媒体统计，截止到2019年，科琳娜已经花掉了大概2000万欧元。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-23/2925152.shtml</guid>
+<author>若风</author><pubDate>Sun, 23 Apr 2023 09:32:25 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>蔚来员工曝加班近500小时进急诊3次 HR：是员工自愿加班</title>
+<link>http://www.techweb.com.cn/it/2023-04-23/2925175.shtml</link>
+<description><![CDATA[<p>近日，一位蔚来汽车的员工爆料称，近半年来业务量大幅增长，导致加班情况愈加严重。该员工提供的加班记录文档显示已加班近500小时。该员工名叫陈女士，她表示自己负责产品运营，平时需要对接的项目非常多。</p><p>此前她曾患急性肠胃炎，最近一次体检还发现有21处异常。在加班期间，她多次发烧，只有自己上吐下泻才去挂急诊，这种急诊情况已经发生了三次。陈女士提供的与人力资源部门的沟通录音显示，人力资源部门称公司不鼓励加班，是员工自愿加班，为了满足用户需求，可能需要付出一些额外的努力。</p><p>在经过协商后，人力资源部门提出，如果陈女士愿意离职，公司同意给予她总计12万元的赔偿，但陈女士需要同意不再发声。目前，陈女士联系了蔚来汽车的人力资源部门，对方表示会有专人对接，但截至发稿前，蔚来暂未对此事作出公开回应。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-23/2925175.shtml</guid>
+<author>江淼</author><pubDate>Sun, 23 Apr 2023 10:45:35 +0800</pubDate>
+<source>网易科技</source>
+</item><item><title>谷歌请求法院驳回Epic和美国各州的多项反垄断指控</title>
+<link>http://www.techweb.com.cn/it/2023-04-23/2925133.shtml</link>
+<description><![CDATA[<p>北京时间4月21日晚间消息，据报道，谷歌今日请求法院驳回Epic Games、Match和美国多个州总检察长就谷歌如何运营安卓应用商店而提起的几项反垄断指控。</p><p>此外，谷歌还请求华盛顿的一家联邦法院驳回美国司法部2020年提起的一场反垄断诉讼；请求弗吉尼亚州的一家联邦法院驳回联邦政府今年早些时候提起的一场诉讼。</p><p>分析人士称，谷歌的这一系列动议，也是该公司为尽早结束这些昂贵且耗时的反垄断诉讼而进行的最新努力。</p><p>今日，谷歌在提交给法院的文件中称：“我们期待在庭审中证明自己的清白，并为谷歌为确保安卓成功而进行的一系列创新而辩护。”</p><p>谷歌同时表示，已提出一项有针对性的动议，希望法官能够进行部分“即决判决”，即允许法官可以不经开庭审理而直接对全部或者部分案件作出实体性的、有约束力的判决，这有助于缩小这起错综复杂的反垄断案件的审判范围。</p><p>在今日提交给犹他州联邦法院的文件中，谷歌共要求法官驳回五项指控。其中，谷歌要求法院驳回“谷歌禁止其他应用商店”的指控。谷歌称，该公司没有法律义务在安卓系统中安装其他应用商店。但事实上，大多数安卓手机都预装了不止一个应用商店，而且用户还可以安装其他应用商店。</p><p>谷歌还要求法院驳回与Project Hug相关的指控。游戏开发商Epic Games曾指控谷歌利用Project Hug计划来收买应用程序开发商，试图阻止他们在Google Play之外的应用商店发行其游戏。而谷歌则辩称，该公司并未阻止游戏开发商使用Google Play以外的其他应用商店。</p><p>此外，谷歌还请求法院驳回有关其与移动运营商签署营收分成协议的指控。谷歌称，其与移动运营商的营收分享协议早在四年多以前就已经到期，不在诉讼时效范围之内。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-23/2925133.shtml</guid>
+<author>刘明亮</author><pubDate>Sun, 23 Apr 2023 08:47:18 +0800</pubDate>
+<source>新浪科技</source>
+</item><item><title>消息称Mac Pro和Mac Studio无缘WWDC 但前者仍预计在今年更新</title>
+<link>http://www.techweb.com.cn/world/2023-04-23/2925186.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】4月23日消息，据外媒报道，在苹果宣布2023年的全球开发者大会，也就是WWDC23，将在当地时间6月5日至9日举行之后，外界就预计苹果在今年的大会上，有望推出15英寸版MacBook Air、自研M系列芯片Mac Pro、Mac Studio和期待已久的MR头显。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682222055602.jpg"></figure><p><code>但从外媒最新的报道来看，此前预计有望在今年的大会上推出的Mac Pro、Mac Studio，可能无缘，将会推迟发布。</code></p><p><code>外媒是根据一位非常可靠的爆料人士的透露，报道Mac Pro和Mac Studio不会在今年的开发者大会上登场的。</code></p><p><code>此外，长期关注苹果的一名资深记者也透露，新款Mac Pro仍将在今年推出，但不太可能出现在6月份的全球开发者大会上。这一资深记者还预计苹果将推迟Mac Studio，直到M3芯片可行之后才会推出，以避免影响到搭载苹果自研芯片的Mac Pro的销售。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682222130827.jpg"></figure><p><code>在苹果的Mac产品线中，Mac Pro是唯一仍未转向自研M系列芯片的一款，也已多年没有更新，当前在售的版本，搭载的仍是英特尔的处理器。搭载自研芯片的Mac Pro若不能在6月份的全球开发者大会上推出，也就意味着苹果还需要一段时间，才能完成Mac产品线向自研芯片的过渡。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-23/2925186.shtml</guid>
+<author>海蓝</author><pubDate>Sun, 23 Apr 2023 12:03:33 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>加州电动汽车销量累计突破100万辆  仅一季度就售出9万多辆</title>
+<link>http://www.techweb.com.cn/world/2023-04-23/2925187.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月23日消息，据外媒报道，当地时间周六，加州发布了2023年第一季度零排放汽车销量报告。</p><p>报告显示，截至2023年第一季度，该州累计销售了超过100万辆电动汽车，仅2023年第一季度就售出了95946辆电动汽车，其中绝大多数是特斯拉汽车，而特斯拉Model Y是该州销量最大的车型，为33205辆，其次是Model 3（19989辆）、Model X（3101辆）和Model S（887辆）。</p><p>相比之下，2022年第一季度，加州的电动汽车注册量同比增长约37%，达到73138辆（估算），占总注册量的17.2%，创历史新高。其中，特斯拉汽车注册了48038辆，同比上涨83.7%。从车型来看，Model Y（21812辆）和Model 3（21506辆）是加州一季度最畅销的两款车型。</p><p>2022年全年，Model Y和Model 3是加州最畅销的汽车。这一年，特斯拉在加州销售了87257辆Model Y，这使得这款车成为该州最受欢迎的汽车。紧随Model Y之后的是特斯拉Model 3，销量为78934辆。</p><p>美国仍然是特斯拉销量最高的地区之一，在美国，没有任何一个州的销量能与加州相提并论。对电动车充电的投资、对该技术普遍增加的兴趣以及更多的激励措施，都迅速推动了该州的电气化进程。</p><p>虽然特斯拉在2021年12月初将公司总部从加州帕洛阿托搬到了德克萨斯州奥斯汀，但该公司仍将相当一部分业务留在加州，包括在加州圣华金县的Lathrop市开设一家新的电池厂。&nbsp;</p><p>另外，特斯拉的第一家也是产量最高的工厂也位于加州。该公司CEO埃隆・马斯克（Elon Musk）表示，该公司位于加州弗里蒙特的工厂今年将生产60多万辆汽车。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-23/2925187.shtml</guid>
+<author>小狐狸</author><pubDate>Sun, 23 Apr 2023 12:08:00 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>2024北京车展将于明年4月25日至5月4日举办</title>
 <link>http://www.techweb.com.cn/it/2023-04-22/2925122.shtml</link>
 <description><![CDATA[<p>雪豹财经社获悉，北京国际汽车展览会发布消息称，2024（第十八届）北京国际汽车展览会将于2024年4月25日-5月4日在北京中国国际展览中心顺义馆举行，在中国国际展览中心朝阳馆设立的零部件展区举办日期为4月25日-27日，总展出面积23万平方米。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/it/2023-04-22/2925122.shtml</guid>
 <author></author><pubDate>Sat, 22 Apr 2023 10:52:54 +0800</pubDate>
 <source>雪豹财经社</source>
-</item><item><title>马斯克“敛财有道”：向Twitter投放广告需验证账号 每月最高1000美元</title>
-<link>http://www.techweb.com.cn/internet/2023-04-22/2925120.shtml</link>
-<description><![CDATA[<p>IT之家 4 月 22 日消息，马斯克在执掌 Twitter 之后，进行了大刀阔斧的改革，精简人员配置、封杀第三方客户端等等。马斯克又制定新规：广告商需经过账号验证，才可在该平台投放广告。</p><p>马斯克在清理掉遗留的认证账号之后，宣布自 4 月 21 日开始，想要在 Twitter 平台上投放广告的业主或者企业，必须要订阅 Twitter Blue 服务，月费为 8 美元（当前约 55 元人民币）；或者每月支付 1000 美元（IT之家备注：当前约 6890 元人民币），购买 Verified Organizations 订阅。</p><p>IT之家翻译 Twitter 发送给合作伙伴的电子邮件部分内容如下：</p><p>这项调整符合 Twitter 更广泛的验证策略：提升 Twitter 上内容的质量、增强您作为用户和广告商的体验、以及减少欺诈性账户和机器人程序。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-22/2925120.shtml</guid>
-<author></author><pubDate>Sat, 22 Apr 2023 10:00:01 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>必应聊天改进报告：正确显示数学公式，减少非正常结束对话情况</title>
-<link>http://www.techweb.com.cn/internet/2023-04-22/2925127.shtml</link>
-<description><![CDATA[<p>IT之家 4 月 22 日消息，微软必应（Bing）官方博客更新动态，分享了自 4 月 7 日至 21 日的必应聊天（Bing Chat）改进报告，其中最大的亮点在于引入了 LaTeX 标记，可以正确显示数学公式。</p><p>IT之家附该博文主要内容如下：</p><p><strong>支持 LaTeX：</strong></p><p>在添加对 LaTeX markup 的支持之后，允许必应聊天正确显示复杂的数学表达式。这使得必应聊天成为学习数学概念、撰写技术研究论文实用工具。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0422/1682141131783.jpg"></figure><p><strong>减少对话结束触发概率：</strong></p><p>根据用户的反馈，有时候会必应会非预期场景下结束对话（例如：“抱歉，我不想继续这个话题”、“可能是时候开启新的话题了”）。现在这种情况发生的频率应该比以前低，我们正在继续调查发生这种情况的案例。</p><p><strong>News Grounding：</strong></p><p>如果你提出有关于新闻的问题（例如“今天的头条新闻是什么？”），现在必应可以提供更准确、更优秀的答案。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-22/2925127.shtml</guid>
-<author>故渊</author><pubDate>Sat, 22 Apr 2023 13:28:58 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>没有对比没伤害！谷歌裁员上万人 CEO年薪却高达15亿</title>
-<link>http://www.techweb.com.cn/internet/2023-04-22/2925130.shtml</link>
-<description><![CDATA[<p>快科技4月22日消息，此前有这样一条调侃性的佳句：员工越努力，老板越早日开上大奔驰。</p><p>近日，在三年一次的股票奖励的拉动下，谷歌母公司Alphabet CEO桑达尔·皮查伊(Sundar Pichai)，在2022年薪酬飙升至2.26亿美元(约合15.58亿元人民币)，他也因此成为世界上收入最高的企业领导人之一。</p><p>据其提交的监管文件显示，股票奖励占据了皮查伊总薪酬的很大一部分，达到了2.18亿美元(约合15.03亿元人民币)。</p><p>两年前，也就是2021年，皮查伊的总薪酬只有630万美元，原因很简单，他当时并未获得股票奖励，在过去三年，他的基本工资一直稳定在200万美元，直到去年才发生了巨大的改变。</p><p>不过相比于CEO，公司的员工则面临寒冬，今年1月份，谷歌母公司美国字母表公司宣布在全球范围裁减大约1.2万名雇员，它因此成为去年以来美国技术企业裁员潮中最新一家大规模裁员的巨头。</p><p>这次裁员人数相当于字母表公司员工总数的大约6%，首先波及在美国的员工，裁员涵盖技术、产品、人力资源等部门。</p><p>网友：一边是CEO的天价薪酬，一边是员工卷铺盖滚蛋，天壤之别，果然没有对比就没有伤害。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-22/2925130.shtml</guid>
-<author>落木</author><pubDate>Sat, 22 Apr 2023 16:24:38 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>iPhone 15 Pro Max或独占潜望长焦：由这两家供应商提供</title>
-<link>http://www.techweb.com.cn/digi/2023-04-21/2925047.shtml</link>
-<description><![CDATA[<p>【TechWeb】这段时间以来，外界关于新一代的iPhone15系列的爆料越来越密集，不出意外的话该系列将继续推出包含iPhone 15、iPhone 15 Plus、iPhone 15 Pro和iPhone 15 Ultra四款机型，其中后两者更是将带来不少方面的升级，获得了极高的关注度。现在有最新消息，近日有外媒进一步带来了该机影像方面的更多细节。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0421/1682041357102.png"></figure><p>据外媒MacRumors最新发布的信息显示，与此前曝光的消息基本一致，全新的iPhone 15系列共有4款机型，分别是iPhone 15、iPhone 15 Plus、iPhone 15 Pro和iPhone 15 Pro Max。其中iPhone 15 Pro Max将独享潜望式长焦镜头，也将成为第一款配备潜望长焦的苹果手机。同时MacRumors还透露，此次苹果选了两家供应商，一家是大立光精密，一家是GeniusElectronic Optical。结合此前相关爆料，该机该机将会配备的是一颗1200万像素潜望式长焦镜头，支持6倍光学变焦，相比起支持3倍光学变焦的iPhone14 Pro，拥有潜望长焦的新iPhone拥有碾压式优势。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0421/1682041374977.jpg"></figure><p>其他方面，根据此前曝光的消息，全新的iPhone 15系列将继续提供与iPhone 14系列相同的四款机型，并且仍然有着明显的两极分化，其中Pro版和Ultra版将进一步提高屏幕亮度，达到2500尼特。二者将搭载新一代的A17 Bionic，这颗芯片集于台积电3nm工艺（N3）打造，同时内存还将会升级到8GB。至于iPhone 15和iPhone 15 Plus，二者则仍将使用iPhone 14 Pro上的A16 Bionic，内存、相机模组也没有明显升级。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0421/1682041437663.png"></figure><p>据悉，全新的iPhone 15系列将有望继续在今年9月与大家见面，相比前代产品，今年的标准版机型与Pro版之间的差距将进一步扩大，后者将在屏幕、性能、影像等多方面带来升级。更多详细信息，我们拭目以待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/digi/2023-04-21/2925047.shtml</guid>
-<author>Suky</author><pubDate>Fri, 21 Apr 2023 09:46:26 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>歌尔股份：去年Q4暂停生产的一款智能声学整机产品 今年Q1仍未复产</title>
 <link>http://www.techweb.com.cn/it/2023-04-22/2925124.shtml</link>
 <description><![CDATA[<p>【TechWeb】4月22日消息，苹果供应商歌尔股份在最新披露的投资者关系活动记录表中表示，去年4季度暂停生产的一款智能声学整机产品，今年一季度仍未复产。</p><p>有投资者对歌尔股份提问称，“想问一下为什么一季度营收两百多亿，但是净利润那么低？”</p><p>歌尔股份回应称，2022年及2023年一季度，消费电子行业需求疲软，公司部分盈利能力较强的零件和整机项目订单量低于预期，产能利用率下降，单位制造成本上升，导致上述项目毛利率受到侵蚀，盈利能力下降，是造成公司2023年一季度净利润下滑的主要原因。</p><p>据了解，歌尔股份游戏主机等业务的营收取得了较大增长，推动公司总营收保持增长，但未能弥补上述项目在盈利方面的下滑，从而导致公司在2023年一季度出现了“增收不增利”的情况。</p><p>此外，2023年初人民币汇率显著升值以及去年四季度暂停生产的智能声学整机项目在一季度仍未复产，也影响了歌尔股份在一季度的盈利表现。</p><p>歌尔股份还对投资者表示，因公司2023年二季度中个别产品项目仍存在一定的不确定性，故未在披露一季报的同时给出二季度业绩预告。</p><p>周五收盘，歌尔股份股价下跌4.32%至18.81元，总市值约643.38亿元。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -54,68 +110,12 @@
 <guid>http://www.techweb.com.cn/it/2023-04-22/2925124.shtml</guid>
 <author>董晓青</author><pubDate>Sat, 22 Apr 2023 11:36:05 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>俞敏洪爆料：罗翔在新东方当过三年老师 </title>
-<link>http://www.techweb.com.cn/internet/2023-04-22/2925129.shtml</link>
-<description><![CDATA[<p>快科技4月22日讯，在4月20日的东方甄选直播间中，俞敏洪爆料，罗翔曾在新东方当过3年老师。</p><p>俞敏洪分享称，罗翔实际上，还在新东方当过3年老师，新东方当时开司法培训的时候，罗翔是主讲老师。罗翔老师还跟我说，他的讲课能力和讲课时的幽默能力就是被新东方训练出来的，原来他讲课是很严肃的，结果发现新东方老师讲课都是嬉皮笑脸的。</p><p>一旁的董宇辉听后也是惊讶，后来频频点头。</p><p>快科技网络资料后获悉，罗翔目前在B站拥有2662万粉丝，视频播放数破7.7亿，是bilibili 2022百大UP主、2020年度最高人气UP主，“张三”梗就是他带火的。</p><p>中国政法大学官网介绍，罗翔，教授，刑法学研究所所长，研究领域为刑法学、刑法哲学、经济刑法等。在校园内，他多年蝉联“最受本科生欢迎的十大老师”，有着“刑法小王子”亲切昵称。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-22/2925129.shtml</guid>
-<author>万南</author><pubDate>Sat, 22 Apr 2023 15:33:52 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>消息称网约车公司Lyft将裁员1200人 占比30%</title>
-<link>http://www.techweb.com.cn/internet/2023-04-22/2925128.shtml</link>
-<description><![CDATA[<p>IT之家 4 月 22 日消息，Lyft 新任首席执行官 David Risher 宣布，将于下周四启动新一轮裁员。根据《华尔街日报》报道，本次裁员影响 1200 人，占比超过 30%。</p><p>Risher 表示提前发布声明，是为了让员工有心理缓冲期，准备好迎接下周的裁员公布结果。</p><p>IT之家翻译 Risher 内部信部分内容如下：</p><p>伟大的公司都要朝着目标前行。</p><p>Lyft 在成立之初就设立了两个互相关联的目标：满足乘客的出行需求，以及让司机掌控自己的时间，并赚取相应报酬。</p><p>我们需要成为一家更快、更扁平的公司，让每个人都更接近我们的乘客和司机。这样我们才能朝着目标迈进。</p><p>我们需要降低成本，以提供负担得起的乘车服务、吸引司机的收入以及盈利增长。我们打算利用这些节省下来的资金来投资于具有竞争力的价格、更快的接送时间和更好的司机收入。</p><p>所有这些都要求我们缩小规模并重组我们的组织方式。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-22/2925128.shtml</guid>
-<author>故渊</author><pubDate>Sat, 22 Apr 2023 15:23:42 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>特斯拉Model S和Model X在美售价整体上涨2500美元</title>
-<link>http://www.techweb.com.cn/world/2023-04-21/2925094.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月21日消息，据外媒报道，在本周二下调了Model Y和Model 3在美国的价格后，特斯拉继续调整其电动汽车在美国的定价，不过这一次是上调价格。</p><p>特斯拉将Model S和Model X在美国的价格整体上调了2500美元，涨幅为2%至3%。特斯拉美国官网显示，Model S的售价从84990美元上调至87490美元，Model S Plaid的售价从104990美元上调至107490美元；Model X的售价从94990美元上调至97490美元，Model X Plaid的售价从104990美元上调至107490美元。</p><p>在过去两年中，特斯拉一直在逐步提高其电动汽车的价格，但为了保持需求，该公司从2023年初开始下调电动汽车价格。</p><p>今年3月份，特斯拉将Model S和Model X在美国的价格下调了至多1万美元。随后，在今年4月7日，该公司又将Model S和Model X全系在美国的价格下调5000美元。</p><p>除了下调Model S和Model X的在美价格外，特斯拉本周二还下调了Model Y和Model 3的在美价格，这是该公司今年第六次在美降价。</p><p>除了下调美国市场的汽车价格外，特斯拉最近还下调了欧洲、以色列、新加坡、日本、澳大利亚和韩国市场的汽车价格，并扩大了1月份在中国开始的折扣活动，以刺激需求。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-21/2925094.shtml</guid>
-<author>小狐狸</author><pubDate>Fri, 21 Apr 2023 16:31:10 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>苹果M3芯片有望用于4款产品 采用3nm制程工艺预计下半年量产</title>
-<link>http://www.techweb.com.cn/world/2023-04-21/2925091.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】4月21日消息，据外媒报道，苹果自研M系列芯片中的M2系列，目前已经到了M2 Pro和M2 Max，若遵循M1系列4款的组合，后续就只剩下M2 Ultra，随后登场的就将是M3系列。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0421/1682063661302.jpg"></figure><p><code>对于苹果的M3芯片，知名苹果产品分析师郭明錤，是预计将用于13英寸MacBook Air、13英寸MacBook Pro、24英寸iMac及Mac mini这4款产品。</code></p><p><code>在制程工艺上，郭明錤是预计M3芯片将由苹果多年的芯片代工合作伙伴台积电，采用3nm制程工艺打造，在性能和能效上较采用5nm制程工艺的M2芯片都将有明显提升。</code></p><p><code>M3系列中后续的M3 Pro和M3 Max，郭明錤预计也会同此前两个系列一样，用于14英寸和16英寸版的MacBook Pro。</code></p><p><code>不过从外媒的报道来看，郭明錤预计苹果的M3芯片，在今年上半年可能不会量产，他是预计在下半年才会量产，略早于M3 Pro和M3 Max。</code></p><p><code>苹果M2系列中的首款，也就是M2芯片，是在去年6月6日的全球开发者大会上推出的，M3此前也被预计将在今年6月份的全球开发者大会上推出，并预计会一并推出多款搭载这一芯片的新款Mac。但如果在下半年量产，6月份新推出的Mac，大概率就将无缘这一芯片，转由之前的M2系列中的产品所替代。</code></p><p><code>而郭明錤当地时间周四在社交媒体上，也预计苹果即将推出的15英寸版MacBook Air，将搭载M2系列中的芯片，将有两种不同的规格，很可能是GPU核心不同的M2芯片。15英寸版MacBook Air，是被普遍预计将在全球开发者大会上推出的新品。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-21/2925091.shtml</guid>
-<author>海蓝</author><pubDate>Fri, 21 Apr 2023 15:59:12 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>360今年第一季度实现营收19.66亿元 同比减少22.17%</title>
 <link>http://www.techweb.com.cn/internet/2023-04-22/2925121.shtml</link>
 <description><![CDATA[<p>【TechWeb】4月22日消息，A股上市公司360昨晚公布了2023年第一季度报告和2022年年度报告。财报显示，360今年第一季度实现营收19.66亿元，同比减少22.17%；净亏损1.86亿元，同比由盈转亏。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0422/1682131376431.jpg"></figure><p>2022年全年，360实现营收95亿元，同比减少12.54%；净亏损22亿元，相比而言，360在2021年实现净利润9亿元。</p><p>360互联网商业化及增值服务去年共实现收入57.91亿元，同比下降21.85%。其中互联网广告及服务业务收入为47.10亿元，同比下降25.32%；以游戏为代表的互联网增值业务收入为10.82亿元，同比下降2.03%。</p><p>周五收盘，360股价下跌5.22%至15.98元，总市值1141.83亿元。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/internet/2023-04-22/2925121.shtml</guid>
 <author>董晓青</author><pubDate>Sat, 22 Apr 2023 10:45:39 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>超4成人才已在职场应用ChatGPT  AIGC人才一季度岗位、薪资猛增</title>
-<link>http://www.techweb.com.cn/it/2023-04-21/2925070.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月21日消息，自OpenAI发布ChatGPT以来，掀起全球技术变革，几个月以来，几乎每个星期都有一个新的大语言模型面世，国内相关人才市场暗流涌动。</p><p>根据拉勾招聘的调研数据显示，AI文案工具、ChatGPT聊天机器人以及AI翻译工具成为职场常用辅助工具TOP3。其中，超四成数字科技人才在职场中选择应用ChatGPT。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0421/1682048607847.jpg"></figure><p>同时，根据拉勾招聘发布的《2023第一季度&nbsp;AIGC人才供需报告》显示，今年以来，AIGC领域的发布职位量屡创新高，1-3月连续保持两位数增长，且增幅不断扩大。今年3月环比增长42%，达到历史峰值。</p><p>AIGC领域涌现了不少高薪岗位，其中AIGC算法工程师薪资水平较高，75分位的岗位薪资水平已达到月薪68k，即25%的AIGC算法工程师岗位月薪超68K，领跑其他岗位薪资。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0421/1682048616390.jpg"></figure><p>此外，CV算法工程师、推荐算法工程师、NLP算法工程师的75分位岗位薪资水平也接近月薪60k。除算法工程师外，AIGC垂类产品经理75分位薪资水平也达到月薪59k，远高于其他产品经理岗的薪资水平。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-21/2925070.shtml</guid>
-<author>果青</author><pubDate>Fri, 21 Apr 2023 11:48:18 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>特斯拉股价大跌近10% 市值一夜蒸发超550亿美元</title>
-<link>http://www.techweb.com.cn/world/2023-04-21/2925052.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月21日消息，据外媒报道，在发布了2023年第一季度财报后，特斯拉股价在当地时间周四下跌9.75%，报收于162.99美元，公司市值蒸发超过550亿美元（约合3780亿元人民币），至5165.67亿美元。</p><p>据悉，特斯拉是在当地时间周三公布2023年第一季度财报的。财报显示，该公司一季度的总毛利率为19.3%，跌至两年多来的最低水平，且低于市场预期，这是因为该公司从1月初开始大举降价，以抵御日益激烈的竞争，并刺激美国和中国等市场的需求。</p><p>如果按照美国通用会计准则计算，一季度归属于普通股股东的净利润为25.13亿美元，同比下滑24%，每股摊薄收益为0.73美元；如果不按照美国通用会计准则计算，归属于普通股股东的净利润为29.31亿美元，同比下滑22%，调整后每股摊薄收益为0.85美元。</p><p>一季度净利润下降的原因在于，该公司从1月初开始的电动汽车降价策略削减了其利润。该公司首席执行官埃隆·马斯克曾暗示，即使利润率遭受重创，特斯拉仍将继续降价以提振需求。</p><p>2023年第一季度，该公司的运营利润为26.64亿美元，同比下滑26%；运营利润率为11.4%，与去年同期的19.2%相比下滑779个基点，而上一季度为16.0%。该公司在一份声明中表示，它仍然认为自己的运营利润率在主要汽车制造商中是最好的。</p><p>当地时间周四晚间，马斯克旗下太空探索技术公司SpaceX发射了人类历史上最大的重型运载火箭“星舰”，但可惜的是，“星舰”在升空3分钟后发生非计划内的解体，继而发生爆炸。</p><p>随后，马斯克发文进行了回应，他先是祝贺了SpaceX团队的努力，并表示为几个月后再次发射学到了很多。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-21/2925052.shtml</guid>
-<author>小狐狸</author><pubDate>Fri, 21 Apr 2023 10:01:33 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>分析师预计15英寸版MacBook Air将搭载M2芯片 有两种规格</title>
-<link>http://www.techweb.com.cn/world/2023-04-21/2925076.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】4月21日消息，据外媒报道，面板供应链领域的分析师Ross Young及长期关注苹果的一名资深记者，此前多次预计苹果在今年将推出一款15英寸版的MacBook Air，在苹果宣布全球开发者大会的时间之后，外界也普遍预计将在6月份的全球开发者大会上推出。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0421/1682057744795.jpg"></figure><p><code>但对于分析师及资深记者多次提及的15英寸版MacBook Air，知名苹果产品分析师郭明錤，此前却有不同的看法，他预计不太可能命名为MacBook Air。</code></p><p><code>不过，外媒最新的报道显示，郭明錤已经改变了他的看法。他当地时间周四在社交媒体上表示，苹果即将推出的15英寸版MacBook，将被命名为MacBook Air。</code></p><p><code>此外，他在社交媒体上还重申，新推出的15英寸版MacBook Air，将搭载M2系列的芯片，芯片有两种规格可选，很可能是核心数量不同的M2芯片。</code></p><p><code>在此前预计苹果将推出15英寸版的MacBook时，郭明錤也预计将有两款芯片可选，其中一款将是M2 Pro，在最新的预期中，他已不确信会有M2 Pro。</code></p><p><code>如果苹果真如预期的那样推出搭载M2芯片的15英寸版MacBook Air，在芯片上就还真有两种规格的可能。</code></p><p><code>苹果公司在去年6月份的全球开发者大会上推出的M2芯片，有两种规格，区别在GPU核心上，一款是8核GPU，另一款是10核GPU，同期推出的配备13.6英寸屏幕的MacBook Air，就有这两种规格的M2芯片可选。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-21/2925076.shtml</guid>
-<author>海蓝</author><pubDate>Fri, 21 Apr 2023 14:29:26 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>韩媒：SK海力士已推迟大连新晶圆厂完工时间</title>
-<link>http://www.techweb.com.cn/world/2023-04-21/2925096.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月21日消息，据韩媒报道，芯片制造商SK海力士已推迟其在中国大连建设的新晶圆厂的完工时间。</p><p>据报道，该工厂是SK海力士在中国建设的第二家此类工厂，计划生产3D NAND芯片。在此之前，该公司在中国无锡拥有一家半导体工厂。</p><p>SK海力士在大连的新工厂于去年5月开工建设，原本预计在一年内完工，最初的时间表是在今年4月到5月之间完工。但消息人士称，SK海力士计划将今年的支出较去年减少50%，这是该晶圆厂延迟完工的原因之一。</p><p>实际上，早在2022年7月份，消息人士就曾透露，受终端产品需求低于预期的影响，SK海力士考虑将2023年的资本支出削减约25%，至16万亿韩元。</p><p>受全球芯片市场需求疲软和供应过剩的影响，SK海力士在2022财年第四季度创下有史以来最大季度亏损，即营业亏损1.7万亿韩元，净亏损3.52万亿韩元。</p><p>今年4月初，有分析师预计，该公司今年一季度的亏损将扩大。该分析师预计，该公司一季度运营亏损4.02万亿韩元，净亏损4.21万亿韩元。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-21/2925096.shtml</guid>
-<author>小狐狸</author><pubDate>Fri, 21 Apr 2023 17:13:39 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
@@ -140,41 +140,41 @@
 <guid>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</guid>
 <author>一颗赛艇</author><pubDate>Wed, 20 Jun 2018 16:56:00 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>特斯拉业绩不佳星舰爆炸 马斯克财富蒸发126亿美元</title>
-<link>http://www.techweb.com.cn/it/2023-04-21/2925034.shtml</link>
-<description><![CDATA[<p>北京时间4月21日早间消息，据报道，对于马斯克个人来说，过去24小时并不轻松。</p><p>特斯拉公布了让人失望的2023年第一季度财报。这导致该公司股价周四下跌近10%，报162.99美元。</p><p>此外，SpaceX星舰虽然成功发射，但只飞了大约4分钟便爆炸。Twitter也陷入困境，马斯克推出蓝勾付费认证服务，每月收费8美元，许多人因为拒绝付费被取消认证。</p><p>受到种种负面消息的打击，马斯克个人身家也受到影响，净资产减少126亿美元，这主要是特斯拉股价下跌造成的。据悉，马斯克拥有财富约1639亿美元，当中大部分是特斯拉持股，包括股票和期权。不过，在其整体财富中，SpaceX所占的分量越来越重要。</p><p>马斯克现年51岁，他仍然是全球排名的第二的富豪，仅次于法国奢侈品巨头酩悦·轩尼诗-路易·威登集团（LVMH）总裁兼CEO贝尔纳·阿尔诺（Bernard Arnault）。由于特斯拉股价飙涨32%，今年马斯克的财富仍然增加了268亿美元。</p><p>关于特斯拉，有人问马斯克：什么样的盈利水平特斯拉才会感到满意？马斯克回应称：“很难说利润率会是多少。”至于SpaceX，火箭虽然爆炸了，马斯克还是向员工表示祝贺，他对项目的进度感到乐观。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>华为突破ERP系统封锁！任正非：今天软件仍落后但终会强大</title>
+<link>http://www.techweb.com.cn/it/2023-04-23/2925145.shtml</link>
+<description><![CDATA[<p>4月23日消息，断供三年后，华为终于宣布已实现自主可控的MetaERP研发，并完成对旧ERP系统的替换。</p><p>在日前举行的“英雄强渡大渡河”MetaERP表彰会上，华为创始人任正非感谢了合作伙伴，并称“今天的成功与你们分不开，未来的发展更与你们相关”。</p><p>任正非表示：“今天在软件上我们还是落后的，但是不是有一天我们也会变成强大的？可能的”，同时，他还呼吁国产软件企业要加强合作，为国家安全共同奋斗。</p><p>据了解，2019年5月，美国将华为加入实体清单，ERP供应商在几天内通知对华为断供停服，作为华为企业经营最核心的系统，ERP支撑了华为20多年的快速发展，支撑了每年数千亿产值的业务，支撑了全球170多个国家业务高效经营。</p><p>也就是说，一旦断供停服，相当于自身运行的神经系统出了问题，公司基本业务运转面临瘫痪风险，这也就是华为为什么要实现对ERP自主可控的原因之一。</p><p><br>根据华为介绍，截至目前，MetaERP已经覆盖了华为100%的业务场景和80%的业务量，经历了月结、季结和年结的考验，实现零故障、零延时、零调账。</p><p>对于MetaERP，华为董事、质量与流程IT部总裁陶景文慨言：“现在终于可以宣布，我们已经突破了封锁，我们活了下来。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-21/2925034.shtml</guid>
-<author>郑卓</author><pubDate>Fri, 21 Apr 2023 09:09:48 +0800</pubDate>
-<source>新浪科技</source>
-</item><item><title>马云被聘为香港大学荣誉教授：聘期三年</title>
-<link>http://www.techweb.com.cn/it/2023-04-21/2925090.shtml</link>
-<description><![CDATA[<p>4月21日消息，日前，香港大学在其官网发布消息称，聘请马云为荣誉教授，聘期三年。</p><p>据媒体核实，马云公益基金会确认于上个月收到港大的邀请，并表示这项工作与马云的创业经历和理念高度契合，马云将和师生一起，围绕教育和企业创新等领域展开思考和研究。</p><p>据了解，2018年，马云曾获得香港大学荣誉社会科学博士，以表彰他对科技、社会和世界所作出的重大贡献。</p><p>资料显示，香港大学是中国香港的一所综合性国际化公立研究型大学，有亚洲“常春藤”之称，学校创办时间为1911年，设有建筑、教育、工程、法律、、医学、社会科学等学院。</p><p>值得一提的是，今年3月，马云回国后来到杭州云谷学校，对于目前大火的ChatGPT，他表示，这一类技术已经对教育带来挑战，但是ChatGPT这一类技术只是AI时代的开始。</p><p>马云认为，工业时代是知识驱动，知识的竞争；数字时代，是智慧驱动，是创造力和想象力的竞争，是领导力、担当力、责任的竞争，是独立思考的竞争。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-21/2925090.shtml</guid>
-<author>拾柒</author><pubDate>Fri, 21 Apr 2023 15:56:10 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-04-23/2925145.shtml</guid>
+<author>拾柒</author><pubDate>Sun, 23 Apr 2023 09:06:09 +0800</pubDate>
 <source>快科技</source>
-</item><item><title>裁员2.1万人之后 扎克伯格：未来不排除继续裁员</title>
-<link>http://www.techweb.com.cn/it/2023-04-21/2925045.shtml</link>
-<description><![CDATA[<p>4月21日消息，美国当地时间周四，Meta CEO马克·扎克伯格（Mark Zuckerberg）宣布，未来不排除继续裁员，并表示公司的招聘速度不会像去年大规模裁员之前那么快。</p><p>扎克伯格在公司虚拟问答活动上表示，最新一轮裁员影响了大约4000名技术部门的员工。自去年11月以来，Meta已裁员2.1万人，这相当于员工总数的近四分之一。</p><p>虽然Meta将会填补空缺，但扎克伯格告诉员工，他们不应该期望净增长率超过1%至2%。他解释说：“我认为，这是未来可以期待的正确模式，从新技术获得效率，这将是一种不同的运营模式，我认为我们可以做得很好。”</p><p>截至目前，Meta发言人尚未回复置评请求。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>马斯克：星舰有望在一到两个月内再次发射</title>
+<link>http://www.techweb.com.cn/it/2023-04-22/2925123.shtml</link>
+<description><![CDATA[<p>4月22日消息，SpaceX星际飞船系统在美国东部时间周四上午完成首次飞行测试之后，还是给地面基础设施造成了不小破坏。公司首席执行官埃隆·马斯克（Elon Musk）周五表示，星舰可能“准备在一到两个月内再次发射”。</p><p>美国东部时间周四上午，SpaceX星际飞船系统首次发射升空。超级重型火箭助推器搭载星际飞船从位于德克萨斯州南部的星舰基地向上爬升，尾焰清晰可见。</p><p>这次发射测试的目标是将星际飞船送入太空，最终降落在夏威夷附近的太平洋上。但一切并未如愿：火箭在升空几分钟后就遇到几个问题，SpaceX发送指令在墨西哥湾上空引爆了飞船。</p><p>尽管如此，SpaceX还是庆祝这次发射测试的结果，强调星际飞船项目取得的里程碑。比如火箭最高飞到距离地面39公里的高空，还挺过了动压极值点。</p><p>“祝贺SpaceX团队进行令人兴奋的星际飞船发射测试！”公司创始人兼首席执行官埃隆·马斯克（Elon Musk）昨天在推特上说，“我们为几个月后的下一次发射测试学到了很多东西。”</p><p>这条推文也是SpaceX能登上发射行业巅峰的战略概述：快速开发、测试和迭代，从失败中吸取大量教训。</p><p>然而马斯克设计的时间表似乎有点乐观，因为周四这次发射测试还是对星际飞船发射台底座和不少地面基础设施造成了巨大损害。</p><p>SpaceX尚未公布星际飞船发射台在此次发射后的照片，但可靠消息来源表明，超级重型火箭助推器搭载的33部猛禽发动机产生损害相当大。</p><p>有业内媒体在周四发布的一条推文中说，这次发射“给发射底座下面的混凝土基座留下了一个大坑”，推文中还附上了几张碎片散落的发射台照片。周五发布的一条推文称发射台底座“严重受损”。</p><p>摄影师马克斯·埃文斯(Max Evans)周五在推特上发布的内容显示出发射台遭到破坏的迹象。埃文斯在其中一条推文中写道：“很难想象这个发射台在12个月内能再次可用。如果这种说法能被证明是错的，那么我会很高兴。”</p><p>工程师兼太空企业家乔纳森·戈夫(Jonathan Goff)是太空企业Masten Space Systems以及Altius Space Systems的联合创始人，目前在Gravitics公司致力于开发商业空间站。他对发射台修复的时间表要略微乐观一些。</p><p>“我认为，由于发射台受损，需要重新设计发射基础设施，我们可能离星际飞船系统下一次飞行至少有七到九个月的时间。”戈夫周五发推文称，“一年左右的时间完全进入轨道并成功飞行，我对此非常乐观。”</p><p>但马斯克在周五下午回复称，SpaceX可能“准备在一到两个月内再次发射”。</p><p>马斯克补充说，公司三个月前开始制造“一块用在发射底座上的巨大水冷钢板”。马斯克说，这块钢板在周四发射测试时没有及时准备好，但SpaceX还是继续进行这次任务，因为计算出发射底座下方的特殊混凝土基座能够承受住单次发射。</p><p>马斯克表示，这种评估错了。据推测，钢板将在星际飞船第二次试飞前安装到位。</p><p>未来几周内SpaceX各个团队无疑将非常忙碌。除了维修星舰基地并安装钢板之外，他们还需要分析这次发射测试的飞行数据，将吸取的经验教训纳入未来的星际飞船制造，并为下一艘飞船试飞做好准备。（辰辰）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-21/2925045.shtml</guid>
-<author>小小</author><pubDate>Fri, 21 Apr 2023 09:37:10 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-04-22/2925123.shtml</guid>
+<author>辰辰</author><pubDate>Sat, 22 Apr 2023 10:59:30 +0800</pubDate>
 <source>网易科技</source>
-</item><item><title>周鸿祎发内部信：360每个产品和业务都要全面拥抱人工智能 着手产品重塑</title>
-<link>http://www.techweb.com.cn/internet/2023-04-21/2925088.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月21日消息，周鸿祎发布主题为“三六零人工智能总动员”的内部信表示，要求 360 每一位员工、每个产品和业务都要全面拥抱人工智能，适应人机协作，着手产品重塑。</p><p>周鸿祎在内部信中表示，超级人工智能的时代已经到来，只有迅速拥抱趋势的企业才能保持创新活力，立于潮头。360 作为搜索引擎厂商，在数据获取和清洗、人工知识训练和场景等大语言模型核心要素上天赋异禀，“这场赛跑一上场就领先了一个身位。”未来更要全方位调动资源践行“两翼齐飞”战略，一方面自研 360GPT，造“发动机”，另一方面做大场景优势，加速“360 智脑”落地进程。</p><p>周鸿祎在信中透露，360 集团将推行“揭榜挂帅”制，招募更多员工加入大语言模型的核心研发。</p><p>面对 GPT 或将引发失业潮的声音，周鸿祎认为“这是制造焦虑”。他在信中指出，未来唯一有可能被淘汰的人，是那些不会正确使用GPT的人。</p><p>周鸿祎称，“有好奇心、能和 GPT 协同办公的 360 员工不会被 GPT 淘汰”，并鼓励所有员工拥抱 GPT，借助 GPT 拿到更好的绩效。</p><p><strong>以下为内部信全文：</strong></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0421/1682063468975.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>没有对比没伤害！谷歌裁员上万人 CEO年薪却高达15亿</title>
+<link>http://www.techweb.com.cn/internet/2023-04-22/2925130.shtml</link>
+<description><![CDATA[<p>快科技4月22日消息，此前有这样一条调侃性的佳句：员工越努力，老板越早日开上大奔驰。</p><p>近日，在三年一次的股票奖励的拉动下，谷歌母公司Alphabet CEO桑达尔·皮查伊(Sundar Pichai)，在2022年薪酬飙升至2.26亿美元(约合15.58亿元人民币)，他也因此成为世界上收入最高的企业领导人之一。</p><p>据其提交的监管文件显示，股票奖励占据了皮查伊总薪酬的很大一部分，达到了2.18亿美元(约合15.03亿元人民币)。</p><p>两年前，也就是2021年，皮查伊的总薪酬只有630万美元，原因很简单，他当时并未获得股票奖励，在过去三年，他的基本工资一直稳定在200万美元，直到去年才发生了巨大的改变。</p><p>不过相比于CEO，公司的员工则面临寒冬，今年1月份，谷歌母公司美国字母表公司宣布在全球范围裁减大约1.2万名雇员，它因此成为去年以来美国技术企业裁员潮中最新一家大规模裁员的巨头。</p><p>这次裁员人数相当于字母表公司员工总数的大约6%，首先波及在美国的员工，裁员涵盖技术、产品、人力资源等部门。</p><p>网友：一边是CEO的天价薪酬，一边是员工卷铺盖滚蛋，天壤之别，果然没有对比就没有伤害。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-21/2925088.shtml</guid>
-<author> 御风 </author><pubDate>Fri, 21 Apr 2023 15:51:38 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>特斯拉多名股东指责马斯克“不专心”</title>
-<link>http://www.techweb.com.cn/it/2023-04-22/2925117.shtml</link>
-<description><![CDATA[<p>4月22日消息，美国当地时间周五，17家特斯拉股东指责该公司管理不善，并正在寻求与董事会会面，就首席执行官埃隆·马斯克（Elon Musk）的不专心表现进行讨论。</p><p>这些股东持有的特斯拉股票价值超过15亿美元，他们在周五联合向特斯拉董事长罗宾·登霍尔姆（Robyn Denholm）和董事会成员兼公司薪酬委员会主席艾拉·埃伦普里斯（Ira Ehrenpreis）发送公开信。</p><p>这些股东在信中表示，马斯克被他对其他公司许下的承诺分散了注意力，必须加以控制。除了在特斯拉任职，马斯克还领导着推特、SpaceX、The Boring Company和Neuralink等公司。他们希望董事会拿出应对计划，并寻求罢免与首席执行官关系过于密切的董事。</p><p>股东们在公开信中表示，马斯克没有花足够的时间和精力关注特斯拉面临的问题，包括来自其他汽车制造商日益激烈的竞争，以及解决对该公司至关重要的问题，比如对特斯拉恶劣工作环境的指控。</p><p>信中写道：“我们最初之所以将特斯拉加入了投资组合，是因为我们认为它是制造产品和提供服务的真正领导者，这对我们向可持续和绿色经济过渡至关重要。然而，随着时间的推移，我们越来越担心该公司的治理和领导力问题。”</p><p>信中还称，马斯克对特斯拉缺乏关注，给公司带来了很多问题，比如由于工作环境的原因，员工的离职率很高。但信中并没有说明应该做些什么来让马斯克专注于解决这些问题，只是要求董事会能够确保首席执行官专注于应对当前诸多挑战。信中写道：“由于董事会未能限制首席执行官的外部承诺，并确保他专注于解决公司面临的许多挑战，我们对董事会成员失去了信心。”</p><p>联合银行（Amalgamated Bank）首席可持续发展官伊万·弗里什伯格（Ivan Frishberg）说：“这是一种集体挫败感。在过去的一年里，很明显，特斯拉存在治理问题。”联合银行是一家工会所有的银行，旗下的各种基金共持有722070股特斯拉股票。</p><p>尽管有关公司治理方面的投诉对特斯拉来说并不是什么新鲜事，但它们也会增加这家电动汽车制造商面临的挑战。本周早些时候，特斯拉公布了第一季度财报，此前该公司承诺汽车售价大幅调低，以挤压竞争对手的利润空间。马斯克表示，他计划进一步降价，即使这会损害特斯拉的利润率，这导致该公司股价周四暴跌逾10%。</p><p>联合银行、纽约市养老基金以及这封公开信的其他签字人希望马斯克专注于特斯拉，这样他才能应对竞争日益激烈的电动汽车市场和监管审查。该公司正面临美国司法部、美国国家公路交通安全管理局和加州机动车管理局对其司机辅助驾驶系统的调查。</p><p>周四，当特斯拉股价暴跌时，马斯克正观看其火箭公司SpaceX星际飞船的首次轨道试射，但其在发射后不久在得克萨斯州博卡奇卡上空爆炸。</p><p>投资者指出，特斯拉现在的市值只是2022年4月4日时1.2万亿美元市值的一半，当时马斯克首次披露他在收购推特股份。马斯克最终完成了对这家社交媒体公司的收购，并从去年10月份以来始终在亲自运营该公司。</p><p>代表几名投资者的社会正义投资者倡导组织（Investor Advocates for Social Justice）执行董事考特尼·威克斯（Courtney Wicks）说：“在担任特斯拉首席执行官的同时，马斯克还要经营另外两家公司，这是史无前例的。我无法想象，其他公司董事会会允许其首席执行官从事如此多的外部商业活动。”</p><p>今年早些时候，一家未在这封公开信上签字的特斯拉投资者曾提交一份动议，要求该公司制定计划，以解决其对马斯克的依赖。特斯拉董事会已建议股东在公司5月16日的年度股东大会上投票反对该动议。尽管这类动议很难通过，但特斯拉股价最近糟糕的表现可能会激怒原本倾向于支持该公司的投资者。</p><p>在公开信上签名的许多股东，过去都曾在特斯拉年度股东大会上提交过动议。但今年的委托书只包含一项动议，远远低于2022年的八项，这在很大程度上是因为特斯拉重新安排股东大会的消息被埋在了监管申报文件中。</p><p>公开信中还列出了投资者认为将特斯拉置于风险之中的一系列其他问题。其中包括：加州就特斯拉弗里蒙特工厂黑人员工待遇问题提起的诉讼，特斯拉被指使用强制性仲裁，以及解雇参与纽约州布法罗组织工会活动的员工等。（小小）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<guid>http://www.techweb.com.cn/internet/2023-04-22/2925130.shtml</guid>
+<author>落木</author><pubDate>Sat, 22 Apr 2023 16:24:38 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>俞敏洪爆料：罗翔在新东方当过三年老师 </title>
+<link>http://www.techweb.com.cn/internet/2023-04-22/2925129.shtml</link>
+<description><![CDATA[<p>快科技4月22日讯，在4月20日的东方甄选直播间中，俞敏洪爆料，罗翔曾在新东方当过3年老师。</p><p>俞敏洪分享称，罗翔实际上，还在新东方当过3年老师，新东方当时开司法培训的时候，罗翔是主讲老师。罗翔老师还跟我说，他的讲课能力和讲课时的幽默能力就是被新东方训练出来的，原来他讲课是很严肃的，结果发现新东方老师讲课都是嬉皮笑脸的。</p><p>一旁的董宇辉听后也是惊讶，后来频频点头。</p><p>快科技网络资料后获悉，罗翔目前在B站拥有2662万粉丝，视频播放数破7.7亿，是bilibili 2022百大UP主、2020年度最高人气UP主，“张三”梗就是他带火的。</p><p>中国政法大学官网介绍，罗翔，教授，刑法学研究所所长，研究领域为刑法学、刑法哲学、经济刑法等。在校园内，他多年蝉联“最受本科生欢迎的十大老师”，有着“刑法小王子”亲切昵称。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-22/2925117.shtml</guid>
-<author></author><pubDate>Sat, 22 Apr 2023 09:07:30 +0800</pubDate>
-<source>网易科技</source>
+<guid>http://www.techweb.com.cn/internet/2023-04-22/2925129.shtml</guid>
+<author>万南</author><pubDate>Sat, 22 Apr 2023 15:33:52 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>微软总裁：中国将是 ChatGPT 的主要对手，我们的优势不大</title>
+<link>http://www.techweb.com.cn/it/2023-04-23/2925138.shtml</link>
+<description><![CDATA[<p>4 月 23 日消息，微软总裁布拉德・史密斯（Brad Smith）在东京接受日经亚洲评论的采访时表示，中国的研究机构和企业将成为 ChatGPT 的重要竞争者。ChatGPT 是一款由 OpenAI 开发的人工智能聊天机器人，微软是 OpenAI 最大的投资者。</p><p>史密斯说，中国在生成式人工智能（generative AI）的发展方面不会落后于美国科技巨头，如亚马逊和谷歌。生成式人工智能是一种能够生成文本和图像等内容的技术，这项技术在商业、艺术、教育和医疗等领域有着巨大的潜力，但也引发了一些担忧，比如它可能会取代许多工作、传播错误信息、侵犯版权、泄露隐私和敏感信息等。</p><p>“我们看到三个处于绝对前沿的机构，”史密斯说，“一个是 OpenAI 和微软，第二个是谷歌，第三个是北京人工智能研究院。”他说，在创新方面，“谁领先谁落后可能会在一年中的不同时间有所变化，但有一件事是绝对不变的：差距几乎总是以月而不是年来衡量。”他称这场竞赛“非常激烈”。</p><p>史密斯认为，对于这种技术可能带来的问题，解决办法不是停止创新，而是利用和改进现有的产品。他说，像其他技术一样，人工智能既可以是工具也可以是武器，他以网络攻击为例。</p><p>“我们绝对应该假设，某些国家会利用人工智能发动更强大的网络攻击和网络影响行动，甚至比我们今天看到的还要强大，”他警告说，“我们发现，当技术创新得当时，它实际上可以增强防御能力，而不是进攻能力。”</p><p>史密斯此次访问日本正值七国集团（G7）工业国家在日本举行会议。日本首相岸田文雄已经表示，日本将在人工智能方面领导制定规则。本月早些时候，岸田还会见了 OpenAI 的首席执行官萨姆・奥尔特曼，讨论了如何保护用户的隐私和安全。</p><p>在商业方面，日本已经开始利用 ChatGPT 技术。该国三大银行正在使用它来减轻工作负担，比如回答内部查询和减少文书工作。东京海上等保险公司正在基于 ChatGPT 平台开发一个人工智能系统，用来为保单持有人和保险代理人提供查询的草案答案。</p><p>史密斯说，这项技术可以应对亚洲面临的最大挑战之一：劳动力短缺。“劳动年龄人口必须支持更多已经退休并依赖于工作人口经济增长的人。我们迫切需要找到新的生产力增长来源，”他说，“没有其他办法来增加 GDP。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-23/2925138.shtml</guid>
+<author>远洋</author><pubDate>Sun, 23 Apr 2023 08:57:22 +0800</pubDate>
+<source>IT之家</source>
 </item><item><title>炳叔：IEEE的审稿权，是一种机会优势</title>
 <link>http://bingshu.blog.techweb.com.cn/archives/3494</link>
 <description><![CDATA[<p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
