@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Mon, 24 Apr 2023 02:07:14 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:45:49 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -18,6 +18,13 @@
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/world/2023-04-23/2925209.shtml</guid>
 <author>海蓝</author><pubDate>Sun, 23 Apr 2023 16:17:14 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>IDC 2022下半年中国公有云市场 腾讯云跌出TOP3</title>
+<link>http://www.techweb.com.cn/internet/2023-04-23/2925208.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月23日消息，IDC今日发布《中国公有云服务市场（2022下半年）跟踪》报告。</p><p>报告显示，2022年下半年中国公有云服务整体市场规模（IaaS/PaaS/SaaS）达到188.4亿美元，其中IaaS市场同比增速15.7%，PaaS市场同比增速为31.8%。</p><p>市场格局方面，2022年下半年IaaS和IaaS+PaaS市场竞争格局保持一致，阿里云、华为云、中国电信天翼云、腾讯云和AWS为市场排名前五位。</p><p>与此同时，其他竞争对手攻势不减，前五公有云服务商市场份额集中度比2021年下半年略有下降。</p><p>与2021年下半年的市场格局相比，2022年下半年华为云、腾讯云和天翼云的排名有了一些变化。<br><br><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682237369548.jpg"></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682237389367.jpg"></figure><p>其中，在IaaS+PaaS市场，华为云由第三位升至第二位，中国电信天翼云由第四位升至第三位，腾讯云由第二位降至第四位；<br><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682237418373.jpg"></p><p style="text-align:center;"><br><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682237433247.jpg"></p><p>在IaaS市场，华为云排名仍居第二，中国电信天翼云由第四位升至第三位，腾讯云由第三位降至第四位。</p><p>对比来看，2022年下半年在IaaS和IaaS+PaaS市场，腾讯云均被天翼云挤出了TOP3的位置。</p><p>此外，IDC报告显示，2022下半年，持续三年的疫情深刻影响着整体IT市场环境的发展，公有云市场企业用户不稳定因素增加，上游企业预算缩减与建设周期的持续延长对公有云市场发展造成一定阻碍，中国公有云服务市场增长稳中有降。</p><p>从IaaS+PaaS市场来看，2022下半年同比增长19.0%，与2021年下半年同比增速（42.9%）相比下滑23.9的百分点，与2022上半年同比增速30.6%相比下滑11.6个百分点，增速均有明显放缓。各大云厂商均在PaaS层加快发展节奏，市场增速明显高于公有云大盘增速。</p><p>IDC中国企业研究部研究经理崔婷婷表示：虽然之前疫情的给企业用户上云用云带来一定阻碍，但是中国企业云化进程和发展方向并没有因此而动摇。尤其是在2022年底疫情放开之后，公有云市场在年底冲刺的同时，也对新一年“疫情后时代”的到来充满期待。云计算在分布式数据库、大数据、AI模型、算力升级、存算分离、多地多活等领域的技术深耕和产品迭代，与企业数智化转型需求的集中爆发相结合，必然会在未来公有云和云计算市场上碰撞出新的火花，推动中国公有云市场进入快速发展的新阶段。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/internet/2023-04-23/2925208.shtml</guid>
+<author>宜月</author><pubDate>Sun, 23 Apr 2023 16:12:23 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>研究人员发现ChatGPT生成的代码大部分不安全 但它不会主动告诉你</title>
 <link>http://www.techweb.com.cn/it/2023-04-23/2925140.shtml</link>
@@ -75,13 +82,6 @@
 <guid>http://www.techweb.com.cn/it/2023-04-23/2925152.shtml</guid>
 <author>若风</author><pubDate>Sun, 23 Apr 2023 09:32:25 +0800</pubDate>
 <source>快科技</source>
-</item><item><title>长城汽车一季度营收290.39亿元 净利润下跌近90%</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-04-23/2925158.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月23日消息，长城汽车近日公布了2023年第一季度财报。报告显示，今年一季度营收290.39亿元，同比下滑13.63%；归母净利润1.74亿元，同比下滑89.34%；扣非净亏损2.17亿元，同比下滑116.65%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682215009103.jpg"></figure><p>对于业绩下滑，长城汽车表示，盈利下滑主要系报告期仍处于产品结构调整期，基于2023年新产品上市节奏，加大新能源品牌建设及研发投入所致。</p><p>此外，长城汽车今年一季度研发费用为15.34亿元，较2022年四季度的13.24亿元增加了2.1亿元。</p><p>销量方面，长城汽车今年1-3月共销售22万辆新车，同比下滑22.41%，其中，仅长城皮卡销量实现了正增长，其余包括哈弗、魏牌、坦克、欧拉品牌销量均有所下滑。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-04-23/2925158.shtml</guid>
-<author>萧健</author><pubDate>Sun, 23 Apr 2023 09:57:53 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>蔚来员工曝加班近500小时进急诊3次 HR：是员工自愿加班</title>
 <link>http://www.techweb.com.cn/it/2023-04-23/2925175.shtml</link>
 <description><![CDATA[<p>近日，一位蔚来汽车的员工爆料称，近半年来业务量大幅增长，导致加班情况愈加严重。该员工提供的加班记录文档显示已加班近500小时。该员工名叫陈女士，她表示自己负责产品运营，平时需要对接的项目非常多。</p><p>此前她曾患急性肠胃炎，最近一次体检还发现有21处异常。在加班期间，她多次发烧，只有自己上吐下泻才去挂急诊，这种急诊情况已经发生了三次。陈女士提供的与人力资源部门的沟通录音显示，人力资源部门称公司不鼓励加班，是员工自愿加班，为了满足用户需求，可能需要付出一些额外的努力。</p><p>在经过协商后，人力资源部门提出，如果陈女士愿意离职，公司同意给予她总计12万元的赔偿，但陈女士需要同意不再发声。目前，陈女士联系了蔚来汽车的人力资源部门，对方表示会有专人对接，但截至发稿前，蔚来暂未对此事作出公开回应。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
