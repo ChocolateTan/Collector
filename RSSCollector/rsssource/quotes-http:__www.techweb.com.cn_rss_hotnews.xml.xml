@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Mon, 24 Apr 2023 14:12:41 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 20:14:18 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -19,12 +19,12 @@
 <guid>http://www.techweb.com.cn/world/2023-04-24/2925279.shtml</guid>
 <author>海蓝</author><pubDate>Mon, 24 Apr 2023 10:26:01 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>RTX4070发布即破发 现在是入手的好时机吗？</title>
-<link>http://www.techweb.com.cn/it/2023-04-23/2925225.shtml</link>
-<description><![CDATA[<p><strong>TechWeb 文 / 新喀鸦</strong></p><p>英伟达于2023年4月13日正式推出了GeForce RTX 4070显卡，售价4799 元起。但就在发布当日，一些经销商部分型号的RTX 4070显卡报价就已经低于“英伟达官方建议零售价”。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682242847675.jpg"></figure><p>而在近几日，部分型号的RTX 4070显卡售价更是降至了4389元。那么现在是入手RTX 4070显卡的好时机吗？</p><p><strong>名为4070&nbsp;实为4060</strong></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682242929423.png"></figure><p>从规格上看，RTX 4070的CUDA核心数量大约为RTX 4090的35.9%。并且RTX 4090所使用的AD102也并非满血版，满血版的AD102 CUDA核心数量大约为18432。也就是说，RTX 4070的CUDA核心数量大约为满血版AD102的31.9%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682242887347.png"></figure><p>参考上一代RTX 30系列显卡CUDA核心规模我们不难发现，RTX3060其CUDA核心数量大约为RTX 3090 Ti的54.8%，RTX 3060 CUDA核心数量大约为RTX 3090 Ti的33%。也就是说像RTX 4070这样的CUDA核心数量，放在过去的命名方式中也就是“60级别”的显卡，或者应该称作“RTX 4060”。</p><p>虽然RTX 4070在规格上“缩水了”，但在价格方面可一点没客气。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682242917136.png"></figure><p>参考上一代RTX 30系列显卡的售价，RTX 4070的首发价格介于RTX 3080和RTX 3070&nbsp;Ti之间。所以在售价方面，RTX 4070确实达到了“70级别”显卡的水平。反观RTX 4090,它的CUDA核心数量是RTX 3090的1.56倍，但发售价格只比RTX 3090贵了大约8.3%，这样反而使得RTX 4090成为了目前性价比最高的英伟达显卡。</p><p><strong>RTX 4070的提升</strong></p><p>虽然RTX 4070显卡的规格“略显寒酸”，但得益于新工艺和新技术的加成，实际性能表现还是可以的。</p><p>上一代RTX 30系列显卡使用的是三星的8N NVIDIA 定制工艺，而这代RTX 40系列显卡使用的是台积电4N工艺（注：不是N4）。所以即使是芯片规模变化不大的情况下，使用了新工艺也能获得性能提升。</p><p>RTX 4070的晶体管数量大约为358亿，芯片面积为294.5平方毫米。而RTX 3070晶体管数量仅有174亿，但面积却达到了392.5平方毫米。由此也可以看出新工艺的提升还是很大的，新工艺可以在更小的芯片面积里塞下更多的晶体管。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682242946680.png"></figure><p>对于游戏玩家来说，RTX 4070的性能表现已经很接近RTX 3080，同时功耗也大大降低。RTX 4070的显卡总功耗为200W，玩游戏时的平均功耗为186W。而RTX 3080有两个显存版本，显卡功耗分别为350W/320W。</p><p>这其实也是很多玩家吐槽的地方，毕竟RTX 3080是一款2020年发布的显卡，现在该显卡的价格已经降低了很多。但现在RTX 4070售价较贵，性能方面也没有明显超越RTX 3080。所以购买RTX 4070会给人一种“花了更多的钱只是为了省电”的感觉。</p><p>不过“省电”也是有意义的。显卡的功耗低，发热量就小，也就意味着显卡可以使用更小规模的散热器。RTX 4070的“小散热器版本”就可以塞入很多小尺寸机箱中。</p><p>除了新工艺以外，RTX 4070显卡还有DLSS 3等新技术的加持。简单描述一下DLSS 3就是：“DLSS 3 能用AI重建八分之七的显示像素，与没有DLSS相比，游戏性能提升了4倍。”</p><p>具体来说：在采用DLSS 3时，GeForce RTX 4070比RTX 2070 SUPER快2.6 倍，比GeForce RTX 3080快 1.4 倍。DLSS 3 能够大幅提升GPU的性能。</p><p>但坏消息是，DLSS 3技术必须是在显卡和游戏同时支持的情况下才有用。就比如我用新的RTX 4070显卡去玩一些不支持DLSS 3的游戏，那么就没有这种提升效果。在RTX 4070发布时已经有30款游戏支持DLSS 3，等以后支持DLSS 3的游戏增多后应该就能明显体会到这种优势了。</p><p><strong>结语</strong></p><p>1、把RTX 4070显卡当成“4060”去理解就可以了，RTX 4070在各种方面更接近以前的“60级别”显卡。当然，售价除外。</p><p>2、对于现在显卡预算四千左右，而且不准备使用二手显卡的小伙伴，RTX 4070确实是一个为数不多的选择。</p><p>3、RTX 4070显卡在性能方面其实没什么问题，很多人的吐槽只是针对其售价。所以当RTX 4070降到4000元左右的时候，还是可以考虑购买的。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>消息称从去年3月份开始 iPhone 15设计方案几乎全部是USB-C接口</title>
+<link>http://www.techweb.com.cn/world/2023-04-24/2925304.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】4月24日消息，据外媒报道，外界普遍预计，苹果从今年下半年推出的iPhone 15系列智能手机开始，就将放弃闪电接口，转向USB-C接口，以便符合欧盟在电子产品充电接口方面的相关规定。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682320615801.jpg"></figure><p><code>但从外媒最新的报道来看，苹果在欧盟的相关方案被批准之前，就已开始设计采用USB-C接口的iPhone。</code></p><p><code>有爆料人士在社交媒体上透露了iPhone 15转向USB-C接口的部分细节信息，其中提到早在去年1月份就已开始测试，而自去年3月份以来几乎所有的设计，都是USB-C接口，并不是闪电接口。</code></p><p><code>爆料人士还透露，在iPhone 15设计很早期的时候，曾有带闪电接口的版本，但很快就被放弃。</code></p><p><code>按苹果的产品周期，去年3月份时iPhone 14系列的设计还未完全定型，这也就意味着苹果很早就已在准备iPhone也采用USB-C接口。而欧盟智能手机、平板电脑等电子产品统一充电端口的方案，是在去年10月份批准的，距3月份有近半年。</code></p><p><code>虽然预计iPhone要在今年的iPhone 15上才会开始采用USB-C接口，但苹果对这一类型的接口其实并不陌生，在设计及应用上也不会有太大的难度。</code></p><p><code>外媒在报道中就提到，在苹果的产品线中，Mac产品线从2015年就已开始有USB-C接口，iPad则是从2018年开始的，目前苹果所销售的iPad都配备有USB-C接口。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-23/2925225.shtml</guid>
-<author>新喀鸦</author><pubDate>Sun, 23 Apr 2023 17:47:32 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-04-24/2925304.shtml</guid>
+<author>海蓝</author><pubDate>Mon, 24 Apr 2023 15:19:48 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>分析师：三星电子芯片业务所在部门Q1可能营业亏损4万亿韩元</title>
 <link>http://www.techweb.com.cn/world/2023-04-24/2925290.shtml</link>
@@ -33,12 +33,12 @@
 <guid>http://www.techweb.com.cn/world/2023-04-24/2925290.shtml</guid>
 <author>海蓝</author><pubDate>Mon, 24 Apr 2023 11:41:41 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>2023五一档新片预售票房破亿</title>
-<link>http://www.techweb.com.cn/internet/2023-04-24/2925284.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月24日消息，据灯塔专业版实时数据，截至4月23日23时24分，2023年五一档新片预售总票房（含点映）突破1亿。</p><p>截至目前，有15部电影定档五一，待映新片类型丰富、题材多样，囊括爱情、喜剧、动画等类型，许多此前撤档的影片也出现在五一档。</p><p>《长空之王》《这么多年》《人生路不熟》暂列预售榜前三。 其中，《长空之王》的预售票房、总场次、总人次都遥遥领先其他影片。</p><p>从背后资本方来看，《长空之王》的出品方涵盖了中国电影、博纳影业、阿里影业等上市公司，阵容不可谓不强。</p><p>灯塔数据显示，目前全国营业电影院有11094家，营业率86%，2023年观影人次和平均票价已由淡季逐步回升。</p><p>业内人士认为，今年五一档延续了2023年春节档的热度，与2022年相比，中国电影市场明显复苏、充分回暖。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682304755521.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>超8成韩国人工智能公司已产生营收 但面临人才短缺挑战</title>
+<link>http://www.techweb.com.cn/world/2023-04-24/2925324.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】4月24日消息，据外媒报道，人工智能是近几年的一大热点，OpenAI训练的人工智能聊天机器人ChatGPT的大火，将人工智能又推向了一个新的高度，关注度越来越高，投资也越来越大，众多公司和机构在大力投资，进行人工智能相关技术的研发及应用。</code></p><p><code>大力投资人工智能的，就包括了韩国的相关公司，从报道来看，韩国的人工智能公司，大部分已经产生了营收，整体的营收在近几年也有增长。</code></p><p><code>相关媒体的报道就显示，韩国人工智能相关的公司，已有超过80%产生了营收，韩国人工智能公司的营收，在过去3年增长了约40%。</code></p><p><code>在营收大幅增加的同时，韩国人工智能公司的投入也在增加。相关媒体在报道中就提到，韩国人工智能相关机构在研发上的投入，近3年平均每年增长17%。</code></p><p><code>不过，相关媒体在报道中也提到，韩国人工智能的发展也面临人才方面的挑战，人才短缺的问题已开始浮出水面。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-24/2925284.shtml</guid>
-<author>周小白</author><pubDate>Mon, 24 Apr 2023 10:53:23 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-04-24/2925324.shtml</guid>
+<author>海蓝</author><pubDate>Mon, 24 Apr 2023 17:25:58 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>马斯克的星舰发射失败后，我们聊了聊中国的商业航天</title>
 <link>http://www.techweb.com.cn/viewpoint/2023-04-24/2925265.shtml</link>
@@ -47,13 +47,6 @@
 <guid>http://www.techweb.com.cn/viewpoint/2023-04-24/2925265.shtml</guid>
 <author>张丽娟</author><pubDate>Mon, 24 Apr 2023 09:52:59 +0800</pubDate>
 <source>投中网</source>
-</item><item><title>五一民宿现涨价毁约潮 你被要求退订了吗？</title>
-<link>http://www.techweb.com.cn/internet/2023-04-24/2925286.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月24日消息，今日，“五一民宿现涨价毁约潮”登上微博热搜榜第一。截至发稿，该话题阅读量达1.3亿。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682305033365.png"></figure><p>据多家媒体报道，五一前夕，不少消费者遭遇被民宿“毁约”，要求房客退订。商家给出的理由也是千奇百怪，如装修、倒闭、老板换人。</p><p>有些旅客在退订之后，发现原本预定的民宿在其他平台上仍有出售同日期的同款房源，但是房价已经涨了数倍。</p><p>因为五一出行需求暴涨，民宿旅馆这种坐地起价的做法引发众怒。有网友评论称：“虽然短时间能赚点钱，但是就长远而言，是砸了自己的饭碗。开民宿不是卖房子，不是一锤子买卖，赚了这波钱之后呢？”</p><p>还有网友表示，“想报复性赚钱，目光实在太短浅了。看看人家淄博，不涨价甚至打折，有了流量也得有能力接得住流量才行。”</p><p>而大多数时候，面对这样的问题，消费者还是弱势的一方。有业内人士担心，如果不对民宿旅馆这样的行为加以约束和监管，旅游业很难健康发展。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-24/2925286.shtml</guid>
-<author>周小白</author><pubDate>Mon, 24 Apr 2023 10:58:04 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>特斯拉股东不满马斯克分心，要求他全职当CEO</title>
 <link>http://www.techweb.com.cn/it/2023-04-24/2925264.shtml</link>
 <description><![CDATA[<p>4 月 24 日消息，特斯拉是一家知名的电动汽车制造商，但其首席执行官埃隆・马斯克却不只是一位汽车大亨。他还同时担任着太空探索技术公司 SpaceX、脑机接口公司 Neuralink 和社交媒体推特的首席执行官，以及无聊公司（The Boring Company）的创始人。这样的忙碌生活让一些特斯拉的投资者感到不满，他们通过一封公开信向特斯拉董事会表达了自己的意见。</p><p>这封信的签署者包括美国银行联合会（Amalgamated Bank）、纽约市财政监察长办公室、丹麦养老金基金会（PensionDanmark）、社会正义投资者倡导组织（Investor Advocates for Social Justice）和善牧修女会（Sisters of the Good Shepherd）等机构。他们在信中指出，董事会应该干预马斯克的分心行为，或者寻找一个能够全职专注于特斯拉的首席执行官。他们还建议改革董事会，让与马斯克有密切关系的董事下台。</p><p>这些投资者认为，这样的策略是必要的，因为特斯拉正在面临越来越激烈的电动汽车市场竞争，以及全球监管环境、消费者偏好、供应链挑战和投资者期望等多重压力。他们担心，如果没有一个全职的首席执行官和一个能够提供有效监督的董事会，特斯拉将无法应对这些问题。</p><p>据了解，马斯克作为特斯拉首席执行官的兼职身份并非第一次受到质疑。去年，在一场关于马斯克薪酬方案的审判中，这个话题也被提起过。据前特斯拉董事安东尼奥・格拉西亚透露，董事会曾经考虑过找别人来替代马斯克担任首席执行官，但是没有成功。“我们找不到合适的人选。”格拉西亚说。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -61,6 +54,20 @@
 <guid>http://www.techweb.com.cn/it/2023-04-24/2925264.shtml</guid>
 <author>远洋</author><pubDate>Mon, 24 Apr 2023 09:51:04 +0800</pubDate>
 <source>IT之家</source>
+</item><item><title>微软总裁：中国研究机构和企业将成为ChatGPT主要竞争对手</title>
+<link>http://www.techweb.com.cn/world/2023-04-24/2925291.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月24日消息，据外媒报道，微软总裁布拉德・史密斯（Brad Smith）上周六警告称，中国的研究机构和企业将成为ChatGPT的主要竞争对手。</p><p>ChatGPT是OpenAI于2022年11月30日推出的一种新型人工智能（AI）聊天机器人工具，可根据用户的要求快速生成文章、故事、歌词、散文、笑话，甚至代码，并回答各类疑问，它一经发布就在互联网上掀起了一场风暴。</p><p>微软是OpenAI的最大投资者，其必应搜索引擎采用了OpenAI的AI技术。必应整合AI技术使其成为一个强大的竞争对手，对谷歌的搜索业务构成了25年来最严重的威胁。</p><p>作为回应，谷歌加快了自身AI技术的研发。近日，外媒报道称，该公司正致力于打造一款由AI驱动的全新搜索引擎，以挑战微软和OpenAI。</p><p>此外，谷歌母公司Alphabet将把谷歌Brain和DeepMind这两个主要的人工智能研究部门合并为一个部门，试图在人工智能领域跟上步伐，合并后的新部门名为Google DeepMind。</p><p>随着微软和谷歌将人工智能聊天机器人整合到其搜索引擎和云业务中，亚马逊也不甘落后，加入到微软和谷歌的人工智能竞赛中。</p><p>今年4月13日，亚马逊的云计算部门亚马逊云服务（AWS）宣布推出名为Titan的大型语言模型（LLM）和名为Bedrock的生成式人工智能服务。</p><p>史密斯表示，随着亚马逊和谷歌等美国科技巨头在生成式人工智能方面的竞争日益激烈，中国企业也不会落后太多。&nbsp;</p><p>此外，他还表示：“我们认为有三家公司处于绝对的前沿，一个是与微软合作的OpenAI，第二个是谷歌，第三个是北京人工智能研究院。”（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-24/2925291.shtml</guid>
+<author>小狐狸</author><pubDate>Mon, 24 Apr 2023 11:43:24 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>业内人士称iPhone 15芯片订单将是台积电今年营收增长关键</title>
+<link>http://www.techweb.com.cn/world/2023-04-24/2925321.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】4月24日消息，据外媒报道，在消费电子产品需求下滑，对芯片的需求也明显下滑，一众厂商受到影响的大背景下，台积电也未能幸免，以美元计算，他们的营收已连续两个季度环比下滑，在一季度也时隔多年再次同比下滑，并预计下一季度的营收同比环比仍将下滑。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682325789343.jpg"></figure><p><code>在芯片行业处境仍不乐观，一季度和二季度的营收不理想的情况下，台积电今年全年的营收预计也将受到影响，在一季度的财报分析师电话会议上，台积电CEO魏哲家透露，他们预计全年的营收将有中低个位数百分比的下滑。</code></p><p><code>虽然台积电方面已预计他们今年的营收将会下滑，但从报道来看，仍有部分业内人士认为在情况乐观的条件下，台积电今年的营收有望增长。</code></p><p><code>相关媒体援引半导体领域相关人士的消息报道称，下一代iPhone的订单，将是决定台积电今年营收能否有温和增长的关键。</code></p><p><code>按命名惯例，苹果下一代的iPhone，也就是iPhone 15系列，预计仍将搭载两款芯片，其中两款高端版搭载A17仿生芯片，并预计将采用台积电的3nm制程工艺，另外两款则是搭载iPhone 14 Pro系列同款的A16仿生芯片。</code></p><p><code>考虑到新iPhone上市之后，通常都会有强劲的市场需求，对芯片的需求也就会相当庞大，作为苹果A系列芯片连续多年的独家代工商，台积电也就会有可观的营收。</code></p><p><code>此外，苹果已连续多年是台积电的第一大客户，近几年贡献的营收在20%左右，苹果的订单，对台积电至关重要，对他们的营收增长与否有重要影响。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-24/2925321.shtml</guid>
+<author>海蓝</author><pubDate>Mon, 24 Apr 2023 16:53:08 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>芒果超媒2022年营收、净利双降 会员数达5916万</title>
 <link>http://www.techweb.com.cn/internet/2023-04-24/2925292.shtml</link>
 <description><![CDATA[<p>【TechWeb】4月24日消息，芒果超媒发布2022年全年及2023年第一季度财报，财报显示，芒果超媒第一季度营收30.56亿元，同比下滑2.16%；归属于上市公司股东的净利润为54.49亿元，同比增长7.39%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682308068291.png"></figure><p>2022年全年，芒果超媒营收137.04亿元，同比下滑10.76%；归属于上市公司股东的净利润为18.25亿元，同比下滑13.68%。核心主营业务芒果 TV 互联网视频业务实现营业收入 104.18 亿 元，同比下降 7.49%。</p><p>具体来看，2022年芒果超媒广告业务仍然承压，实现营业收入 39.94 亿元，同比下降 26.77%，同比降幅较之上半年有所收窄。</p><p>2022年芒果超媒会员规模再创新高，截至2022 年末有效会员数达 5916 万，全年会员业务收入达 39.15 亿元，同比增长 6.15%。</p><p>运营商业务增长稳健。报告期内，实现营业收入 25.09 亿元，同比增长 18.36%，继续保持稳健增长势头。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -68,19 +75,12 @@
 <guid>http://www.techweb.com.cn/internet/2023-04-24/2925292.shtml</guid>
 <author>周小白</author><pubDate>Mon, 24 Apr 2023 11:49:22 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>IDC 2022下半年中国公有云市场 腾讯云跌出TOP3</title>
-<link>http://www.techweb.com.cn/internet/2023-04-23/2925208.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月23日消息，IDC今日发布《中国公有云服务市场（2022下半年）跟踪》报告。</p><p>报告显示，2022年下半年中国公有云服务整体市场规模（IaaS/PaaS/SaaS）达到188.4亿美元，其中IaaS市场同比增速15.7%，PaaS市场同比增速为31.8%。</p><p>市场格局方面，2022年下半年IaaS和IaaS+PaaS市场竞争格局保持一致，阿里云、华为云、中国电信天翼云、腾讯云和AWS为市场排名前五位。</p><p>与此同时，其他竞争对手攻势不减，前五公有云服务商市场份额集中度比2021年下半年略有下降。</p><p>与2021年下半年的市场格局相比，2022年下半年华为云、腾讯云和天翼云的排名有了一些变化。<br><br><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682237369548.jpg"></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682237389367.jpg"></figure><p>其中，在IaaS+PaaS市场，华为云由第三位升至第二位，中国电信天翼云由第四位升至第三位，腾讯云由第二位降至第四位；<br><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682237418373.jpg"></p><p style="text-align:center;"><br><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682237433247.jpg"></p><p>在IaaS市场，华为云排名仍居第二，中国电信天翼云由第四位升至第三位，腾讯云由第三位降至第四位。</p><p>对比来看，2022年下半年在IaaS和IaaS+PaaS市场，腾讯云均被天翼云挤出了TOP3的位置。</p><p>此外，IDC报告显示，2022下半年，持续三年的疫情深刻影响着整体IT市场环境的发展，公有云市场企业用户不稳定因素增加，上游企业预算缩减与建设周期的持续延长对公有云市场发展造成一定阻碍，中国公有云服务市场增长稳中有降。</p><p>从IaaS+PaaS市场来看，2022下半年同比增长19.0%，与2021年下半年同比增速（42.9%）相比下滑23.9的百分点，与2022上半年同比增速30.6%相比下滑11.6个百分点，增速均有明显放缓。各大云厂商均在PaaS层加快发展节奏，市场增速明显高于公有云大盘增速。</p><p>IDC中国企业研究部研究经理崔婷婷表示：虽然之前疫情的给企业用户上云用云带来一定阻碍，但是中国企业云化进程和发展方向并没有因此而动摇。尤其是在2022年底疫情放开之后，公有云市场在年底冲刺的同时，也对新一年“疫情后时代”的到来充满期待。云计算在分布式数据库、大数据、AI模型、算力升级、存算分离、多地多活等领域的技术深耕和产品迭代，与企业数智化转型需求的集中爆发相结合，必然会在未来公有云和云计算市场上碰撞出新的火花，推动中国公有云市场进入快速发展的新阶段。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>2023五一档新片预售票房破亿</title>
+<link>http://www.techweb.com.cn/internet/2023-04-24/2925284.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月24日消息，据灯塔专业版实时数据，截至4月23日23时24分，2023年五一档新片预售总票房（含点映）突破1亿。</p><p>截至目前，有15部电影定档五一，待映新片类型丰富、题材多样，囊括爱情、喜剧、动画等类型，许多此前撤档的影片也出现在五一档。</p><p>《长空之王》《这么多年》《人生路不熟》暂列预售榜前三。 其中，《长空之王》的预售票房、总场次、总人次都遥遥领先其他影片。</p><p>从背后资本方来看，《长空之王》的出品方涵盖了中国电影、博纳影业、阿里影业等上市公司，阵容不可谓不强。</p><p>灯塔数据显示，目前全国营业电影院有11094家，营业率86%，2023年观影人次和平均票价已由淡季逐步回升。</p><p>业内人士认为，今年五一档延续了2023年春节档的热度，与2022年相比，中国电影市场明显复苏、充分回暖。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682304755521.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-23/2925208.shtml</guid>
-<author>宜月</author><pubDate>Sun, 23 Apr 2023 16:12:23 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>蔚来最新产品规划曝光：明年年底前将推子品牌 短期内不做MPV</title>
-<link>http://www.techweb.com.cn/it/2023-04-23/2925223.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月23日消息，蔚来近期透露了其后续产品的规划。首先是最近热门的MPV车型，蔚来方面表示近期不会做MPV。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682242262976.jpg"></p><p>在子品牌方面，蔚来汽车总裁秦力洪在接受媒体采访时表示，“阿尔卑斯”和“萤火虫”都是蔚来的内部项目代号，并非品牌名字。“阿尔卑斯”主要面向中端市场，直接竞争对手是特斯拉、丰田、大众这些品牌的产品。“萤火虫”则是尺寸更小的车型，这两个品牌目前都在紧锣密鼓地筹备中，会在明年年底前跟大家见面。</p><p>蔚来汽车CEO李斌表示，电动车的未来还是会分为高端品牌、大众市场、入门级等，不可能一个品牌从几万、十几万到几十万的车都有。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-23/2925223.shtml</guid>
-<author>萧健</author><pubDate>Sun, 23 Apr 2023 17:32:09 +0800</pubDate>
+<guid>http://www.techweb.com.cn/internet/2023-04-24/2925284.shtml</guid>
+<author>周小白</author><pubDate>Mon, 24 Apr 2023 10:53:23 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>美公司高管狂赞坐中国高铁比坐飞机还好 马斯克力挺：确实</title>
 <link>http://www.techweb.com.cn/internet/2023-04-24/2925244.shtml</link>
@@ -89,6 +89,13 @@
 <guid>http://www.techweb.com.cn/internet/2023-04-24/2925244.shtml</guid>
 <author>雪花</author><pubDate>Mon, 24 Apr 2023 08:54:44 +0800</pubDate>
 <source>快科技</source>
+</item><item><title>大众汽车集团一季度交付14.1万辆纯电动汽车 同比增长42%</title>
+<link>http://www.techweb.com.cn/world/2023-04-24/2925308.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月24日消息，据外媒报道，大众汽车集团报告称，2023年第一季度，该公司交付了14.1万辆纯电动汽车，同比增长42%，占该公司总交付量的6.9%，而去年同期的占比为5.2%。</p><p>从地区来看，该公司在欧洲地区交付了约70%的纯电动汽车，即9.83万辆，同比增长68.1%。中国是该公司第二大纯电动汽车市场，交付量为2.15万辆，同比减少25.4%。在美国，该公司交付了1.57万辆纯电动汽车，几乎是去年同期的两倍。</p><p>从品牌来看，2023年第一季度，大众乘用车品牌在全球交付了7万辆纯电动汽车，约占大众汽车集团纯电动汽车总交付量的一半。奥迪凭借3.46万辆的交付量，排在第二位。紧随其后的是斯柯达（1.24万辆）、西雅特/CUPRA（9200辆）、保时捷（9200辆）和大众商用车（5500辆）。</p><p>从畅销车型来看，今年第一季度，大众汽车集团最畅销的三大纯电动汽车是ID.4/ID.5、ID.3和奥迪Q4 e-tron（包括Sportback）。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-24/2925308.shtml</guid>
+<author>小狐狸</author><pubDate>Mon, 24 Apr 2023 15:37:17 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>四维图新：2023年Q1净亏损1.03亿元 同比由盈转亏</title>
 <link>http://www.techweb.com.cn/it/2023-04-24/2925263.shtml</link>
 <description><![CDATA[<p>【TechWeb】4月24日消息，四维图新发布2022年全年及2023年第一季度业绩报告，报告显示，四维图新一季度营收7.07亿元，同比增长13.71%；归属于上市公司股东的净亏损为1.03亿元，去年同期则为盈利1178.62万元，同比由盈转亏；扣除非经常性损益后的净亏损为1.04亿元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682300960604.png"></figure><p>2022年全年，四维图新营收33.47亿元，同比增长9.37%；归属于上市公司股东的净亏损为3.36亿元，去年同期则为盈利1.22亿元，同比由盈转亏；扣除非经常性损益后的净亏损为3.51亿元。</p><p>根据报告，四维图新2022年业绩亏损主要原因为：</p><p>1、公司为把握 ADAS 定点和量产的历史机遇期，进行持续研发投入，智驾及芯片方向研发投入较上年增长约 1.5 亿；</p><p>2、受行业大环境影响，非智能化核心赛道的商用车联网业务大幅下滑，本年度大额亏损，对此公司已启动业务线优化， 此影响为短期扰动；</p><p>3、公司在集团及核心子公司层面进行股权激励，使得公司能够顺应形势的及时引进并保有行业内技术方向及管理方向的中高端人才，本年度公司因实施公司股权激励计划及员工持股计划导致的股权激励摊销费用超 1 亿。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -96,26 +103,19 @@
 <guid>http://www.techweb.com.cn/it/2023-04-24/2925263.shtml</guid>
 <author>周小白</author><pubDate>Mon, 24 Apr 2023 09:49:51 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>蔚来员工曝加班近500小时进急诊3次 HR：是员工自愿加班</title>
-<link>http://www.techweb.com.cn/it/2023-04-23/2925175.shtml</link>
-<description><![CDATA[<p>近日，一位蔚来汽车的员工爆料称，近半年来业务量大幅增长，导致加班情况愈加严重。该员工提供的加班记录文档显示已加班近500小时。该员工名叫陈女士，她表示自己负责产品运营，平时需要对接的项目非常多。</p><p>此前她曾患急性肠胃炎，最近一次体检还发现有21处异常。在加班期间，她多次发烧，只有自己上吐下泻才去挂急诊，这种急诊情况已经发生了三次。陈女士提供的与人力资源部门的沟通录音显示，人力资源部门称公司不鼓励加班，是员工自愿加班，为了满足用户需求，可能需要付出一些额外的努力。</p><p>在经过协商后，人力资源部门提出，如果陈女士愿意离职，公司同意给予她总计12万元的赔偿，但陈女士需要同意不再发声。目前，陈女士联系了蔚来汽车的人力资源部门，对方表示会有专人对接，但截至发稿前，蔚来暂未对此事作出公开回应。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>五一民宿现涨价毁约潮 你被要求退订了吗？</title>
+<link>http://www.techweb.com.cn/internet/2023-04-24/2925286.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月24日消息，今日，“五一民宿现涨价毁约潮”登上微博热搜榜第一。截至发稿，该话题阅读量达1.3亿。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682305033365.png"></figure><p>据多家媒体报道，五一前夕，不少消费者遭遇被民宿“毁约”，要求房客退订。商家给出的理由也是千奇百怪，如装修、倒闭、老板换人。</p><p>有些旅客在退订之后，发现原本预定的民宿在其他平台上仍有出售同日期的同款房源，但是房价已经涨了数倍。</p><p>因为五一出行需求暴涨，民宿旅馆这种坐地起价的做法引发众怒。有网友评论称：“虽然短时间能赚点钱，但是就长远而言，是砸了自己的饭碗。开民宿不是卖房子，不是一锤子买卖，赚了这波钱之后呢？”</p><p>还有网友表示，“想报复性赚钱，目光实在太短浅了。看看人家淄博，不涨价甚至打折，有了流量也得有能力接得住流量才行。”</p><p>而大多数时候，面对这样的问题，消费者还是弱势的一方。有业内人士担心，如果不对民宿旅馆这样的行为加以约束和监管，旅游业很难健康发展。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-23/2925175.shtml</guid>
-<author>江淼</author><pubDate>Sun, 23 Apr 2023 10:45:35 +0800</pubDate>
-<source>网易科技</source>
-</item><item><title>消息称Mac Pro和Mac Studio无缘WWDC 但前者仍预计在今年更新</title>
-<link>http://www.techweb.com.cn/world/2023-04-23/2925186.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】4月23日消息，据外媒报道，在苹果宣布2023年的全球开发者大会，也就是WWDC23，将在当地时间6月5日至9日举行之后，外界就预计苹果在今年的大会上，有望推出15英寸版MacBook Air、自研M系列芯片Mac Pro、Mac Studio和期待已久的MR头显。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682222055602.jpg"></figure><p><code>但从外媒最新的报道来看，此前预计有望在今年的大会上推出的Mac Pro、Mac Studio，可能无缘，将会推迟发布。</code></p><p><code>外媒是根据一位非常可靠的爆料人士的透露，报道Mac Pro和Mac Studio不会在今年的开发者大会上登场的。</code></p><p><code>此外，长期关注苹果的一名资深记者也透露，新款Mac Pro仍将在今年推出，但不太可能出现在6月份的全球开发者大会上。这一资深记者还预计苹果将推迟Mac Studio，直到M3芯片可行之后才会推出，以避免影响到搭载苹果自研芯片的Mac Pro的销售。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0423/1682222130827.jpg"></figure><p><code>在苹果的Mac产品线中，Mac Pro是唯一仍未转向自研M系列芯片的一款，也已多年没有更新，当前在售的版本，搭载的仍是英特尔的处理器。搭载自研芯片的Mac Pro若不能在6月份的全球开发者大会上推出，也就意味着苹果还需要一段时间，才能完成Mac产品线向自研芯片的过渡。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-23/2925186.shtml</guid>
-<author>海蓝</author><pubDate>Sun, 23 Apr 2023 12:03:33 +0800</pubDate>
+<guid>http://www.techweb.com.cn/internet/2023-04-24/2925286.shtml</guid>
+<author>周小白</author><pubDate>Mon, 24 Apr 2023 10:58:04 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>加州电动汽车销量累计突破100万辆  仅一季度就售出9万多辆</title>
-<link>http://www.techweb.com.cn/world/2023-04-23/2925187.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月23日消息，据外媒报道，当地时间周六，加州发布了2023年第一季度零排放汽车销量报告。</p><p>报告显示，截至2023年第一季度，该州累计销售了超过100万辆电动汽车，仅2023年第一季度就售出了95946辆电动汽车，其中绝大多数是特斯拉汽车，而特斯拉Model Y是该州销量最大的车型，为33205辆，其次是Model 3（19989辆）、Model X（3101辆）和Model S（887辆）。</p><p>相比之下，2022年第一季度，加州的电动汽车注册量同比增长约37%，达到73138辆（估算），占总注册量的17.2%，创历史新高。其中，特斯拉汽车注册了48038辆，同比上涨83.7%。从车型来看，Model Y（21812辆）和Model 3（21506辆）是加州一季度最畅销的两款车型。</p><p>2022年全年，Model Y和Model 3是加州最畅销的汽车。这一年，特斯拉在加州销售了87257辆Model Y，这使得这款车成为该州最受欢迎的汽车。紧随Model Y之后的是特斯拉Model 3，销量为78934辆。</p><p>美国仍然是特斯拉销量最高的地区之一，在美国，没有任何一个州的销量能与加州相提并论。对电动车充电的投资、对该技术普遍增加的兴趣以及更多的激励措施，都迅速推动了该州的电气化进程。</p><p>虽然特斯拉在2021年12月初将公司总部从加州帕洛阿托搬到了德克萨斯州奥斯汀，但该公司仍将相当一部分业务留在加州，包括在加州圣华金县的Lathrop市开设一家新的电池厂。&nbsp;</p><p>另外，特斯拉的第一家也是产量最高的工厂也位于加州。该公司CEO埃隆・马斯克（Elon Musk）表示，该公司位于加州弗里蒙特的工厂今年将生产60多万辆汽车。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>完美世界发布一季报：营收19.04亿元 净利润2.41亿元</title>
+<link>http://www.techweb.com.cn/it/2023-04-24/2925323.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月24日消息，完美世界今日发布2023年第一季度财报，报告期内，完美世界实现营收19.04亿元，同比下滑10.55%；归母净利润2.41亿元，扣非净利润2.04亿元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682327721435.png"></figure><p>财报显示，完美世界Q1业绩同比下调主要有两个原因：一是去年Q1因海外子公司股权处置产生了较大的非经常性收益；二是受《幻塔》生命周期影响，相比去年Q1处于上线初期的高位，目前该产品已进入成熟期，业绩贡献趋于平稳。从环比来看，今年Q1业绩呈现明显改善。</p><p>从游戏业务角度看，今年Q1完美世界游戏业务实现扣非净利润2.78亿元，整体表现较为平稳。数款在营游戏产品通过内容更新、立体营销、精细化长线运营等方式延续稳定表现，持续贡献稳定收益。</p><p>目前储备产品中，包括经典品类多端产品《诛仙2》《代号：新世界》《神魔大陆2》，端游产品《诛仙世界》《Perfect &nbsp;New &nbsp;World》等，以及创新品类的《一拳超人：世界》《百万亚瑟王》《女神异闻录：夜幕魅影》等，基于国产科幻动画大作《灵笼》IP研发的多人开放世界项目、基于自主原创IP研发的开放世界项目也在积极进行中。</p><p>影视业务方面，今年以来完美世界出品的《星落凝成糖》《心想事成》等电视剧播出。储备产品《温暖的甜蜜的》《许你岁月静好》《特工任务》《灿烂！灿烂！》《只此江湖梦》《纵横芯海》《九个弹孔》《执行局》《危险的她2》《珠玉在侧》《神隐》正在制作、发行、排播过程中。《云襄传》已定档5月1日在爱奇艺、腾讯视频双平台播出。</p><p>对于当下大热的AI大模型，今年Q1，完美世界在内部成立AI中心，由公司游戏业务CEO负责，中台技术部门牵头，各项目制作人深度参与，大力研究及推行AI技术的学习与应用，从多维角度加强对AI技术的理解，促进自身业务的结合。</p><p>完美世界方面表示，随着AIGC技术应用工具的日趋成熟，AI技术将在完美世界游戏研发、发行及运营中应用于更多场景，进一步提升游戏研发效率、优化玩家体验。未来，完美世界将以AIGC作为增长的加速器，加快在研产品又好又快推出，在新一轮产品周期中取得更多竞争优势。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-23/2925187.shtml</guid>
-<author>小狐狸</author><pubDate>Sun, 23 Apr 2023 12:08:00 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-04-24/2925323.shtml</guid>
+<author>周小白</author><pubDate>Mon, 24 Apr 2023 17:16:44 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
@@ -154,13 +154,13 @@
 <guid>http://www.techweb.com.cn/it/2023-04-24/2925288.shtml</guid>
 <author>李桐</author><pubDate>Mon, 24 Apr 2023 11:04:47 +0800</pubDate>
 <source>新浪财经</source>
-</item><item><title>没有对比没伤害！谷歌裁员上万人 CEO年薪却高达15亿</title>
-<link>http://www.techweb.com.cn/internet/2023-04-22/2925130.shtml</link>
-<description><![CDATA[<p>快科技4月22日消息，此前有这样一条调侃性的佳句：员工越努力，老板越早日开上大奔驰。</p><p>近日，在三年一次的股票奖励的拉动下，谷歌母公司Alphabet CEO桑达尔·皮查伊(Sundar Pichai)，在2022年薪酬飙升至2.26亿美元(约合15.58亿元人民币)，他也因此成为世界上收入最高的企业领导人之一。</p><p>据其提交的监管文件显示，股票奖励占据了皮查伊总薪酬的很大一部分，达到了2.18亿美元(约合15.03亿元人民币)。</p><p>两年前，也就是2021年，皮查伊的总薪酬只有630万美元，原因很简单，他当时并未获得股票奖励，在过去三年，他的基本工资一直稳定在200万美元，直到去年才发生了巨大的改变。</p><p>不过相比于CEO，公司的员工则面临寒冬，今年1月份，谷歌母公司美国字母表公司宣布在全球范围裁减大约1.2万名雇员，它因此成为去年以来美国技术企业裁员潮中最新一家大规模裁员的巨头。</p><p>这次裁员人数相当于字母表公司员工总数的大约6%，首先波及在美国的员工，裁员涵盖技术、产品、人力资源等部门。</p><p>网友：一边是CEO的天价薪酬，一边是员工卷铺盖滚蛋，天壤之别，果然没有对比就没有伤害。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>虚假宣传、价格误导，李佳琦、刘畊宏、罗永浩等主播被点名</title>
+<link>http://www.techweb.com.cn/it/2023-04-24/2925295.shtml</link>
+<description><![CDATA[<p>4 月 24 日消息，今日（4 月 24 日），消费者网、对外经济贸易大学消费者保护法研究中心、北京阳光消费大数据研究院等机构发布《直播带货消费维权舆情分析报告》，报告在对 14 位主播直播带货消费维权舆情数据进行了分析，结果显示，疯狂小杨哥、李佳琦、刘畊宏、罗永浩、辛巴这 5 位主播的相关舆情占比超过九成，其中疯狂小杨哥和李佳琦的虚假宣传问题最多，刘畊宏、罗永浩和辛巴的产品质量问题最多。</p><p>报告指出，直播带货存在的主要问题有产品质量、虚假宣传、不文明带货、价格误导、发货、退换货、销售违禁商品和诱导场外交易等。其中，产品质量和虚假宣传占比最高，分别为 45.75% 和 37.82%。不文明带货的占 5.19%，价格误导的占 5.08%，发货的占 4.46%，退换货的占 1.45%，销售违禁商品的占 0.14%，诱导场外交易的占 0.11%。</p><p>另外平台方面，在涉及抖音、快手、淘宝、拼多多、京东、微博、小红书、唯品会、蘑菇街和苏宁易购 10 家平台的直播带货消费维权舆情数据中，涉及抖音的维权舆情占比为 55.41%；其次是快手，占比 26.76%；淘宝排第三，占比 15.67%。IT之家注意到，产品质量和虚假宣传是平台涉及的主要舆情问题。</p><p>具体主播方面，在此次报告研究的 14 位主播直播带货消费维权舆情数据中，涉及“疯狂小杨哥”的维权舆情最多，占比达 29.27%，其次是李佳琦占比 28.49%，刘畊宏排第三占比 15.01%。相比于 2021 年，辛巴的维权舆情占比有所增加，而罗永浩等主播的维权舆情占比都有所下降。疯狂小杨哥、李佳琦、刘畊宏、罗永浩、辛巴这 5 位主播的维权舆情占到本次采集主播舆情的 90.97%。</p><p>其中，疯狂小杨哥和李佳琦的虚假宣传舆情相对更突出，刘畊宏、罗永浩和辛巴的产品质量舆情则更突出，李佳琦和罗永浩的价格误导舆情更为突出，李佳琦和辛巴的发货问题舆情较为突出，李佳琦的退换货舆情较为突出，疯狂小杨哥、罗永浩、辛巴的不文明带货舆情较为突出。</p><p>报告建议对直播间实行分级分类管理，对于粉丝量大、影响力大的主播，应重点监管；对于风险营销行为，应采取限制流量、弹窗提示等措施；对于违规直播间及主播，应予以警告、封停、联合惩戒等处理。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-22/2925130.shtml</guid>
-<author>落木</author><pubDate>Sat, 22 Apr 2023 16:24:38 +0800</pubDate>
-<source>快科技</source>
+<guid>http://www.techweb.com.cn/it/2023-04-24/2925295.shtml</guid>
+<author>远洋</author><pubDate>Mon, 24 Apr 2023 14:10:45 +0800</pubDate>
+<source>IT之家</source>
 </item><item><title>小米13 Ultra成了！卢伟冰：销量远超预期</title>
 <link>http://www.techweb.com.cn/phone/2023-04-24/2925245.shtml</link>
 <description><![CDATA[<p>4月24日消息，小米集团卢伟冰发文表示，<strong>小米13 Ultra卖得比预期多很多。</strong></p><p>目前小米13 Ultra在各大电商平台仍然供不应求，小米京东自营店显示，<strong>小米13 Ultra每天上午10点定时开抢，起售价是5999元。</strong></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0424/1682297894665.jpg"></figure><p>影像是该机的最大看点之一，它搭载徕卡四摄，实现六焦段全覆盖，四摄包括12mm超广角、23mm主摄、75mm长焦、120mm超长焦、支持0.5X、1X、3.2X、5X变焦。</p><p>另外还有46mm 2X变焦与240mm 10X变焦两个隐藏焦段，可以达到硬件直出。COMS是主摄IMX989+三副摄IMX858，小米称其为“黄金组合”。</p><p>不仅如此，小米13 Ultra加入了街拍模式，只需要0.8秒就能捕捉定格。<strong>著名的街拍摄影师Matt实测后给出了“这是专业影像设备，而不止是一台拍照手机”的极高评价。</strong></p><p>与此同时，小米13 Ultra还搭载移动影像迄今为止最完美的徕卡Summicron镜头，<strong>原始光学素质极为出色，不需要依赖重度锐化算法，</strong>即可在整个视场获得优秀的解析力。</p><p>核心配置上，小米13 Ultra采用6.73英寸2K OLED全面屏，搭载高通第二代骁龙8移动平台，前置3200万像素，电池容量是5000毫安时。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
