@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Thu, 27 Apr 2023 14:09:48 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 20:16:57 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -68,27 +68,13 @@
 <guid>http://www.techweb.com.cn/digi/2023-04-27/2925553.shtml</guid>
 <author>雪花</author><pubDate>Thu, 27 Apr 2023 09:21:50 +0800</pubDate>
 <source>快科技</source>
-</item><item><title>微信：视频号、小程序可以使用数字人民币支付</title>
-<link>http://www.techweb.com.cn/internet/2023-04-26/2925474.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月26日消息，微信官方公众号“微信派”今日发布消息称，视频号、小程序可以使用数字人民币支付了。</p><p>即日起，微信用户可以在数字人民币APP内的钱包快付功能下开通“微信支付”，选择将任意运营机构——如微众银行（微信支付）——的钱包推送到微信支付，就可在视频号、小程序场景内支持数字人民币的商家中使用数字人民币进行交易。</p><p>目前，支持数字人民币支付的小程序商户已覆盖出行、餐饮、零售、便民服务等众多场景。包括滴滴出行、肯德基、屈臣氏、京东、中国电信、国网电力等小程序均可使用数字人民币支付。未来更多小程序商家将陆续支持使用数字人民币。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>微软收购动视暴雪交易被英国监管机构叫停</title>
+<link>http://www.techweb.com.cn/world/2023-04-27/2925591.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月27日消息，据外媒报道，当地时间周三，英国监管机构否决了微软收购视频游戏制造商动视暴雪的交易，原因是担心这会扼杀快速增长的云游戏市场的竞争。</p><p>微软收购动视暴雪的交易于2022年1月首次宣布，这笔交易总价达687亿美元，如果交易完成将是微软有史以来最大的交易，也将是迄今为止视频游戏领域最大的交易。</p><p>由于这笔交易的规模及其对游戏行业的潜在影响，包括欧盟委员会、英国竞争与市场管理局（CMA）和美国联邦贸易委员会在内的监管机构都对这笔交易展开了调查，他们担心微软可能会利用动视暴雪的热门游戏《使命召唤》系列获得不公平的竞争优势。</p><p>今年2月，CMA对微软收购动视暴雪的交易进行了调查。在此之后，微软“未能解决”CMA表达的担忧。</p><p>当地时间周三，英国监管机构却否决了这笔收购交易。该机构表示，这笔交易将会改变快速增长的云游戏市场的未来，导致创新减少，英国游戏玩家的选择减少。</p><p>对此，微软表示很失望，并表示不准备放弃。该公司已经证实，将对CMA的这一决定提出上诉。</p><p>除了英国监管机构外，美国和欧洲的监管机构也在仔细审查这笔交易，因为他们担心这会让微软控制《使命召唤》、《魔兽世界》和《糖果粉碎传奇》等热门游戏的特许经营权。</p><p>美国联邦贸易委员会（FTC）已于2022年12月初提起反垄断诉讼，试图阻止这笔收购交易。</p><p>除了面临监管机构的审查外，这笔交易还遭到竞争对手索尼的强烈反对。索尼认为，这笔交易会限制玩家的选择，会让微软的家用电视游戏机Xbox在行业中获得不公平的优势。</p><p>在这笔交易之前，微软已经凭借其Xbox和Azure云计算基础设施在全球云游戏市场占据了60%至70%的主导地位。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-04-26/2925474.shtml</guid>
-<author>周小白</author><pubDate>Wed, 26 Apr 2023 10:59:06 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-04-27/2925591.shtml</guid>
+<author>小狐狸</author><pubDate>Thu, 27 Apr 2023 15:21:32 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>微软必应Chat迎来重要更新：大幅降低对话中断率</title>
-<link>http://www.techweb.com.cn/it/2023-04-26/2925433.shtml</link>
-<description><![CDATA[<p>4 月 26 日消息，微软推出的聊天机器人 AI 必应 Chat 可以与用户进行对话，帮助用户完成各种任务。近期，Bing Chat 团队不断更新优化该产品，提升了用户的聊天体验。</p><p>上周，Bing Chat 增加了数学公式的更好格式化显示，同时也减少了 Bing Chat 在对话中突然中断的情况。今天，Bing Chat 又发布了一个重大更新，进一步降低了对话中断的概率。</p><p>微软广告和网络服务部门的负责人 Mikhail Parakhin 在推特上表示，Bing Chat 团队“今天发布了一个降低中断率的改进”，他说这次更新将使“最严重的类别的中断率降低了三倍以上”。这表明 Bing Chat 团队一直在快速地推出更新。不过，有些功能用户已经等待了很久，但还没有得到解决，其中之一就是保存聊天历史的功能。此外，Parakhin 还多次暗示，Bing Chat 将支持第三方插件。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-26/2925433.shtml</guid>
-<author>远洋</author><pubDate>Wed, 26 Apr 2023 09:06:47 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>天涯社区并非永久关停？官博：我会回来的</title>
-<link>http://www.techweb.com.cn/it/2023-04-26/2925520.shtml</link>
-<description><![CDATA[<p>4月26日消息，今天早些时候，有网友发现天涯社区的网站和App都已经无法打开，不少人在社交平台上掀起“悼念潮”：天涯关了，咫尺天涯，永不再见。</p><p>但在网站与App无法打开的同时，<strong>天涯社区官方账号依旧在微博“高强度”更新，丝毫没有关站的迹象。</strong></p><p>对此，有网友对该账号的官博身份提出了质疑，得到的回复则是：<strong>“咱主打的就是陪伴。说一句暴露年龄的话：我会回来的……”</strong></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0426/1682501665986.png"></figure><p>结合同博文下，官方“别走，大雨下个不停我依然爱你”的回复，以及早些时候“近期将进行技术升级和数据重构”的公告，<strong>此次关停应该只是一次大规模的维护，而非永久关停。</strong></p><p>据悉，天涯社区创立于1999年，隶属天涯社区网络科技股份有限公司，是一个全球华人网络社区平台。</p><p>天涯社区注册用户超过1.3亿，月覆盖用户超过2.5亿，拥有大量高忠诚度、高质量用户群所产生的超强人气和互动原创内容。</p><p>形成了独具天涯特色的网民文化，其开放、包容、充满人文关怀的特色受到国内网民乃至全球华人的推崇，同时也是《鬼吹灯》《明朝那些事》等知名小说的诞生地。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0426/1682501675342.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-26/2925520.shtml</guid>
-<author>乃河 </author><pubDate>Wed, 26 Apr 2023 17:35:55 +0800</pubDate>
-<source>快科技</source>
 </item><item><title>Meta一季度营收同比增长3% 净利润同比下滑24%</title>
 <link>http://www.techweb.com.cn/world/2023-04-27/2925574.shtml</link>
 <description><![CDATA[<p>【TechWeb】4月27日消息，据外媒报道，当地时间周三，Meta发布了截至2023年3月31日的2023年第一季度财报。财报显示，该公司一季度的营收和净利润均超出预期。</p><p>财报显示，该公司一季度的营收为286.45亿美元，同比增长3%；净利润为57.09亿美元，同比下滑24%；摊薄后的每股收益为2.2美元，同比下滑19%。</p><p>相比之下，Refinitiv的分析师平均预计Meta的一季度营收为276.5亿美元，每股收益为2.03美元。</p><p>Meta表示，2023年3月份，该公司宣布了三轮裁员计划，以进一步缩小公司规模。其中，Family of Apps（简称FoA）和Reality Labs（简称RL）部门裁员约1万人。</p><p>该公司预计，2023年第二季度的总营收将在295亿至320亿美元之间，2023年全年的总支出将在860亿至900亿美元之间。（小狐狸）<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -96,6 +82,13 @@
 <guid>http://www.techweb.com.cn/world/2023-04-27/2925574.shtml</guid>
 <author>小狐狸</author><pubDate>Thu, 27 Apr 2023 10:42:25 +0800</pubDate>
 <source>TechWeb.com.cn</source>
+</item><item><title>微软浏览器被曝将用户网站访问记录泄露给必应</title>
+<link>http://www.techweb.com.cn/it/2023-04-27/2925542.shtml</link>
+<description><![CDATA[<p>4月27日消息，微软Edge浏览器被曝存在泄露用户隐私问题，正将用户所访问网站的URL发送给其必应API网站。</p><p>社交新闻网站Reddit的用户首先发现了Edge的隐私问题，他们注意到最新版本的Microsoft Edge会向bingapis.com发送请求，其中包含用户浏览的几乎每个页面的完整URL。微软对此表示，该公司正在展开调查。</p><p>最先发现这个问题的Reddit用户表示：“搜索这个URL的参考信息非常少，根本没有关于这个功能的任何文档。”虽然Reddit的用户无法发现为何Edge会将用户访问的URL发送给其必应API站点，但软件工程师、EarTrumket背后的开发者拉斐尔·里维拉（Rafael Rivera）受邀进行了调查，他发现这是Edge一个执行不力的新功能所致。</p><p>里维拉称：“微软Edge现在有个创作者关注功能，该功能在默认情况下处于启用状态。它的目的似乎是在用户访问某些页面时通知必应，比如YouTube、The Verge和Reddit等。但它似乎没能正常工作，而是将用户访问的几乎每个网站的URL都发送到必应。”</p><p>微软去年首先在Edge中测试了新的创作者关注功能，然后在最近几个月更广泛地推出了该功能。它的设计目的是让用户在YouTube上和整个网络上关注他们最喜欢的内容创作者。如果禁用该功能，URL将不再被发送到bingapis.com。</p><p>微软为该创作者关注功能提供了主过滤器，其中包括PornHub等域名，它们被阻止发送到Bing API站点。看起来，对于用户之前访问的每个未检查的URL，微软Edge都会将其发送给bingapis.com，这会带来巨大的隐私影响，特别是在默认启用此功能的情况下。</p><p>微软公关总监凯特琳·罗尔斯顿（Caitlin Roulston）在一份声明中表示：“我们已经了解了相关报道，正在调查，并将采取适当行动解决任何问题。”不过，微软还没有解释为什么URL会被发送到bingapis.com，或者Edge是如何被配置为将用户访问的几乎所有网站都发送到必应的。</p><p>在微软完成调查并可能修复这个问题之前，专家强烈建议关闭Edge中的创作者关注功能。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-27/2925542.shtml</guid>
+<author>小小</author><pubDate>Thu, 27 Apr 2023 09:04:19 +0800</pubDate>
+<source>网易科技</source>
 </item><item><title>ChatGPT替代品来了 Hugging Face发布开源聊天机器人HuggingChat</title>
 <link>http://www.techweb.com.cn/world/2023-04-27/2925580.shtml</link>
 <description><![CDATA[<p>【TechWeb】4月27日消息，据外媒报道，人工智能初创公司Hugging Face发布了一款开源AI聊天机器人HuggingChat，这款聊天机器人旨在成为OpenAI旗下AI聊天机器人ChatGPT的替代品。</p><p>据外媒报道，驱动HuggingChat的人工智能模型是由Open Assistant开发的，后者是去年12月推出的一个开源项目，其目标不仅仅是复制ChatGPT及其功能，这个主要由志愿者组成的团队有更远大的抱负。</p><p>HuggingChat可以完成与ChatGPT类似的任务，比如，生成内容、回答问题、编写代码、起草电子邮件、创作歌词等。它的反应速度也很快，与GPT-3.5-turbo相当。</p><p>目前，用户可以通过网络界面测试HuggingChat，也可以通过使用Hugging Face的API将这款AI聊天机器人集成到其他应用程序和服务中。</p><p>在隐私方面，Hugging Face表示，目前版本的HuggingChat不会存储任何的聊天数据。此外，HuggingChat无法访问任何现有的Hugging Face账户。</p><p>Hugging Face成立于2016年，它已经成为人工智能社区不可或缺的一部分。该公司与亚马逊云服务（AWS）已经合作一段时间了，它对计算能力日益增长的需求主要是由亚马逊服务器来满足的。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -103,19 +96,26 @@
 <guid>http://www.techweb.com.cn/world/2023-04-27/2925580.shtml</guid>
 <author>小狐狸</author><pubDate>Thu, 27 Apr 2023 11:50:55 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>OpenAI将在未来几个月内推出ChatGPT企业版订阅服务</title>
-<link>http://www.techweb.com.cn/it/2023-04-26/2925436.shtml</link>
-<description><![CDATA[<p>4 月 26 日消息，OpenAI 今日宣布，计划为 ChatGPT 引入一个新的订阅等级，名为 ChatGPT Business，专为满足企业客户的需求而定制。</p><p>OpenAI 将该订阅描述为“适用于需要更多控制其数据的专业人士以及寻求管理其最终用户的企业。”</p><p>OpenAI 在一篇博文中写道：“ChatGPT Business 将遵循我们 API 的数据使用政策，这意味着默认情况下不会使用最终用户的数据来训练模型。我们计划在未来几个月内推出 ChatGPT Business。”</p><p>OpenAI 此前表示，随着服务的快速增长，它正在为 ChatGPT 探索额外的付费计划。（IT之家注：第一个订阅等级 ChatGPT Plus 于 2 月推出，价格为每月 20 美元，当前约 138 元人民币。）据一位消息人士称，ChatGPT 在推出仅两个月后估计已达到 1 亿月活跃用户，使其成为增长最快的消费者应用。</p><p>为了探索潜在的新收入来源，OpenAI 在 3 月份推出了 ChatGPT 插件，通过授予机器人访问第三方知识源和数据库（包括网络）的权限扩展了机器人的功能。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>亚马逊开始在云计算部门和人力资源部门裁员</title>
+<link>http://www.techweb.com.cn/world/2023-04-27/2925618.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月27日消息，据外媒报道，当地时间周三，亚马逊开始在其云计算部门和人力资源部门裁员。</p><p>此次裁员是亚马逊3月份宣布的计划的一部分，当时该公司宣布计划再裁员9000人，主要涉及亚马逊的云计算部门AWS、广告业务部门、游戏流媒体平台Twitch、负责人力资源和其他职能的PXT部门。</p><p>当时，亚马逊首席执行官（CEO）安迪·贾西 （Andy Jassy）表示，该公司的目标是在“4月中下旬”对受影响的职位做出最终决定。</p><p>亚马逊周三开始的新一轮裁员是去年11月开始的裁员潮的一部分，将影响约9000名员工，加上该公司在今年早些时候裁掉的约1.8万名员工，该公司的全球裁员人数预计将达到2.7万人。</p><p>据报道，在1月份进行的上一轮裁员中，亚马逊AWS的员工也受到了影响。AWS是该公司最赚钱的部门之一，该公司在最近的季度报告中指出，AWS的营收同比增长了20%。</p><p>与此同时，亚马逊还在当地时间周三宣布，将从2023年7月31日起停止支持其健康监测手环Halo，并关闭在美国和加拿大的对应业务部门。Halo手环是亚马逊在2020年推出的一款智能穿戴产品，可以帮助用户监测心率等身体数据。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-26/2925436.shtml</guid>
-<author>汪淼</author><pubDate>Wed, 26 Apr 2023 09:11:37 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>LG新能源一季度营收8.75万亿韩元 同比翻番并创下新高</title>
-<link>http://www.techweb.com.cn/world/2023-04-26/2925513.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】4月26日消息，据外媒报道，随着电动汽车需求的持续大幅增加，对电池这一关键部件的需求也在大幅增加，电池制造商的业绩也因此而大幅提升。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0426/1682499364249.jpg"></figure><p><code>在全球份额靠前的电池制造商LG新能源，最新的发布的财报就显示，他们的营收在一季度就有大幅增加，营业利润也有改善。</code></p><p><code>财报显示，LG新能源在今年一季度营收8.747万亿韩元，环比增长2.5%，同比增长101.4%，营收创下了新高。</code></p><p><code>从财报来看，今年一季度的营收同比环比均增长，也就意味着LG新能源的营收，自IPO以来已连续5个季度保持增长。</code></p><p><code>对于一季度的营收增长，LG新能源的CFO Chang Sil Lee表示是得益于他们及时的业务战略决定，积极应对北美需求的增加，俄亥俄州合资工厂稳定运营后出货量也有增加，电池的平均售价在一季度也有改善。</code></p><p><code>利润方面，财报显示LG新能源一季度的营业利润为6330亿韩元，同比增长144.6%，环比则是增长166.7%。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<guid>http://www.techweb.com.cn/world/2023-04-27/2925618.shtml</guid>
+<author>小狐狸</author><pubDate>Thu, 27 Apr 2023 17:20:41 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>消息称三星电子在减少存储芯片生产设备投资 并调整产能利用率</title>
+<link>http://www.techweb.com.cn/world/2023-04-27/2925619.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】4月27日消息，据外媒报道，在预计一季度的营业利润将同比下滑超过90%之后，此前无意人为削减存储芯片产量的三星电子，也终于决定减产。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0427/1682587466618.jpg"></figure><p><code>而最新的报道显示，在三星电子宣布决定削减存储芯片的产量之后，他们就在推进减产事宜，自宣布之后就一直在减少生产设备上的投资，并调整产能利用率。</code></p><p><code>从外媒的报道来看，三星电子是在4月7日给出一季度的业绩预期，预计营业利润将降至约6000亿韩元的当天，宣布决定减少产量，以推动市场的供求均衡的。</code></p><p><code>不过，当时外媒在报道中也提到，三星电子只是削减了短期的产量。他们在给外媒的一份声明中就表示，他们已经调整了短期生产计划，但由于他们预计长期需求依旧强劲，他们也将继续在基础设施上进行投资，确保必要的洁净室，并扩大研发方面的投资，以巩固技术领先地位。</code></p><p><code>三星电子是全球最大的存储芯片厂商，在市场供过于求，需求与价格双双下滑的情况下，他们主动减产，有助于市场供需尽快平衡，并稳定价格。</code></p><p><code>在存储芯片需求不理想，价格下滑的背景下，三星电子的存储业务也受到了影响，在一季度的营收降至8.92万亿韩元，同比下滑56%，环比也下滑27%，所在的设备解决方案部门在一季度也由盈转亏，出现了4.58万亿韩元的营业亏损。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-26/2925513.shtml</guid>
-<author>海蓝</author><pubDate>Wed, 26 Apr 2023 16:56:37 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-04-27/2925619.shtml</guid>
+<author>海蓝</author><pubDate>Thu, 27 Apr 2023 17:27:36 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>起亚一季度销售13.3万辆电动汽车 同比增长超过20%</title>
+<link>http://www.techweb.com.cn/world/2023-04-27/2925610.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】4月27日消息，据外媒报道，现代汽车集团旗下的起亚，已经公布了他们一季度的业绩，销量、营收、净利润同比均有明显增加，大力发展的电动汽车在一季度也有不错的表现。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0427/1682584371502.jpg"></figure><p><code>起亚方面的数据显示，他们一季度在全球共销售768,251辆汽车，同比增长12%，其中在海外市场销售626,511辆，同比增长11.1%；韩国市场销售141,740辆，同比增长16.5%。</code></p><p><code>起亚在财报中披露，他们的电动汽车在一季度销售13.3万辆，包括混合动力汽车、插电式混合动力汽车和纯电动汽车，同比增长21.1%，在销量中所占的份额也增至18.1%，较去年同期增加2.3个百分点。</code></p><p><code>销量大幅增加，也推升了起亚一季度的营收。财报显示他们在一季度营收23.69万亿韩元，同比增长29.1%。</code></p><p><code>利润方面，财报显示他们一季度的营业利润为2.87万亿韩元，同比增长78.9%；净利润2.12万亿韩元，同比增长105.3%。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-04-27/2925610.shtml</guid>
+<author>海蓝</author><pubDate>Thu, 27 Apr 2023 16:35:06 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
