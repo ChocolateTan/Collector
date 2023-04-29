@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Sat, 29 Apr 2023 08:42:23 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 14:08:59 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -19,12 +19,12 @@
 <guid>http://www.techweb.com.cn/it/2023-04-28/2925641.shtml</guid>
 <author>萧健</author><pubDate>Fri, 28 Apr 2023 09:28:48 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>iPhone 15系列生产成本暴增：换机压力又大了</title>
-<link>http://www.techweb.com.cn/phone/2023-04-27/2925547.shtml</link>
-<description><![CDATA[<p>【TechWeb】这段时间以来，外界越来越将目光转移到新一代的iPhone 15系列上，这段时间已经有关于该机外观和配置的不少爆料传出，不出意外的话该系列将继续推出包含iPhone 15、iPhone 15 Plus、iPhone 15 Pro和iPhone 15 Ultra四款机型，尤其两个Pro版本将在不少方面进行升级。现在有最新消息，近日有海外爆料博主透露，该机的售价也将随之上涨不少。</p><p>据海外知名爆料博主@Revegnus 最新发布的信息显示，与此前曝光的消息基本一致，与iPhone 14系列机型相比，今年全新的iPhone 15系列中标准版机型的生产成本将增加12%，而Pro版本的成本则将增加达20%，这意味着iPhone 15系列的售价将随之水涨船高，这与Pro系列的多项升级有关，其将搭载最新的A17处理器，该芯片将采用台积电的3纳米工艺制造，升级4800万主摄，并支持潜望式长焦。除此之外，还将采用钛合金中框、固态按键等等。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0427/1682557767634.jpg"></p><p>其他方面，据此前曝光的消息，全新的iPhone 15系列将继续提供与iPhone 14系列相同的四款机型，并且仍然有着明显的两极分化，其中两个Pro版将进一步提高屏幕亮度，达到2500尼特，边框也将进一步缩窄。同时二者将搭载新一代的A17 Bionic，这颗芯片集于台积电3nm工艺（N3）打造，同时内存还将会升级到8GB。而在影像上，除了将搭载接近1英寸大底的主摄外，还将首次搭载并独占潜望式长焦镜头，将带来无与伦比的6倍光学变焦能力，同样相比起iPhone 14 Pro系列上的3倍光学变焦来说是巨大的提升。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0427/1682557781663.jpg"></p><p>据悉，全新的iPhone 15系列将有望继续在今年9月与大家见面，相比前代产品，今年的标准版机型与Pro版之间的差距将进一步扩大，而售价也将再创新高，尤其顶配版iPhone 15 Ultra有望突破2万元。更多详细信息，我们拭目以待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>齐向东谈ChatGPT数据安全挑战：会让数据在使用中“被动”泄露</title>
+<link>http://www.techweb.com.cn/people/2023-04-29/2925708.shtml</link>
+<description><![CDATA[<p>ChatGPT掀起的人工智能热潮仍在继续，在数字中国建设峰会期间，奇安信集团董事长齐向东对TechWeb表示，ChatGPT是人工智能技术的代表性应用，它依托大数据给社会生产生活带来了很多便利，但同时也给数据安全带来了全新的安全挑战。主要有三个挑战：</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0429/1682732797107.jpg"></figure><p>一是降低了网络犯罪门槛，加剧了数据遭遇外部攻击的风险。过去，高水平的黑客只是一小部分，人工智能技术能让黑客的水平跃升，相当于给了普通人一本“武林秘籍”，让不懂代码、不懂技术的普通人，也能成为黑客。恶意攻击代码和钓鱼攻击变得“唾手可得”，加大了数据安全风险。</p><p>二是增加了数据泄露途径，会让数据在使用中“被动”泄露。人工智能工具是一件趁手的办公利器，能极大提升工作效率。但当员工使用ChatGPT类工具，向这些工具“投喂”数据时，就造成了企业敏感信息、商业机密和其他数据泄露风险。有安全公司调查，2.3%的员工会将公司机密数据粘贴到ChatGPT中，企业平均每周向ChatGPT泄露机密材料达数百次。</p><p>三是信息识别成为难题，深度伪造攻击逐渐流行。利用人工智能技术，犯罪分子不仅可以编写出更贴近受害人的工作环境，的钓鱼邮件，提高网络犯罪的得手率。还能通过伪造信息和声音对公众进行误导，一张伪造的图片、一段伪造的视频，都可能引起轩然大波，对数据安全造成巨大威胁。</p><p>齐向东指出，奇安信是网络安全领军企业，在数据安全防护领域实现领跑，目前已经开始深入布局人工智能模型安全。我们基于海量知识和大数据，在深度伪造、深度鉴伪等技术方面取得了重大突破，能准确识别多种AI伪造技术生成的虚假图片和视频。未来，奇安信会继续开展技术攻关，进一步发挥安全防护专长，维护好人工智能时代的数据安全。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/phone/2023-04-27/2925547.shtml</guid>
-<author>Suky</author><pubDate>Thu, 27 Apr 2023 09:11:23 +0800</pubDate>
+<guid>http://www.techweb.com.cn/people/2023-04-29/2925708.shtml</guid>
+<author>御风</author><pubDate>Sat, 29 Apr 2023 09:46:58 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>英特尔公布史上最大季度亏损：一季度净亏损28亿美元 同比转盈为亏</title>
 <link>http://www.techweb.com.cn/world/2023-04-28/2925643.shtml</link>
@@ -33,34 +33,34 @@
 <guid>http://www.techweb.com.cn/world/2023-04-28/2925643.shtml</guid>
 <author>小狐狸</author><pubDate>Fri, 28 Apr 2023 09:42:33 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>Canalys：2023年第一季度全球智能手机市场下降13%</title>
-<link>http://www.techweb.com.cn/it/2023-04-28/2925637.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月28日消息，Canalys最新数据显示，2023 年第一季度全球智能手机出货量下降 13%，跌至 2.70亿部。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0428/1682643398934.png"></figure><p>其中，三星重夺领先位置，出货量达到 6030万部。苹果公司以 5800 万部的出货量位居第二。排名前五的厂商中，只有苹果实现了同比增长，取得了高达 21% 的市场份额。小米以 3050 万部的出货量捍卫了其第三名的位置，而 OPPO 和 vivo 分别以2660 万和 2090 万部的出货量跻身前五，分别占据 10% 和 8% 的市场份额。</p><p>Canalys指出，虽然 2022 年第一季度和 2023 年第一季度的出货量差异仍然较为明显，但需求的下滑已开始趋于平稳。</p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>赵明：荣耀2022年研发投入占收入近10% 要在苹果最强的地方超越苹果</title>
+<link>http://www.techweb.com.cn/it/2023-04-29/2925709.shtml</link>
+<description><![CDATA[<figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0429/1682733447933.png"></figure><p style="text-align:center;">荣耀CEO赵明</p><p>新浪科技讯 4月28日下午消息，荣耀深圳研发实验室近日首次对外开放，展示了荣耀Magic系列背后的研发力量。荣耀CEO赵明在接受媒体采访时表示，荣耀在实验室领域是重资产投入，除了深圳，北京、西安也有类似实验室的布局。目的就是要在屏幕、通信等几个关键领域构建起领先的技术能力。他透露，荣耀2022年研发投入在收入占比接近10%。</p><p>&nbsp;长期投入基础研究 2022年研发投入占比近10%</p><p>&nbsp;据介绍，荣耀深圳研发实验室集仿真、基础研究和模组试验线三个模块于一体，深入工业软件、算法、仿真求解器等制造底层领域，同时也是智能终端领域新材料、新结构和新工艺的孵化基地，可实现显示等领域关键零部件从0到1的创新；为荣耀手机、平板、PC等产品的体验创新和规模量产提供基础保障，构成荣耀面向未来、布局高端、引领创新的核心能力。</p><p>&nbsp;以仿真技术为例，在产品研发前期阶段，荣耀仿真高性能计算平台可提供高性能计算能力和数据处理服务，在声、光、力、热、电磁、影像等各领域设计相互制约的情况下，寻求设计最优解；通过产品虚拟化设计和验证，使产品在开模前实现最优设计。</p><p>&nbsp;通过自动化和平台能力建设，荣耀整机仿真过程自动化率可达88%，平均仿真精度达85%以上，可在设计初期准确预测产品风险，通过反复迭代优化提升产品品质，最终提升消费者的使用体验。</p><p>&nbsp;比如荣耀Magic5系列所搭载的荣耀自研射频增强芯片C1，在产品研发初期，荣耀通过仿真模拟多种握持使用场景，完成芯片需求定义、应用设计和验证，最终为用户带来了更好的通信性能体验。</p><p>&nbsp;另外，显示模组实验室是荣耀在显示领域的技术研究中心和创新孵化基地，具备模组全自动试验线及完整的评测验证能力，可为手机、PC、平板、穿戴和大屏等产品带来新结构、新工艺、新材料的快速迭代及创新落地。</p><p>&nbsp;在Magic Vs系列产品开发过程中，荣耀深入材料开发底层，依托实验室材料开发平台，提前在实验室开展的预研项目中攻克内屏支撑结构中120um钛合金的量产稳定性问题，并进行与整机匹配的结构设计，实现此种材料在业界首次导入折叠产品；并实现模组减重2.5g，减薄0.03mm。</p><p>&nbsp;“荣耀深圳研发实验室三位一体的布局，是我们以人为中心创新战略的一个重要支点。”赵明说，“为了不断提升消费者真实体验，我们将长期投入基础研究，携手全球产业链合作伙伴，一起为消费者带来更多创新产品。”</p><p>&nbsp;赵明表示，荣耀在实验室领域是重资产投入，除了深圳实验室，北京、西安也有类似实验室的布局，核心目的就是要在屏幕、通信等几个关键领域构建起领先的技术能力。</p><p>&nbsp;他透露，荣耀2022年研发投入的强度，占比接近收入的10%。“今天我们还是秉持一个进攻性的企业发展策略。”赵明说，财务指标的追求不是荣耀今年最核心考虑的要素。独立出来的荣耀要完整的构建自己的技术体系和创新能力，目前远远没有到投资变现的阶段，还是处于一个初期投入阶段。</p><p>&nbsp;“放眼手机产业，有几家能够像荣耀这样把收入的10%投到研发领域？如果我们要追求利润，很简单，我们把研发投入砍一砍就行了，但如果研发投入砍了之后，你未来怎么办？”</p><p>&nbsp;要在苹果最强的地方超越苹果</p><p>&nbsp;在荣耀深圳研发实验室各项技术的支撑下，赵明自信地表示，荣耀Magic5系列发布后，在旗舰机的通信、屏幕、护眼、综合体验上，没有对手。</p><p>&nbsp;“以前续航的标杆是华为Mate，今天谁来挑战Magic5的续航？没有。谁来挑战Magic5的通信？也没有。”</p><p>&nbsp;而在平台AI的布局上，赵明认为荣耀MagicOS 7.0的解决方案也是最优的，已经领先了所有对手2-3年的时间。他表示，荣耀会在MagicOS 7.0的基础上进一步提升，下一步还要打造比肩iOS的体验。“一提苹果，大家就说苹果硬件配得不行，通信很差、续航很差，这是所有人都公认的。你看标准版的信号差、续航差，屏幕的黑边比我们都大，但是凭什么它卖那么贵，就是因为苹果有iOS和生态，好像一个iOS就把苹果所有的缺点和问题都掩盖了。”</p><p>&nbsp;赵明说，荣耀要在苹果最强的地方，在OS流畅度和生态上去追赶或者超越，构建自己的核心能力。</p><p>&nbsp;“我今天例举的这几个领域，至少没有人敢挑战荣耀Magic5。反过来我要去挑战鸿蒙和iOS的流畅度，其实MagicOS 7.0跟鸿蒙3.0有很多的对比， 90%要不与之相当，要不就是我流畅性更好，下一步就是不论对标鸿蒙还是iOS都要有这样的能力。”（张俊）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-04-28/2925637.shtml</guid>
-<author> 御风 </author><pubDate>Fri, 28 Apr 2023 08:57:38 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>分析师：苹果将于2025年下半年推出配microLED屏的Apple Watch Ultra</title>
-<link>http://www.techweb.com.cn/world/2023-04-28/2925669.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月28日消息，据外媒报道，显示屏分析师罗斯·杨（Ross Young）透露，苹果将于2025年下半年推出配有microLED显示屏的Apple Watch Ultra智能手表。</p><p>目前，Apple Watch采用OLED屏幕来实现全面屏效果，但这种显示技术有其局限性，所以苹果可能在不久的将来使用更先进的技术。</p><p>自2014年收购microLEDD初创公司LuxVue以来，苹果一直在积极开发microLED技术。该技术是一项新兴技术，在亮度和清晰度方面都优于OLED技术，可能带来更好的显示效果。</p><p>microLED显示屏随着时间的推移烧坏的可能性更小，响应时间更快，具有低延迟特点，可提供更好的能源效率，更长的电池寿命，并且可使设备更轻薄、更明亮、更省电。</p><p>据媒体报道，由于这种显示屏的生产仍然具有挑战性，且制造成本也更高，苹果公司计划首先在Apple Watch Ultra上使用microLED显示屏，然后再将这项技术扩展到iPhone、iPad和MacBook上。</p><p>早在2020年，就有传言称，苹果正致力于将microLED技术引入Apple Watch。当时，供应链泄露的时间是2023年或2024年。</p><p>今年1月初，海通国际证券分析师杰夫·普（Jeff Pu）表示，苹果将在2024年推出带有microLED显示屏的Apple Watch。</p><p>一周后，Ross Young又透露，首款采用microLED显示屏的Apple Watch将于2025年春季推出。</p><p>今年3月份，有报道指出，带有microLED显示屏的新款Apple Watch Ultra将于2024年或2025年推出。</p><p>当地时间周四，Ross Young再次将带有microLED显示屏的Apple Watch的推出时间范围缩小到2025年下半年。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-28/2925669.shtml</guid>
-<author>小狐狸</author><pubDate>Fri, 28 Apr 2023 15:43:43 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>亚马逊云计算业务Q1营收环比略有下滑 终结连续34个季度上涨势头</title>
-<link>http://www.techweb.com.cn/world/2023-04-28/2925671.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】4月28日消息，据外媒报道，亚马逊发布的财报显示，作为他们主要利润来源的云计算业务，营收在一季度同比虽仍保持增长，但环比略有下滑，营业利润也同比环比均出现了下滑。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0428/1682669401348.jpg"></figure><p><code>从财报来看，亚马逊云计算业务在今年一季度营收213.54亿美元，高于去年同期的184.41亿美元，但不及去年四季度的213.78亿美元，环比略有下滑。</code></p><p><code>一季度的营收略有下滑，也就意味着亚马逊云计算业务的营收，在连续34个季度环比增长之后，再次出现了下滑。</code></p><p><code>亚马逊云计算的营收上一次环比下滑，还是在2014年的二季度，当季10.05亿美元的营收，不及此前一个季度的10.5亿美元。在那之后营收持续增加，在2020年的一季度首次超过100亿美元，并在去年三季度首次超过200亿美元。</code></p><p><code>除了营收连涨势头终结，亚马逊云计算业务一季度51.23亿美元的营业利润，不及上一个季度的52.05亿美元，连续四个季度环比下滑；也不及去年同期的65.18亿美元，连续两个季度同比下滑。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-04-28/2925671.shtml</guid>
-<author>海蓝</author><pubDate>Fri, 28 Apr 2023 16:17:45 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>财报季新情况：广告主更愿意在科技巨头花钱 小厂日子难熬</title>
-<link>http://www.techweb.com.cn/viewpoint/2023-04-28/2925652.shtml</link>
-<description><![CDATA[<p>美国科技公司进入财报季。综合业绩数据显示，在宏观经济不确定的时期，广告主更愿意在谷歌、Meta这种大型互联网公司掏腰包，这将帮助Meta、谷歌等科技巨头们从Snap、Pinterest等规模相对较小的互联网公司抢走广告份额。</p><p>&nbsp;疫情时期，品牌广告主扩大网络营销，导致网络广告开支暴增，然而在过去几个季度中，广告市场走软，营收主要依靠网络广告的科技公司面临广告主的精挑细选和货比三家。</p><p>&nbsp;美联储不断上调利率，创纪录的通货膨胀，美国经济前景的忧虑，这些因素促使广告主削减了营销开支。</p><p>&nbsp;不过，根据媒体研究公司MAGNA上个月发布的报告，今年，社交媒体广告市场的增幅，将比去年略有提高。</p><p>&nbsp;美国Zacks投资管理公司的投资经理Brian Mulberry表示，如今的广告主，更愿意把钱花在他们喜欢、信赖的广告平台上。</p><p>&nbsp;今年一季度，谷歌母公司Alphabet的广告收入实现545.5亿美元，虽然和去年同期相比有所下滑，但是依然超出了华尔街分析师预期值。</p><p>&nbsp;在本周二的财报分析师电话会议上，谷歌首席商务官Philipp Schindler表示，广告主现在面临新的经济大环境，他们想要少花钱办大事。</p><p>&nbsp;周二，谷歌高管介绍了在网络广告中使用人工智能技术的进展，据称，人工智能能够提高网络广告和受众之间的相关性，甚至还能够创作一些广告文案，直接提供给广告主使用。</p><p>&nbsp;周三，主营社交媒体的Meta也表示，通过基于人工智能技术的内容推荐和推送，旗下移动社交工具Instagram在一季度的用户平均使用时间，同比增加了24%。Meta正在人工智能上大举投资，刺激广告主增加广告消费。</p><p>&nbsp;受到财报利好消息刺激，周三盘后交易时段，Meta股价大幅上涨了12%。</p><p>&nbsp;根据MAGNA公司的报告，今年社交媒体广告市场的总规模将比去年增长6%，达到660亿美元。</p><p>&nbsp;去年，社交媒体广告市场仅仅增长了2%，主要原因是苹果公司在iOS操作系统中实行了隐私新政策，限制第三方应用采集消费者隐私信息，这影响了广告主使用个性定制传播营销信息的能力。</p><p>&nbsp;Insider Intelligence的分析师Debra Aho Williamson表示，目前广告主表现出一些惯性，他们愿意使用已经熟悉的广告平台，采用成熟度较高的各种广告主工具。</p><p>&nbsp;相比之下，一些历史不算长的互联网公司则受到了广告主的冷遇，比如聊天工具Snapchat的母公司Snap，以及图片收藏社交平台Pinterest。和科技巨头们相比，这些公司的广告客户规模微乎其微。</p><p>&nbsp;由于财报不理想，在发布一季度财报之后，Snap和Pinterest两家公司的市值在一天之内一共蒸发了40多亿美元。</p><p>&nbsp;一季度，Snap的营收下跌了7%，该公司预警称，二季度的营收可能持续低迷。据报道，Snap最近对广告平台进行了一些调整，可能打击广告主的购买积极性。</p><p>&nbsp;Pinterest一季度的营收则增长了5%，预计二季度增速大体类似，这一预测未达华尔街分析师预期，在盘后交易时段，该公司股价暴跌9%。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/viewpoint/2023-04-28/2925652.shtml</guid>
-<author>刘明亮</author><pubDate>Fri, 28 Apr 2023 11:54:51 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-04-29/2925709.shtml</guid>
+<author>张俊</author><pubDate>Sat, 29 Apr 2023 09:58:04 +0800</pubDate>
 <source>新浪科技</source>
+</item><item><title>闻泰科技2022年半导体业务净利润37.49亿元 同比增长42.46%</title>
+<link>http://www.techweb.com.cn/it/2023-04-29/2925711.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月29日消息，闻泰科技发布2022年年报及2023年第一季度报。</p><p>年报显示，2022年，闻泰科技实现营收580.79亿元，同比增长10.15%；归母净利润14.60亿元，归母扣非净利润 15.41亿元。2022年，公司总资产766.90亿元，同比增长5.67%，净资产359.00亿元，同比增长6.53%。</p><p>其中，2022年闻泰科技的半导体业务（安世半导体）实现营收160.01亿元，同比增长15.93%；净利润37.49亿元，同比增长42.46%；业务毛利率42.66%，比上年增加5.49个百分点；营收、净利润和毛利率均再创新高。2022年安世半导体累计销售出货1018亿件，研发投入提高至11.91亿元。</p><p>年报称，2022 年以来，功率和分立半导体器件市场汽车、工业和消费需求出现了分化的局面，汽车类需求保持良好的发展态势，工业领域需求保持相对平稳，消费电子领域呈现明确的去库存态势。闻泰科技的半导体业务加强了高毛利率产品包括逻辑、模拟、功率 Mos 等的产能和料号扩充，尤其是车规 Mos 成为半导体业务盈利增长的重要驱动力。</p><p>相较于半导体业务，闻泰科技的产品集成业务（闻泰通讯）在业绩上承受较大压力。2022年，闻泰科技的产品集成业务实现营收395.69亿元，增长2.10%；净利润受研发投入影响出现净亏损15.69亿元，2022年产品集成业务板块研发投入达32.54亿元。</p><p>2023年第一季度闻泰科技实现营收144.27亿元，归母净利润4.60亿元。</p><p>财报称2023年第一季度，半导体行业下游除了汽车市场外，其他终端市场需求均呈现疲软，安世半导体实现收入37.97亿元，毛利率仍达41.67%，维持较高的盈利水平；消费电子市场在经历寒冬后，一季度整体仍处于艰难去库存状态，闻泰科技的产品集成业务实现收入102.89亿元，毛利率9.42%相较2022年已回归相对正常水平。</p><p>整体来看，尽管一季度行业整体开局不利，但是闻泰科技的存货显著减少，从2022年的101.32亿元降至83.07亿元，释放积极信号。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-29/2925711.shtml</guid>
+<author>果青</author><pubDate>Sat, 29 Apr 2023 10:17:17 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>华为一季度业绩发布：销售收入1321亿元，同比增长0.8%</title>
+<link>http://www.techweb.com.cn/it/2023-04-29/2925713.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月29日消息，日前，华为发布2023年第一季度经营业绩，实现销售收入1321亿人民币，同比增长0.8%，净利润率2.3%。华为指出，整体经营结果符合预期，将继续在研发上加大投入，以保持面向未来的持续创新能力，为客户、伙伴、社会创造价值，实现有质量的发展。</p><p>针对2023年及未来几年，华为已经有明确的战略方向。“2023年，是华为生存与发展的关键之年。今天的华为，就像梅花，梅花飘香是因为她经历了严寒淬炼。我们面临的压力无疑是巨大的，但我们也有增长机会、有组合韧性、有差异化优势、有客户和伙伴的信任和敢于压强式投入。因此，我们有信心战胜艰难困苦，实现持续生存和发展。”华为副董事长、轮值董事长徐直军在华为2022年年报说明会上表示。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-29/2925713.shtml</guid>
+<author>御风</author><pubDate>Sat, 29 Apr 2023 11:44:51 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>滴滴退市后发布年报：2022年营收下降19%  净亏损收窄52%</title>
+<link>http://www.techweb.com.cn/it/2023-04-29/2925712.shtml</link>
+<description><![CDATA[<p>【TechWeb】4月29日消息，滴滴退市后在其官网发布年报。2022年滴滴实现营业收入1408亿元，同比下降19%。净亏损为238亿元，同比收窄52%。</p><p>分业务来看，中国出行业务收入从2021年的1605亿元下降至2022年的1259亿元，降幅为22%。国际化业务收入从2021年的36亿元增加至2022年的59亿元，增幅为62%。其他业务收入从2021年的97亿元降至2022年的90亿元，降幅为7%。中国出行、国际业务、其他业务分别占公司总收入的比例为89%、4%、7%。</p><p>2023年春节以来，国内通勤、消费性出游、大型交通枢纽等场景的出行需求恢复较快，带动了滴滴中国出行业务回归增长。上述年报显示，2023年3月，中国出行业务日均完单2820万，同比2022年3月增长42%。同期，国际化业务继续发展，国际化出行及外卖在2023年3月日均完单660万；其他业务包括两轮车、能源、货运、金融等日均完单1020万。3月中国出行业务、国际化业务和其他业务总计日均完单4500万。</p><p>与此同时，截至2023年3月31日止的12个月中，滴滴在全球有5.87亿名年活跃用户，2300万名年活跃司机。其中，中国出行业务有4.11亿名年活跃用户，1900万名年活跃司机。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-04-29/2925712.shtml</guid>
+<author>周小白</author><pubDate>Sat, 29 Apr 2023 10:59:23 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>爆料称苹果明年将发布史上最大尺寸iPad：配备M3 Pro芯片</title>
 <link>http://www.techweb.com.cn/world/2023-04-28/2925651.shtml</link>
 <description><![CDATA[<p>【TechWeb】4月28日消息，据外媒报道，爆料者称，苹果公司将在2024年发布配备M3 Pro芯片的14.1英寸iPad，14.1英寸的iPad将是迄今为止尺寸最大的iPad，超过了目前12.9英寸的iPad Pro。</p><p>多年来，一直有传言称，未来的iPad将比现有的12.9英寸机型更大，但苹果从未宣布过任何消息。</p><p>早在2021年的时候，知名苹果分析师马克·古尔曼曾提到过14英寸到15英寸的iPad。2022年10月份，他表示，更大尺寸的iPad可能在未来一两年内推出。</p><p>此外，显示屏供应链分析师罗斯·杨（Ross Young）也曾在2022年6月份表示，苹果正在开发14.1英寸的iPad Pro机型，该设备要到2023年才会发布。</p><p>但2022年12月份，罗斯·杨又改变了他的预测，称苹果不再计划推出14.1英寸的iPad机型。他现在的报告显示，苹果要么取消这款设备，要么将其推迟很长一段时间。</p><p>当地时间周四，爆料者称，苹果公司正在为更大的iPad机型开发iPadOS 17特别版，首款大尺寸iPad的尺寸为14.1英寸，将于明年发布。</p><p>爆料者声称，14.1英寸的iPad将能够通过Thunderbolt 4端口同时外接2台频率为60Hz的6K显示器，而且可能会配备M3 Pro芯片，M3 Pro芯片可能是明年最强大的苹果处理器之一。</p><p>据报道，这将是苹果公司首次在iPad中采用“Pro”芯片。到目前为止，iPad Pro和iPad Air机型都不是采用的“Pro”芯片。</p><p>此外，爆料者暗示，苹果可能会为14.1英寸的iPad取一个新名字，以将其与现有产品区分开来，比如，“iPad Pro 14.1”、“iPad Ultra”、“iPad Studio”、“iPad Pro Max”。不过，这可能是基于猜测，而不是确凿的证据。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
