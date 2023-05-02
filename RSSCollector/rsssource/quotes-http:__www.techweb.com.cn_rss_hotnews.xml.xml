@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Tue, 02 May 2023 14:09:20 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 20:16:20 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -68,12 +68,12 @@
 <guid>http://www.techweb.com.cn/it/2023-05-02/2925771.shtml</guid>
 <author>乃河</author><pubDate>Tue, 02 May 2023 10:36:38 +0800</pubDate>
 <source>快科技</source>
-</item><item><title>安森美半导体财报引动芯片股热潮，英伟达美股周一创下13个月来新高</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925759.shtml</link>
-<description><![CDATA[<p>5 月 2 日消息，周一，芯片制造商安森美半导体 (ON Semiconductor) 美股收盘上涨 7%，此前该公司公布的季度业绩指引超出了华尔街的预期，带动其他芯片股上涨，而英伟达更是来到了 13 个月来的最高水平。</p><p>截至发稿，英伟达美股报价 289.10 美元每股，市值达到了 7140.77 亿美元。</p><p>现阶段，全球投资者都在努力寻找芯片行业触底的迹象，而安森美半导体公布的季度业绩和财测则好于分析师预期，因此引动了行业上涨。尽管这家汽车和工业芯片供应商表示，由于宏观经济的不确定性，该公司对前景持 "谨慎立场"。</p><p>安森美半导体公布的季度营收指引中值为 19.75 亿美元至 20.75 亿美元，较上年同期下降 3%，但超过了分析师预期的下降 7%，从而提振了其他芯片制造商的股价。</p><p>今日，费城半导体指数上涨 0.7%，优于纳斯达克指数 0.1% 的涨幅。全球市值最高的芯片制造商英伟达股价上涨 3.5%，达到 2022 年 3 月以来的最高点。此外，莱迪思半导体 (LSCC.O) 股价上涨 1.8%，高于市场对其季度报告的预期。</p><p>投资者将关注更多有关芯片行业健康状况的数据，本周将有更多公司公布财报，包括 AMD（周二）、Qorvo 和高通（周三）和 Cirrus Logic（周四）。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>代码泄露事件后 三星暂时禁止员工使用ChatGPT等生成式AI</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925782.shtml</link>
+<description><![CDATA[<p>5 月 2 日消息，据彭博社周一报道，三星已在内部备忘录告知员工，停止使用 ChatGPT 和 Bard 等生成式 AI 工具，理由是担心会带来安全风险。</p><p>此举是在上个月发生代码泄露事件后的“亡羊补牢”举措，此前消息称，三星电子引入聊天机器人 ChatGPT 不到 20 天就发生了 3 起涉及 ChatGPT 的事故，其中 2 起与半导体设备有关，1 起与会议内容有关。</p><p>报道称，内部备忘录表示，三星担心传输到谷歌 Bard 和微软 Bing 等人工智能平台的数据存储在外部服务器上，难以检索和删除，最终可能会泄露给其他用户。</p><p>内部备忘录还显示，三星上个月进行了一项关于内部使用 AI 工具的调查，其中 65% 的受访者认为此类服务存在安全风险。备忘录透露，今年 4 月初，三星工程师将内部源代码上传到了 ChatGPT，目前还不清楚这些信息包含什么。</p><p>与此同时，三星正在开发自己的内部 AI 工具，用于翻译和总结文件以及软件开发，还在研究阻止敏感公司信息上传到外部服务的方法。“总部正在审查安全措施，以创造一个安全的环境，以安全地使用生成式 AI 来提高员工的生产力和效率。但是，在准备好这些措施之前，我们暂时限制生成式 AI 的使用。”</p><p>三星的新政策禁止在公司自有的电脑、平板电脑和手机以及内部网络上使用生成式 AI 系统，不会影响销售给消费者的设备，例如 Android 智能手机和 Windows 笔记本电脑。三星甚至在消费者设备中积极推广生成式 AI，据IT之家此前报道，三星近日向旗下所有的手机以及平板电脑产品推送了微软 Bing AI 更新，在这一更新完成后，三星用户可直接通过手机或者平板使用微软 Bing AI。</p><p>三星代表向彭博社证实这一份内部备忘录。三星在备忘录中表示：“我们要求您认真遵守我们的安全指南，否则可能会导致公司信息泄露，违者进行纪律处分，甚至包括解雇。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925759.shtml</guid>
-<author>问舟</author><pubDate>Tue, 02 May 2023 08:57:56 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925782.shtml</guid>
+<author>汪淼</author><pubDate>Tue, 02 May 2023 16:58:13 +0800</pubDate>
 <source>IT之家</source>
 </item><item><title>曝小鹏“自动驾驶”避让大车险冲出高架 客服回应：会反馈核实</title>
 <link>http://www.techweb.com.cn/it/2023-05-02/2925772.shtml</link>
@@ -89,33 +89,33 @@
 <guid>http://www.techweb.com.cn/it/2023-05-02/2925775.shtml</guid>
 <author>落木</author><pubDate>Tue, 02 May 2023 14:03:32 +0800</pubDate>
 <source>快科技</source>
+</item><item><title>三星和LG斥资数十亿美元扩充中型OLED面板产能： 瞄准苹果订单</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925781.shtml</link>
+<description><![CDATA[<p>据日经新闻消息， 三星电子和LG显示正倾注资源，投入数十亿美元扩充中型OLED面板产能，旨在确保苹果iPad和MacBooks订单。</p><p>三星电子旗下三星显示投资4.1万亿韩元（约合30.5亿美元），在韩国汤井园区安装OLED生产线，从液晶显示器转型，预计2026年起量产。LG显示则斥资3.3万亿韩元在坡州厂安装中型OLED面板的新产线，采用的是第6代技术。</p><p>另外，此前据The Elec报道，三星电子已经恢复了与LG之间关于W-OLED面板供应协议的谈判。双方正在讨论初始供应量，可能为20万块到30万块。如果最终确定LG开始供应W-OLED面板，三星电子可能会在明年推出搭载这些面板的电视。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925781.shtml</guid>
+<author>站长之家</author><pubDate>Tue, 02 May 2023 16:55:41 +0800</pubDate>
+<source>站长之家</source>
+</item><item><title>微软收购暴雪遭英国监管部门阻拦 游戏开发成本失控引发行业担忧</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925780.shtml</link>
+<description><![CDATA[<p>&nbsp;5 月 2 日消息，微软计划以 680 亿美元（备注：当前约 4712.4 亿元人民币）的价格收购游戏巨头暴雪娱乐，但这一交易遭到了英国竞争和市场管理局（CMA）的反对。CMA 在一份 418 页的报告中，详细阐述了其研究和理由，其中一个重要的论点是，目前的游戏开发成本已经高得难以承受，而微软的收购将进一步加剧市场垄断，削弱竞争。</p><p>报告援引了市场分析公司 IDG 的研究，其预计大作游戏（Blockbuster Game）的开发预算将从上一代主机平均 5000 万至 1.5 亿美元，增长到未来几年超过 2 亿美元。而在 2014 年，这个数字还只有 6000 万美元左右。报告还引用了暴雪对其旗舰产品《使命召唤》的评价：“我们必须为《使命召唤》制作大量的内容，以至于我们不能再依靠一个主要工作室了。现在我们每年需要将近 1.5 个主要工作室来制作《使命召唤》，这种压力迫使我们越来越多地使用外包，我不认为这种情况会在短期内改变。”</p><p>除了暴雪之外，其他游戏出版商也纷纷表示，他们的热门游戏系列的开发成本都在不断上升。有些系列甚至已经超过了 3 亿美元的开发预算，而下一代《侠盗猎车手》等未来的大作游戏成本也预计将达到 2.5 亿美元或更高。其中一家出版商透露，其最昂贵的游戏开发成本达到了 6.6 亿美元，而市场营销预算则高达 5.5 亿美元。</p><p>CMA 认为，这些数据表明，目前很难有其他公司能够在短期内制作出能够替代《使命召唤》的游戏，因此微软的收购将损害消费者和竞争者的利益。但这也反映出大作游戏开发已经变得不可持续，由于大作游戏耗资巨大，耗时漫长，同时面临着巨大的市场风险和玩家需求，游戏出版商不得不继续依赖他们最信任的 IP。育碧就公开表示要加大对《刺客信条》和《孤岛惊魂》等系列的投入，而当前主机世代已经过去了一半，索尼的粉丝们仍在等待新的 IP 出现。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925780.shtml</guid>
+<author>远洋</author><pubDate>Tue, 02 May 2023 16:53:51 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>安森美半导体财报引动芯片股热潮，英伟达美股周一创下13个月来新高</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925759.shtml</link>
+<description><![CDATA[<p>5 月 2 日消息，周一，芯片制造商安森美半导体 (ON Semiconductor) 美股收盘上涨 7%，此前该公司公布的季度业绩指引超出了华尔街的预期，带动其他芯片股上涨，而英伟达更是来到了 13 个月来的最高水平。</p><p>截至发稿，英伟达美股报价 289.10 美元每股，市值达到了 7140.77 亿美元。</p><p>现阶段，全球投资者都在努力寻找芯片行业触底的迹象，而安森美半导体公布的季度业绩和财测则好于分析师预期，因此引动了行业上涨。尽管这家汽车和工业芯片供应商表示，由于宏观经济的不确定性，该公司对前景持 "谨慎立场"。</p><p>安森美半导体公布的季度营收指引中值为 19.75 亿美元至 20.75 亿美元，较上年同期下降 3%，但超过了分析师预期的下降 7%，从而提振了其他芯片制造商的股价。</p><p>今日，费城半导体指数上涨 0.7%，优于纳斯达克指数 0.1% 的涨幅。全球市值最高的芯片制造商英伟达股价上涨 3.5%，达到 2022 年 3 月以来的最高点。此外，莱迪思半导体 (LSCC.O) 股价上涨 1.8%，高于市场对其季度报告的预期。</p><p>投资者将关注更多有关芯片行业健康状况的数据，本周将有更多公司公布财报，包括 AMD（周二）、Qorvo 和高通（周三）和 Cirrus Logic（周四）。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925759.shtml</guid>
+<author>问舟</author><pubDate>Tue, 02 May 2023 08:57:56 +0800</pubDate>
+<source>IT之家</source>
 </item><item><title>乘联会崔东树：2023 年 1-3 月中国占世界汽车份额 30%</title>
 <link>http://www.techweb.com.cn/it/2023-05-01/2925735.shtml</link>
 <description><![CDATA[<p>5 月 1 日消息，全国乘用车市场信息联席会秘书长崔东树公众号发文，2023 年 3 月的世界汽车销量达到 807 万台，同比增 11%；1-3 月世界汽车销量达到 2038 万台，同比增长 4%。2023 年中国车企的世界累计份额达到 30%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902688327.png"></figure><p style="text-align:center;">历年世界汽车销量走势</p><p>从图中获悉，2017 年-2022 年，世界汽车销量在 2017 年达到顶峰，2018 年-2020 年连续下滑，2021 年销量回升至 8135 万台，同比增长 4%。但 2022 年仅有 8018 万台，同比下降 1%，仅稍高于 2020 年销量。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902696642.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902704661.png"></figure><p style="text-align:center;">历年世界汽车销量走势</p><p>崔东树在文中提到，上表中的世界汽车销量主要是 70 个国家的销量，这 70 个核心国家在 2019 年有 9000 万台左右。2023 年的世界销量增速 4% 的表现较好，其中中国下降 7%，世界其他国家增 8%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902717254.png"></figure><p>崔东树表示：</p><p>中国汽车市场对世界汽车市场影响力极其巨大。2016-2018 年中国汽车占世界 30% 左右，2019 年下降到 29%，但仍具有绝对优势。2020-2021 年国份额回升到 32%。2022 年中国份额上升到 33%。</p><p>2023 年中国份额下降到 30%，这也是中国市场春节因素和车购税优惠政策退出的正常体现。北美洲和欧洲市场份额全面回升，南半球市场走势偏弱。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/it/2023-05-01/2925735.shtml</guid>
 <author>泽泷</author><pubDate>Mon, 01 May 2023 09:00:32 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>4月全球浏览器大战：谷歌Chrome第一 份额63.51%遥遥领先</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925738.shtml</link>
-<description><![CDATA[<p>5月1日消息，日前，数据研究机构Statcounter公布了2023年4月全球浏览器使用数据。</p><p>首先来看全平台份额，在4月全球大战中，谷歌Chrome稳坐榜单第一，以63.51%的全球市场份额遥遥领先，不过，相比上月64.76%的份额下降1.25%，随后是苹果Safari，以20.43%的份额排名第二，较上月提高0.91%，微软Edge位列第三，占比4.96%。</p><p>而Firfox、三星浏览器则分别为2.77%、2.59%，分列第四和第五。</p><p>PC端方面，前三名依然是谷歌Chrome、苹果Safari、微软Edge，份额依次为66.13%、11.87%、11%，其中Chrome上涨0.36%，Edge上涨0.95%，Edge较上月下降0.13%。</p><p>手机浏览器方面，谷歌Chrome继续领跑，以61.96%份额排第一，苹果Safari由于iOS独特的生态优势占比26.85%，排名第二，三星浏览器则凭借手机庞大的出货量位居第三，占比4.8%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682903464740.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682903470192.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925738.shtml</guid>
-<author>拾柒</author><pubDate>Mon, 01 May 2023 09:12:10 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>标准版无缘！苹果iPhone 15 Pro系列独占Wi-Fi 6E</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925736.shtml</link>
-<description><![CDATA[<p>5月1日消息，据MacRumors报道，苹果对iPhone 15标准版和Pro版实行差异化策略，Pro系列不仅仅会独占A17仿生芯片，网络方面也跟标准版有所不同。</p><p>据悉，iPhone 15 Pro和iPhone 15 Pro Max将会支持Wi-Fi 6E，标准版则与之无缘。Wi-Fi 6E是Wi-Fi 6的增强版本，这里的“E”代表“Extended”，Wi-Fi 6E将Wi-Fi 6的功能扩展到6GHz频段，包括更高的并发、更低的时延和更大的带宽。</p><p>6GHz频段是一个全球统一的连续频谱块，范围从5925MHz扩展到7125MHz，共计1200MHz频谱，意味着额外提供了7个160MHz信道或14个80MHz信道或29个40MHz信道或59个20MHz信道。</p><p>对比2.4GHz和5GHz，6GHz频段的频谱资源比前两者相加还要多。新增的信道将缓解信道拥塞的问题，提升了并发率。</p><p>不过6GHz也有自己劣势，因为6GHz频段的波长更短。短波适合高速传输，但是不适合长距离传输，而且衰减更大。</p><p>除了支持Wi-Fi 6E，iPhone 15 Pro系列还将会支持eSIM，这次苹果计划将欧版iPhone 15系列的SIM卡槽移除，同时升级支持eSIM。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925736.shtml</guid>
-<author>振亭</author><pubDate>Mon, 01 May 2023 09:02:23 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>SpaceX猎鹰重型运载火箭将Viasat-3超高通量通信卫星发射升空，预计4.5小时内送抵目标轨道</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925739.shtml</link>
-<description><![CDATA[<p>&nbsp;5 月 1 日消息， 8 点 26 分，由于天气原因多次推迟的 Viasat-3 超高通量通信卫星搭载 SpaceX 猎鹰重型运载火箭在卡角发射场发射升空！此次发射采用全消耗模式，不回收。</p><p>除 Viasat-3 外，此次一同拼车的还有 GS-1 立方体卫星以及 Arcturus 通信卫星，诸多详情可见IT之家此前预告。</p><p>此次发射任务由猎鹰重型运载火箭直送地球静止轨道，目前助推器，芯一级和整流罩已经分离抛掉。如果一切顺利，芯二级预计在 4.5 小时内将卫星送到目标轨道并开始部署，历时 13 分钟。</p><p>Viasat-3 超高通量通信卫星由波音公司研发，采用全电推进系统，重约 6.3 吨，通信速率 100+Mpbs，通信容量达到 1Tbps，设计寿命达 15 年以上，Viasat-3 也是迄今为止最强通信卫星，卫星定点后将为西半球的南北美洲提供通信服务。</p><p>此外，北京时间 4 月 29 日 06:12，SpaceX 猎鹰九号 Block5 火箭从卡角 SLC-40 发射升空，在起飞近 2 小时后，二级三次点火完成，星箭分离，SES O3b mPOWER 3&amp;4 这两颗高速互联网通信卫星被顺利送入预定中地球转移轨道（2775×7000km×9.6º），而 B1078.2 芯一级成功着陆在“只需读读说明书”(JRTI) 号驳船上。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925739.shtml</guid>
-<author>问舟</author><pubDate>Mon, 01 May 2023 09:13:54 +0800</pubDate>
 <source>IT之家</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
