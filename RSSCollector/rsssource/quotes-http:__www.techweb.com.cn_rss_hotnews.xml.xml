@@ -5,14 +5,91 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Tue, 02 May 2023 08:48:26 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 14:09:20 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>乘联会崔东树：2023 年 1-3 月中国占世界汽车份额 30%</title>
+     <item><title>微软计划推出自研Arm芯片对标苹果，现已开始招聘各类工程师</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925758.shtml</link>
+<description><![CDATA[<p>&nbsp;5 月 2 日消息，据 Windows Latest 报道，微软正在与合作伙伴和内部团队合作开发新的 Arm 芯片以与苹果的 M 系列芯片进行竞争。</p><p>此外，微软还准备将 Windows 12 为其 Arm 芯片进行优化，以在性能、效率等方面赶超苹果。Windows Latest 发现，微软已经提供了多种职位细节，包括：</p><p>首席 SoC Silicon 架构师</p><p>高级物理设计验证工程师</p><p>首席设计工程师</p><p>高级 Silicon 功率完整性 CAD 经理</p><p>微软将其芯片工作归类为“Microsoft Silicon Team”，这些招聘页面大多在 4 月底刚刚上线。但截至IT之家发稿，微软已经从官网撤下大部分职务的详细介绍。以下是微软公司对首席 SoC Silicon 架构师的描述：</p><p>您将处于计算的前沿，建立与各种跨职能团队的持久关系，以提供高性能和创新的 SoC。您可以充分利用自己的经验来支持制定硬件架构和功能。</p><p>这些细节表明，微软并非一昧地模仿苹果脚步，而是很清楚地知道自己目前需要投资的内容，他们正在迅速开发自己的 Arm 芯片，并需要尽快发布 Windows 12 系统，以此为新的 Arm 芯片提供优化。</p><p>Windows Latest 强调，微软可能会通过 Windows 12 来优化其自研芯片的适用性，并将在 2024 年发布这一版本。此外，Windows 12 中的多种 AI 功能也将受益于内置 Arm 芯片的支持。</p><p>Windows 12 被认为是微软 Windows Core 项目的一部分，该项目旨在为各种形态、规格（的设备）打造一个模块化和可定制化的 Windows 版本，集成内置 ARM 芯片可以进一步优化 Windows 12 提供的硬件和软件使用体验。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925758.shtml</guid>
+<author>问舟</author><pubDate>Tue, 02 May 2023 08:51:27 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>滴滴退市后首发财报，哪些数据值得关注？</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925773.shtml</link>
+<description><![CDATA[<p>4月29日，滴滴在官网发布了退市后的首份年报。数据显示，2022年滴滴实现营业收入1408亿元，较上年同期下降19%。净亏损为238亿元，较上年同期收窄52%。</p><p><strong>01</strong></p><p><strong>值得关注的数据</strong></p><p>除了营收、净亏损两大核心财务指标之外，本份年报中，滴滴还有以下几方面数据值得市场关注。</p><p>具体表现为——</p><p>1、滴滴的营收主要由中国出行业务（中国网约车、出租车、代驾和顺风车等业务）、国际业务（国际出行和外卖等业务）和其他业务（共享单车和电单车、货运、自动驾驶和金融服务等业务）三部分组成。</p><p>其中，中国出行业务、其他业务收入分别出现了22%和7%的降幅，占比仅为4%的“小基数”业务国际业务收入表现为增长，该业务收入由上一年同期36亿元提升至59亿元，涨幅达到了62%。</p><p>2、过去一年来，受疫情、市场政策、新增业务限制等多重因素影响，滴滴在“开源”方面承压巨大，某个角度上，“降本”或成为公司战略性保存实力的一种重要举措。</p><p>根据财报显示，2022年滴滴的收入成本为1158亿元，较2021年同期的1569亿元下降了26%。其中，运营和支持成本为65亿元，较2021年的75亿元下降了13%；销售与市场成本为98亿元，较2021年的170亿元下降了42%。</p><p>3、司乘规模相对稳固。滴滴目前已在中国和全球其他15个国家开展业务，拥有5.87亿活跃用户和2300万活跃司机。其中，中国出行业务有4.11亿名年活跃用户，1900万名年活跃司机。</p><p>特别是针对老年用户、导盲犬用户等一些存在特殊需求的用车人群，滴滴还推出了专门服务：如“助老打车”已累计为超过270万老人提供了超过7500万次出行服务，覆盖355城；“导盲犬用户无障碍订单”服务已覆盖117个城市，超260万滴滴司机完成相关认证。</p><p>另外值得一提的是，随着国内通勤、消费性出游、大型公共交通枢纽等场景的出行需求的复苏，也帮助滴滴的出行业务快速回归。2023年3月，滴滴中国出行业务日均完单2820万，同比上一年同期增长42%。</p><p><strong>02</strong></p><p><strong>自动驾驶等新业务动态</strong></p><p>五一小长假，为了拉动市场出行并带动消费回暖，滴滴宣布为司机发放2亿元司机奖励和小桔充电、滴滴加油补贴。部分城市将继续试行节假日司机服务费，全额给司机。</p><p>在保持主营业务运营的同时，滴滴也加大了对自动驾驶领域的布局速度。</p><p>4月13日，滴滴在上海举办了自动驾驶开放日，并在会上公开了几项产品及服务：自动驾驶自动运维中心，首款未来服务概念车DiDi Neuron，自动驾驶货运机器人KargoBot，两款自动驾驶核心硬件“北曜Beta”激光雷达和三域融合计算平台“Orca虎鲸”等。</p><p>据滴滴出行CTO、滴滴自动驾驶CEO张博的介绍，目前滴滴自动驾驶已掌握了包括感知、预测、决策控制、大规模仿真系统、大规模机器学习平台等L4级别自动驾驶全栈核心技术。同时正与自动驾驶产业链上、下游进行深度合作与集成，以期推出下一代自动驾驶服务。</p><p>事实上，滴滴组建自动驾驶研发部门早已是2016年的事情，创立三年后独立发展，2020年6月上海智能网联汽车规模化载人示范应用正式启动，这也是滴滴第一次面向公众开放自动驾驶服务。</p><p>从自动驾驶首次对外上路至今，滴滴自动驾驶已在上海、广州等城市提供运营服务，送驾里程、送驾时长、每小时单量等体验和效率指标都在持续向网约车靠近。滴滴自动驾驶COO孟醒在开放日上披露，“期间MPCI（安全接管里程）上涨100倍，主责安全事故0起。”</p><p>尽管从官方消息“滴滴首款量产车型计划于2025年接入滴滴共享出行网络，实现全天候、规模化的混合派单”来看，自动驾驶技术想要实现商业化、甚至扛起营收大旗还有相当长的时间。但就客观而言，这依然算得上是滴滴新的想象空间。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925773.shtml</guid>
+<author>小禅</author><pubDate>Tue, 02 May 2023 10:42:09 +0800</pubDate>
+<source>陆玖商业评论</source>
+</item><item><title>IBM 暂停招聘，计划用AI取代7800个工作岗位</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925761.shtml</link>
+<description><![CDATA[<p>5 月 2 日消息，IBM 刚刚公布了 2023 财年第一季度财报。IBM 第一季度营收为 142.52 亿美元（备注：当前约 987.66 亿元人民币），同比增长 0.4%，不计入汇率变动的影响为同比增长 4.4%；净利润为 9.27 亿美元，相比之下上年同期为 7.33 亿美元；来自于持续运营业务的利润为 9.34 亿美元，与上年同期的 6.62 亿美元相比增长 41%。</p><p>IBM 首席执行官阿尔温德・克里希纳周一对彭博社表示，由于未来几年约有 7800 个工作岗位可能被人工智能 (AI) 取代，该公司将暂停招聘。克里希纳称总计约有 26000 名员工从事这些不面向客户的职位。</p><p>他指出：在五年内，30% 的非面向客户的职位可能会被人工智能和自动化取代。克里希纳表示，也正是因此，人力资源等后台职能部门的招聘将暂停或放缓。</p><p>去年 11 月，微软支持的 OpenAI 公司推出了风靡全球的聊天机器人 ChatGPT，此后，人工智能引起了全世界人们的广泛关注。这家个人电脑制造商告诉《华尔街日报》，裁员可能包括不填补因人员流失而空缺的职位。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925761.shtml</guid>
+<author>问舟</author><pubDate>Tue, 02 May 2023 09:01:49 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>Meta Quest 游戏展示会6月1日举行 预计将推出多款VR游戏</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925760.shtml</link>
+<description><![CDATA[<p>5 月 2 日消息，Meta 宣布将于美国东部时间 6 月 1 日下午 1 点举行 Quest Gaming Showcase，带来各种新游戏和玩法展示。此外，今年的游戏展将包括一个预展，展示游戏更新和“首次亮相”新作的预告片，还可与开发者进行“深入”讨论。</p><p>Meta 之前指出，它的下一款主流 Quest 头显将于今年晚些时候上市。如果是这样的话，我们可能会在这次虚拟活动上看到&nbsp;Quest 2 继任者到来之前的最后一款大型游戏。</p><p>Meta 最近完成了对 VR 健身游戏《超自然》(Supernatural) 开发商 Within 的收购，而且 Meta 也仍在努力向元宇宙世界进行转型。不过，它的现实实验室部门每个季度仍在亏损数十亿美元。</p><p>此外，Meta 最近还将 Quest Pro 的定价下调了三分之一，降至 999 美元（备注：当前约 6923 元人民币），以刺激消费者购买。虽然说，这场游戏展不太可能扭转 Meta 目前局面，但它可能会在新头显问世之前再一次激起人们对 VR 平台的兴趣。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925760.shtml</guid>
+<author>问舟</author><pubDate>Tue, 02 May 2023 09:00:00 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>消息称AMD已将部分4纳米CPU芯片订单从台积电转移到三星</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925763.shtml</link>
+<description><![CDATA[<p>&nbsp;5 月 2 日消息，似乎是因为产能问题，搭载 AMD Phoenix 系列 Ryzen 7040 APU 的笔记本电脑的发布计划从 3 月推迟到 4 月，又推迟到了 5 月才会逐步上市。</p><p>爆料人 @OreXda 称，AMD 已与三星电子签署协议，计划从台积电转移部分 4nm 处理器业务到三星。值得一提的是，之前还有消息称三星已经开始量产第三代 4nm 制程，提高良率和能效，客户可能包括谷歌 Tensor G3 和高通骁龙 8 Gen 3。</p><p>据称，台积电 4nm 产能正在满载运行，苹果、高通等客户同样在该节点上采购 4nm 移动 SoC，这使得 AMD 的产能分配以及面对台积电的议价能力十分有限。</p><p>据称，该公司的 Ryzen 7040 系列“Phoenix”系列移动处理器采用 4nm 工艺，目前正在采用三星的 4nm 节点设计 (AMD 有五种选择)。</p><p>总的来说，转向三星可能会给 AMD 带来更多的可扩展性，特别是考虑到“Phoenix”已经多次延迟，目前 AMD 在高端市场只剩下 5nm + 6nm 的 Ryzen 7045 系列“Dragon Range”，而在主流和超便携市场上只剩下 6nm 的 7035 系列“Rembrandt-R”，但没有什么产品“适合”与“Raptor Lake-U"和"Raptor Lake-P”竞争。</p><p>由于英特尔 13代酷睿处理器依然基于 Intel 7 节点，所以目前没有任何出货压力，因此外媒认为 AMD 可能会采用像传闻中高通骁龙 8 Gen 4 那样的双源策略（注：该传闻尚无法确认）。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925763.shtml</guid>
+<author>问舟</author><pubDate>Tue, 02 May 2023 09:09:16 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>比亚迪4月新能源汽车销量达210295辆，同比增长约98.3%</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925762.shtml</link>
+<description><![CDATA[<p>5 月 2 日消息，比亚迪 4 月新能源汽车销量为 210,295 辆，去年同期为 106042 辆，同比增长约 98.3%。比亚迪今年累计销售新能源汽车 761271 辆，去年同期为 391271 辆，同比增长约 94%。</p><p>今年 4 月，比亚迪新能源汽车的产量达到了 209448 辆，去年同期为 107478 辆，同比增长约 94.88%；今年累计产品达 776631 辆，同比增长约 96.61%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0502/1682989411569.jpg"></figure><p>此外，比亚迪 2023 年 4 月海外销售新能源乘用车合计 14,827 辆，4 月新能源汽车动力电池及储能电池装机量约为 9.954 GWh，2023 年累计装机总量约为 36.945 GWh。</p><p>作为参考，附上比亚迪前几个月的销售数据：</p><p>比亚迪 3 月新能源汽车销量 207,080 辆，本年累计销量 552,076 辆，同比增长 92.81%。</p><p>比亚迪 2 月新能源汽车销量 19.3655 万辆，上年同期 8.83 万辆；本年累计销量 34.5 万辆，同比增长 90.13%。</p><p>比亚迪 1 月销售新能源汽车 151341 辆，同比增长 58.6%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925762.shtml</guid>
+<author>问舟</author><pubDate>Tue, 02 May 2023 09:07:00 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>iPhone 15系列全系标配三星M12材质：峰值亮度超1500尼特</title>
+<link>http://www.techweb.com.cn/digi/2023-05-02/2925764.shtml</link>
+<description><![CDATA[<p>【Techweb】今年以来，外界已经将非常多的目光集中在了新一代的iPhone 15系列上，这段时间已经有关于该机外观和配置的不少爆料传出，不出意外的话该系列将继续推出包含iPhone 15、iPhone 15 Plus、iPhone 15 Pro和iPhone 15 Ultra四款机型，而外观上的升级也是此次大家关注的焦点之一。现在有最新消息，近日有外媒进一步晒出了该机屏幕方面的更多细节。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0502/1682990787327.png"></figure><p>据外媒Elec最新发布的信息显示，与此前曝光的消息基本一致，今年全新的iPhone 15系列四款机型将全部使用三星最新的M12材质。其实上一代iPhone 14系列中iPhone 14 Pro和iPhone 14 Pro Max已经使用了三星M12材质，采用该材质的屏幕由基板、阴极、阳极、空穴注入层、电子注入层、空穴传输层、电子传输层、电子阻挡层、空穴阻挡层、发光层等部分构成，手动峰值亮度超过了1000尼特，全局峰值亮度超过了1500尼特。</p><p>其他方面，据此前曝光的消息，全新的iPhone 15系列将继续提供与iPhone 14系列相同的四款机型，并且仍然有着明显的两极分化，其中两个Pro版将进一步提高屏幕亮度，达到2500尼特，边框也将进一步缩窄。同时二者将搭载新一代的A17 Bionic，这颗芯片集于台积电3nm工艺（N3）打造，同时内存还将会升级到8GB。而在影像上，除了将搭载接近1英寸大底的主摄外，还将首次搭载并独占潜望式长焦镜头，将带来无与伦比的6倍光学变焦能力，同样相比起iPhone 14 Pro系列上的3倍光学变焦来说是巨大的提升。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0502/1682990800639.jpg"></figure><p>据悉，全新的iPhone 15系列将有望继续在今年9月与大家见面，相比前代产品，今年的标准版机型与Pro版之间的差距将进一步扩大，而售价也将再创新高，尤其顶配版iPhone 15 Ultra有望突破2万元。更多详细信息，我们拭目以待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/digi/2023-05-02/2925764.shtml</guid>
+<author>Suky</author><pubDate>Tue, 02 May 2023 09:27:37 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>“AI教父”杰弗里·辛顿告别谷歌：称自己为发展人工智能而后悔</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925771.shtml</link>
+<description><![CDATA[<p>5月2日消息，近日，研究AI技术将近半个世纪，被称为“AI教父”的杰弗里·辛顿宣布，已经从谷歌离职。</p><p>在离职的同时，杰弗里·辛顿宣布，自己正式加入A批评人士的行列。</p><p>他认为，这些公司积极开发的，诸如ChatGPT等基于生成式人工智能的产品，是在奔向危险。</p><p>甚至于，辛顿表示，他现在对自己一生从事的工作感到有些后悔；他认为，随着企业改进AI系统，它们会变得越来越危险。</p><p>“看看五年前和现在的情况，”他在谈到AI技术时说，“接受差异并将其传播出去。太可怕了。”</p><p>他目前最担心的是，互联网将充斥着虚假照片、视频和文字，普通人将“无法再知道什么是真的”。</p><p>此外，他还担心，AI技术最终会颠覆就业市场——事实上，就在他从谷歌离开时，IBM宣布将在未来通过AI取代7800个左右的岗位。</p><p>“它省去了繁重的工作，但它带走的可能不止这些。”辛顿称。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925771.shtml</guid>
+<author>乃河</author><pubDate>Tue, 02 May 2023 10:36:38 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>安森美半导体财报引动芯片股热潮，英伟达美股周一创下13个月来新高</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925759.shtml</link>
+<description><![CDATA[<p>5 月 2 日消息，周一，芯片制造商安森美半导体 (ON Semiconductor) 美股收盘上涨 7%，此前该公司公布的季度业绩指引超出了华尔街的预期，带动其他芯片股上涨，而英伟达更是来到了 13 个月来的最高水平。</p><p>截至发稿，英伟达美股报价 289.10 美元每股，市值达到了 7140.77 亿美元。</p><p>现阶段，全球投资者都在努力寻找芯片行业触底的迹象，而安森美半导体公布的季度业绩和财测则好于分析师预期，因此引动了行业上涨。尽管这家汽车和工业芯片供应商表示，由于宏观经济的不确定性，该公司对前景持 "谨慎立场"。</p><p>安森美半导体公布的季度营收指引中值为 19.75 亿美元至 20.75 亿美元，较上年同期下降 3%，但超过了分析师预期的下降 7%，从而提振了其他芯片制造商的股价。</p><p>今日，费城半导体指数上涨 0.7%，优于纳斯达克指数 0.1% 的涨幅。全球市值最高的芯片制造商英伟达股价上涨 3.5%，达到 2022 年 3 月以来的最高点。此外，莱迪思半导体 (LSCC.O) 股价上涨 1.8%，高于市场对其季度报告的预期。</p><p>投资者将关注更多有关芯片行业健康状况的数据，本周将有更多公司公布财报，包括 AMD（周二）、Qorvo 和高通（周三）和 Cirrus Logic（周四）。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925759.shtml</guid>
+<author>问舟</author><pubDate>Tue, 02 May 2023 08:57:56 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>曝小鹏“自动驾驶”避让大车险冲出高架 客服回应：会反馈核实</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925772.shtml</link>
+<description><![CDATA[<p>5月2日消息，近日在上海，有网友发布视频称在使用小鹏G9自动导航辅助驾驶功能时，辅助驾驶系统为了避让前方大车，往右打方向，但之后方向并没回正，随后车主紧急接手，快速打方向避免事故发生。</p><p>从实拍视频看，当事人驾驶这台小鹏G9行驶在高架上，前方有一台大巴缓行，甚至停了下来，这台G9发出“即将超车”的指令后，向右扭动方向盘变道。</p><p>然而在变道过程中突然向右大幅转动方向盘，驾驶员一把抓住，并给扭了回来，才避免车子与护栏发生碰撞，但不得不说，光是看视频就足以令人冒出冷汗。</p><p>针对此事，在接受采访时，小鹏客服表示，最近小鹏G9的OTA版本有更新过，目前是4.2.1版本，暂时没有收到该客户的反馈，会汇报给总公司，反馈给工程师分析。该客服同时还表示，开车时也不能完全依赖辅助驾驶，自己也应该留意。</p><p>据了解，小鹏最新的XNGP目前已经陆续开启推送，这是一套强感知、弱地图的辅助驾驶系统，可以减轻用户的驾驶疲劳，增强行驶安全。</p><p>但需要提醒的是，小鹏从来也没有将其当成“自动驾驶”宣传，所以在使用过程中，驾驶员不能将车辆全权交给系统控制，尤其是在路况复杂的城市、高架等路段。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925772.shtml</guid>
+<author>落木</author><pubDate>Tue, 02 May 2023 10:38:36 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>国产特斯拉Model 3/Y全系上涨2000元：原因未知</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925775.shtml</link>
+<description><![CDATA[<p>5月2日消息，从特斯拉官网查询可知，国产特斯拉Model 3和Y价格上调，全系均涨2000元。</p><p>其中特斯拉Model 3入门版价格涨至23.19万元（此前为22.99万元），高性能版涨至33.19万元（此前为32.99万元）；</p><p>Model Y入门版上调至26.39万元（此前为26.19万元），长续航版价格上涨至31.39万元（此前为31.19万元），高性能版售价上涨至36.39万元（此前为36.19万元）。</p><p>此次特斯拉突然涨价原因未知，官方也并未有任何说明，值得注意的是，相比于年初，特斯拉Model Y的后驱版在今年2月10日已经悄然上涨了2000元，也就是说此次涨价后，比年初大降价的价格高了4000元，其余车型则高了2000元。</p><p>有分析人士认为，这是特斯拉通过涨价手段在“逼单”，为的是先涨价后降价；也有人认为特斯拉年初降价成效显著，近期库存压力减轻了不少，而且一味降价会增强市场的观望情绪，不利于新订单的产生。</p><p>目前，特斯拉Model 3的预计交付周期在1-4周，而特斯拉Model Y的预计交付周期在2-5周。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925775.shtml</guid>
+<author>落木</author><pubDate>Tue, 02 May 2023 14:03:32 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>乘联会崔东树：2023 年 1-3 月中国占世界汽车份额 30%</title>
 <link>http://www.techweb.com.cn/it/2023-05-01/2925735.shtml</link>
 <description><![CDATA[<p>5 月 1 日消息，全国乘用车市场信息联席会秘书长崔东树公众号发文，2023 年 3 月的世界汽车销量达到 807 万台，同比增 11%；1-3 月世界汽车销量达到 2038 万台，同比增长 4%。2023 年中国车企的世界累计份额达到 30%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902688327.png"></figure><p style="text-align:center;">历年世界汽车销量走势</p><p>从图中获悉，2017 年-2022 年，世界汽车销量在 2017 年达到顶峰，2018 年-2020 年连续下滑，2021 年销量回升至 8135 万台，同比增长 4%。但 2022 年仅有 8018 万台，同比下降 1%，仅稍高于 2020 年销量。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902696642.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902704661.png"></figure><p style="text-align:center;">历年世界汽车销量走势</p><p>崔东树在文中提到，上表中的世界汽车销量主要是 70 个国家的销量，这 70 个核心国家在 2019 年有 9000 万台左右。2023 年的世界销量增速 4% 的表现较好，其中中国下降 7%，世界其他国家增 8%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902717254.png"></figure><p>崔东树表示：</p><p>中国汽车市场对世界汽车市场影响力极其巨大。2016-2018 年中国汽车占世界 30% 左右，2019 年下降到 29%，但仍具有绝对优势。2020-2021 年国份额回升到 32%。2022 年中国份额上升到 33%。</p><p>2023 年中国份额下降到 30%，这也是中国市场春节因素和车购税优惠政策退出的正常体现。北美洲和欧洲市场份额全面回升，南半球市场走势偏弱。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
@@ -40,83 +117,6 @@
 <guid>http://www.techweb.com.cn/it/2023-05-01/2925739.shtml</guid>
 <author>问舟</author><pubDate>Mon, 01 May 2023 09:13:54 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>吉利汽车2022 ESG报告：纯电动汽车销量上升328%达到26.2万辆，2045年实现碳中和</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925734.shtml</link>
-<description><![CDATA[<p>5 月 1 日消息，吉利汽车控股有限公司发布 2022 年 ESG 报告，纯电动汽车销量上升 328% 达到 262253 辆，新能源销量同比提升 300%；单车全生命周期碳排放为 35.2 tCO₂e，实现了单车全生命周期碳排放比 2020 的基准年减少 8%。吉利汽车承诺到 2025 年单车全生命周期碳排放减少 25% 以上，到 2045 年实现碳中和。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902525300.jpg"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682902492804.jpg"></figure><p>从报告中获取到，吉利汽车自有包装已实现 100% 採用循环包装。2022 年整车一次性包装材料使用量 12103 吨，相当于每辆车消耗 6.81 千克；循环包装覆盖的汽车零部件达 73.80%，使用可循环包装材料供应商达 82.71%，剩余一次性包装实现 100% 回收再利用，各基地所有包装材料回收利用率 100%。</p><p>吉利汽车拥有新四化人才 3150 人，占动力系统 33% 及整车研发系统 32%。集团女性员工占比 19%，较 2021 年末上升 3%；新聘员工中女性员工占比 21%，较 2021 年末提高 5%；女性高层人员占比 10%，较 2021 年末提高 2%。计划到 2025 年，吉利汽车管理层女性（副部长及以上级别）比例达到 20% 以上，2022 年管理层女性比例为 13%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925734.shtml</guid>
-<author>泽泷</author><pubDate>Mon, 01 May 2023 08:56:23 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>5G必要专利全球第一！网友分享华为5G工程测试手机 早开始实测</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925746.shtml</link>
-<description><![CDATA[<p>5月1日消息，之前一直有消息称，华为在准备5G手机，而现在又有网友分享了相关消息。</p><p>现在，有网友分享了华为5G工程测试机，之前早已在深圳开始实测了，至于何时推出还不清楚，最快可能是年底。</p><p>按照博主的说法，华为工程机确实都有5G，能不能走到量产才是关键。</p><p>其实对于华为要推出5G手机来说，其实也不会变的很困难，因为有不少国产厂商已经在解决5G卡脖子问题了，比如星曜半导体的年产12万片5G射频滤波器硅基晶圆片项目签约落户温州湾新区。</p><p>射频滤波器是一种可以将带外干扰和噪声滤除，以满足射频系统和通讯协议对于信噪比的需求的器件。</p><p>5G下智能手机需要支持的频段数量正在不断上升，因为不仅要兼容4G的频段，还要支持5G频段，以应对4G、5G多模信号切换的需求。</p><p>中国信息通信研究院发布《全球5G标准必要专利及标准提案研究报告（2023年）》显示，华为5G标准必要专利全球第一。</p><p>在这之前，被问及“华为什么时候可以重新生产5G手机”，徐直军表示，生产5G手机需要等待美国商务部批准，如果美国许可5G芯片给华为，华为就能生产5G手机，而且还能做成折叠屏。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925746.shtml</guid>
-<author>雪花</author><pubDate>Mon, 01 May 2023 10:35:22 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>美团2022年报：营业收入2199.55亿元，同比增长22.79%</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925742.shtml</link>
-<description><![CDATA[<p>5 月 1 日消息，美团发布 2022 年报，营业收入 2199.55 亿元，同比增长 22.79%，归属母公司净亏损 66.86 亿元，亏损同比减少 71.59%。核心本地商业收入为 1608 亿元，经营溢利 295 亿元，同比增长 56.8%；其中配售服务收入为 700.64 亿元，佣金收入为 551.43 亿元，在线营销服务营收为 306.83 亿元，其他服务收入为 48.69 亿元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682906410640.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682906416245.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682906422426.png"></figure><p>从财报获取到，美团新业务收入 592 亿元，同比增长 39.3%，其中佣金收入为 13.67 亿元，其他服务及销售（包括利息收入）为 577.44 亿元；新业务经营亏损收窄至 284 亿元，经营亏损率 47.9%；经调整 EBITDA 为 97.25 亿元，经调整净利润 28.27 亿元，经调整净利润率为 1.3%。</p><p>2022 年美团闪购的年度交易用户及年度活跃商家均同比增长近 30%，12 月单日订单峰值突破 1100 万。2023 年，美团将继续实施“零售 + 科技”的战略，继续将产品覆盖范围从餐饮品类扩展到非餐饮品类，包括生鲜、生活必需品及药品等。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925742.shtml</guid>
-<author>泽泷</author><pubDate>Mon, 01 May 2023 10:01:47 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>AMD将推出AGESA 1.0.0.7 BIOS主板固件更新 解决锐龙7000处理器烧毁问题</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925747.shtml</link>
-<description><![CDATA[<p>5 月 1 日消息，作为对 Ryzen 7000X3D CPU 烧毁事件的回应，AMD 发布了 AGESA 1.0.0.7 固件，以抢救这些 CPU。目前，华硕等品牌已经发布了适用于 AM5 主板的 BETA BIOS 更新，避免 AMD Ryzen 7000 CPU 因电压问题而烧毁。</p><p>据 KEPC，AMD AGESA 1.0.0.7 BIOS 固件不仅仅是电压限制，而且已强制要求所有 Ryzen 7000 CPU 用户在发布 AGESA 1.0.0.7 BIOS 可用更新后进行升级 ，以避免出现烧毁问题。</p><p>根据主板制造商的说法，新固件并不仅仅是将 SOC 电压限制在 1.3V，而且还修改了与热限制有关的 PROCHOT Control 和 PROCHOT Deassertion Ramp Time 这两种机制，锐龙 7000X3D 用户必须尽快更新到 AGESA 1.0.0.7 BIOS。</p><p>据介绍，PROCHOT Control 是与 CBS 和 SMU COMMON 有关的安全功能，旨在避免处理器过热。当处理器的温度达到临界值时，CPU 或其他系统组件将发送 PROCHOT 信号。然后降低处理器的功率以降低温度并防止可能的损失。PROCHOT Deassertion Ramp Time 是在 PROCHOT 过热信号发生后，处理器恢复正常电源所需的时间定义。在温度回到临界值以下时，处理器逐渐增加其功率并返回到正常运行状态所需的时间间隔。</p><p>目前来看，AGESA 1.0.0.7 在 PROCHOT 方便更加保守，与 PROCHOT 和 SOC / IMC 相关的电压和温度阈值将大大降低，消耗恢复的时间间隔也会更长。这意味着 CPU 烧毁事件不仅仅是电压的原因，可能还有不完善的热管理等因素在内，但要验证该问题是否真正解决还需要一定时间。</p><p>目前，各大主板制造商已经发布紧急 BIOS 更新，但仅仅只是限制了 SOC 电压，因此 1.0.0.7 才是 AMD 的官方解决方案。AMD 已经为主板制造商提供了 BETA 版本进行内部测试，预计官方版本将在 5 月 6 日发布。</p><p>AMD 发言人原话翻译如下：</p><p>我们已经确认了问题的根本原因，并已经发布了一个新的 AGESA，以加强对 AM5 主板上某些电源控制，以防止 CPU 超出其规格限制运行，包括将 SOC 电压上限设定为 1.3V。这些更改都不会影响我们的 Ryzen 7000 系列处理器使用 EXPO 或 XMP 套件超频内存或使用 PBO 技术提高性能的能力。</p><p>我们希望所有 ODM 合作伙伴在未来几天内为他们的 AM5 主板发布新的 BIOS 版本。我们建议所有用户检查其主板制造商的网站，并更新其 BIOS，以确保他们的系统拥有最新的固件。</p><p>任何可能受到这个问题影响的 CPU 用户都应联系 AMD 客户服务支持。我们的客户服务团队已经了解了这个情况，并优先处理这些案例。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925747.shtml</guid>
-<author>问舟</author><pubDate>Mon, 01 May 2023 10:40:19 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>微软将减少不必要的Win11通知</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925750.shtml</link>
-<description><![CDATA[<p>5 月 1 日消息，对于经常使用 Windows 的人来说，右下角那些时不时出现的弹窗可能会很烦人并且具有干扰性。</p><p>与手机类似，Win11 在应用程序和网站的第一方或第三方推送通知方面非常依赖于 Windows 推送通知。几乎 Windows 11 上的每个应用都会尝试向用户发送通知，而它们通常并没有什么重要信息。</p><p>例如，杀毒软件经常会对设备进行定期的安全检查然后发送通知。同样，天气应用、Microsoft Edge 或 Chrome 订阅的网站和其他应用程序也会不断向用户发送通知。</p><p>对此，微软已经针对 Windows 进行了一些更改，以减少用户看到的每日提醒。例如，Windows 11 为用户带来了“焦点辅助（Focus Assist）”功能，它可以通过减少来自像 Outlook、Edge 等应用程序的通知等干扰来帮助用户专注于工作。</p><p>现在，微软正在尝试不同的方法来减少垃圾邮件的通知，以便用户可以更好地关注重要事项。从 Windows 11 预览版本中的参考资料来看，微软正在开发一种名为“智能选择退出（Smart opt-out）”的新功能，它将减少操作系统中用户不需要的通知。</p><p>当然，“智能选择退出”并非基于 AI 的功能，但它确实可以在一定程度上给你帮你解决问题，例如禁用那些不常用的应用的通知。</p><p>例如，如果您一个月没有与 Outlook 通知进行交互，您将看到一条“关闭来自 Outlook 的通知？”的提醒。这将提供两个选项：关闭和不更改。预计这项更新将对大多数 Windows 11 用户的用户体验产生积极影响，因为过多的通知可能会让用户厌烦。</p><p>实际上，电子邮件过滤器之前就一直采用类似的方法，这可以使得 Windows 11 对于这种禁用通知的建议更加合乎逻辑。IT之家提醒，智能退出功能不会影响您经常使用的应用通知，而这一功能应该会在几个月内进入生产渠道。</p><p>此外，微软还为用户提供了 Windows 11 “紧急通知”的功能，好让用户更好地控制来自第一方和第三方应用程序的高优先级通知，而这些紧急或重要的通知可以绕过 Focus Assist（请勿打扰）设置。</p><p>其他方面，微软正在通过新控件“查看通知”改进其紧急通知功能，以便在使用全屏应用程序时查看通知内容且保护隐私。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925750.shtml</guid>
-<author>问舟</author><pubDate>Mon, 01 May 2023 11:30:58 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>苏宁易购2022年报：营收713.74亿元，同比下降48.62%</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925748.shtml</link>
-<description><![CDATA[<p>5 月 1 日消息，苏宁易购发布 2022 年报，全年 GMV 规模 1113 亿元，实现营业收入 713.74 亿元，同比下降 48.62%。计提减值准备、投资损失、递延所得税转回及由于销售规模下降带来的返利结回率下降对采购成本增加，合计增加归属于上市公司股东的净亏损 124.64 亿元，剔除前述因素的影响，公司 2022 年实现归属于上市公司股东的净利润为亏损 37.56 亿元，较 2021 年不考虑前述影响的净利润亏损 85.63 亿元，减亏 48.07 亿元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682909136374.png"></figure><p>从年报中获取到，苏宁易购 2022 年在一二线市场店面渠道经营 969 家家电 3C 直营店，在四六级市场零售云渠道保持加盟店的发展速度，全年净开 769 家店面。猫宁平台 2022 年销售规模同比增长 12.89%。四季度门店零售占比已接近 20%，运营费用同比下降 37.92%。</p><p>报告期内苏宁易购零售云全年新开店 1887 家，其中零售云家居新赛道发展迅速，全年新开店 599 家。截至 2022 年 12 月 31 日零售云加盟店 9947 家。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682909149812.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682909156178.png"></figure><p>报告期内公司实现商品销售收入 631.08 亿元，同比下降 50.70%；服务和其他收入 24.03 亿元，同比下降 41.22%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682909162295.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925748.shtml</guid>
-<author>泽泷</author><pubDate>Mon, 01 May 2023 10:47:15 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>Arm宣布向美国递交IPO申请书，计划年内上市</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925751.shtml</link>
-<description><![CDATA[<p>5 月 1 日消息，与此前爆料的一致，Arm 近日在新闻稿中宣布，该公司已经向美国证券交易委员会（SEC）提交了申请表，预计在今年底前上市。</p><p>据路透社此前报道，Arm 希望能募资 80 到 100 亿美元（IT之家备注：当前约 553.6 亿元至 692 亿元人民币），不过 Arm 表示拟议发行的规模和价格范围尚未确定。</p><p>自从软银去年以 400 亿美元（当前约 2768 亿元人民币）将 Arm 出售给英伟达的交易，因美国和欧洲反垄断监管机构的反对而告吹后，软银一直致力于让 Arm 上市。</p><p>今年早些时候，Arm 拒绝了英国政府要求其在伦敦上市的活动，并表示将寻求在美国交易所上市。</p><p>Arm 的 IPO 准备工作由高盛集团、摩根大通、巴克莱银行和瑞穗金融集团牵头。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925751.shtml</guid>
-<author>汪淼</author><pubDate>Mon, 01 May 2023 17:01:09 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>星舰并未失败 今年砸20亿美元重发射 马斯克详解爆炸细节厉害了</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925752.shtml</link>
-<description><![CDATA[<p>5月1日消息，虽然星舰之前失败了，但马斯克却一点都不难过，在他看来这是人类的希望，而自己也能够最终成功。</p><p>马斯克（Elon Musk）称，SpaceX预计今年将在星舰项目上花费约20亿美元，项目展开期间可能不需要筹集更多外部资本。</p><p>马斯克上周六在Twitter上的音频聊天中谈到了SpaceX星舰项目。马斯克暗示，尽管预计有星舰项目方面的支出，但SpaceX可能不需要寻求新的资金。</p><p>他说：“就我所知，我们不需要为SpaceX筹集更多资本。”该公司正努力在发射台上建造一套新系统，这套系统使用钢筋加固结构和水，旨在抑制第一次试飞时产生的烟羽。</p><p>在火箭离开发射台之前，星舰助推器(超重型火箭)的33个发动机中的3个就已关闭。“系统认为它们不够健康，无法让它们全速推进，”马斯克说，“所以它们被关闭了。”</p><p>发射27秒后，其中一个发动机出了问题，并损坏了附近的其他几个发动机。马斯克称，这个问题是“某种能量事件”。</p><p>“不过，火箭还在继续飞行，”马斯克说。他表示，在升空85秒的时候，“真正的麻烦来了”，火箭失去了通过指向发动机喷嘴来控制方向的能力。</p><p>从那时起，火箭开始失去控制，甚至在接到终止命令后仍在继续飞行。“燃料箱的破裂花了太长时间，”马斯克在谈到飞行终止系统时说，该系统的目的是摧毁失控的火箭。这一延迟倒是验证了火箭的韧性，它在坠落时完好无损。</p><p>此次发射另一个意外是，火箭发射将下面的混凝土震碎。30台发动机的推力意外地产生了“岩石龙卷风”，导致碎片散落在数百英亩的土地上，并产生了巨大的尘埃云。</p><p>“这基本上是一场人造沙尘暴，”马斯克说，“但我们不想再这样做了。”</p><p>他透露，SpaceX原本要在发射台下方安装一个大型水冷钢板，这样就不会导致33个发动机的火焰直接喷向混凝土，但是在发射时，这种钢板还没准备好。</p><p>下一枚星舰和发射台的维修将在六到八周内准备好。马斯克没有承诺第二次尝试会完全成功。他说，他预计今年还会有四到五枚星舰发射。“今年我们可能有80%的可能性进入轨道，”马斯克表示，“我不想冒险，但我认为在12个月内有接近100%的机会到达轨道。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925752.shtml</guid>
-<author>雪花</author><pubDate>Mon, 01 May 2023 17:04:45 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>哪吒汽车4月销量11080辆 累计交付超28万辆</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-05-01/2925749.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月1日消息，哪吒汽车公布了4月销量数据，当月共交付新车11080辆。其中，哪吒V车系交付4727辆，哪吒U车系交付3821辆，哪吒S交付2237辆，哪吒GT交付295辆。</p><p>截至2023年4月底，哪吒汽车累计交付285011辆。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682911576579.jpg"></figure><p>上海车展期间，哪吒汽车旗下首款双门四座纯电跑车哪吒GT正式上市，定位为“新一代GT科技电跑”，官方指导售价为17.88-22.68万元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0501/1682911597292.jpg"></figure><p>此外，哪吒汽车与地平线正式签署全面深化战略合作协议。根据协议，基于高等级智能驾驶专用芯片征程5，哪吒汽车依托自身全栈的研发能力，携手地平线围绕BEV等领先的算法技术深化合作，打造高阶NOA智能辅助驾驶系统，实现极致的用户体验。</p><p>海外市场方面，泰国AutoLife官网4月份公布了纯电车型上牌量数据。数据显示，3月，哪吒V上牌量连续3个月跻身榜单TOP3。第一季度，哪吒V上牌量达2502台，位居榜单第二，占第一季度纯电动车上牌总量约17%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-05-01/2925749.shtml</guid>
-<author>萧健</author><pubDate>Mon, 01 May 2023 11:27:37 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>李斌罕见强硬回击用户：给不了补偿权益 骂我恨蔚来都接受</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-04-30/2925723.shtml</link>
-<description><![CDATA[<p style="margin-left:0px;">很少见到李斌的态度这么强硬。</p><p style="margin-left:0px;">昨晚，网上流出一段电话会议视频，对话双方是蔚来ES7车主和蔚来CEO李斌，虽然只有十分钟，但火药味十足。</p><p style="margin-left:0px;"><strong>“我们不是来谈话的，我们是来谈判的。”</strong></p><p style="margin-left:0px;">蔚来车主开门见山，摆明了自己的立场，说是为了给自己争取权益，给一个落地的补偿方案。</p><p style="margin-left:0px;">具体原因是全新ES6上线在即，ES7老车主感觉自己权益受损，便提出改装、补偿权益等要求。</p><p style="margin-left:0px;">不过李斌并没有像以前那样惯着用户，直接回应称“真的做不到”。</p><p style="margin-left:0px;">最后李斌也无奈了，称“你们该骂我骂我，该恨蔚来恨蔚来，我都接受。”</p><p style="margin-left:0px;"><strong>“没打我就很给面子了”</strong></p><p style="margin-left:0px;">一直以来，蔚来最大护城河是用户运营，李斌也会经常和蔚来车主直接对话，不过在昨天和用户沟通的过程中，却发生了不太愉快的一幕。</p><p style="margin-left:0px;">视频的开头，是一位蔚来ES7车主与蔚来CEO李斌的对话，车主明显带着不满，“斌哥，我和你的关系没那么近。”李斌接话，“没事，随便怎么叫，叫李斌就行”。</p><p style="margin-left:0px;">车主对李斌表示，“我们不是来谈话的，我们是来谈判的。”</p><p style="margin-left:0px;">注意车主用了“谈判”的字眼，谈话内容也变得尖锐起来。</p><p style="margin-left:0px;">首先是有些变相威胁的味道，<strong>车主称有自己的底牌，就是1万多车主的口碑，并有好几个维权群，至少有几千个车主和他有一样的想法，目的就是为了争取自己的权益。</strong></p><p style="margin-left:0px;">言外之意就是如果不能争取到，“底牌”就要亮出来了。</p><p style="margin-left:0px;">随后这位车主把极氪事件搬了出来，称当时极氪因为座椅问题，很多车主一起向极氪发布声明，极氪很快就做出了响应，发布了座椅改进方案，“这非常有担当，我认为蔚来应该更有担当”。</p><p style="margin-left:0px;">但李斌并没有同意这个诉求，称自己清楚老车主心里不舒服，但能做的一定做，这件事自己是真的做不到，“我能接受大家（带来）的最坏的结果”。</p><p style="margin-left:0px;">“谁跟权益过不去呢？”李斌称，蔚来做过调查，99.9%的用户都会需要（权益），“但是我只能去做我能做的事。”</p><p style="margin-left:0px;">（由于信息太过密集，以下是车主和李斌的部分对谈内容）</p><p style="margin-left:0px;">车主：我们的权益并不过分，我们用的都是一代平台上的配件，这我没说错吧？</p><p style="margin-left:0px;">李斌：当然不是，这就是一个巨大的分歧，这不是一代平台。</p><p style="margin-left:0px;">车主：我们用的是一代配件，在很多配件上都可以看到ES6、EC6的影子。</p><p style="margin-left:0px;">李斌：平台共用一些配件很正常，要看最主要的东西，像核心电机，智能化，这些都不是一样的。</p><p style="margin-left:0px;">车主：如果这个会议没有结果，大家还是会继续有这些（维权），这样对蔚来的口碑来说不是好事。</p><p style="margin-left:0px;">李斌：我能做的事情，包括座椅、二手车都可以，但是其他问题像改装、补偿这些是真的做不到，全新ES6马上发布价格，那上一代的ES6有十几万用户，也会有无数个理由索要权益，我实在找不到一个切入口。</p><p style="margin-left:0px;">车主：行吧行吧，水军这么多，我也没什么好讲的，你们觉得没问题就不要来谈话，我看刷屏好多支持蔚来的，我说完了，我下线了。</p><p style="margin-left:0px;">李斌在会议中表示，让每一个人都满意是不可能的，“你们骂我，恨蔚来，我都能接受”。</p><p style="margin-left:0px;"><strong>最后李斌在安抚车主情绪时还说了一句话，“感谢今天大家这么克制，没有现场打我，没有在线上对我做人身攻击，已经是很给我面子了。”</strong></p><p style="margin-left:0px;"><strong>网友：心疼李斌</strong></p><p style="margin-left:0px;">网传这段录音不到十分钟，但参加会议的蔚来车主和包括李斌在内的蔚来工作人员有约500人左右，还有很多人围观。</p><p style="margin-left:0px;">根据用户会议内容结合其他信息可知，蔚来方面之所以发起用户会议，是因为蔚来即将发布新款ES6。</p><p style="margin-left:0px;">目前新款ES6还未发布售价，大概率会比ES7便宜，但各项参数配置和ES7较为接近，所以引起了ES7车主的不满，认为自己买亏了，权益没有得到保证。</p><p style="margin-left:0px;">蔚来在去年6月发布了中大型5座SUV ES7，官方售价46.8万——54.8万，并在当年8月开启了交付，截至目前，ES7累计交付近2万辆。</p><p style="margin-left:0px;text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0430/1682816495.jpg" alt="李斌罕见强硬回击用户：给不了补偿权益 骂我都接受"></p><p style="margin-left:0px;">不久前的上海车展上，蔚来推出全新一代ES6，基于蔚来NT2.0平台打造，这也是ES6自2018年上市以来的首次更新换代。</p><p style="margin-left:0px;">新款ES6预计会在今年二季度上市，李斌和用户会议的录音中，也透露了全新ES6即将发布价格。</p><p style="margin-left:0px;">此前老款的蔚来ES6共有6款车型在售，官方指导价格为38.6万-55.4万。</p><p style="margin-left:0px;">所以，大概率因为新款ES6的到来，引起了部分购买ES7车主的不满，车主认为自己购买的ES7保值率降低，在二手车市场不香了。</p><p style="margin-left:0px;">其实这样的事并不少见，当初理想L8上市时，也引起了理想ONE车主的不满，闹的沸沸扬扬。</p><p style="margin-left:0px;">最终以理想方面提出延长售后保障期限、持续提供OTA升级服务、赠予三年每月20G的免费流量而告一段落。</p><p style="margin-left:0px;">当时李想并没有像李斌这样召开用户电话会议，回应和解决车主的诉求，这次亲自和用户对话也像是李斌能做出来的事，不过按照李斌的态度，似乎也不会为ES7车主提供比较离谱的补偿权益。</p><p style="margin-left:0px;">在会议录音中，蔚来方面负责用户关系的员工表示，他们本来是不建议李斌参加这个会，李斌也是临时决定参加，为的就是和车主沟通交流。</p><p style="margin-left:0px;">这一点也受到了一些网友好评。</p><p style="margin-left:0px;text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0430/1682816496.jpg" alt="李斌罕见强硬回击用户：给不了补偿权益 骂我都接受"></p><p style="margin-left:0px;">网友表示，CEO亲自出来对话，已经很给面子了。</p><p style="margin-left:0px;">“心疼李斌。”</p><p style="margin-left:0px;text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0430/1682816497.jpg" alt="李斌罕见强硬回击用户：给不了补偿权益 骂我都接受"></p><p style="margin-left:0px;">其实“新车上市割老车主韭菜”是个老生常谈的话题，特斯拉、理想、小鹏等车企都遇到这类问题。</p><p style="margin-left:0px;">根本原因在于，汽车在电动化和智能化上的升级换代速度越来越快，有些车企甚至像手机一样，一年推出一个换代车型。一些缺乏品牌价值力的车，在二手市场的保值率必然会受到影响。</p><p style="margin-left:0px;">特斯拉车主在这一点上应该深有体会，毕竟特斯拉的价格就像过山车。马斯克此前在回应特斯拉降价引发的维权时表示，“当特斯拉降价时，已经购买的人想要更低价。但是如果涨价，也没人给特斯拉补差价”。</p><p style="margin-left:0px;">但蔚来和特斯拉不同，从蔚来诞生的那一天开始，就打出为用户服务的旗号，显然蔚来车主是拿捏了这一点，不然也不会对李斌说不是谈话而是来谈判的。</p><p style="margin-left:0px;">最后，即便是李斌，也只能说一句，“希望大家高抬贵手”。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-04-30/2925723.shtml</guid>
-<author>楚门 曹婷婷</author><pubDate>Sun, 30 Apr 2023 09:01:35 +0800</pubDate>
-<source>猎云网</source>
-</item><item><title>OpenAI完成新一轮融资 估值达270亿至290亿美金</title>
-<link>http://www.techweb.com.cn/finance/2023-04-30/2925728.shtml</link>
-<description><![CDATA[<p>【TechWeb】4月30日消息，据外媒报道，美国人工智能初创公司OpenAI已经于美东时间本周五完成新一轮融资，融资金额103亿美元，投后估值达到270亿至290亿美元。</p><p>报道称，参与OpenAI本轮融资的风投公司包括老虎全球管理、红杉资本、加州Andreessen Horowitz、纽约Thrive和K2 Global等，共投入略超3亿美元。</p><p>根据报道，本轮投资与早先微软入股属于同一轮。今年稍早，微软对OpenAI的投资规模据称大约100亿美元。</p><p>知情人士称，本轮最新融资过后，外部投资者目前共持有OpenAI超过30%的股份。</p><p>公开资料显示，2015年，OpenAI由马斯克、美国创业孵化器Y Combinator总裁阿尔特曼、全球在线支付平台<a href="https://baike.baidu.com/item/PayPal/4418314?fromModule=lemma_inlink">PayPal</a>联合创始人彼得·蒂尔等硅谷科技大亨创立。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/finance/2023-04-30/2925728.shtml</guid>
-<author>周小白</author><pubDate>Sun, 30 Apr 2023 11:17:11 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
 <description><![CDATA[<p>最近，中国移动悄悄的宣布了一件&ldquo;大事儿&rdquo;，那就是&ldquo;一号双端&rdquo;业务正式启动，什么是&ldquo;一号双端&rdquo;业务呢？用户办理这个业务之后，就可以在可穿戴设备上与手机共享同一个号码，两者计算共同的话费和流量套餐。应用这个业务的的可穿戴设备主要是智能手表。</p>
@@ -168,12 +168,12 @@
 <guid>http://www.techweb.com.cn/people/2023-04-27/2925598.shtml</guid>
 <author>杨亮</author><pubDate>Thu, 27 Apr 2023 15:56:35 +0800</pubDate>
 <source>Donews</source>
-</item><item><title>AppStore30%抽成过分：“苹果税”遭马斯克公开抨击</title>
-<link>http://www.techweb.com.cn/it/2023-05-01/2925733.shtml</link>
-<description><![CDATA[<p>5月1日消息，今天，马斯克在推特公开表达了对苹果AppStore 30%高额抽成的不满。</p><p>在上周，马斯克曾解释了在iPhone上付费订阅需要一段时间才能生效的原因，称这是由于所有的订阅都需要苹果的审核与批准。</p><p>目前，Spotify首席执行官Daniel Ek在推特上转发了马斯克的帖子，并再次抨击了苹果的政策，指责AppStore的抽成制度是“荒谬”的。</p><p>今天凌晨，马斯克公开回复Daniel Ek，称如果30%的高额抽成得到扩展，那么“将演变为一个严重的规模性挑战”。</p><p>值得一提的是，马斯克早些时候曾表示，苹果的App Store抽成，本质上就像对使用互联网征收30%的税。</p><p>因此，他曾号称，他与苹果的冲突是“为文明的未来而战”，并对苹果的应用审核制度提出指责。</p><p>值得一提的是，同样指责苹果抽成不合理，并对簿公堂的Epic，在不久前刚刚遭遇了二审败诉。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>苹果版“余额宝”开局迅猛！Apple Card四天吸金69亿元</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925757.shtml</link>
+<description><![CDATA[<p>5月2日消息，早些时候，苹果推出了被用户称为“苹果版‘余额宝’”的Apple Card高收益储蓄账户服务。</p><p>今天，根据《福布斯》最新发布的报告，Apple Card服务仅开业前四天，就已经吸纳了将近10亿美元（约合人民币69亿元）的存款，这一开局可以说是相当迅猛。</p><p>而根据知情人士透露的消息，截止首周结束，苹果已经开设了超过240000个以上的Apple Card储蓄账户，平均账户余额超过了4000美元。</p><p>据苹果提供的数据，Apple Card目前提供4.15%的年利率，比美国平均水平高出10倍以上。</p><p>同时，用户通过Apple Card设置储蓄账户后，来自Apple Card的每日返现（Daily Cash）会自动存入该账户。</p><p>此外，用户还可通过一个关联的银行账户将资金存入储蓄账户，或将Apple Cash余额中存入储蓄账户的个人资金赚取利息，并且可以随时将资金转出到关联的银行账户，过程不收取任何费用。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-01/2925733.shtml</guid>
-<author>乃河</author><pubDate>Mon, 01 May 2023 08:50:19 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925757.shtml</guid>
+<author>乃河</author><pubDate>Tue, 02 May 2023 08:49:04 +0800</pubDate>
 <source>快科技</source>
 </item><item><title>炳叔：IEEE的审稿权，是一种机会优势</title>
 <link>http://bingshu.blog.techweb.com.cn/archives/3494</link>
