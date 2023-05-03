@@ -5,54 +5,75 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Wed, 03 May 2023 08:46:13 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 14:10:08 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>微软计划推出自研Arm芯片对标苹果，现已开始招聘各类工程师</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925758.shtml</link>
-<description><![CDATA[<p>&nbsp;5 月 2 日消息，据 Windows Latest 报道，微软正在与合作伙伴和内部团队合作开发新的 Arm 芯片以与苹果的 M 系列芯片进行竞争。</p><p>此外，微软还准备将 Windows 12 为其 Arm 芯片进行优化，以在性能、效率等方面赶超苹果。Windows Latest 发现，微软已经提供了多种职位细节，包括：</p><p>首席 SoC Silicon 架构师</p><p>高级物理设计验证工程师</p><p>首席设计工程师</p><p>高级 Silicon 功率完整性 CAD 经理</p><p>微软将其芯片工作归类为“Microsoft Silicon Team”，这些招聘页面大多在 4 月底刚刚上线。但截至IT之家发稿，微软已经从官网撤下大部分职务的详细介绍。以下是微软公司对首席 SoC Silicon 架构师的描述：</p><p>您将处于计算的前沿，建立与各种跨职能团队的持久关系，以提供高性能和创新的 SoC。您可以充分利用自己的经验来支持制定硬件架构和功能。</p><p>这些细节表明，微软并非一昧地模仿苹果脚步，而是很清楚地知道自己目前需要投资的内容，他们正在迅速开发自己的 Arm 芯片，并需要尽快发布 Windows 12 系统，以此为新的 Arm 芯片提供优化。</p><p>Windows Latest 强调，微软可能会通过 Windows 12 来优化其自研芯片的适用性，并将在 2024 年发布这一版本。此外，Windows 12 中的多种 AI 功能也将受益于内置 Arm 芯片的支持。</p><p>Windows 12 被认为是微软 Windows Core 项目的一部分，该项目旨在为各种形态、规格（的设备）打造一个模块化和可定制化的 Windows 版本，集成内置 ARM 芯片可以进一步优化 Windows 12 提供的硬件和软件使用体验。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+     <item><title>裁员 56 人占比超 25%，苹果自动驾驶测试司机团队锐减至 145 人</title>
+<link>http://www.techweb.com.cn/it/2023-05-03/2925786.shtml</link>
+<description><![CDATA[<p style="margin-left:0px;text-align:justify;">根据国外科技媒体 MacReports 报告，为苹果测试自动驾驶汽车的司机数量近日削减了 56 人，目前在职的司机总数为 145 人。</p><p style="margin-left:0px;text-align:justify;">报告中指出自 2021 年夏季开始，苹果就不断扩充自动驾驶汽车司机数量，从不到 80 人增加到 2023 年初的 200 多人。</p><p style="margin-left:0px;text-align:justify;">而根据苹果递交至加州 DMV 的文件信息显示，人数中今年年初的 201 人下降到了 145 人，降幅超过 25%。</p><p style="margin-left:0px;text-align:justify;">至于注册 AV 测试的汽车数量，从上次的 67 辆减少到 4 月 28 日的 66 辆。Apple 还没有像 Waymo，Cruise 和 Nuro 那样向 DMV 申请进行无人驾驶 AV 测试。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925758.shtml</guid>
-<author>问舟</author><pubDate>Tue, 02 May 2023 08:51:27 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-03/2925786.shtml</guid>
+<author>故渊</author><pubDate>Wed, 03 May 2023 08:59:15 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>滴滴退市后首发财报，哪些数据值得关注？</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925773.shtml</link>
-<description><![CDATA[<p>4月29日，滴滴在官网发布了退市后的首份年报。数据显示，2022年滴滴实现营业收入1408亿元，较上年同期下降19%。净亏损为238亿元，较上年同期收窄52%。</p><p><strong>01</strong></p><p><strong>值得关注的数据</strong></p><p>除了营收、净亏损两大核心财务指标之外，本份年报中，滴滴还有以下几方面数据值得市场关注。</p><p>具体表现为——</p><p>1、滴滴的营收主要由中国出行业务（中国网约车、出租车、代驾和顺风车等业务）、国际业务（国际出行和外卖等业务）和其他业务（共享单车和电单车、货运、自动驾驶和金融服务等业务）三部分组成。</p><p>其中，中国出行业务、其他业务收入分别出现了22%和7%的降幅，占比仅为4%的“小基数”业务国际业务收入表现为增长，该业务收入由上一年同期36亿元提升至59亿元，涨幅达到了62%。</p><p>2、过去一年来，受疫情、市场政策、新增业务限制等多重因素影响，滴滴在“开源”方面承压巨大，某个角度上，“降本”或成为公司战略性保存实力的一种重要举措。</p><p>根据财报显示，2022年滴滴的收入成本为1158亿元，较2021年同期的1569亿元下降了26%。其中，运营和支持成本为65亿元，较2021年的75亿元下降了13%；销售与市场成本为98亿元，较2021年的170亿元下降了42%。</p><p>3、司乘规模相对稳固。滴滴目前已在中国和全球其他15个国家开展业务，拥有5.87亿活跃用户和2300万活跃司机。其中，中国出行业务有4.11亿名年活跃用户，1900万名年活跃司机。</p><p>特别是针对老年用户、导盲犬用户等一些存在特殊需求的用车人群，滴滴还推出了专门服务：如“助老打车”已累计为超过270万老人提供了超过7500万次出行服务，覆盖355城；“导盲犬用户无障碍订单”服务已覆盖117个城市，超260万滴滴司机完成相关认证。</p><p>另外值得一提的是，随着国内通勤、消费性出游、大型公共交通枢纽等场景的出行需求的复苏，也帮助滴滴的出行业务快速回归。2023年3月，滴滴中国出行业务日均完单2820万，同比上一年同期增长42%。</p><p><strong>02</strong></p><p><strong>自动驾驶等新业务动态</strong></p><p>五一小长假，为了拉动市场出行并带动消费回暖，滴滴宣布为司机发放2亿元司机奖励和小桔充电、滴滴加油补贴。部分城市将继续试行节假日司机服务费，全额给司机。</p><p>在保持主营业务运营的同时，滴滴也加大了对自动驾驶领域的布局速度。</p><p>4月13日，滴滴在上海举办了自动驾驶开放日，并在会上公开了几项产品及服务：自动驾驶自动运维中心，首款未来服务概念车DiDi Neuron，自动驾驶货运机器人KargoBot，两款自动驾驶核心硬件“北曜Beta”激光雷达和三域融合计算平台“Orca虎鲸”等。</p><p>据滴滴出行CTO、滴滴自动驾驶CEO张博的介绍，目前滴滴自动驾驶已掌握了包括感知、预测、决策控制、大规模仿真系统、大规模机器学习平台等L4级别自动驾驶全栈核心技术。同时正与自动驾驶产业链上、下游进行深度合作与集成，以期推出下一代自动驾驶服务。</p><p>事实上，滴滴组建自动驾驶研发部门早已是2016年的事情，创立三年后独立发展，2020年6月上海智能网联汽车规模化载人示范应用正式启动，这也是滴滴第一次面向公众开放自动驾驶服务。</p><p>从自动驾驶首次对外上路至今，滴滴自动驾驶已在上海、广州等城市提供运营服务，送驾里程、送驾时长、每小时单量等体验和效率指标都在持续向网约车靠近。滴滴自动驾驶COO孟醒在开放日上披露，“期间MPCI（安全接管里程）上涨100倍，主责安全事故0起。”</p><p>尽管从官方消息“滴滴首款量产车型计划于2025年接入滴滴共享出行网络，实现全天候、规模化的混合派单”来看，自动驾驶技术想要实现商业化、甚至扛起营收大旗还有相当长的时间。但就客观而言，这依然算得上是滴滴新的想象空间。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>法拉第未来 FF 91 车型官宣内置生成式 AI，与 ChatGPT、GPT-4 等集成</title>
+<link>http://www.techweb.com.cn/it/2023-05-03/2925787.shtml</link>
+<description><![CDATA[<p style="margin-left:0px;text-align:justify;">法拉第未来&nbsp;Faraday Future 官网今日发布公告，其在 GPT AI 技术上取得新突破，并宣布了旗下生成式 AI 产品堆栈（Generative AI Product Stack），该堆栈将集成到 FF 91 车型中。</p><p style="margin-left:0px;text-align:justify;">公告称，通过这一生成式 AI 产品堆栈，法拉第未来已将其基础 AI 功能与 ChatGPT、GPT-4 等先进模型以及来自 OpenAI 和微软等公司的其他模型相集成。</p><p style="margin-left:0px;text-align:justify;">法拉第未来企业战略主管 Prashant Gulati 表示：“长期以来，我们一直在投资软件、人工智能和人机交互，这使我们处于独特的地位，可以利用人工智能的这些进步。要在汽车中使用生成式人工智能，需要强大的计算平台、强大的操作系统、互联网连接和合适的显示器。只有 FF 91 拥有如此行业领先的计算平台、先进的操作系统、超高速互联网连接、AI 和自然语言处理能力，以及超过 100 英寸的显示屏，以及 Generative AI Product Stack，使用户能够逐步将先进的生成模型用于车辆中的一系列个性化应用 —— 从复杂的文本和语音查询到图像和视频生成、股票分析、实时翻译、搜索、娱乐、教育、电子商务等。可能性是无限的。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925773.shtml</guid>
-<author>小禅</author><pubDate>Tue, 02 May 2023 10:42:09 +0800</pubDate>
-<source>陆玖商业评论</source>
-</item><item><title>IBM 暂停招聘，计划用AI取代7800个工作岗位</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925761.shtml</link>
-<description><![CDATA[<p>5 月 2 日消息，IBM 刚刚公布了 2023 财年第一季度财报。IBM 第一季度营收为 142.52 亿美元（备注：当前约 987.66 亿元人民币），同比增长 0.4%，不计入汇率变动的影响为同比增长 4.4%；净利润为 9.27 亿美元，相比之下上年同期为 7.33 亿美元；来自于持续运营业务的利润为 9.34 亿美元，与上年同期的 6.62 亿美元相比增长 41%。</p><p>IBM 首席执行官阿尔温德・克里希纳周一对彭博社表示，由于未来几年约有 7800 个工作岗位可能被人工智能 (AI) 取代，该公司将暂停招聘。克里希纳称总计约有 26000 名员工从事这些不面向客户的职位。</p><p>他指出：在五年内，30% 的非面向客户的职位可能会被人工智能和自动化取代。克里希纳表示，也正是因此，人力资源等后台职能部门的招聘将暂停或放缓。</p><p>去年 11 月，微软支持的 OpenAI 公司推出了风靡全球的聊天机器人 ChatGPT，此后，人工智能引起了全世界人们的广泛关注。这家个人电脑制造商告诉《华尔街日报》，裁员可能包括不填补因人员流失而空缺的职位。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925761.shtml</guid>
-<author>问舟</author><pubDate>Tue, 02 May 2023 09:01:49 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-03/2925787.shtml</guid>
+<author>汪淼</author><pubDate>Wed, 03 May 2023 09:02:38 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>Meta Quest 游戏展示会6月1日举行 预计将推出多款VR游戏</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925760.shtml</link>
-<description><![CDATA[<p>5 月 2 日消息，Meta 宣布将于美国东部时间 6 月 1 日下午 1 点举行 Quest Gaming Showcase，带来各种新游戏和玩法展示。此外，今年的游戏展将包括一个预展，展示游戏更新和“首次亮相”新作的预告片，还可与开发者进行“深入”讨论。</p><p>Meta 之前指出，它的下一款主流 Quest 头显将于今年晚些时候上市。如果是这样的话，我们可能会在这次虚拟活动上看到&nbsp;Quest 2 继任者到来之前的最后一款大型游戏。</p><p>Meta 最近完成了对 VR 健身游戏《超自然》(Supernatural) 开发商 Within 的收购，而且 Meta 也仍在努力向元宇宙世界进行转型。不过，它的现实实验室部门每个季度仍在亏损数十亿美元。</p><p>此外，Meta 最近还将 Quest Pro 的定价下调了三分之一，降至 999 美元（备注：当前约 6923 元人民币），以刺激消费者购买。虽然说，这场游戏展不太可能扭转 Meta 目前局面，但它可能会在新头显问世之前再一次激起人们对 VR 平台的兴趣。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>丰田高管：电动汽车技术还不成熟，混合动力目前更实用</title>
+<link>http://www.techweb.com.cn/it/2023-05-03/2925788.shtml</link>
+<description><![CDATA[<p style="margin-left:0px;text-align:justify;">作为澳大利亚的领先汽车制造商，丰田公司的一位高管表示，电动汽车技术还不够成熟，而混合动力汽车才是目前更实用的解决方案。</p><p style="margin-left:0px;text-align:justify;">丰田澳大利亚的销售总监 Sean Hanley 在接受采访时说，他们支持政府制定的限制汽车排放和促进低排放汽车进口的燃油效率标准，但是单纯依靠电动汽车是“过于简单化”的。他认为，如果只推广零排放汽车，那么数以百万计的澳大利亚消费者将没有合适的选择，因为目前市场上还没有一款电动汽车能够满足他们的需求。</p><p style="margin-left:0px;text-align:justify;">“现在还为时过早，目前澳大利亚市场上有哪款电动汽车能够拖着 2.5 吨的重物行驶 600 公里？没有，不存在。如果我们只转向零排放汽车，你要怎么跟那些拖着房车、用车工作、在农村或者矿区开车、需要超过 200 或 300 公里续航里程的澳大利亚人说？”Hanley 说。</p><p style="margin-left:0px;text-align:justify;">Hanley 同时澄清，丰田并不反对电动汽车技术，他还透露，丰田将在今年年底在澳大利亚推出自己的电动汽车。但是，他坚持认为，混合动力汽车仍然是目前更合理的选择。</p><p style="margin-left:0px;text-align:justify;">“我们已经跟政府沟通过了，我认为我们代表了成千上万无声的澳大利亚消费者的声音，他们用车来休闲、拖运和做很多其他活动。我知道有些游说团体指责我们试图阻止、阻碍或者拖延电气化进程，但并不是这样，我们只是反映了市场的真实情况和现实。”Hanley 说。</p><p style="margin-left:0px;text-align:justify;">IT之家注意到，丰田高管的言论引起了电动汽车倡导者的回应，电动汽车委员会首席执行官 Behyad Jafari 表示，电动汽车技术已经在很多其他国家证明了自己的成功，并且在澳大利亚也越来越受欢迎。“当我们听到这些论点时，我们需要密切关注汽车公司的经济利益。有些企业没有花时间开发电动汽车，他们对这个问题没有足够的了解。”Jafari 说。</p><p style="margin-left:0px;text-align:justify;">绿色和平组织的活动家 Lindsay Soutar 则认为，澳大利亚人不会再接受较弱的汽车污染标准或者延迟采取行动了。Soutar 指出，丰田推崇混合动力汽车的论点也会让消费者在未来几十年内继续依赖化石燃料。“丰田在纯电动汽车上拖了后腿，选择了推广混合动力和燃料电池技术，这些技术会让消费者在未来几十年内继续付出化石燃料的代价。在 2023 年，面对气候和生活成本危机，还推销汽油车，这是可笑的，澳大利亚人不会被说服的。”Soutar 说。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925760.shtml</guid>
-<author>问舟</author><pubDate>Tue, 02 May 2023 09:00:00 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-03/2925788.shtml</guid>
+<author>远洋</author><pubDate>Wed, 03 May 2023 09:10:17 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>消息称AMD已将部分4纳米CPU芯片订单从台积电转移到三星</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925763.shtml</link>
-<description><![CDATA[<p>&nbsp;5 月 2 日消息，似乎是因为产能问题，搭载 AMD Phoenix 系列 Ryzen 7040 APU 的笔记本电脑的发布计划从 3 月推迟到 4 月，又推迟到了 5 月才会逐步上市。</p><p>爆料人 @OreXda 称，AMD 已与三星电子签署协议，计划从台积电转移部分 4nm 处理器业务到三星。值得一提的是，之前还有消息称三星已经开始量产第三代 4nm 制程，提高良率和能效，客户可能包括谷歌 Tensor G3 和高通骁龙 8 Gen 3。</p><p>据称，台积电 4nm 产能正在满载运行，苹果、高通等客户同样在该节点上采购 4nm 移动 SoC，这使得 AMD 的产能分配以及面对台积电的议价能力十分有限。</p><p>据称，该公司的 Ryzen 7040 系列“Phoenix”系列移动处理器采用 4nm 工艺，目前正在采用三星的 4nm 节点设计 (AMD 有五种选择)。</p><p>总的来说，转向三星可能会给 AMD 带来更多的可扩展性，特别是考虑到“Phoenix”已经多次延迟，目前 AMD 在高端市场只剩下 5nm + 6nm 的 Ryzen 7045 系列“Dragon Range”，而在主流和超便携市场上只剩下 6nm 的 7035 系列“Rembrandt-R”，但没有什么产品“适合”与“Raptor Lake-U"和"Raptor Lake-P”竞争。</p><p>由于英特尔 13代酷睿处理器依然基于 Intel 7 节点，所以目前没有任何出货压力，因此外媒认为 AMD 可能会采用像传闻中高通骁龙 8 Gen 4 那样的双源策略（注：该传闻尚无法确认）。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>消息称苹果明年推 iPad 版 Final Cut Pro，2025 年推 Logic Pro 应用</title>
+<link>http://www.techweb.com.cn/it/2023-05-03/2925789.shtml</link>
+<description><![CDATA[<p style="margin-left:0px;text-align:justify;">根据消息源 @analyst941 分享的推文信息，苹果有望在 2024 年推出适用于 <a href="https://ipad.ithome.com/">iPad</a> 的 Final Cut Pro 应用；在 2025 年推出 iPad 版 Logic Pro 应用。</p><p style="margin-left:0px;text-align:justify;">IT之家翻译他的推文内容如下：</p><blockquote><p style="margin-left:0px;">我上周就想透露这条消息，我现在忍不住要分享这个提前消息了。</p><p style="margin-left:0px;">Final Cut Pro 将于 2024 年登陆 iPadOS</p><p style="margin-left:0px;">Logic Pro 预计在 2025 年推出。</p><p style="margin-left:0px;">我上周在发布“14.1 英寸 iPad Pro 机型支持外接 2 台 6K 显示器”爆料的时候就想要说了。</p></blockquote><p style="margin-left:0px;text-align:justify;"><strong>Final Cut Pro</strong></p><p style="margin-left:0px;text-align:justify;">Final Cut Pro 是一款由 Macromedia 推出，之后由苹果公司接手研发、销售的非线性视频剪辑软件。</p><p style="margin-left:0px;text-align:justify;"><strong>Logic Pro</strong></p><p style="margin-left:0px;text-align:justify;">Logic Pro 是一款 Mac 平台的数字音频工作站与 MIDI 音序器软件。Logic Pro 最早由德国软件开发商 Emagic 开发，并随着 2002 年苹果公司对 Emagic 的收购成为苹果的产品，并作为苹果的专业级音乐软件套装 Logic Studio 的一部分。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925763.shtml</guid>
-<author>问舟</author><pubDate>Tue, 02 May 2023 09:09:16 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-03/2925789.shtml</guid>
+<author>故渊</author><pubDate>Wed, 03 May 2023 09:11:55 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>一季度净利润不及预期 特斯拉Model 3/Model Y在华全系涨价</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-05-02/2925783.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月2日，特斯拉中国官网对Model 3和Model Y车型进行了价格调整，各类车型均涨价2000元。其中，Model 3在国内的售价由此前的22.99万元调整至23.19万元，Model 3高性能版由此前的32.99万元调整至33.19万元。Model Y由此前的26.19万元调整25.39万元，Model Y长续航版由此前的31.19万元调整至31.39万元，Model Y高性能版由此前的36.19万元调整至36.39万元。</p><p>据悉，此次特斯拉官方涨价，或由2023年一季度净利润不及预期所致。特斯拉财报显示，2023年第一季度斯拉总收入约233.3亿美元，同比增长24.38%；净利润约25.13亿美元，同比下滑超24%，低于26亿美元的预期。</p><p>特斯拉表示，“新工厂未充分利用”压低了公司利润率，加上原材料、大宗商品、物流和保修成本增加，4680电池的生产成本增加以及特斯拉向传统汽车制造商销售碳排放积分的收入减少等等，这些都是导致公司盈利能力较去年同期下降的原因。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>华为重申保持创新：1年1615亿研发费下14nm以上EDA国产化 5G必要专利全球第一</title>
+<link>http://www.techweb.com.cn/it/2023-05-03/2925790.shtml</link>
+<description><![CDATA[<p style="margin-left:0px;">上周华为公布了业绩，2023年第一季度经营业绩实现销售收入1321亿人民币，同比增长0.8%，净利润率2.3%，计算可知净利润为30.38亿人民币。</p><p style="margin-left:0px;">对于这份成绩，华为回应称，整体经营结果符合预期，公司继续在研发上加大投入，以保持面向未来的持续创新能力。</p><p style="margin-left:0px;">据华为轮值董事长徐直军披露，三年来，华为围绕硬件开发、软件开发和芯片开发三条研发生产线，努力打造工具，完成了软件/硬件开发78款工具的替代，保障了研发作业的连续。例如在芯片设计方面，包括实现了14nm以上EDA工具国产化，2023年将完成对其全面验证。</p><p style="margin-left:0px;">根据年报，华为2022年研发费用支出达到了1615亿人民币的历史高位，同比增长13.2%，占全年收入的25.1%，近十年累计投入的研发费用超过9773亿人民币。</p><p style="margin-left:0px;">如此多研发费用的投入，也是给华为带来了丰厚的成果，比如比如一些元器件的国产替代、14nm以上EDA国产化等等。</p><p style="margin-left:0px;">截至2022年底，华为在全球共持有有效授权专利超过12万件，而与华为签订双边协议、付费获得华为专利许可的企业有29家，来自中国、美国、欧洲、日本、韩国等区域，其标准必要专利6500余项，全球占比14%，排名第一。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-05-02/2925783.shtml</guid>
-<author>Suky</author><pubDate>Tue, 02 May 2023 22:11:40 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-03/2925790.shtml</guid>
+<author>雪花</author><pubDate>Wed, 03 May 2023 09:22:17 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>确保隐私的代价：私有版ChatGPT费用将高出常规版10倍</title>
+<link>http://www.techweb.com.cn/internet/2023-05-03/2925791.shtml</link>
+<description><![CDATA[<p style="margin-left:0px;">随着ChatGPT的发展与普及，越来越多的用户开始担心人工智能是否能够保证自己的隐私不被泄露。</p><p style="margin-left:0px;">而对于各大企业来说，有三星由于使用ChatGPT导致内部资料泄露一事作为先例，更是很难信任此类AI的安全性。</p><p style="margin-left:0px;">对此，微软作为OpenAI的技术转授权持有者，开始指定一个“更为安全”的计划。</p><p style="margin-left:0px;">近日，有知情人士透露，微软计划在本季度晚些时候，推出一款在专用云服务器上运行的ChatGPT。</p><p style="margin-left:0px;">该版本的ChatGPT数据将独立存储，不与其他客户的数据进行任何交流，<span style="color:hsl(0, 0%, 0%);">换言之，它将是一个完全的“私有版ChatGPT”。</span></p><p style="margin-left:0px;">这一设计能够使得商业用户放心使用人工智能，而不需要担心企业的隐私遭到泄露。</p><p style="margin-left:0px;">不过，确保隐私也是有代价的，这款产品的价格，可能是目前ChatGPT Plus的10倍之多。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/internet/2023-05-03/2925791.shtml</guid>
+<author>乃河</author><pubDate>Wed, 03 May 2023 09:24:04 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>五一最热门景区出炉：西湖人最多 一天80.85万人次</title>
+<link>http://www.techweb.com.cn/it/2023-05-03/2925792.shtml</link>
+<description><![CDATA[<p style="margin-left:0px;">这个“五一”，你去哪里玩了？还是宅在家里？</p><p style="margin-left:0px;">据大数据统计，4月29日零时至5月1日16时，全国景区游客量排前十的景区分别为：</p><p style="margin-left:0px;">－ 杭州西湖</p><p style="margin-left:0px;">－ 南京夫子庙秦淮风光带</p><p style="margin-left:0px;">－ 南京钟山风景区</p><p style="margin-left:0px;">－ 北京颐和园</p><p style="margin-left:0px;">－ 大理古城</p><p style="margin-left:0px;">－ 西安大雁塔·大唐芙蓉园景区</p><p style="margin-left:0px;">－ 济南天下第一泉风景区</p><p style="margin-left:0px;">－ 武汉东湖风景区</p><p style="margin-left:0px;">－ 北京奥林匹克公园</p><p style="margin-left:0px;">－ 北京天坛公园</p><p style="margin-left:0px;">5月1日假期第三天，西湖景区接待客流量80.85万人次，比2019年同期增长13.30%；其中收费公园客流量为24.07万人次，比2019年同期增长49.97%。</p><p style="margin-left:0px;">5月2日假期第四天，西湖景区接待客流量64.27万人次，比2019年同期增长54.20%；其中收费公园客流量为19.42万人次，比2019年同期增长75.59%。</p><p style="margin-left:0px;">网友辣评：</p><p style="margin-left:0px;">假期里看了山和海，也看了人山和人海。</p><p style="margin-left:0px;">花了看山、看海的钱，看的却是人山人海。</p><p style="margin-left:0px;">不好意思，不是我吹，除了家里我哪都没去过。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-03/2925792.shtml</guid>
+<author>上方文Q</author><pubDate>Wed, 03 May 2023 09:39:39 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>报告称台积电美国产芯片报价高出 30%、日本产高出 15%</title>
+<link>http://www.techweb.com.cn/it/2023-05-03/2925793.shtml</link>
+<description><![CDATA[<p style="margin-left:0px;text-align:justify;">根据 DigiTimes 报道，台积电美国工厂所生产的半导体芯片在成本上没有价格优势，报价比台积电其它工厂制造的半导体芯片高出 30%。</p><p style="margin-left:0px;text-align:justify;">报告中指出台积电美国工厂的 N4 和 N5 工艺成本要高 20% 到 30% 左右；台积电日本熊本工厂在 N28 / N22 和 N16 / N12 节点上生产的芯片要高出 10% 到 15%。</p><p style="margin-left:0px;text-align:justify;">台积电计划将在美国和日本制造晶圆厂的高成本转嫁给客户，以便能够维持其 53% 的毛利率目标。</p><p style="margin-left:0px;text-align:justify;">包括 AMD 和英伟达在内的美国客户正在继续与台积电进行谈判，并可能将部分订单转移到三星代工厂以平衡预算。</p><p style="margin-left:0px;text-align:justify;">IT之家从报道中还获悉，英伟达选择三星代工之外，还会使用英特尔的 18A 和 20A 技术制造芯片。不过随着芯片设计也变得越来越复杂和成本越来越高，芯片设计公司将很难同时向台积电和三星订购类似的芯片。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-03/2925793.shtml</guid>
+<author>故渊</author><pubDate>Wed, 03 May 2023 10:48:01 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>五一最热门景区出炉，哪些地方又贵又挤？</title>
+<link>http://www.techweb.com.cn/internet/2023-05-03/2925794.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月3日消息，2023年五一假期收官，“史上最火五一”名号已加冕在即。社交平台上充斥着“人从众”的视频和画面。</p><p>这个五一有多火？去哪儿数据显示，2023年五一期间，纵使机票价格较疫情前增长三成以上，国内热门城市机票预订量仍超过疫情前五成；火车票同时购票人数达到历史新高，热门线路车票售罄速度超过春运；热门城市酒店预订量超疫情前1.9倍，连住天数增长20%。</p><p>另据央视新闻报道，大数据统计，4月29日零时至5月1日16时，全国景区游客量排前十的景区分别为：杭州西湖、南京夫子庙秦淮风光带、南京钟山风景区、北京颐和园、大理古城、西安大雁塔·大唐芙蓉园景区、济南天下第一泉风景区、武汉东湖风景区、北京奥林匹克公园、北京天坛公园。</p><p>这个五一，那些地方又贵又挤？去哪儿提供的四象限图来看，在“又贵又挤”象限中，北京、上海、成都、广州、长沙、杭州等地名列前茅；“贵但不挤”一项中，仅有三亚、兰州、西宁三个城市。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0503/1683084050406.jpg"></figure><p>今年五一，在去哪儿平台上，国内热门城市机票预订量超过疫情前五成，热门出发地为成都、北京、深圳、广州、上海、重庆、昆明、西安、杭州、海口；</p><p>热门目的地方面，热门城市Top10为：北京、成都、上海、重庆、广州、长沙、西安、杭州、武汉、深圳。</p><p>今年五一，没有冷门目的地。去哪儿平台数据显示，往年诸如德宏、淄博、甘南、伊犁、喀什、淮安、盐城、自贡、威海、日照、揭阳等相对冷门城市，今年五一酒店预订量同比2019年增长10倍以上，其中德宏酒店预订量增长最高，达22倍，淄博增长20倍。</p><p>出境游方面，今年五一，去哪儿平台数据显示，机票预订量已恢复至疫情前（2019年5月1日-5月4日）的45%。泰国曼谷、中国香港、韩国首尔、马来西亚吉隆坡、中国澳门、新加坡、日本东京、泰国普吉、日本大阪、菲律宾马尼拉是热门目的地。飞往泰国、马来西亚、新加坡的机票平均支付价格，较春节下降四成左右。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/internet/2023-05-03/2925794.shtml</guid>
+<author>果青</author><pubDate>Wed, 03 May 2023 11:21:16 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>比亚迪4月新能源汽车销量达210295辆，同比增长约98.3%</title>
 <link>http://www.techweb.com.cn/it/2023-05-02/2925762.shtml</link>
@@ -61,20 +82,13 @@
 <guid>http://www.techweb.com.cn/it/2023-05-02/2925762.shtml</guid>
 <author>问舟</author><pubDate>Tue, 02 May 2023 09:07:00 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>iPhone 15系列全系标配三星M12材质：峰值亮度超1500尼特</title>
-<link>http://www.techweb.com.cn/digi/2023-05-02/2925764.shtml</link>
-<description><![CDATA[<p>【Techweb】今年以来，外界已经将非常多的目光集中在了新一代的iPhone 15系列上，这段时间已经有关于该机外观和配置的不少爆料传出，不出意外的话该系列将继续推出包含iPhone 15、iPhone 15 Plus、iPhone 15 Pro和iPhone 15 Ultra四款机型，而外观上的升级也是此次大家关注的焦点之一。现在有最新消息，近日有外媒进一步晒出了该机屏幕方面的更多细节。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0502/1682990787327.png"></figure><p>据外媒Elec最新发布的信息显示，与此前曝光的消息基本一致，今年全新的iPhone 15系列四款机型将全部使用三星最新的M12材质。其实上一代iPhone 14系列中iPhone 14 Pro和iPhone 14 Pro Max已经使用了三星M12材质，采用该材质的屏幕由基板、阴极、阳极、空穴注入层、电子注入层、空穴传输层、电子传输层、电子阻挡层、空穴阻挡层、发光层等部分构成，手动峰值亮度超过了1000尼特，全局峰值亮度超过了1500尼特。</p><p>其他方面，据此前曝光的消息，全新的iPhone 15系列将继续提供与iPhone 14系列相同的四款机型，并且仍然有着明显的两极分化，其中两个Pro版将进一步提高屏幕亮度，达到2500尼特，边框也将进一步缩窄。同时二者将搭载新一代的A17 Bionic，这颗芯片集于台积电3nm工艺（N3）打造，同时内存还将会升级到8GB。而在影像上，除了将搭载接近1英寸大底的主摄外，还将首次搭载并独占潜望式长焦镜头，将带来无与伦比的6倍光学变焦能力，同样相比起iPhone 14 Pro系列上的3倍光学变焦来说是巨大的提升。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0502/1682990800639.jpg"></figure><p>据悉，全新的iPhone 15系列将有望继续在今年9月与大家见面，相比前代产品，今年的标准版机型与Pro版之间的差距将进一步扩大，而售价也将再创新高，尤其顶配版iPhone 15 Ultra有望突破2万元。更多详细信息，我们拭目以待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>滴滴退市后首发财报，哪些数据值得关注？</title>
+<link>http://www.techweb.com.cn/it/2023-05-02/2925773.shtml</link>
+<description><![CDATA[<p>4月29日，滴滴在官网发布了退市后的首份年报。数据显示，2022年滴滴实现营业收入1408亿元，较上年同期下降19%。净亏损为238亿元，较上年同期收窄52%。</p><p><strong>01</strong></p><p><strong>值得关注的数据</strong></p><p>除了营收、净亏损两大核心财务指标之外，本份年报中，滴滴还有以下几方面数据值得市场关注。</p><p>具体表现为——</p><p>1、滴滴的营收主要由中国出行业务（中国网约车、出租车、代驾和顺风车等业务）、国际业务（国际出行和外卖等业务）和其他业务（共享单车和电单车、货运、自动驾驶和金融服务等业务）三部分组成。</p><p>其中，中国出行业务、其他业务收入分别出现了22%和7%的降幅，占比仅为4%的“小基数”业务国际业务收入表现为增长，该业务收入由上一年同期36亿元提升至59亿元，涨幅达到了62%。</p><p>2、过去一年来，受疫情、市场政策、新增业务限制等多重因素影响，滴滴在“开源”方面承压巨大，某个角度上，“降本”或成为公司战略性保存实力的一种重要举措。</p><p>根据财报显示，2022年滴滴的收入成本为1158亿元，较2021年同期的1569亿元下降了26%。其中，运营和支持成本为65亿元，较2021年的75亿元下降了13%；销售与市场成本为98亿元，较2021年的170亿元下降了42%。</p><p>3、司乘规模相对稳固。滴滴目前已在中国和全球其他15个国家开展业务，拥有5.87亿活跃用户和2300万活跃司机。其中，中国出行业务有4.11亿名年活跃用户，1900万名年活跃司机。</p><p>特别是针对老年用户、导盲犬用户等一些存在特殊需求的用车人群，滴滴还推出了专门服务：如“助老打车”已累计为超过270万老人提供了超过7500万次出行服务，覆盖355城；“导盲犬用户无障碍订单”服务已覆盖117个城市，超260万滴滴司机完成相关认证。</p><p>另外值得一提的是，随着国内通勤、消费性出游、大型公共交通枢纽等场景的出行需求的复苏，也帮助滴滴的出行业务快速回归。2023年3月，滴滴中国出行业务日均完单2820万，同比上一年同期增长42%。</p><p><strong>02</strong></p><p><strong>自动驾驶等新业务动态</strong></p><p>五一小长假，为了拉动市场出行并带动消费回暖，滴滴宣布为司机发放2亿元司机奖励和小桔充电、滴滴加油补贴。部分城市将继续试行节假日司机服务费，全额给司机。</p><p>在保持主营业务运营的同时，滴滴也加大了对自动驾驶领域的布局速度。</p><p>4月13日，滴滴在上海举办了自动驾驶开放日，并在会上公开了几项产品及服务：自动驾驶自动运维中心，首款未来服务概念车DiDi Neuron，自动驾驶货运机器人KargoBot，两款自动驾驶核心硬件“北曜Beta”激光雷达和三域融合计算平台“Orca虎鲸”等。</p><p>据滴滴出行CTO、滴滴自动驾驶CEO张博的介绍，目前滴滴自动驾驶已掌握了包括感知、预测、决策控制、大规模仿真系统、大规模机器学习平台等L4级别自动驾驶全栈核心技术。同时正与自动驾驶产业链上、下游进行深度合作与集成，以期推出下一代自动驾驶服务。</p><p>事实上，滴滴组建自动驾驶研发部门早已是2016年的事情，创立三年后独立发展，2020年6月上海智能网联汽车规模化载人示范应用正式启动，这也是滴滴第一次面向公众开放自动驾驶服务。</p><p>从自动驾驶首次对外上路至今，滴滴自动驾驶已在上海、广州等城市提供运营服务，送驾里程、送驾时长、每小时单量等体验和效率指标都在持续向网约车靠近。滴滴自动驾驶COO孟醒在开放日上披露，“期间MPCI（安全接管里程）上涨100倍，主责安全事故0起。”</p><p>尽管从官方消息“滴滴首款量产车型计划于2025年接入滴滴共享出行网络，实现全天候、规模化的混合派单”来看，自动驾驶技术想要实现商业化、甚至扛起营收大旗还有相当长的时间。但就客观而言，这依然算得上是滴滴新的想象空间。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/digi/2023-05-02/2925764.shtml</guid>
-<author>Suky</author><pubDate>Tue, 02 May 2023 09:27:37 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>“AI教父”杰弗里·辛顿告别谷歌：称自己为发展人工智能而后悔</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925771.shtml</link>
-<description><![CDATA[<p>5月2日消息，近日，研究AI技术将近半个世纪，被称为“AI教父”的杰弗里·辛顿宣布，已经从谷歌离职。</p><p>在离职的同时，杰弗里·辛顿宣布，自己正式加入A批评人士的行列。</p><p>他认为，这些公司积极开发的，诸如ChatGPT等基于生成式人工智能的产品，是在奔向危险。</p><p>甚至于，辛顿表示，他现在对自己一生从事的工作感到有些后悔；他认为，随着企业改进AI系统，它们会变得越来越危险。</p><p>“看看五年前和现在的情况，”他在谈到AI技术时说，“接受差异并将其传播出去。太可怕了。”</p><p>他目前最担心的是，互联网将充斥着虚假照片、视频和文字，普通人将“无法再知道什么是真的”。</p><p>此外，他还担心，AI技术最终会颠覆就业市场——事实上，就在他从谷歌离开时，IBM宣布将在未来通过AI取代7800个左右的岗位。</p><p>“它省去了繁重的工作，但它带走的可能不止这些。”辛顿称。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925771.shtml</guid>
-<author>乃河</author><pubDate>Tue, 02 May 2023 10:36:38 +0800</pubDate>
-<source>快科技</source>
+<guid>http://www.techweb.com.cn/it/2023-05-02/2925773.shtml</guid>
+<author>小禅</author><pubDate>Tue, 02 May 2023 10:42:09 +0800</pubDate>
+<source>陆玖商业评论</source>
 </item><item><title>曝小鹏“自动驾驶”避让大车险冲出高架 客服回应：会反馈核实</title>
 <link>http://www.techweb.com.cn/it/2023-05-02/2925772.shtml</link>
 <description><![CDATA[<p>5月2日消息，近日在上海，有网友发布视频称在使用小鹏G9自动导航辅助驾驶功能时，辅助驾驶系统为了避让前方大车，往右打方向，但之后方向并没回正，随后车主紧急接手，快速打方向避免事故发生。</p><p>从实拍视频看，当事人驾驶这台小鹏G9行驶在高架上，前方有一台大巴缓行，甚至停了下来，这台G9发出“即将超车”的指令后，向右扭动方向盘变道。</p><p>然而在变道过程中突然向右大幅转动方向盘，驾驶员一把抓住，并给扭了回来，才避免车子与护栏发生碰撞，但不得不说，光是看视频就足以令人冒出冷汗。</p><p>针对此事，在接受采访时，小鹏客服表示，最近小鹏G9的OTA版本有更新过，目前是4.2.1版本，暂时没有收到该客户的反馈，会汇报给总公司，反馈给工程师分析。该客服同时还表示，开车时也不能完全依赖辅助驾驶，自己也应该留意。</p><p>据了解，小鹏最新的XNGP目前已经陆续开启推送，这是一套强感知、弱地图的辅助驾驶系统，可以减轻用户的驾驶疲劳，增强行驶安全。</p><p>但需要提醒的是，小鹏从来也没有将其当成“自动驾驶”宣传，所以在使用过程中，驾驶员不能将车辆全权交给系统控制，尤其是在路况复杂的城市、高架等路段。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -82,13 +96,6 @@
 <guid>http://www.techweb.com.cn/it/2023-05-02/2925772.shtml</guid>
 <author>落木</author><pubDate>Tue, 02 May 2023 10:38:36 +0800</pubDate>
 <source>快科技</source>
-</item><item><title>代码泄露事件后 三星暂时禁止员工使用ChatGPT等生成式AI</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925782.shtml</link>
-<description><![CDATA[<p>5 月 2 日消息，据彭博社周一报道，三星已在内部备忘录告知员工，停止使用 ChatGPT 和 Bard 等生成式 AI 工具，理由是担心会带来安全风险。</p><p>此举是在上个月发生代码泄露事件后的“亡羊补牢”举措，此前消息称，三星电子引入聊天机器人 ChatGPT 不到 20 天就发生了 3 起涉及 ChatGPT 的事故，其中 2 起与半导体设备有关，1 起与会议内容有关。</p><p>报道称，内部备忘录表示，三星担心传输到谷歌 Bard 和微软 Bing 等人工智能平台的数据存储在外部服务器上，难以检索和删除，最终可能会泄露给其他用户。</p><p>内部备忘录还显示，三星上个月进行了一项关于内部使用 AI 工具的调查，其中 65% 的受访者认为此类服务存在安全风险。备忘录透露，今年 4 月初，三星工程师将内部源代码上传到了 ChatGPT，目前还不清楚这些信息包含什么。</p><p>与此同时，三星正在开发自己的内部 AI 工具，用于翻译和总结文件以及软件开发，还在研究阻止敏感公司信息上传到外部服务的方法。“总部正在审查安全措施，以创造一个安全的环境，以安全地使用生成式 AI 来提高员工的生产力和效率。但是，在准备好这些措施之前，我们暂时限制生成式 AI 的使用。”</p><p>三星的新政策禁止在公司自有的电脑、平板电脑和手机以及内部网络上使用生成式 AI 系统，不会影响销售给消费者的设备，例如 Android 智能手机和 Windows 笔记本电脑。三星甚至在消费者设备中积极推广生成式 AI，据IT之家此前报道，三星近日向旗下所有的手机以及平板电脑产品推送了微软 Bing AI 更新，在这一更新完成后，三星用户可直接通过手机或者平板使用微软 Bing AI。</p><p>三星代表向彭博社证实这一份内部备忘录。三星在备忘录中表示：“我们要求您认真遵守我们的安全指南，否则可能会导致公司信息泄露，违者进行纪律处分，甚至包括解雇。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925782.shtml</guid>
-<author>汪淼</author><pubDate>Tue, 02 May 2023 16:58:13 +0800</pubDate>
-<source>IT之家</source>
 </item><item><title>微软收购暴雪遭英国监管部门阻拦 游戏开发成本失控引发行业担忧</title>
 <link>http://www.techweb.com.cn/it/2023-05-02/2925780.shtml</link>
 <description><![CDATA[<p>&nbsp;5 月 2 日消息，微软计划以 680 亿美元（备注：当前约 4712.4 亿元人民币）的价格收购游戏巨头暴雪娱乐，但这一交易遭到了英国竞争和市场管理局（CMA）的反对。CMA 在一份 418 页的报告中，详细阐述了其研究和理由，其中一个重要的论点是，目前的游戏开发成本已经高得难以承受，而微软的收购将进一步加剧市场垄断，削弱竞争。</p><p>报告援引了市场分析公司 IDG 的研究，其预计大作游戏（Blockbuster Game）的开发预算将从上一代主机平均 5000 万至 1.5 亿美元，增长到未来几年超过 2 亿美元。而在 2014 年，这个数字还只有 6000 万美元左右。报告还引用了暴雪对其旗舰产品《使命召唤》的评价：“我们必须为《使命召唤》制作大量的内容，以至于我们不能再依靠一个主要工作室了。现在我们每年需要将近 1.5 个主要工作室来制作《使命召唤》，这种压力迫使我们越来越多地使用外包，我不认为这种情况会在短期内改变。”</p><p>除了暴雪之外，其他游戏出版商也纷纷表示，他们的热门游戏系列的开发成本都在不断上升。有些系列甚至已经超过了 3 亿美元的开发预算，而下一代《侠盗猎车手》等未来的大作游戏成本也预计将达到 2.5 亿美元或更高。其中一家出版商透露，其最昂贵的游戏开发成本达到了 6.6 亿美元，而市场营销预算则高达 5.5 亿美元。</p><p>CMA 认为，这些数据表明，目前很难有其他公司能够在短期内制作出能够替代《使命召唤》的游戏，因此微软的收购将损害消费者和竞争者的利益。但这也反映出大作游戏开发已经变得不可持续，由于大作游戏耗资巨大，耗时漫长，同时面临着巨大的市场风险和玩家需求，游戏出版商不得不继续依赖他们最信任的 IP。育碧就公开表示要加大对《刺客信条》和《孤岛惊魂》等系列的投入，而当前主机世代已经过去了一半，索尼的粉丝们仍在等待新的 IP 出现。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -96,13 +103,6 @@
 <guid>http://www.techweb.com.cn/it/2023-05-02/2925780.shtml</guid>
 <author>远洋</author><pubDate>Tue, 02 May 2023 16:53:51 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>三星和LG斥资数十亿美元扩充中型OLED面板产能： 瞄准苹果订单</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925781.shtml</link>
-<description><![CDATA[<p>据日经新闻消息， 三星电子和LG显示正倾注资源，投入数十亿美元扩充中型OLED面板产能，旨在确保苹果iPad和MacBooks订单。</p><p>三星电子旗下三星显示投资4.1万亿韩元（约合30.5亿美元），在韩国汤井园区安装OLED生产线，从液晶显示器转型，预计2026年起量产。LG显示则斥资3.3万亿韩元在坡州厂安装中型OLED面板的新产线，采用的是第6代技术。</p><p>另外，此前据The Elec报道，三星电子已经恢复了与LG之间关于W-OLED面板供应协议的谈判。双方正在讨论初始供应量，可能为20万块到30万块。如果最终确定LG开始供应W-OLED面板，三星电子可能会在明年推出搭载这些面板的电视。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925781.shtml</guid>
-<author>站长之家</author><pubDate>Tue, 02 May 2023 16:55:41 +0800</pubDate>
-<source>站长之家</source>
 </item><item><title>安森美半导体财报引动芯片股热潮，英伟达美股周一创下13个月来新高</title>
 <link>http://www.techweb.com.cn/it/2023-05-02/2925759.shtml</link>
 <description><![CDATA[<p>5 月 2 日消息，周一，芯片制造商安森美半导体 (ON Semiconductor) 美股收盘上涨 7%，此前该公司公布的季度业绩指引超出了华尔街的预期，带动其他芯片股上涨，而英伟达更是来到了 13 个月来的最高水平。</p><p>截至发稿，英伟达美股报价 289.10 美元每股，市值达到了 7140.77 亿美元。</p><p>现阶段，全球投资者都在努力寻找芯片行业触底的迹象，而安森美半导体公布的季度业绩和财测则好于分析师预期，因此引动了行业上涨。尽管这家汽车和工业芯片供应商表示，由于宏观经济的不确定性，该公司对前景持 "谨慎立场"。</p><p>安森美半导体公布的季度营收指引中值为 19.75 亿美元至 20.75 亿美元，较上年同期下降 3%，但超过了分析师预期的下降 7%，从而提振了其他芯片制造商的股价。</p><p>今日，费城半导体指数上涨 0.7%，优于纳斯达克指数 0.1% 的涨幅。全球市值最高的芯片制造商英伟达股价上涨 3.5%，达到 2022 年 3 月以来的最高点。此外，莱迪思半导体 (LSCC.O) 股价上涨 1.8%，高于市场对其季度报告的预期。</p><p>投资者将关注更多有关芯片行业健康状况的数据，本周将有更多公司公布财报，包括 AMD（周二）、Qorvo 和高通（周三）和 Cirrus Logic（周四）。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -168,13 +168,13 @@
 <guid>http://www.techweb.com.cn/people/2023-04-27/2925598.shtml</guid>
 <author>杨亮</author><pubDate>Thu, 27 Apr 2023 15:56:35 +0800</pubDate>
 <source>Donews</source>
-</item><item><title>苹果版“余额宝”开局迅猛！Apple Card四天吸金69亿元</title>
-<link>http://www.techweb.com.cn/it/2023-05-02/2925757.shtml</link>
-<description><![CDATA[<p>5月2日消息，早些时候，苹果推出了被用户称为“苹果版‘余额宝’”的Apple Card高收益储蓄账户服务。</p><p>今天，根据《福布斯》最新发布的报告，Apple Card服务仅开业前四天，就已经吸纳了将近10亿美元（约合人民币69亿元）的存款，这一开局可以说是相当迅猛。</p><p>而根据知情人士透露的消息，截止首周结束，苹果已经开设了超过240000个以上的Apple Card储蓄账户，平均账户余额超过了4000美元。</p><p>据苹果提供的数据，Apple Card目前提供4.15%的年利率，比美国平均水平高出10倍以上。</p><p>同时，用户通过Apple Card设置储蓄账户后，来自Apple Card的每日返现（Daily Cash）会自动存入该账户。</p><p>此外，用户还可通过一个关联的银行账户将资金存入储蓄账户，或将Apple Cash余额中存入储蓄账户的个人资金赚取利息，并且可以随时将资金转出到关联的银行账户，过程不收取任何费用。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>特斯拉全球涨价 Model 3、Model Y国内上调2000元</title>
+<link>http://www.techweb.com.cn/smarttraveling/2023-05-03/2925785.shtml</link>
+<description><![CDATA[<p><span style="color:#1F2225;">【TechWeb】5月2日消息，据特斯拉官网，目前特斯拉Model 3和Model Y在全球范围内进行了一波涨价，在国内的涨价幅度为2000元。</span></p><p><span style="color:#1F2225;">涨价之后，Model 3后轮驱动版在国内的售价为23.19万元，Model 3高性能版的售价为33.19万元。Model Y后轮驱动版的售价为26.39万元，Model Y长续航版的售价为31.39万元，Model Y高性能版的售价为36.39万元。</span></p><p><img src="http://upload.techweb.com.cn/imgs/2023/0503/1683075064.jpg"></p><p><span style="color:#1F2225;">在美国市场，特斯拉Model 3的价格由此前的39990美元上涨至40240美元，涨幅为250美元。Model Y长续航版的价格由此前的49990美元上涨至50240美元；Model Y高性能版价格由此前为53990美元升至54240美元，涨幅均为250美元。</span></p><p><img src="http://upload.techweb.com.cn/imgs/2023/0503/1683075065.jpg"></p><p><span style="color:#1F2225;">今年年初，特斯拉在国内进行了大幅降价，Model 3及Model Y下调幅度在2万至4.8万元，瞬间引发了国内新能源车的降价潮。近期有传言称，Model 3及Model Y在国内的售价还将继续下调，其中Model 3的起售价更是将跌倒20万以内。</span></p><p><span style="color:#1F2225;">不过此次涨价也算是彻底打破了这个降价传言，最近刚入手的车主也可以放心了。</span></p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-02/2925757.shtml</guid>
-<author>乃河</author><pubDate>Tue, 02 May 2023 08:49:04 +0800</pubDate>
-<source>快科技</source>
+<guid>http://www.techweb.com.cn/smarttraveling/2023-05-03/2925785.shtml</guid>
+<author>萧健</author><pubDate>Wed, 03 May 2023 08:51:04 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>炳叔：IEEE的审稿权，是一种机会优势</title>
 <link>http://bingshu.blog.techweb.com.cn/archives/3494</link>
 <description><![CDATA[<p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
