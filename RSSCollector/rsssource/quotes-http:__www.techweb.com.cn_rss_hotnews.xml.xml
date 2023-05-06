@@ -5,33 +5,19 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Sat, 06 May 2023 02:08:15 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 08:40:07 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>消息称阿里国际数字商业集团考虑赴美IPO 回应：没有上市计划</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925901.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，有消息称，阿里巴巴国际数字商业集团考虑在美国IPO。对此，阿里国际数字商业集团向媒体回应称：“没有上市计划。”</p><p>据悉，阿里巴巴国际数字商业集团包括数字外贸平台阿里国际站、B2C跨境电商平台速卖通、东南亚本地电商平台Lazada、土耳其运营的本地电商平台trendyol以及南亚区域运营的本地电商平台daraz。</p><p>今年3月，阿里集团董事会主席兼CEO张勇发布公开信，宣布启动“1+6+N”组织变革。根据方案，在阿里巴巴集团之下，将设立阿里云智能、淘宝天猫商业、本地生活、菜鸟、国际数字商业、大文娱等六大业务集团和多家业务公司。</p><p>张勇在公开信中表示，“市场是最好的试金石，未来，具备条件的业务集团和公司，都将有独立融资和上市的可能性”。</p><p>随后，菜鸟、盒马、阿里云相继传出正筹备IPO的消息。不过，这些市场传闻均未得到阿里官方确认。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+     <item><title>当大模型开始拼场景 AI给电商行业带来哪些改变？</title>
+<link>http://www.techweb.com.cn/it/2023-05-05/2925993.shtml</link>
+<description><![CDATA[<p>【TechWeb】自ChatGPT发布后，市场上关于大模型的讨论层出不穷。国内宣布入局大模型赛道的玩家也如雨后春笋般涌现，百度、阿里、360等巨头，王慧文、王小川等行业老兵，以及众多创业公司都参与其中。AI大模型迎来高光时刻。</p><p>而整个赛道在比拼技术的同时，也开始比拼场景化落地。比如，协同办公市场，钉钉已接入阿里千问大模型，金山办公推出了基于国产大模型平台的WPS AI应用，飞书宣布将推出智能 AI 助手“My AI”。印象笔记、百度“如流”等也纷纷宣布要接入AI大模型。</p><p>此外，电商也被认为是更容易让大模型落地的场景。“电商，无论是前端的导购，后端的客服，还是中间各种商品类的素材市场，它都在一个很明确的框里面，所以大模型还是相对比较好落地的。”君联资本投资总监杜迪康向TechWeb说到。</p><p>据悉，阿里发布的通义千问大模型已经在电商领域有所应用。4月10日，有赞宣布推出由大模型驱动的首个AI产品“加我智能”。4月27日，梦饷科技也宣布引入大模型重构电商业务。</p><p>那么，AI大模型具体会给电商行业带来哪些改变？</p><p>“生成式人工智能来了之后，我们觉得首先会带来流量入口的变化，我们需要提前适应并拥抱这些变化。”梦饷科技CTO曹均涛向TechWeb表示，所以梦饷科技在加速研发聊天室导购，以实现“聊天式购物”的场景</p><p>据曹均涛透露，目前，梦饷科技的聊天室导购功能已经在内测中，产品成熟后会正式对外发布。他认为，未来聊天窗口会成为一站式入口，伴随着AIGC技术的发展，当下电商平台中的个性化推荐、订单查询、售后处理等交互方式都将迎来变革。</p><p>具体来看，平台可以利用大模型的人工智能算法实现海量数据的深度学习，分析消费者的行为，并预测哪些产品可能会吸引到消费者，从而为他们推荐商品。这一点，通义千问也可以给出回答。</p><p>比如，当用户输入关键词“口红”时，通义千问可以在淘宝天猫平台上找到与口红相关的文本数据，并根据用户的历史购买记录和喜好，生成与口红相关的高质量商品推荐，这些推荐能够帮助用户更快地找到心仪的商品，提高购物体验。</p><p>除了流量端的变化之外，曹均涛指出，供应端同样会发生巨变，包括使用数字人模特、用AI设计商品文案、通过技术解决模特图片生成等，这些都是生成式AI对商品表达带来的初级变革场景。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683288926828.jpg"></figure><p>拿商品的模特图来说，传统场景下，商家要做商品的模特图，需要先找到真人模特，然后到外景地进行拍摄，时间、地点等方面都有一些约束。现在商家通过AIGC技术可以直接生成想要的模特图片，打破了时间、空间和人的限制，也节约了成本。</p><p>至于数字人，已经攻入了直播间，现在甚至可以批量生产。4月25日，腾讯云发布智能小样本数字人生产平台，用户只需提供一个可以克隆的人物形象、3分钟真人口播视频、100句语音素材，就能获得与真人形象、语音近似的数智人，生产周期缩短至天级别，价格也能低至千元级别。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683288937213.png"></figure><p>相比真人主播，数字人主播的费用可以低至每小时几块钱，每天稳定输出上百条短视频，7*24小时在线直播带货。数字人主播不翻车不嫌累，对商家而言，也可以省去不少养真人主播的成本。不过，目前AI主播作为新兴事物，行业还没有形成标准的规范，商家入局也比较谨慎。</p><p>业内人士指出，随着AIGC技术的发展，数字人将成为我们不可或缺的AI工具，数字人主播将重构电商的销售模式。</p><p>此外，智能客服也是大模型最直接的应用场景。</p><p>目前，各大电商平台的智能客服都不是特别“智能”，往往只能根据关键词给出预设好的答案，无法完全正确理解消费者的诉求，在实际应用中体验并不好。而大模型涉及的语音识别、语义理解和生成、人机交互等AI技术，非常适合用来研制智能客服机器人。</p><p>阿里的通义千问、京东的言犀等AI大模型均会在智能客服场景应用，浪潮等企业还在研制专门的智能客服机器人。随着技术的进一步发展，基于大模型推出的智能客服会更能理解消费者的问题，并给予准确的回答，甚至让人觉察不出是在和AI对话。</p><p>阿里巴巴集团董事会主席兼CEO张勇曾表示，“面向AI时代，所有产品都值得用大模型重新升级。”被AI大模型重构的电商行业，同样值得期待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925901.shtml</guid>
-<author>周小白</author><pubDate>Fri, 05 May 2023 08:41:06 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>特斯拉Model S及Model X全系车型售价上调19000元</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925920.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，特斯拉新一轮全球大涨价正式开启。</p><p>据特斯拉中国官网消息，全新Model S及全新Model X全系车型上调售价19000元。调整后，Model S起售价808900元，Model X起售价898900元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683249572830.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683249580128.png"></figure><p>具体来看，Model S全轮驱动版由789900元调整至808900元；Model S Plaid版本由1009900元调整至1028900元；Model X全轮驱动版由879900元调整至898900元；Model X Plaid版本价格由1039900元调整至1058900元。</p><p>此前，Model 3、Model Y车型全线涨价2000元，在涨价后，特斯拉Model 3售价涨至23.19万元，Model Y售价涨至26.39万元。</p><p>今年年初，特斯拉在国内进行了大幅降价，引发了国内新能源车的降价潮。近期有传言称，Model 3及Model Y在国内的售价还将继续下调，其中Model 3的起售价更是将跌倒20万以内。</p><p>有观点认为，特斯拉本次的小幅价格上涨更多是节奏性的销售调整，“以价换量”的策略依旧是特斯拉的“常态”。</p><p>公开数据显示，特斯拉今年第一季度总营收达到233.29亿美元，同比增长24%；净利润为25.13亿美元，相比去年同期33.18亿美元下降24%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925920.shtml</guid>
-<author>御风</author><pubDate>Fri, 05 May 2023 09:21:21 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>苹果第二财季营收948亿美元 同比环比双双下滑但高于投行预期</title>
-<link>http://www.techweb.com.cn/world/2023-05-05/2925924.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】5月5日消息，据外媒报道，在微软、谷歌母公司Alphabet、亚马逊、高通、AMD等公司相继发布财报之后，苹果公司也在当地时间周四，发布了截至4月1日的2023财年第二财季的财报。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683249879372.jpg"></figure><p><code>同三星等公司一样，苹果也受到了消费电子产品需求下滑的影响，这一财季的营收净利润同比均有下滑，但专注高端市场的苹果在这一财季也有亮点，其主要营收来源iPhone产品线的营收，同比就并未下滑，也超出了投行的预期，服务业务的营收也同比保持增长，并创下了新高。</code></p><p><code><strong>整体业绩状况</strong></code></p><p><code>财报显示，苹果在这一财季营收948.36亿美元，不及上一财年同期的972.78亿美元，连续两个财季同比下滑，较上一财季的1171.54亿美元也大幅下滑。</code></p><p><code>在苹果这一财季的营收中，产品营收739.29亿美元，同比下滑，上一财年同期为774.57亿美元；服务业务营收209.07亿美元，高于上一财年同期的198.21亿美元，也略高于上一财季的207.66亿美元。</code></p><p><code>营收同比下滑，苹果这一财季的销售支出也有减少，降至528.6亿美元，其中产品方面的销售支出为467.95亿美元，低于上一财年同期的492.9亿美元；服务方面的销售支出则是同比增加，由54.29亿美元增至60.65亿美元。136.58亿美元的运营支出，同比也有增加，这主要是由于研发支出增加，增至74.57亿美元。</code></p><p><code>营收减少，支出增加，也就意味着利润将会下滑。财报显示苹果这一财季的毛利润为419.76亿美元，不及上一财年同期的425.59亿美元；241.6亿美元的净利润，较上一财年同期的250.1亿美元也有减少。</code></p><p><code>在财报发布之前，有投行预计苹果这一财季的营收将降至919亿美元，最终苹果948.36亿美元的营收，较投行的预期高出了近30亿美元。</code></p><p><code><strong>各大产品线营收状况</strong></code></p><p><code>在全球消费电子产品需求下滑的大背景下，苹果硬件产品的营收受到了影响，iPhone的营收同比虽有增加，但其他硬件产品线的营收同比明显下滑。</code></p><p><code>具体而言，iPhone在这一财季营收513.34亿美元，高于上一财年同期的505.7亿美元，也高于投行预计的503亿美元。</code></p><p><code>Mac产品线营收71.68亿美元，不及上一财年同期的104.35亿美元，连续两个季度同比大幅下滑，但要高于投行预计的63亿美元。</code></p><p><code>iPad产品线营收66.7亿美元，同比也有下滑，上一财年同期为76.46亿美元。</code></p><p><code>可穿戴设备、家居产品和配件业务在这一财季营收87.57亿美元，上一财年同期为88.06亿美元，同比也略有下滑。</code></p><p><code>服务业务在这一财季营收209.07亿美元，同比继续保持增长势头，上一财年同期为198.21亿美元。</code></p><p><code><strong>各大市场营收状况</strong></code></p><p><code>与产品线中仍有部分同比增长一样，苹果第二财季在各大市场的营收，也有部分同比增长。</code></p><p><code>美洲市场营收377.84亿美元，低于上一财年同期的408.82亿美元。</code></p><p><code>欧洲市场营收239.45亿美元，同比增长，略高于上一财年同期的232.87亿美元。</code></p><p><code>大中华市场营收178.12亿美元，较上一财年同期的183.43亿美元有下滑。</code></p><p><code>日本市场营收71.76亿美元，也不及上一财年同期的77.24亿美元。</code></p><p><code>亚太其他市场营收81.19亿美元，高于上一财年同期的70.42亿美元。</code></p><p><code><strong>第二财季其他要点</strong></code></p><p><code>苹果在财报中披露，在这一财季他们产生了286亿美元的运营现金流，向股东返现超过230亿美元。</code></p><p><code>股息分配方面，苹果在财报中披露董事会宣布将向5月15日收盘时仍持有公司普通股股票的股东，派发每股0.24美元的现金股息，在5月18日发放。此外，董事会也授权他们再回购900亿美元的股票。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-05/2925924.shtml</guid>
-<author>海蓝</author><pubDate>Fri, 05 May 2023 09:29:56 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-05/2925993.shtml</guid>
+<author>周小白</author><pubDate>Fri, 05 May 2023 20:17:08 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>三星电子预计5年内将在芯片代工领域超过主要竞争对手台积电</title>
 <link>http://www.techweb.com.cn/world/2023-05-05/2925972.shtml</link>
@@ -40,12 +26,40 @@
 <guid>http://www.techweb.com.cn/world/2023-05-05/2925972.shtml</guid>
 <author>小狐狸</author><pubDate>Fri, 05 May 2023 15:37:29 +0800</pubDate>
 <source>TechWeb.com.cn</source>
+</item><item><title>苹果将再回购900亿美元股票 目前现金储备超过1600亿美元</title>
+<link>http://www.techweb.com.cn/world/2023-05-05/2925984.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】5月5日消息，据外媒报道，在苹果公司第二财季的财报发布之前，就有分析师预计，他们将在财报中披露的未来1年的股票回购，较过去的一年不会减少，仍将达到900亿美元。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683279094745.jpg"></figure><p><code>而从财报来看，苹果也的确如分析师的预期，宣布将再回购900亿美元的股票。</code></p><p><code>在财报中，苹果CFO卢卡·梅斯特里(Luca Maestry)表示，基于他们对苹果未来的信心及对他们股票价值的看法，董事会已授权追加900亿美元用于股票回购。</code></p><p><code>在此前的报道中，外媒曾提到，苹果公司在过去的10年里，已回购5730亿美元的股票，在美国公司中是最多的。再回购900亿美元，也就意味着自2013年以来，苹果将回购超过6700亿美元的股票。</code></p><p><code>虽然苹果公布的股票回购高达900亿美元，超过很多公司一年的营收，但对盈利能力极强、有充足现金储备的苹果来说，并不会有压力。</code></p><p><code>苹果最新发布的财报就显示，截至4月1日，他们的现金储备高达1663亿美元，足够进行大规模的股票回购。</code></p><p><code>除了充足的现金储备，苹果的利润也很可观，在截至4月1日的2023财年第二财季，他们的净利润同比虽有下滑，但仍高达241.6亿美元。在最近的4个财季，最低的一个季度也有194亿美元的净利润。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-05-05/2925984.shtml</guid>
+<author>海蓝</author><pubDate>Fri, 05 May 2023 17:34:41 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>特斯拉Model S及Model X全系车型售价上调19000元</title>
+<link>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925920.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月5日消息，特斯拉新一轮全球大涨价正式开启。</p><p>据特斯拉中国官网消息，全新Model S及全新Model X全系车型上调售价19000元。调整后，Model S起售价808900元，Model X起售价898900元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683249572830.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683249580128.png"></figure><p>具体来看，Model S全轮驱动版由789900元调整至808900元；Model S Plaid版本由1009900元调整至1028900元；Model X全轮驱动版由879900元调整至898900元；Model X Plaid版本价格由1039900元调整至1058900元。</p><p>此前，Model 3、Model Y车型全线涨价2000元，在涨价后，特斯拉Model 3售价涨至23.19万元，Model Y售价涨至26.39万元。</p><p>今年年初，特斯拉在国内进行了大幅降价，引发了国内新能源车的降价潮。近期有传言称，Model 3及Model Y在国内的售价还将继续下调，其中Model 3的起售价更是将跌倒20万以内。</p><p>有观点认为，特斯拉本次的小幅价格上涨更多是节奏性的销售调整，“以价换量”的策略依旧是特斯拉的“常态”。</p><p>公开数据显示，特斯拉今年第一季度总营收达到233.29亿美元，同比增长24%；净利润为25.13亿美元，相比去年同期33.18亿美元下降24%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925920.shtml</guid>
+<author>御风</author><pubDate>Fri, 05 May 2023 09:21:21 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>消息称OpenAI去年因开发ChatGPT和人工成本高昂导致亏损翻番</title>
 <link>http://www.techweb.com.cn/world/2023-05-05/2925931.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月5日消息，据外媒报道，三位了解OpenAI财务状况的人士透露，由于OpenAI去年开发了聊天机器人ChatGPT并从谷歌挖来了关键员工，该公司去年的亏损大约翻了一番，达到5.4亿美元左右。</p><p>OpenAI是由特斯拉CEO埃隆•马斯克（Elon Musk）、美国创业孵化器Y Combinator总裁阿尔特曼、全球在线支付平台PayPal联合创始人彼得·蒂尔等硅谷科技大亨于2015年联合创立的一家美国人工智能研究公司，主攻人工智能（AI）技术应用领域，凭借ChatGPT和图像生成器Dall-E 2等人工智能程序而闻名。&nbsp;</p><p>ChatGPT是OpenAI于2022年11月30日推出的一种新型AI聊天机器人工具，可根据用户的要求快速生成文章、故事、歌词、散文、笑话，甚至代码，并回答各类疑问。</p><p>毫无疑问，大型人工智能语言模型是一项昂贵的业务，但打造它们的成本到底有多高目前还不清楚。</p><p>与此同时，外媒称，OpenAI的部分成本还来自于从苹果和谷歌等知名公司聘请专业人士。</p><p>此前，在今年3月份，OpenAI从谷歌那挖来了人工智能研究员雅各布·德夫林（Jacob Devlin）。德夫林曾试图警告谷歌不要使用ChatGPT的数据来训练其AI聊天机器人Bard，因为这违反了OpenAI的服务条款，而且Bard的答案与ChatGPT的答案看起来太相似了。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/world/2023-05-05/2925931.shtml</guid>
 <author>小狐狸</author><pubDate>Fri, 05 May 2023 09:50:02 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>懂车帝：新能源加速攻占10-20万车市 油电摇摆用户迅速增长</title>
+<link>http://www.techweb.com.cn/it/2023-05-05/2925992.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月5日消息，日前，懂车帝发布《10-20万经济型车市用户偏好洞察分析》。数据显示，随着新能源在售车系数量占比持续增加，传统燃油车占据主导的10-20万级市场遭遇迅速洗牌，热销车型均面临着销量下滑风险。</p><p>分析指出，近一年来10-20万新能源车市热度迅速升温，2023年第一季度同比增长37.6%，而燃油经济型车市仅有11.8%。在用户进行新能源和燃油车选买对比时，“仅燃油车之间PK”呈现下滑表现，“仅新能源之间PK”和“跨能源之间PK”上涨明显。分析认为，越来越多的用户将在两大能源车市之间摇摆，此前是传统能源“红海”的经济型车市，已经转变为新能源必争的“蓝海”。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683285248922.png"></figure><p>在过去，10-20万的经济型车市长期被传统燃油车垄断。随着新能源车型加速入局，双能源市场的竞争愈渐激烈，燃油车一方独大的局面正被打破。从2020年底至今，传统燃油车10-20万区间的市场份额逐渐萎缩，新能源汽车销量则逐渐向该区间靠拢，对燃油车的主销车型区间挤压加剧。</p><p>从热度趋势看，10-20万新能源车市的热度不断走高，23年第一季度同比增长37.6%，而燃油经济型车市仅有11.8%。与此同时，越来越多的用户开始进行油电对比。该分析统计过去一年双能源车型PK情况发现，“仅燃油车之间PK”逐步下滑，“仅新能源之间PK”和“跨能源之间PK”上涨趋势明显。尤其“跨能源之间PK”即将超过“仅燃油车之间PK”，油电摇摆用户增长迅速。</p><p>分析还指出，10-20万价格区间新能源和燃油车，用户在偏好诉求上呈现较大不同。燃油车用户核心TOP3关注点为“性价比高、配置丰富、低调内敛”，新能源用户则更注重的是“高端时尚、智能、科技”。在阅读偏好上，两者都热衷于“导购、评测、二手车、新车资讯、懂车分”等内容体裁，但新能源用户更偏好“评测、懂车分、行业资讯”等，燃油用户则青睐“二手车、改装攻略”等内容。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683285280816.png"></figure><p>此外，10-20万价格区间新能源用户“评论、点赞、分享、收藏”表现均优于燃油车，车友圈和加圈用户数量等也出现快速增长。分析认为，燃油车用户内容互动情况低于新能源，侧面说明新能源内容营销处在“极佳蓝海期”，燃油车则需要持续研究和找准用户内容喜好，提升用户内容粘性。</p><p>懂车帝相关负责人表示，新能源汽车强势突围燃油车10-20万主流销量大本营，虽然有降价潮带来的短时热度，但在比亚迪等品牌强势入场的大背景下，燃油车如何突围是刻不容缓的课题。随着智能化、科技化的普及，10-20万汽车用户在性价比之外，开始更多地追求“时尚、科技”，传统燃油车需快速跟上需求，迭代相应产品力。</p><p>此外，经历新能源汽车品牌多轮营销之后，10-20万汽车市场的新能源用户开始向垂直媒体车友阵地转移。相较燃油车用户，他们爱互动但易流失，新能源车企和传统车企将对此类用户展开激烈争夺。但无论营销手段如何眼花缭乱，双能源用户均需要更真实的选买内容和用户口碑来下定购买决心。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-05/2925992.shtml</guid>
+<author>周小白</author><pubDate>Fri, 05 May 2023 19:16:45 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>学而思曝自研数学大模型MathGPT 拟年内推出</title>
+<link>http://www.techweb.com.cn/it/2023-05-05/2925985.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月5日消息，学而思正在进行自研数学大模型的研发，命名为MathGPT，面向全球数学爱好者和科研机构，以数学领域的解题和讲题算法为核心，目前已经取得阶段性成果，并将于年内推出基于该自研大模型的产品级应用。</p><p>据知情人透露，学而思已将MathGPT作为公司核心项目，由CTO田密负责，今年春节前，该项目已经启动相应的团队建设、数据、算力准备和技术研发。此外，学而思已经启动在美国硅谷的团队建设，将成立一支海外算法和工程团队，在全球范围内招募优秀的人工智能专家加入。</p><p>美国OpenAI公司在今年三月份发布了大语言模型GPT-4，国内百度、阿里也发布了各自的大模型产品，学而思认为，通用语言模型更像一个“文科生”，在语言翻译、摘要、理解和生成等任务上有出色表现，在数学问题的解决、讲解、问答和推荐方面则存在明显不足：解答数学问题经常出错，有些数学问题虽然能够解决，但方法更偏成年人，无法针对适龄孩子的知识结构和认知水平做适配。</p><p>“这种不足是由LLM模型（大语言模型）的自身特点决定的。”学而思AI团队负责人介绍，LLM大模型来自对海量语言文本的训练，因此最擅长语言处理。行业内偏向基于LLM大模型做阅读、写作类应用，但如果想要在数学能力上有突破，就需要研发新的大模型。</p><p>因此，学而思决心组建团队专研MathGPT——数学领域大模型，用自己在数学和AI上的多年积累，面向全球范围内的数学爱好者和科研机构，做好AI大模型时代的数学基础工作。</p><p>据悉，学而思希望通过MathGPT弥补和攻克大语言模型的三个问题：第一，题目要解对，现在GPT结果经常出现错误；第二，解题步骤要稳定、清晰，现在GPT的解题步骤每次都不一样，而且生成内容经常很冗余；第三，解题要讲的有趣、个性化，现在GPT的解释过于“学术”和机械，对孩子的学习体验很不友好。</p><p>学而思在人工智能领域早有深耕，2017年，学而思便成立了AI lab 人工智能实验室。</p><p>学而思AI团队负责人认为，“以数学起家”的学而思至今已有20年的数学教学经验，积累了庞大的数学相关数据，这些数据是进行MathGPT训练的必备物料。另外，学而思的海外业务Think Academy在全球若干国家和地区深受数学爱好者喜欢，学而思的学生在每年的IMO和AMC等国际数学竞赛中表现优异，每年都有多位学生在国际奥林匹克数学竞赛中拿到金牌。所以，学而思选择在MathGPT方向发力也顺理成章。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-05/2925985.shtml</guid>
+<author>宜月</author><pubDate>Fri, 05 May 2023 17:40:01 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>Waymo将在旧金山和凤凰城扩大自动驾驶出租车服务覆盖范围</title>
 <link>http://www.techweb.com.cn/world/2023-05-05/2925981.shtml</link>
@@ -54,26 +68,12 @@
 <guid>http://www.techweb.com.cn/world/2023-05-05/2925981.shtml</guid>
 <author>小狐狸</author><pubDate>Fri, 05 May 2023 17:11:07 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>“五一”电影市场票房15.19亿元</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925935.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，国家电影局发布数据显示，2023年4月29日至5月3日，我国电影五一档票房达15.19亿元，影片《人生路不熟》《长空之王》《这么多年》位列票房榜前三。</p><p>今年五一档共有十余部新片上映，涵盖军事、喜剧、爱情、律政、动画等多种类型，丰富了电影市场供给，满足了不同观众群体多样化的观影需求。</p><p>天眼查数据显示，截至目前，全国影院相关企业近6.9万余家，其中，2022年新增注册企业8590余家，新增注册企业增速14.8%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925935.shtml</guid>
-<author>宜月</author><pubDate>Fri, 05 May 2023 10:14:07 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>Canalys：全球云服务市场持续低迷 2023年Q1增长19%</title>
 <link>http://www.techweb.com.cn/it/2023-05-05/2925949.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月5日消息，Canalys发布数据显示，2023年第一季度，全球云基础设施服务支出增长19%，达到664亿美元。</p><p>虽然云计算仍然是IT市场中增长最快的部分之一，但面对持续的宏观经济不确定性，客户的投资继续放缓，云增长首次低于20%。</p><p>企业正在减少云计算支出，作为整体削减IT预算的一部分，明确强调优化云计算成本，控制云计算浪费，提高云计算部署的效率。头部云厂商都受到了不利影响，增长率比上一季度下降了约为4个百分点。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683256191413.jpg"></figure><p>2023年第一季度前三大云厂商AWS、微软Azure和谷歌云共同增长22%（2022年第四季度为26%），占2023年第一季度客户支出的64%。为了应对增长放缓，他们宣布裁员并且削减其他云部门的内部成本。</p><p>从地区来看，亚太地区的表现最弱，因为中国大陆的客户支出减少，影响了许多中国云厂商的营收。</p><p>Canalys预计，全球云服务支出增长将持续放缓至2023年下半年。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/it/2023-05-05/2925949.shtml</guid>
 <author>宜月</author><pubDate>Fri, 05 May 2023 11:11:07 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>掌阅科技：大股东量子跃动减持1.14%公司股份</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925943.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，掌阅科技在上交所发布公告称，5月4日收到持股 5% 以上股东北京量子跃动科技有限公司（以下简称“量子跃动”）的通知，其于 2023 年 3 月 20 日、2023 年 5 月 4 日通过大宗交易和集中竞价交易方式合计减持公司股份5,000,000股，占公司总股本1.14%。</p><p>本次减持后，量子跃动的持股比例将由9.24%降至8.1%。掌阅科技表示，本次权益变动后，信息披露义务人减持计划尚未实施完毕，公司将持续 关注股东减持公司股份的有关情况，及时履行信息披露义务。</p><p>公告显示，本次权益变动为持股 5%以上股东减持股份，不涉及资金来源，不触及要约收购。本次权益变动不会对公司治理结构及持续经营产生重大影响，不会导致 控股股东、实际控制人发生变化，不涉及信息披露义务人披露权益变动报告书。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683255071246.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925943.shtml</guid>
-<author>周小白</author><pubDate>Fri, 05 May 2023 10:52:03 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>哪吒汽车CEO张勇：对车内搞一堆大屏持保留态度</title>
 <link>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925971.shtml</link>
