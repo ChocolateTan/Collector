@@ -5,19 +5,40 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Sat, 06 May 2023 08:40:07 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 14:11:05 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>当大模型开始拼场景 AI给电商行业带来哪些改变？</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925993.shtml</link>
-<description><![CDATA[<p>【TechWeb】自ChatGPT发布后，市场上关于大模型的讨论层出不穷。国内宣布入局大模型赛道的玩家也如雨后春笋般涌现，百度、阿里、360等巨头，王慧文、王小川等行业老兵，以及众多创业公司都参与其中。AI大模型迎来高光时刻。</p><p>而整个赛道在比拼技术的同时，也开始比拼场景化落地。比如，协同办公市场，钉钉已接入阿里千问大模型，金山办公推出了基于国产大模型平台的WPS AI应用，飞书宣布将推出智能 AI 助手“My AI”。印象笔记、百度“如流”等也纷纷宣布要接入AI大模型。</p><p>此外，电商也被认为是更容易让大模型落地的场景。“电商，无论是前端的导购，后端的客服，还是中间各种商品类的素材市场，它都在一个很明确的框里面，所以大模型还是相对比较好落地的。”君联资本投资总监杜迪康向TechWeb说到。</p><p>据悉，阿里发布的通义千问大模型已经在电商领域有所应用。4月10日，有赞宣布推出由大模型驱动的首个AI产品“加我智能”。4月27日，梦饷科技也宣布引入大模型重构电商业务。</p><p>那么，AI大模型具体会给电商行业带来哪些改变？</p><p>“生成式人工智能来了之后，我们觉得首先会带来流量入口的变化，我们需要提前适应并拥抱这些变化。”梦饷科技CTO曹均涛向TechWeb表示，所以梦饷科技在加速研发聊天室导购，以实现“聊天式购物”的场景</p><p>据曹均涛透露，目前，梦饷科技的聊天室导购功能已经在内测中，产品成熟后会正式对外发布。他认为，未来聊天窗口会成为一站式入口，伴随着AIGC技术的发展，当下电商平台中的个性化推荐、订单查询、售后处理等交互方式都将迎来变革。</p><p>具体来看，平台可以利用大模型的人工智能算法实现海量数据的深度学习，分析消费者的行为，并预测哪些产品可能会吸引到消费者，从而为他们推荐商品。这一点，通义千问也可以给出回答。</p><p>比如，当用户输入关键词“口红”时，通义千问可以在淘宝天猫平台上找到与口红相关的文本数据，并根据用户的历史购买记录和喜好，生成与口红相关的高质量商品推荐，这些推荐能够帮助用户更快地找到心仪的商品，提高购物体验。</p><p>除了流量端的变化之外，曹均涛指出，供应端同样会发生巨变，包括使用数字人模特、用AI设计商品文案、通过技术解决模特图片生成等，这些都是生成式AI对商品表达带来的初级变革场景。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683288926828.jpg"></figure><p>拿商品的模特图来说，传统场景下，商家要做商品的模特图，需要先找到真人模特，然后到外景地进行拍摄，时间、地点等方面都有一些约束。现在商家通过AIGC技术可以直接生成想要的模特图片，打破了时间、空间和人的限制，也节约了成本。</p><p>至于数字人，已经攻入了直播间，现在甚至可以批量生产。4月25日，腾讯云发布智能小样本数字人生产平台，用户只需提供一个可以克隆的人物形象、3分钟真人口播视频、100句语音素材，就能获得与真人形象、语音近似的数智人，生产周期缩短至天级别，价格也能低至千元级别。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683288937213.png"></figure><p>相比真人主播，数字人主播的费用可以低至每小时几块钱，每天稳定输出上百条短视频，7*24小时在线直播带货。数字人主播不翻车不嫌累，对商家而言，也可以省去不少养真人主播的成本。不过，目前AI主播作为新兴事物，行业还没有形成标准的规范，商家入局也比较谨慎。</p><p>业内人士指出，随着AIGC技术的发展，数字人将成为我们不可或缺的AI工具，数字人主播将重构电商的销售模式。</p><p>此外，智能客服也是大模型最直接的应用场景。</p><p>目前，各大电商平台的智能客服都不是特别“智能”，往往只能根据关键词给出预设好的答案，无法完全正确理解消费者的诉求，在实际应用中体验并不好。而大模型涉及的语音识别、语义理解和生成、人机交互等AI技术，非常适合用来研制智能客服机器人。</p><p>阿里的通义千问、京东的言犀等AI大模型均会在智能客服场景应用，浪潮等企业还在研制专门的智能客服机器人。随着技术的进一步发展，基于大模型推出的智能客服会更能理解消费者的问题，并给予准确的回答，甚至让人觉察不出是在和AI对话。</p><p>阿里巴巴集团董事会主席兼CEO张勇曾表示，“面向AI时代，所有产品都值得用大模型重新升级。”被AI大模型重构的电商行业，同样值得期待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+     <item><title>坐飞机用5G？工信部批复5G地空通信试验频率</title>
+<link>http://www.techweb.com.cn/it/2023-05-06/2926016.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月6日消息，据工业和信息化部官网消息，为深入贯彻落实党的二十大关于加快建设网络强国的决策部署，推动我国航空互联网高质量发展，提高人民生活品质，近期，工业和信息化部依申请批复中国移动使用其4.9GHz部分5G频率资源在国内有关省份开展5G地空通信(5G-ATG)技术试验。</p><p>据介绍，5G-ATG基于5G公众移动通信技术，通过沿飞机航线设置符合相应国际规则和国内规定的特殊基站及波束赋形天线，在地面与飞机机舱间建立地空通信链路，使乘客在机舱内通过无线局域网接入方式访问互联网。5G-ATG是实现航空互联网高质量发展的重要技术路径之一，也是5G等新技术在航空互联网领域的新应用和新业态。</p><p>工业和信息化部表示，此次批准中国移动开展5G-ATG试验，将进一步提升5G网络覆盖的空间维度，拓展5G的行业应用场景，更好满足航空旅客日益增长的空中访问互联网需求。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925993.shtml</guid>
-<author>周小白</author><pubDate>Fri, 05 May 2023 20:17:08 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-06/2926016.shtml</guid>
+<author>御风</author><pubDate>Sat, 06 May 2023 09:29:13 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>10月发布！华为Mate60系列渲染图偷跑：经典圆环四摄辨识度拿捏</title>
+<link>http://www.techweb.com.cn/digi/2023-05-06/2926007.shtml</link>
+<description><![CDATA[<p>【Techweb】早在之前华为P60系列亮相后，就有不少渠道表示，华为很可能已经恢复了正常的产品节奏，今年开始将恢复一年双旗舰战略，并称全新的华为Mate60系列奖会在今年十月份发布。而现在有最新消息，今日海外爆料达人进一步晒出了该系列旗舰的外观渲染图。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683335232790.jpg"></figure><p>据海外爆料达人最新晒出的渲染图显示，与此前曝光的消息基本一致，全新的华为Mate60系列大体上延续了前两代的设计思路，尤其后置相机模组将继续采用经典的“奥利奥”圆环方案。不过此次该机也带来了不少细节上的变化，将采用金属和玻璃拼接的设计，中央的金属条将整个相机模组一分为二，上下两部分各包含2颗镜头，辨识度明显要比之前的机型更高一些。</p><p>其他方面，根据此前曝光的消息，全新的华为Mate60系列将会搭载第二代骁龙8旗舰处理器，不过应该依然是高通定制的4G版本，不支持5G，其他性能参数上则与常规的5G版芯片没有太大的区别，同样基于台积电4nm工艺制程打造，主频3.2GHz，高通称其CPU性能提升35%、功耗减少40%，GPU则将带来高达25%的性能提升以及高达45%的能效提升。除此之外，该机无疑将继续搭载北斗卫星消息2.0技术，支持双向的卫星通信。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683335247422.png"></figure><p>据悉，全新的华为Mate60系列预计会在10月份发布，时间与去年差不多。更多详细信息，我们拭目以待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/digi/2023-05-06/2926007.shtml</guid>
+<author>Suky</author><pubDate>Sat, 06 May 2023 09:08:42 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>乘联会：特斯拉中国4月销售75842辆国产汽车 环比减少14.66%</title>
+<link>http://www.techweb.com.cn/world/2023-05-06/2926028.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月6日消息，据外媒报道，乘联会公布的数据显示，今年4月份，特斯拉中国售出了75842辆国产汽车，与去年同期的1512辆相比，同比增长4916.01%，但与今年3月份的88869辆相比，环比减少14.66%。</p><p>目前，特斯拉在其上海超级工厂内生产国产汽车。去年4月份，由于受疫情影响，上海超级工厂的生产中断，这导致特斯拉中国去年4月份的销量大幅下降。</p><p>特斯拉上海超级工厂生产的汽车不仅供应国内市场，也供应国外市场。如今，该公司已经完成了上海超级工厂作为主要汽车出口中心的转型。</p><p>自今年年初以来，特斯拉已在全球多个市场降价，并在中国掀起了一场“价格战”。自那以来，已有40多个本土和国际汽车品牌加入了这场“价格战”。</p><p>虽然降价策略帮助特斯拉提振了销售额，但也挤压了它的汽车毛利率。该公司公布的2023年第一季度财报显示，其第一季度的总营收为233.29亿美元，同比增长24%。其中，来自于汽车相关业务的总营收为199.63亿美元，同比增长18%。</p><p>然而，该公司一季度的净利润却下降了24%，原因在于该公司从1月初开始的电动汽车降价策略削减了其利润。</p><p>经过多次降价后，特斯拉本周在部分市场上调了汽车价格。据报道，该公司上调了Model Y和Model 3在加拿大、中国、日本和美国的价格。</p><p>在中国，该公司于5月2日上调了Model 3、Model Y的中国市场售价，全系均上涨2000元。5月5日，该公司将全新Model S和Model X全系车型在中国的售价上调了19000元。调整后，Model S起售价为808900元，Model X起售价为898900元。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-05-06/2926028.shtml</guid>
+<author>小狐狸</author><pubDate>Sat, 06 May 2023 10:20:46 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>苹果联合创始人抨击马斯克画自动驾驶大饼：想死就买特斯拉</title>
+<link>http://www.techweb.com.cn/world/2023-05-06/2926045.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月6日消息，据外媒报道，近日，苹果联合创始人史蒂夫·沃兹尼亚克（Steve Wozniak）在采访中猛烈抨击了特斯拉CEO埃隆·马斯克，指责他没有兑现关于自动驾驶功能的承诺，因为马斯克此前曾多次承诺自动驾驶汽车即将问世。</p><p>在采访中，他还指出，多年来，马斯克多次被指责过分夸大了特斯拉驾驶辅助系统的能力。</p><p>2016年10月，马斯克在一段演示视频（现已删除）中首次宣称，特斯拉新制造的汽车“拥有在任何条件下实现全自动驾驶（即Level 5级自动驾驶）所需的硬件”。他还表示，希望到2017年，一辆汽车可以从洛杉矶开到纽约市，不需要任何接触，包括充电器。</p><p>然而，几个月前，特斯拉的一名工程总监声称，那个演示视频的部分内容是伪造的，该视频为特斯拉汽车制造了狂热炒作。</p><p>在当地时间周二上午的节目中，沃兹尼亚克被问及马斯克，虽然他总体上是赞赏的，但他对马斯克的一项技术进行了相当粗暴的抨击。</p><p>他表示：“我相信了马斯克说的话！到2016年底，一辆自动驾驶汽车将在全美范围内行驶。我不得不升级到那款车型。你知道，5万美元，结果什么也做不了。我可以告诉你，它永远不会在全美范围内行驶。”</p><p>他还表示：“我真的相信了那些，但那离现实还差得远呢。如果你想研究人工智能出了什么问题，获得大量索赔，一有机会就试图杀死你，那就去买一辆特斯拉吧。”</p><p>实际上，特斯拉汽车曾发生过多次被广泛报道的致命车祸。今年2月，外媒曾报道称，有19人死于涉嫌使用特斯拉自动驾驶系统的车祸。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-05-06/2926045.shtml</guid>
+<author>小狐狸</author><pubDate>Sat, 06 May 2023 12:07:46 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>三星电子预计5年内将在芯片代工领域超过主要竞争对手台积电</title>
 <link>http://www.techweb.com.cn/world/2023-05-05/2925972.shtml</link>
@@ -26,33 +47,61 @@
 <guid>http://www.techweb.com.cn/world/2023-05-05/2925972.shtml</guid>
 <author>小狐狸</author><pubDate>Fri, 05 May 2023 15:37:29 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>苹果将再回购900亿美元股票 目前现金储备超过1600亿美元</title>
-<link>http://www.techweb.com.cn/world/2023-05-05/2925984.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】5月5日消息，据外媒报道，在苹果公司第二财季的财报发布之前，就有分析师预计，他们将在财报中披露的未来1年的股票回购，较过去的一年不会减少，仍将达到900亿美元。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683279094745.jpg"></figure><p><code>而从财报来看，苹果也的确如分析师的预期，宣布将再回购900亿美元的股票。</code></p><p><code>在财报中，苹果CFO卢卡·梅斯特里(Luca Maestry)表示，基于他们对苹果未来的信心及对他们股票价值的看法，董事会已授权追加900亿美元用于股票回购。</code></p><p><code>在此前的报道中，外媒曾提到，苹果公司在过去的10年里，已回购5730亿美元的股票，在美国公司中是最多的。再回购900亿美元，也就意味着自2013年以来，苹果将回购超过6700亿美元的股票。</code></p><p><code>虽然苹果公布的股票回购高达900亿美元，超过很多公司一年的营收，但对盈利能力极强、有充足现金储备的苹果来说，并不会有压力。</code></p><p><code>苹果最新发布的财报就显示，截至4月1日，他们的现金储备高达1663亿美元，足够进行大规模的股票回购。</code></p><p><code>除了充足的现金储备，苹果的利润也很可观，在截至4月1日的2023财年第二财季，他们的净利润同比虽有下滑，但仍高达241.6亿美元。在最近的4个财季，最低的一个季度也有194亿美元的净利润。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>5月10日见！谷歌Pixel Fold折叠屏手机官宣：经典Pixel相机风格</title>
+<link>http://www.techweb.com.cn/digi/2023-05-06/2926008.shtml</link>
+<description><![CDATA[<p>【Techweb】此前有爆料显示，谷歌旗下首款可折叠智能手机Pixel Fold将在今年的I/O大会上亮相，并且陆续有关于该机外观和配置细节的传闻流出。而现在有最新消息，近日谷歌官方正式宣布，将于5月10日举行2023年度I/O大会，除了新一代的Pixel 8系列机型外，此前屡屡被曝光的Pixel Fold折叠屏手机也将同台亮相，并且同步晒出了该机的官方渲染图。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683335385947.jpg"></figure><p>据谷歌官方公布的渲染图显示，与此前曝光的消息基本一致，全新的谷歌Pixel Fold折叠屏手机将采用类似三星 Galaxy Z Fold4的横向折叠设计，将配备一快5.8英寸的外部屏幕和一快7.6英寸的折叠显示屏，而且两块屏幕都支持120Hz的刷新率。机身背部，该机将继承Pixel系列的设计风格，其后置相机模组将采用经典的长条形设计，内置三颗镜头，边框十分圆润，握感应该比较舒适。除此之外，结合此前相关爆料，该机折叠后的尺寸为139.7mm×79.5mm×12.1mm，展开后为139.7mm×158.7mm×5.2mm，在同类机型中算比较小巧的。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683335391902.jpg"></figure><p>其他方面，根据此前曝光的消息，全新的谷歌Pixel Fold将延续“Pixel 式性能”和“Pixel 式”的旗舰相机，将继续搭载谷歌自研Tensor2芯片，后置三摄相机模组，分别为6400万像素的主摄像头（IMX787）、1080万像素的长焦摄像头（S5K3J1）、1200万像素广角摄像头（IMX386）。而在自拍镜头方面，该机将将配备两个9.5 MP前置镜头，一个位于外屏的孔内，另一个位于内屏顶部边框右侧。除此之外，该机将搭载Android 13系统，并针对折叠屏进行了专属优化，包括任务栏、多任务、键盘鼠标的支持以及应用程序的兼容等等。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683335398679.png"></figure><p>据悉，全新的谷歌Pixel Fold将有望在5月10 举办的I/O大会上正式亮相，售价预计在1799美元（约12791元人民币）。更多详细信息，我们拭目以待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-05/2925984.shtml</guid>
-<author>海蓝</author><pubDate>Fri, 05 May 2023 17:34:41 +0800</pubDate>
+<guid>http://www.techweb.com.cn/digi/2023-05-06/2926008.shtml</guid>
+<author>Suky</author><pubDate>Sat, 06 May 2023 09:10:31 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>特斯拉Model S及Model X全系车型售价上调19000元</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925920.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，特斯拉新一轮全球大涨价正式开启。</p><p>据特斯拉中国官网消息，全新Model S及全新Model X全系车型上调售价19000元。调整后，Model S起售价808900元，Model X起售价898900元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683249572830.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683249580128.png"></figure><p>具体来看，Model S全轮驱动版由789900元调整至808900元；Model S Plaid版本由1009900元调整至1028900元；Model X全轮驱动版由879900元调整至898900元；Model X Plaid版本价格由1039900元调整至1058900元。</p><p>此前，Model 3、Model Y车型全线涨价2000元，在涨价后，特斯拉Model 3售价涨至23.19万元，Model Y售价涨至26.39万元。</p><p>今年年初，特斯拉在国内进行了大幅降价，引发了国内新能源车的降价潮。近期有传言称，Model 3及Model Y在国内的售价还将继续下调，其中Model 3的起售价更是将跌倒20万以内。</p><p>有观点认为，特斯拉本次的小幅价格上涨更多是节奏性的销售调整，“以价换量”的策略依旧是特斯拉的“常态”。</p><p>公开数据显示，特斯拉今年第一季度总营收达到233.29亿美元，同比增长24%；净利润为25.13亿美元，相比去年同期33.18亿美元下降24%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>前OpenAI安全研究员警告：AI毁灭人类的可能性为20%</title>
+<link>http://www.techweb.com.cn/it/2023-05-06/2926044.shtml</link>
+<description><![CDATA[<p>5月6日 消息，一位曾任&nbsp;OpenAI&nbsp;安全研究人员的人正在发出警告，提醒人们人工智能可能最终导致人类终结的严峻前景。</p><p>前OpenAI 基金会员工保罗·克里斯蒂亚诺在一个播客节目中说，“我认为人工智能取代人类的可能性大约为10-20%，又或者大多数人类已经死亡，需要非常严肃对待这个问题。”</p><p>克里斯蒂亚诺认为机器会逐渐地崛起，人类的终结不是一场突如其来的事件，而是人工智能逐渐地崛起，人类与机器已经透过诸如自动驾驶汽车、无人机等已经渗透到了生活中。而当AI超越人类智商阈值时，一切皆有可能。</p><p>克里斯蒂亚诺认为，AI消灭人类的最可能方式是日常生活中部署的所有AI联合起来，而不是突然消灭人类。</p><p>克里斯蒂亚诺的新非营利组织 Alignment Research Center 基于人工智能对齐的概念，该概念早在2018年就被广泛定义为让机器的动机与人类的动机保持一致。尽管 OpenAI 口头上说要对齐，声称它“旨在使人工智能 （AGI） 与人类价值观保持一致并遵循人类意图”，但仍需要进行更多的研究和开发，以确保安全和合乎道德地开发人工智能。确保机器的动机与人类的动机一致对于防止人工智能毁灭的可能性至关重要。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925920.shtml</guid>
-<author>御风</author><pubDate>Fri, 05 May 2023 09:21:21 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-06/2926044.shtml</guid>
+<author></author><pubDate>Sat, 06 May 2023 11:48:17 +0800</pubDate>
+<source>站长之家</source>
+</item><item><title>微软否认与AMD合作开发自研处理器“雅典娜”</title>
+<link>http://www.techweb.com.cn/shortnews/2023-05-06/2926030.shtml</link>
+<description><![CDATA[<p>5月6日消息，此前有知情人士透露，微软正与AMD联手合作，助力后者向人工智能处理器领域扩张。据悉，两家公司正在联手，向被英伟达主导的AI芯片市场提供替代方案。</p><p>据财联社报道，知情人士称，微软向AMD提供工程资源等方面的支持，并与AMD合作开发一款自主研发代号为“雅典娜”（Athena）的微软处理器。但微软发言人Frank Shaw近日否认AMD参与了“雅典娜”研发计划。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/shortnews/2023-05-06/2926030.shtml</guid>
+<author>杨亮</author><pubDate>Sat, 06 May 2023 10:27:27 +0800</pubDate>
+<source>Donews</source>
+</item><item><title>阿里健康预计年度盈利4.5亿元 同比扭亏为盈</title>
+<link>http://www.techweb.com.cn/it/2023-05-06/2926047.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月6日消息，阿里健康发布正面盈利预告，截至2023年3月31日止年度录得利润净额不少于人民币4.5亿元，而截至2022年3月31日止年度则为亏损净额约人民币2.659亿元。</p><p>阿里健康董事会认为，扭亏为盈主要是由于（其中包括）：(i)本集团深耕精细化运营和数字化升级带来的定价能力提升和经营效率优化；及(ii)本集团持续提升医疗健康服务流程和产品体验，用户在本集团平台购药心智得以强化。</p><p>阿里健康预期于2023年5月下旬刊发公司年度业绩公告。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-06/2926047.shtml</guid>
+<author>果青</author><pubDate>Sat, 06 May 2023 13:11:58 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>消息称OpenAI去年因开发ChatGPT和人工成本高昂导致亏损翻番</title>
-<link>http://www.techweb.com.cn/world/2023-05-05/2925931.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，据外媒报道，三位了解OpenAI财务状况的人士透露，由于OpenAI去年开发了聊天机器人ChatGPT并从谷歌挖来了关键员工，该公司去年的亏损大约翻了一番，达到5.4亿美元左右。</p><p>OpenAI是由特斯拉CEO埃隆•马斯克（Elon Musk）、美国创业孵化器Y Combinator总裁阿尔特曼、全球在线支付平台PayPal联合创始人彼得·蒂尔等硅谷科技大亨于2015年联合创立的一家美国人工智能研究公司，主攻人工智能（AI）技术应用领域，凭借ChatGPT和图像生成器Dall-E 2等人工智能程序而闻名。&nbsp;</p><p>ChatGPT是OpenAI于2022年11月30日推出的一种新型AI聊天机器人工具，可根据用户的要求快速生成文章、故事、歌词、散文、笑话，甚至代码，并回答各类疑问。</p><p>毫无疑问，大型人工智能语言模型是一项昂贵的业务，但打造它们的成本到底有多高目前还不清楚。</p><p>与此同时，外媒称，OpenAI的部分成本还来自于从苹果和谷歌等知名公司聘请专业人士。</p><p>此前，在今年3月份，OpenAI从谷歌那挖来了人工智能研究员雅各布·德夫林（Jacob Devlin）。德夫林曾试图警告谷歌不要使用ChatGPT的数据来训练其AI聊天机器人Bard，因为这违反了OpenAI的服务条款，而且Bard的答案与ChatGPT的答案看起来太相似了。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>外媒：梅赛德斯-奔驰已决定推迟内部电气化战略中期目标</title>
+<link>http://www.techweb.com.cn/world/2023-05-05/2925986.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月5日消息，据外媒报道，梅赛德斯-奔驰已决定推迟其电气化战略的中期目标，这一决定是根据其未达到预期的插电式混合动力车和纯电动汽车的销售数据做出的。</p><p>2021年7月份，该公司表示，它将在2030年前在条件允许的市场实现全面电动化。大约两年前，该公司表示，希望到2025年其电动汽车和插电式混合动力车的销量能占到公司总销量的一半。根据最近的报道，这一里程碑现在被推迟了至少一年。</p><p>目前，梅赛德斯-奔驰正在加速推进其“电动为先”战略。该公司公布了加速向全电动汽车转型的措施，其中包括建造电池工厂的计划。</p><p>今年3月份，外媒报道称，该公司已开始在德国库彭海姆新建电池回收工厂，以帮助满足该汽车制造商的电池材料需求。该工厂的年回收产能将达到2500吨，将为该公司的新电动汽车车型提供超过5万块电池模块。</p><p>此外，该公司还在3月份宣布，将投资数十亿美元对其在中国、德国和匈牙利的生产工厂进行现代化改造，以向电动汽车转型。</p><p>2022年，该公司的纯电动汽车销量同比增长124%，至11.78万辆，其中有1.2421万辆是在美国销售的。</p><p>今年第一季度，该公司在全球销售了503500辆汽车，同比增长3%。其中，电动汽车销量为51600辆，同比增长89%。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-05/2925931.shtml</guid>
-<author>小狐狸</author><pubDate>Fri, 05 May 2023 09:50:02 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-05-05/2925986.shtml</guid>
+<author>小狐狸</author><pubDate>Fri, 05 May 2023 17:40:03 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>懂车帝：新能源加速攻占10-20万车市 油电摇摆用户迅速增长</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925992.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，日前，懂车帝发布《10-20万经济型车市用户偏好洞察分析》。数据显示，随着新能源在售车系数量占比持续增加，传统燃油车占据主导的10-20万级市场遭遇迅速洗牌，热销车型均面临着销量下滑风险。</p><p>分析指出，近一年来10-20万新能源车市热度迅速升温，2023年第一季度同比增长37.6%，而燃油经济型车市仅有11.8%。在用户进行新能源和燃油车选买对比时，“仅燃油车之间PK”呈现下滑表现，“仅新能源之间PK”和“跨能源之间PK”上涨明显。分析认为，越来越多的用户将在两大能源车市之间摇摆，此前是传统能源“红海”的经济型车市，已经转变为新能源必争的“蓝海”。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683285248922.png"></figure><p>在过去，10-20万的经济型车市长期被传统燃油车垄断。随着新能源车型加速入局，双能源市场的竞争愈渐激烈，燃油车一方独大的局面正被打破。从2020年底至今，传统燃油车10-20万区间的市场份额逐渐萎缩，新能源汽车销量则逐渐向该区间靠拢，对燃油车的主销车型区间挤压加剧。</p><p>从热度趋势看，10-20万新能源车市的热度不断走高，23年第一季度同比增长37.6%，而燃油经济型车市仅有11.8%。与此同时，越来越多的用户开始进行油电对比。该分析统计过去一年双能源车型PK情况发现，“仅燃油车之间PK”逐步下滑，“仅新能源之间PK”和“跨能源之间PK”上涨趋势明显。尤其“跨能源之间PK”即将超过“仅燃油车之间PK”，油电摇摆用户增长迅速。</p><p>分析还指出，10-20万价格区间新能源和燃油车，用户在偏好诉求上呈现较大不同。燃油车用户核心TOP3关注点为“性价比高、配置丰富、低调内敛”，新能源用户则更注重的是“高端时尚、智能、科技”。在阅读偏好上，两者都热衷于“导购、评测、二手车、新车资讯、懂车分”等内容体裁，但新能源用户更偏好“评测、懂车分、行业资讯”等，燃油用户则青睐“二手车、改装攻略”等内容。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683285280816.png"></figure><p>此外，10-20万价格区间新能源用户“评论、点赞、分享、收藏”表现均优于燃油车，车友圈和加圈用户数量等也出现快速增长。分析认为，燃油车用户内容互动情况低于新能源，侧面说明新能源内容营销处在“极佳蓝海期”，燃油车则需要持续研究和找准用户内容喜好，提升用户内容粘性。</p><p>懂车帝相关负责人表示，新能源汽车强势突围燃油车10-20万主流销量大本营，虽然有降价潮带来的短时热度，但在比亚迪等品牌强势入场的大背景下，燃油车如何突围是刻不容缓的课题。随着智能化、科技化的普及，10-20万汽车用户在性价比之外，开始更多地追求“时尚、科技”，传统燃油车需快速跟上需求，迭代相应产品力。</p><p>此外，经历新能源汽车品牌多轮营销之后，10-20万汽车市场的新能源用户开始向垂直媒体车友阵地转移。相较燃油车用户，他们爱互动但易流失，新能源车企和传统车企将对此类用户展开激烈争夺。但无论营销手段如何眼花缭乱，双能源用户均需要更真实的选买内容和用户口碑来下定购买决心。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>10倍利率的苹果版“余额宝”火了！用户疯狂开通 库克：令人难以置信</title>
+<link>http://www.techweb.com.cn/it/2023-05-06/2925995.shtml</link>
+<description><![CDATA[<p>5月6日消息，苹果公司CEO蒂姆·库克日前表示，自上个月推出新的Apple Card高收益储蓄账户服务以来，用户对它的初步反应“令人难以置信” 。</p><p>在苹果第二季度季度财报电话会议上，库克表示，Apple Card高收益储蓄账户和新的Apple Pay Later融资服务都可以帮助客户过上“更健康的财务生活”。</p><p>用户通过Apple Card设置储蓄账户后，来自Apple Card的每日返现（Daily Cash）会自动存入该账户，且该帐户可以在iPhone上的钱包应用程序中设置和管理，与国内的余额宝类似。</p><p>目前Apple Card提供4.15%的年利率。苹果表示，表示截至3月下旬，该利率“是美国平均水平的10倍以上”。</p><p>高利率加上开通储蓄账户的便捷性，让Apple Card很有吸引力。创建一个账户只需几分钟，而且它的运作方式与任何其他储蓄账户一样，没有费用，也没有最低余额，但账户不能超过 250,000 美元的 FDIC（联邦存款保险公司）保险限额。</p><p>据《福布斯》援引知情人士的消息，该服务开通前四天，就已经吸纳了将近10亿美元（约合人民币69亿元）的存款，第一周就有约240,000个Apple Card储蓄账户开通。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925992.shtml</guid>
-<author>周小白</author><pubDate>Fri, 05 May 2023 19:16:45 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-06/2925995.shtml</guid>
+<author>朝晖</author><pubDate>Sat, 06 May 2023 08:37:49 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>广汽集团4月销量17.7万辆，同比增长42.57%</title>
+<link>http://www.techweb.com.cn/smarttraveling/2023-05-06/2926003.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月6日消息，广汽集团发布产销快报，4月销量17.7万辆，同比增长42.57%。其中，新能源车销量4.6万辆，同比增长308.6%，包含自主新能源车4.1万辆，同比增长高达302.5%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683334500666.jpg"></figure><p>今年1-4月，广汽集团累计销量71.7万辆，同比下滑2.1%；新能源车累计销量为13.4万辆，同比增长 107.8%，其中包含自主新能源车11.9万辆，同比增长116.8%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683334508208.jpg"></figure><p>自主品牌方面，广汽埃安销售汽车41,012辆，同比增长301.6%，连续第二个月销量突破4万辆。据悉，埃安今年的目标是50万辆，挑战60万辆，而从今年前4个月的产销成绩单来看，只要延续目前的高质量发展路径，埃安有望顺利完成今年的销售目标。广汽传祺方面，4月实现销量29,235辆，同比增长45.32%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683334514442.jpg"></figure><p>合资品牌方面，广汽本田4月实现终端销量60,888辆(含出口)，同比增长41.1%。广汽丰田完成终端销量77,009辆，同比增长20.2%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/smarttraveling/2023-05-06/2926003.shtml</guid>
+<author>萧健</author><pubDate>Sat, 06 May 2023 08:58:03 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>菲斯克宣布在丹麦交付首辆Ocean全电动SUV</title>
+<link>http://www.techweb.com.cn/world/2023-05-06/2926046.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月6日消息，据外媒报道，当地时间周五，美国电动汽车制造商菲斯克（Fisker）宣布，它在丹麦哥本哈根交付了首辆Ocean全电动SUV，这辆车是首发限量版Ocean One。</p><p>据悉，菲斯克Ocean全电动SUV是该公司的首款电动汽车，于2021年11月在洛杉矶车展上发布，2022年11月份开始生产，旨在与特斯拉Model&nbsp;Y和福特Mustang&nbsp;Mach-E等车型展开竞争。</p><p>今年3月，菲斯克使用WLTP系统测试了Ocean SUV的续航里程，结果显示充满电后续航里程为440英里。</p><p>菲斯克成立于2005年，是位于美国加利福尼亚州的小型汽车制造商。2021年11月份，该公司宣布与宁德时代达成电池供应协议。根据协议，从2023年到2025年，宁德时代将为菲斯克的Ocean SUV提供两种不同的电池解决方案，初始电池产能为每年超过5GWh。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-05-06/2926046.shtml</guid>
+<author>小狐狸</author><pubDate>Sat, 06 May 2023 13:05:35 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>学而思曝自研数学大模型MathGPT 拟年内推出</title>
 <link>http://www.techweb.com.cn/it/2023-05-05/2925985.shtml</link>
@@ -61,61 +110,12 @@
 <guid>http://www.techweb.com.cn/it/2023-05-05/2925985.shtml</guid>
 <author>宜月</author><pubDate>Fri, 05 May 2023 17:40:01 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>Waymo将在旧金山和凤凰城扩大自动驾驶出租车服务覆盖范围</title>
-<link>http://www.techweb.com.cn/world/2023-05-05/2925981.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，据外媒报道，Alphabet旗下的自动驾驶部门Waymo将在美国旧金山和凤凰城大幅扩大自动驾驶出租车服务覆盖范围，以寻求获得新客户，创造更多收入。</p><p>据悉，Waymo是由谷歌自动驾驶项目发展而来，最初成立于2009年1月份，在2016年12月成为一家独立的公司。目前，该公司在凤凰城和旧金山提供自动驾驶出租车服务。</p><p>当地时间周四，该公司宣布，其自动驾驶出租车将首次能够在凤凰城的大部分地区搭载乘客。</p><p>在凤凰城，该公司的自动驾驶出租车服务将覆盖180平方英里的范围，大约是其当前范围的两倍，是该公司在2020年底首次推出该服务时所覆盖范围的四倍。该公司声称，这里是全球最大的全自动驾驶服务区域。</p><p>在旧金山，该公司将在该市更多地方提供免费的全天候自动驾驶出租车服务，尽管该公司在这里遇到了天气问题以及意外停车导致的交通堵塞问题。</p><p>目前，该公司还无法在旧金山提供付费乘车服务，这需要获得加州监管机构的批准。然而，该公司的竞争对手、通用汽车旗下自动驾驶子公司Cruise自去年6月以来一直在旧金山提供无人驾驶付费打车服务，但只在旧金山部分地区的夜间时段收费。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>苹果将再回购900亿美元股票 目前现金储备超过1600亿美元</title>
+<link>http://www.techweb.com.cn/world/2023-05-05/2925984.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】5月5日消息，据外媒报道，在苹果公司第二财季的财报发布之前，就有分析师预计，他们将在财报中披露的未来1年的股票回购，较过去的一年不会减少，仍将达到900亿美元。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683279094745.jpg"></figure><p><code>而从财报来看，苹果也的确如分析师的预期，宣布将再回购900亿美元的股票。</code></p><p><code>在财报中，苹果CFO卢卡·梅斯特里(Luca Maestry)表示，基于他们对苹果未来的信心及对他们股票价值的看法，董事会已授权追加900亿美元用于股票回购。</code></p><p><code>在此前的报道中，外媒曾提到，苹果公司在过去的10年里，已回购5730亿美元的股票，在美国公司中是最多的。再回购900亿美元，也就意味着自2013年以来，苹果将回购超过6700亿美元的股票。</code></p><p><code>虽然苹果公布的股票回购高达900亿美元，超过很多公司一年的营收，但对盈利能力极强、有充足现金储备的苹果来说，并不会有压力。</code></p><p><code>苹果最新发布的财报就显示，截至4月1日，他们的现金储备高达1663亿美元，足够进行大规模的股票回购。</code></p><p><code>除了充足的现金储备，苹果的利润也很可观，在截至4月1日的2023财年第二财季，他们的净利润同比虽有下滑，但仍高达241.6亿美元。在最近的4个财季，最低的一个季度也有194亿美元的净利润。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-05/2925981.shtml</guid>
-<author>小狐狸</author><pubDate>Fri, 05 May 2023 17:11:07 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>Canalys：全球云服务市场持续低迷 2023年Q1增长19%</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925949.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，Canalys发布数据显示，2023年第一季度，全球云基础设施服务支出增长19%，达到664亿美元。</p><p>虽然云计算仍然是IT市场中增长最快的部分之一，但面对持续的宏观经济不确定性，客户的投资继续放缓，云增长首次低于20%。</p><p>企业正在减少云计算支出，作为整体削减IT预算的一部分，明确强调优化云计算成本，控制云计算浪费，提高云计算部署的效率。头部云厂商都受到了不利影响，增长率比上一季度下降了约为4个百分点。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683256191413.jpg"></figure><p>2023年第一季度前三大云厂商AWS、微软Azure和谷歌云共同增长22%（2022年第四季度为26%），占2023年第一季度客户支出的64%。为了应对增长放缓，他们宣布裁员并且削减其他云部门的内部成本。</p><p>从地区来看，亚太地区的表现最弱，因为中国大陆的客户支出减少，影响了许多中国云厂商的营收。</p><p>Canalys预计，全球云服务支出增长将持续放缓至2023年下半年。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925949.shtml</guid>
-<author>宜月</author><pubDate>Fri, 05 May 2023 11:11:07 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>哪吒汽车CEO张勇：对车内搞一堆大屏持保留态度</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925971.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，哪吒汽车CEO张勇今日在国内社交媒体发表了对车内大屏的观点，张勇表示，对车里面搞一堆大屏为了孩子看视频方便，持保留态度。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683271263556.jpg"></figure><p>张勇解释到，“小孩子平时看手机看pad时间已经够长的了，本来就难以纠正，上车出行途中应该多看看车外世界或者听听音乐故事或者睡觉或者跟大人互动聊天。所以，我们的车上目前没有后排放显示屏的规划。”最新数据显示，哪吒汽车4月销量11080辆。其中，哪吒V车系交付4727辆，哪吒U车系交付3821辆，哪吒S交付2237辆，哪吒GT交付295辆。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683271359238.jpg"></figure><p>上海车展期间，哪吒汽车旗下首款双门四座纯电跑车哪吒GT正式上市，定位为“新一代GT科技电跑”，官方指导售价为17.88-22.68万元。&nbsp;&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925971.shtml</guid>
-<author>萧健</author><pubDate>Fri, 05 May 2023 15:23:44 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>李彦宏：Google比百度多付4000万美金也没做出ChatGPT</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925918.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，百度创始人、董事长兼首席执行官李彦宏4日在内部“新使命六周年暨百度骄傲颁奖典礼”上发表讲话，回顾了百度一直以来的人工智能战略，提出未来要有意识地培养AI原生应用的思维方式和理念，用新的理念去重构现在的每一个产品，每一个业务。</p><p>李彦宏透露，2013年百度参与了Geoffrey Hinton和他的两位博士生Alex和Ilya团队的竞标，“我看到有自媒体说百度不懂商业谈判，错失了首先做出ChatGPT的机会，其实不然啊，Google比我们当时多付了4000多万美金，不是也没有做出来吗？Ilya Sutskever转身就离开Google去参与创建了OpenAI。”</p><p>以下为李彦宏演讲内容摘录：</p><p>6年前的今天，也是在这里，我们正式发布了百度的新使命，用科技让复杂的世界更简单，正式吹响了百度向人工智能公司转型的号角。但我要说的是，我们对于创新的执着是一贯的，我们对于技术的投入是长期的，是从来没有动摇过的。</p><p>10年前，也就是2013年，我们意识到，人工智能技术的发展，会让无人驾驶有一天可以实现，从此我们开始了对自动驾驶技术的十年如一日的压强投入。今天，萝卜快跑单量已经远超200万单，是世界最大的无人驾驶运营商。也是在那一年，我们参与了Geoffrey Hinton和他的两位博士生Alex和Ilya团队的竞标，我看到有自媒体说百度不懂商业谈判，错失了首先做出ChatGPT的机会，其实不然啊，Google比我们当时多付了4000多万美金，不是也没有做出来吗？Ilya Sutskever转身就离开Google去参与创建了OpenAI。</p><p>8年前，也就是2015年，我们意识到人工智能正在逐步变成一项核心通用技术和基础技术，势必催生多个领域的变革和跨越式发展。那一年，我在全国两会上，在人民大会堂有一个大会发言，叫“中国大脑计划”，那时候人工智能还没有出圈，AlphaGo要到2016年才出来。我当时的建议是从国家层面去开发建造一个全球最大的人工智能平台，这个平台可以开放给政府机关、企事业单位、科研院所等，使大家可以在这个平台上进行相应的技术创新。近几年，各地风起云涌的智算中心，多少体现了这一思路。与此同时，百度我们也开始了构建属于我们自己的全栈式人工智能技术。</p><p>4年前，我们首次推出了大语言模型文心1.0，参数过亿，那个时候亿级参数就是大模型的定义。而且我们不断通过核心应用搜索、小度，来打磨我们的大模型技术。</p><p>2年前，我们意识到人工智能技术发生了方向性的改变，从辨别式的人工智能走向生成式的人工智能，AIGC从此成为我们重点发力的一个方向，资源也逐渐向这个方向倾斜。</p><p>今年3月16号，百度在全球大厂中首先发布对标ChatGPT的大模型产品文心一言，赋能千行百业，让所有产品因此而重构。我们之所以能够在Google、Meta、Amazon等大厂之前先做出来，是因为我们在芯片、框架、模型、应用四个层面做到全球唯一全栈布局、层层领先，我们在进行联合优化的时候，多数友商还躺在上个时代的芯片、操作系统和应用这样的三层架构上。可喜的是，今天，四层架构的理念已经开始被业界认可。端到端优化让我们在大数据、大模型、大算力上如鱼得水，左右逢源。最近我看到一个数据，说全球算力规模，美国占34%，中国占33%，算力差不多。我要说，算力不能保证我们能够在通用人工智能技术上领先，算力是可以买来的，创新的能力是买不来的，是需要自建的。文心一言内测一个多月，就完成了4次大的技术升级，大模型推理成本已经降到了原来的十分之一，或者说推理性能提升近10倍。当别人刚刚开始思考如何进行训练的时候，我们已经在推理上冲出了很远。</p><p>当然，这场科技竞赛才刚刚开始。真正的AI时代，新的应用会基于大模型来开发，就像十几年前各种基于安卓、iOS的应用大量涌现一样。所以，我多次说过，大模型是Game Changer，它会彻底改变云计算的游戏规则。过去，云计算主要卖算力，看速度、看存储，今天，客户购买云服务，是要看框架好不好、模型好不好，而不是仅仅看算力怎么样。未来，企业基于大模型开发应用，会发现百度智能云是最方便、最快捷的，成本还低。</p><p>所有过往，皆为序章。随着移动互联网的日益成熟和内卷，今天的人工智能领域，竞争比以往任何时候都更加激烈，我们面临的挑战也是前所未有的。前一段时间我接受采访时说：我们跟ChatGPT的差距大约是两个月，但说实话这有点断章取义，我后面紧接着还说：这不是重点，重点是这两个月的差距我们要用多长时间才能赶上，也许很快，也许永远也赶不上。</p><p>这取决于我们自身的努力，取决于我们把握机会的能力，取决于我们的执行力。我们的战略、人才、组织机制和文化能不能适应新的形势，我们在新的环境下能不能持续创新，生死攸关。</p><p>未来，我们要有意识地培养AI原生应用的思维方式和理念，需要我们用新的理念去重构我们现在的每一个产品，每一个业务。这并不容易，这很难，因为我们现在这些人，我们四万百度人，没有一个是AI时代的原住民，我们都经历了移动时代，不少人还经历的PC时代，我们的思维方式某种意义上被固化了，我记得我第一次使用浏览器的时候，感觉那个东西效率很低呀，明明通过命令行一秒钟可以解决的问题，为啥要等着一个个图片load完了才能开始操作，但后来我明白过来了，普通人点击鼠标比让他学习盲打要容易的多；我也记得刚开始使用苹果手机的时候，觉得这个屏幕好小啊，用户为啥要用这么个东西来上网啊，但我看到几岁的孩子很快就学会了使用触摸屏上网的时候，我下定决心用两年的时间，让百度的移动搜索流量超过了PC搜索流量。这一次生成式AI的来临，我们第一感受也是敲一两个关键字，点击一下鼠标就能解决的问题，为啥要用一大段话来描述自己的需求，才能获得想要的内容。但是我们要意识到，有多少工程师辛辛苦苦开发出来的功能被藏在一层层的菜单下永远无人问津，有多少苦思冥想都无法获得的灵感通过一些简单的提示词可以被激发出来，我们应该有勇气去改变自己的思维方式。当然，改变思维方式会是痛苦的，会经历各种挫折和煎熬，需要我们用毅力去克服这种惯性，用发现和探索的眼光来看待这个新的世界。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925918.shtml</guid>
-<author>宜月</author><pubDate>Fri, 05 May 2023 09:17:40 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>消息称特斯拉柏林超级工厂已开始采用比亚迪电池生产Model Y</title>
-<link>http://www.techweb.com.cn/world/2023-05-05/2925961.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】5月5日消息，据外媒报道，Model Y周产量在3月底就已达到5000辆的特斯拉柏林超级工厂，也在扩大他们的电池供应链，有消息称他们已在采用比亚迪的电池生产Model Y。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683258431725.jpg"></figure><p><code>特斯拉柏林超级工厂已开始采用比亚迪电池生产Model Y，源自德国媒体的报道，但特斯拉方面尚未确认他们是否开始采购比亚迪的电池。</code></p><p><code>从外媒的报道来看，特斯拉柏林超级工厂可能是利用比亚迪的电池，生产后轮驱动版的Model Y。</code></p><p><code>外媒在报道中提到，特斯拉目前在德国市场向消费者提供的Model Y有三个版本，其中后轮驱动版产自上海超级工厂，采用的是宁德时代的磷酸铁锂电池。</code></p><p><code>德国媒体在报道中表示，如果业内人士透露的消息准确，也就是特斯拉柏林超级工厂开始采用比亚迪的电池生产Model Y，就意味着特斯拉上海超级工厂在出口上有更多的选择，能将所生产的后轮驱动版Model Y，供应到更多的国家。</code></p><p><code>值得注意的是，在去年的8月份，就曾有报道称比亚迪已开始向特斯拉柏林超级工厂供应电池，随后还有报道称，特斯拉搭载比亚迪刀片电池的Model Y，获得了荷兰机动车辆管理机构的批准，为后续在欧盟市场大规模生产铺平了道路。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-05/2925961.shtml</guid>
-<author>海蓝</author><pubDate>Fri, 05 May 2023 11:53:10 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>“京东青年城”将建近4000套员工租赁公寓 租金为市场价一半</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925944.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，据京东官方发布，“京东青年城”在5月4日青年节这一天正式启动。</p><p>在与京东总部大楼隔路相望的地块上，未来将建起近4000套家电、家具齐全，可拎包入住的员工公寓，包含幼儿园、电影院、篮球馆、游泳馆、商业街等休闲、娱乐、健身配套场所共同形成了总建筑面积30多万平米的建筑群。</p><p>据介绍，这一项目的总投入预计将超过60亿元。</p><p>“京东青年城”将建成的近4000套的自持员工租赁公寓中还特别为初入职场的实习生准备了千余套公寓，以缓解他们从学校到职场的住宿压力。所有公寓都可以实现拎包入住，公寓内还配备了大量休闲、娱乐、健身区域，预计租金价格约为市场价格的一半。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925944.shtml</guid>
-<author>宜月</author><pubDate>Fri, 05 May 2023 10:54:01 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>陌陌回应APP在苹果商店下架：技术问题 正与苹果公司积极沟通</title>
-<link>http://www.techweb.com.cn/it/2023-05-05/2925948.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，近日，有用户反馈，陌陌APP在苹果应用商店下架。对此，陌陌方面回应称，“根据我们了解的情况，因为技术问题导致陌陌app在苹果商店无法下载，我们正在和苹果公司积极沟通，希望尽快解决问题并重新上架。目前，安卓各大应用商店可正常下载，iOS老用户使用也不受影响。”</p><p>经测试，目前苹果应用商店已无法搜索到陌陌APP，但陌陌极速版仍可正常下载使用。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-05/2925948.shtml</guid>
-<author>周小白</author><pubDate>Fri, 05 May 2023 11:08:47 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>上汽集团4月销量37.4万辆 自主品牌占比过半</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925977.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，上汽集团发布了4月产销快报，销售整车37.4万辆，同比增长124.5%。其中自主品牌销售20.3万辆，同比增长81.9%，在整体销量中的占比达54.2%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683274741632.jpg"></figure><p>此外，上汽集团4月新能源车销量6.8万辆，同比增长80.6%；海外市场销量达到9万辆，同比增长130.5%。</p><p>智己汽车4月销量 2009辆，今年1-4月累计销量5774辆。飞凡F7在4月下旬正式启动全国多地集中交付，单周交付量已突破700辆。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-05-05/2925977.shtml</guid>
-<author>萧健</author><pubDate>Fri, 05 May 2023 16:20:00 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-05-05/2925984.shtml</guid>
+<author>海蓝</author><pubDate>Fri, 05 May 2023 17:34:41 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
@@ -147,13 +147,20 @@
 <guid>http://www.techweb.com.cn/world/2023-05-05/2925980.shtml</guid>
 <author>海蓝</author><pubDate>Fri, 05 May 2023 16:53:58 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>谷歌大幅削减成本但CEO依然加薪 引发员工强烈不满</title>
-<link>http://www.techweb.com.cn/it/2023-05-04/2925808.shtml</link>
-<description><![CDATA[<p>北京时间5月4日早间消息，据报道，谷歌首席执行官桑达尔·皮查伊（Sundar Pichai）去年获得了大幅加薪，从而成为美国薪酬最高的首席执行官之一。上周，谷歌母公司Alphabet宣布获得授权推进700亿美元的股票回购计划。但与此同时，Alphabet一直在积极削减成本，包括裁员1.2万人，以应对营收增长放缓。</p><p>这一系列举措引起了谷歌员工的不满。自皮查伊年薪被公布以来的几周里，谷歌内部平台上出现了大量讨论，矛头直指皮查伊在公司大幅削减成本的情况下依然接受加薪。一些员工还对股票回购提出批评，这一轮股票回购的规模与2022年相当。</p><p>美国证券交易委员会（SEC）的文件显示，皮查伊去年薪酬总额为2.26亿美元，其中大部分来自于2.18亿美元的股票激励。皮查伊的薪酬总包中还包括近600万美元的个人安保服务和200万美元的基本薪酬。相比之下，2021年，皮查伊的薪酬总包为630万美元，包括200万美元的基本薪酬和430万美元的其他薪酬，但没有股票激励。</p><p>一些谷歌员工将皮查伊的薪酬与其他科技行业高管进行了对比。1月份，苹果首席执行官蒂姆·库克（Tim Cook）宣布他的薪酬将比2022年目标总薪酬削减超过40%。几乎同时，在公司裁员1300人之后，Zoom首席执行官袁征宣布，将降薪98%并削减奖金。Twilio首席执行官杰夫·劳森（Jeff Lawson）则表示，在公司裁员17%的情况下，他也将接受降薪。</p><p>消息显示，谷歌内网讨论版上出现了十几条相关讨论，其中有许多都获得了数百次点赞。一条获得1200多次点赞的内容提到了Alphabet首席财务官鲁斯·珀拉特（Ruth Porat）的说法。上月，她在一封罕见的公司全员电子邮件中写道，Alphabet正在推进“将持续多年”的员工服务削减，范围涉及到员工的笔记本电脑，以及健身房费用和咖啡馆餐品等。</p><p>这条内容显示：“珀拉特的成本削减适用于所有员工，除了我们勤奋的副总裁们和首席执行官。”</p><p>谷歌尚未对此做出回应。</p><p>这并不是皮查伊第一次因为他最近的决定而受到抨击。今年1月，皮查伊表示，他对导致全公司范围裁员的情况承担“全部责任”。随后，在公司全体员工大会上，员工们问皮查伊，如果他承担责任，为什么高管们会加薪。皮查伊回答，高级副总裁们正在“接受奖金的大幅削减”，而他本人将放弃奖金。</p><p>另一条热门图片上的文字显示：“桑达尔接受了2.26亿美元，同时裁员1.2万人，削减福利，摧毁士气和文化。”另一侧的文字显示：“你们中的一些人可能会活不下去，但这是我愿意做出的牺牲。”</p><p>皮查伊和钱相关的话题可以追溯到去年底。当时，他曾在全公司范围的会议上表示：“我们不应该总是把乐趣等同于金钱。”当时，他回应了为什么公司要取消某些员工福利，但回避了员工们有关高管薪酬削减的问题。</p><p>Alphabet的700亿美元股票回购计划也令员工沮丧，这表明，该公司拥有足够多现金来承担业务经营和投资的开支。一条获得700多次点赞的内容写道：“700亿美元的股票回购表明，相比于谷歌的员工，我们更尊重外部股东。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>消息称马斯克再削减Twitter员工福利：未兑现股票承诺 压缩带薪育儿假</title>
+<link>http://www.techweb.com.cn/it/2023-05-05/2925899.shtml</link>
+<description><![CDATA[<p>北京时间5月5日早间消息，据报道，由于Twitter CEO埃隆·马斯克（Elon Musk）没有兑现多项承诺，令该公司的员工颇感沮丧。</p><p>这位亿万富豪在6个月前收购Twitter，他曾告诉在裁员中幸免于难的员工，他们将会因为自己的“出色”表现获得回报，包括获得限制性股票奖励。</p><p>然而实际情况是，即便有些员工被告知已经达到马斯克反复无常的标准，但却依然没有获得任何奖励。相反，他们的福利待遇还遭到进一步的压缩，而未来的财务回报也只得到了模糊的承诺，甚至还要从事更多工作。</p><p>知情人士表示，由于人手短缺，加之马斯克经常改变要求，有些员工经常要每周工作100个小时。</p><p>知情人士称，今年早些时候，该公司向多位员工发送“授予意向”称，将以公允的市场价值向他们授予一定数量的公司股票，但并未披露价格信息和授予时间。今年3月，马斯克在一封电子邮件中告知员工，Twitter目前的价值为200亿美元，不足他去年收购时付出的440亿美元的一半。</p><p>知情人士表示，马斯克并未分享这一估值的来源。尽管精确的估值目前已经不再重要，因为没有一名员工获得Twitter授予的股票。这些员工目前也只收到了“授予意向”，除此之外没有任何进展。截至本周，关于Twitter的估值或预期股票定价“没有任何透明度”。</p><p>“我们都假设这些股票将一文不值。”知情人士说，“他们当初承诺，为Twitter 2.0奋斗会获得回报，但并未履行承诺。”</p><p>马斯克和其他Twitter代表尚未对此作出回应。</p><p>Twitter最近还对员工表示，公司将不再向任何人发放现金奖金。知情人士表示，尽管员工本应收到去年获得的奖金，但Twitter目前尚未发放任何一笔奖金。</p><p>其中一位知情人士表达了自己的质疑，他认为，在马斯克的领导下，所谓的“出色”员工难以因为自己的工作获得任何奖励，而“授予意向”也不过是缓兵之计，只是为了留住员工而已。据报道，经历了一系列裁员和离职，Twitter的员工总数已经收缩到大约1000人。</p><p>除了缺乏财务奖励，马斯克还在继续大幅压缩Twitter员工的福利待遇。最新开刀的是带薪育儿假，这项福利的时长已经从之前的20周压缩到仅剩2周。超过两周后，Twitter员工可以按照法律强制的时间享受无薪育儿假。按照Twitter总部所在地加州的规定，劳动者有权利享受12周的无薪育儿假。</p><p>知情人士表示，员工最初是在上月通过他们的上司了解到这项最新育儿假政策的。他们随后意识到，公司的福利文件已经修改，但并没有在内部宣布这项变化。知情人士称，此事在员工中引发了极大的恐慌，迫使Twitter新任人力资源负责人沃尔特·吉尔伯特（Walter Gilbert）在员工会议上简要阐述了相关内容。吉尔伯特是从Reddit跳槽到Twitter的，之前还曾效力于马斯克旗下的民营火箭公司SpaceX。</p><p>但知情人士认为，吉尔伯特在会议上的阐述只是一种“辩解”，因为他宣称，2周的带薪育儿假政策与马斯克旗下的其他公司一致。</p><p>但实际情况并非如此。最新的影响报告显示，作为马斯克旗下目前唯一的上市公司，特斯拉的员工可以享受16周的带薪育儿假。而SpaceX还没有上市，因而没有出具影响报告，但据称其带薪育儿假也达到4周，外加法律规定的无薪育儿假。</p><p>已知信息显示，马斯克本人有10个孩子，最小的儿子名叫X。知情人士表示，X经常出现在Twitter的旧金山总部。具有讽刺意味的是，马斯克去年曾经表示，他有意提高旗下所有公司的育儿福利。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-04/2925808.shtml</guid>
-<author>郑卓</author><pubDate>Thu, 04 May 2023 08:52:57 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-05-05/2925899.shtml</guid>
+<author>郑卓</author><pubDate>Fri, 05 May 2023 08:36:01 +0800</pubDate>
 <source>新浪科技</source>
+</item><item><title>Zen6架构锐龙有戏了！AMD CEO苏姿丰表态进军2nm工艺</title>
+<link>http://www.techweb.com.cn/it/2023-05-06/2926009.shtml</link>
+<description><![CDATA[<p>最近10年来半导体工艺发展放缓，摩尔定律被质疑已死，因为半导体制造无法做到2年密度翻倍的标准，不过AMD并不认为摩尔定律失效，AMD还在积极掌握更先进的工艺，比如2nm。</p><p>AMD CEO苏姿丰日前在采访中透露，AMD没有考虑停止升级芯片光刻技术，<strong>工程师们已经努力掌握3nm工艺，现在他们的目光也投向了更先进的2nm工艺。</strong></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683335333126.jpg"></figure><p>从AMD这番表态来看，未来他们的芯片升级3nm工艺是没跑，2nm工艺也在进行中，只不过没说具体情况，毕竟台积电的2nm工艺要到2025年才能量产，但首发的主要是苹果，AMD恐怕要到2026年才能用上2nm工艺。</p><p>基于之前泄露的路线图，AMD的2nm工艺很可能首发于Zen6架构，代号Morpehus（摩耳甫斯，古希腊神话梦神），在此之前还会有4nm及3nm的Zen5——没错，Zen5这一代会横跨两代不同的CPU工艺。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683335321976.png"></figure><p><strong>AMD的CPU架构代号及工艺</strong></p><p>AMD Zen 2 (7nm) – Valhalla(英灵殿)</p><p>AMD Zen 3 (7nm) – Cerberus（刻耳柏洛斯，古希腊神话中的地狱三头犬）</p><p>AMD Zen 4 (5nm) – Persephone（珀耳塞福涅，古希腊神话冥后）</p><p>AMD Zen 5 (3nm) – Nirvana（涅槃）</p><p>AMD Zen 6 (2nm) - Morpehus（摩耳甫斯，古希腊神话梦神）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-06/2926009.shtml</guid>
+<author>宪瑞</author><pubDate>Sat, 06 May 2023 09:10:57 +0800</pubDate>
+<source>快科技</source>
 </item><item><title>俞敏洪：把员工996看作骄傲的是垃圾公司 建议24节气都放假</title>
 <link>http://www.techweb.com.cn/it/2023-05-05/2925946.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月5日消息，五四青年节当天，新东方创始人、“花甲青年”俞敏洪亮相新东方直播间为《读者》杂志带货，同时也谈到关于青年、学习、假期等各方面的话题。</p><p>俞敏洪表示，对五四青年节尤其看重，自己到今天为止还是“青年”，另一个时它来自北大，是北大校庆日。北大是自己的精神家园。</p><p>俞敏洪认为，青年最大的特点是依然保持好奇，对发生的事情充满好奇，愿意接受新思想，愿意改变自己的行为，愿意去探索新的生存路径。将探索精神贯穿在日常里，旅行是一个很好的路径。</p><p>但现在假期太少，俞敏洪称，现在中国的很多岗位都在打疲劳战， “如果一个公司长久地把员工996看作是一种骄傲，那这个公司就是不行，是个垃圾公司。因为它以剥削员工的业余时间为骄傲。”</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0505/1683255856872.png"></figure><p>俞敏洪还建议，从国家层面增加放假时间。“我曾经作为全国政协委员在小组讨论会上提过，中国的24个节气都应该放一天（假）。24节气放假可以让城市人尤其是孩子们跟大自然亲近，去感受生命的韵律。”</p><p>“当下的工作效率并不受放假的影响，不像原来我们农业时代或者手工时代，必须靠时间来撑生产效率。放假多了，人会变得更加兴奋，更加充满活力，放假的时间能用效率全部补回来。”俞敏洪解释道。</p><p>谈及刚刚过去的五一，俞敏洪表示，“中国的经济因为这5天的旅游收入，应该对很多地方、很多老百姓来说，变成了一年的活命钱了。但这种调来调去的放假，其实只放一天，用两边的周末凑出的节日，让大家感觉有点乱、疲劳。我建议假期都应该相对固定，甚至五一和十一，包括春节都应该放5天，搭前后两个礼拜六礼拜天变成9天。”</p><p>俞敏洪建议24节气都放假的观点一出，瞬间引发网友热议，一度登上热搜。</p><p>有网友留言表示：“现在互联网这么发达，时时处处都能办公，但长时间办公室坐着，真的影响工作效率。”</p><p>也有网友给俞敏洪提出建议：“你可以在你公司率先试行呀 对吧 你给你公司人24节气都放假 也可以啊 ，不用管是不是国家规定。你先放嘛 别的公司就跟了。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -161,19 +168,12 @@
 <guid>http://www.techweb.com.cn/it/2023-05-05/2925946.shtml</guid>
 <author>宜月</author><pubDate>Fri, 05 May 2023 11:06:09 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>李想回应理想汽车“砸钱雇媒体营销”：品牌市场费用率0.6%</title>
-<link>http://www.techweb.com.cn/shortnews/2023-05-04/2925821.shtml</link>
-<description><![CDATA[<p>5月3日，微博有汽车博主发文指出车圈营销乱象，并暗指“理想汽车砸钱雇媒体营销”。对此，理想汽车CEO李想发文称，理想汽车品牌市场费用率是0.6%，包含了品牌所有的公关、活动、广告、车展、发布会、车主运营等。主流品牌市场费用率是2-3%，是公司的4-5倍。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>台积电董事长与CEO：2nm工艺明年风险试产 2025年量产</title>
+<link>http://www.techweb.com.cn/world/2023-05-06/2926026.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】5月6日消息，据外媒报道，在3nm制程工艺量产之后，台积电工艺研发的重点，就将转向下一代的2nm制程工艺，而在最新发布的年度报告中，台积电董事长刘德音和CEO魏哲家，也透露了这一制程工艺的更多细节信息。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0506/1683339298253.jpg"></figure><p><code>在给股东的信中，刘德音和魏哲家披露，他们在去年加大了研发力度，致力于技术尤其是2nm制程工艺的研发，在研发上投入54.7亿美元，以扩大他们的技术领先优势和差异化。</code></p><p><code>对于2nm制程工艺，刘德音和魏哲家在信中称将采用纳米片电晶体结构，性能和能效都将提升，相较于N3E制程工艺，2nm制程工艺在相同功耗下速度将提升10%-15%，或在相同速度下功耗降低25%-30%，以满足日益增长的节能计算需求。</code></p><p><code>刘德音和魏哲家还表示，2nm制程工艺的研发在按计划推进，将在2024年风险试产，2025年量产，生产基地在新竹和台中科学园区。</code></p><p><code>在信中，刘德音和魏哲家还表示，他们的2nm制程工艺在推出时，在晶体管的密度和能效方面都将是业内最先进的半导体技术，将为他们的客户带来最佳的性能、成本及技术成熟度，使他们未来在技术上保持领先优势。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/shortnews/2023-05-04/2925821.shtml</guid>
-<author></author><pubDate>Thu, 04 May 2023 09:33:25 +0800</pubDate>
-<source>雪豹财经社</source>
-</item><item><title>微软宣布向所有用户开放新版必应 登录微软账户即可访问</title>
-<link>http://www.techweb.com.cn/world/2023-05-05/2925951.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月5日消息，据外媒报道，当地时间周四，微软宣布向所有用户开放新版必应，这意味着不再有试用等候名单，用户只需使用微软账户登录到必应搜索引擎或Edge浏览器，就可以访问公开预览版的必应。</p><p>微软此举突显了其推进该产品的承诺，尽管该产品背后的人工智能（AI）技术存在不准确的担忧。</p><p>据悉，微软是在今年2月7日推出由AI驱动的新版必应的。新版必应使用了OpenAI的技术，该技术现在得到了微软的资金支持。</p><p>除了常规的必应搜索结果，新版必应还增加了一个聊天选项，允许用户与AI进行长时间、开放式的文本对话，并获得问题的答案。</p><p>最初，新版必应以预览版形式上线，仅限于部分用户访问。但自那以来，微软一直在逐步开放它。</p><p>与此同时，微软正在为必应聊天添加更多智能功能，包括生成图像和视频结果、新的必应和Edge Actions功能、持久的聊天和历史记录，以及插件支持。</p><p>该公司希望将必应聊天机器人变成一个“平台”，为此该公司将很快增加对第三方插件的支持，以扩展其功能。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-05/2925951.shtml</guid>
-<author>小狐狸</author><pubDate>Fri, 05 May 2023 11:15:26 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-05-06/2926026.shtml</guid>
+<author>海蓝</author><pubDate>Sat, 06 May 2023 10:19:35 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>炳叔：IEEE的审稿权，是一种机会优势</title>
 <link>http://bingshu.blog.techweb.com.cn/archives/3494</link>
