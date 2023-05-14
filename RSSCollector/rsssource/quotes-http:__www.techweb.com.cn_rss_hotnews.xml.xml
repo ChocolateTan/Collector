@@ -5,20 +5,55 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Sun, 14 May 2023 08:49:27 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 14:09:10 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>特斯拉宣布召回110余万辆进口及国产Model 3、Model Y汽车</title>
-<link>http://www.techweb.com.cn/it/2023-05-12/2926554.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月12日消息，据国家市场监管总局官网消息， 日前，特斯拉汽车（北京）有限公司、特斯拉（上海）有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0512/1683875859199.png"></figure><p>自2023年5月29日起，召回生产日期在2019年1月12日至2023年4月24日期间的部分进口Model S、 Model X 、Model 3及国产Model 3 、Model Y汽车，共计1104622辆。</p><p>据悉，本次召回范围内的车辆，没有允许驾驶员选择能量回收制动策略；同时，对驾驶员长时间深度踩下加速踏板的情况可能没有提供足够提醒。以上因素叠加可能增加长时间误踩加速踏板的概率，可能增加碰撞的风险，存在安全隐患。</p><p>&nbsp;本次召回活动是在国家市场监督管理总局启动缺陷调查情况下开展的。受调查影响，特斯拉汽车（北京）有限公司、特斯拉（上海）有限公司计划通过汽车远程升级（OTA）技术，为召回范围内的车辆推送新开发的功能，以降低因长时间深踩加速踏板导致速度过快引起的碰撞风险。功能包括：（1）在不具备能量回收制动强度选择的车辆上，提供选项以允许驾驶员选择能量回收制动强度；（2）调整车辆能量回收制动策略的出厂默认状态；（3）在驾驶员长时间深度踩下加速踏板时发出提醒。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+     <item><title>软银旗下ARM最快9月赴美IPO 融资最多100亿美元</title>
+<link>http://www.techweb.com.cn/it/2023-05-14/2926605.shtml</link>
+<description><![CDATA[<p><code>新浪科技讯，据报道，知情人士今日称，软银集团旗下芯片设计公司ARM最早将于今年9月赴美IPO（首次公开招股），最多融资100亿美元。</code></p><p><code>知情人士称，软银已开始测试投资者对此次IPO的兴趣，ARM最早将于9月在纽约启动股票发售，最多可能筹资100亿美元。有数据显示，此次IPO有望成为今年全球规模最大的IPO。</code></p><p><code>上个月，ARM已经秘密申请赴美上市。知情人士称，高盛集团、摩根大通、巴克莱银行（Barclays）和瑞穗金融集团（Mizuho Financial Group）已被列为IPO承销商。将来，预计还会有更多银行加入到这一行列。</code></p><p><code>知情人士还称，相关事宜仍在讨论中，有关IPO规模和时间的最终决定，将视股市的具体情况而定。对此，ARM、高盛、摩根大通、瑞穗和软银的代表拒绝发表评论，而巴克莱银行发言人尚未置评。</code></p><p><code>最大规模IPO</code></p><p><code>软银创始人孙正义曾表示，他希望ARM的IPO能成为芯片公司有史以来规模最大的IPO。银行家们预计，ARM的估值在300亿美元至700亿美元之间。估值差距如此之大，表明在当前的半导体市场股价波动之际，对ARM进行估值也面临着挑战。</code></p><p><code>分析人士称，ARM IPO不仅可以支撑软银的资产负债表，或许还能为其提供更多资金进行新的投资。昨日，软银刚刚发布了截至2023年3月 31日的2022财年业绩，净亏损9701.4亿日元，较上年同期的亏损1.7万亿日元有所收窄。其中，科技投资部门“愿景基金”亏损4.3万亿日元，而上年同期亏损2.55万亿日元。</code></p><p><code>今年3月有消息称，为了吸引投资者，ARM计划调整其商业模式，以提高其芯片设计的价格，希望在IPO之前提高公司营收。上个月还有报道称，ARM正在打造自己的芯片，以展示其产品制造方面的能力。</code></p><p><code>伦敦交易所受挫</code></p><p><code>ARM总部位于英国，所设计的芯片架构用于全球约95%的智能手机中。在2016年软银以320亿美元收购ARM之前，ARM一直在伦敦和纽约两地上市。今年2月，当英伟达（NVIDIA）收购ARM交易失败后，软银宣布计划让ARM重新上市。软银CEO孙正义当时表示，ARM可能在美国纳斯达克上市，而非英国本土。</code></p><p><code>上个月有报道称，软银创始人兼CEO孙正义与美国纽交所就ARM的上市计划达成了初步协议，ARM最早将在今年秋季在纳斯达克上市。</code></p><p><code>分析人士称，这将对英国政府和伦敦证券交易所造成重大打击。对于英国政府而言，它希望该国最大和最好的科技公司能在本土上市，以便造福更广泛的经济，支撑其股市。然而，多年来，许多英国企业越过大西洋，在纽约上市。这些企业认为，在纳斯达克或纽约证券交易所能实现更高的估值。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-12/2926554.shtml</guid>
-<author>御风 </author><pubDate>Fri, 12 May 2023 15:19:07 +0800</pubDate>
-<source>TechWeb.com.cn</source>
+<guid>http://www.techweb.com.cn/it/2023-05-14/2926605.shtml</guid>
+<author>新浪科技</author><pubDate>Sun, 14 May 2023 09:37:49 +0800</pubDate>
+<source>新浪科技</source>
+</item><item><title>ChatGPT Plus将迎新功能 联网和插件功能下周推出</title>
+<link>http://www.techweb.com.cn/it/2023-05-14/2926611.shtml</link>
+<description><![CDATA[<p><code>IT之家&nbsp;OpenAI宣布将在下周向所有ChatGPT Plus用户推出联网和插件功能。OpenAI表示，位于Alpha和Beta通道的ChatGPT Plus 用户都能使用联网功能以及70多个已上线的插件。</code></p><p><code>OpenAI CEO Sam Altman转发这一推文并表示："希望你们喜欢"。</code></p><p><code>此次更新意味着ChatGPT的最后一道封印已被彻底解除，ChatGPT将利用最新的信息和资讯为使用者提供服务。IT之家从OpenAI官方博客获悉，除了联网功能，即将上线的插件也大幅提升了ChatGPT的能力。</code></p><p><code>粗略来看，目前上线的ChatGPT插件种类涵盖了行程安排助理、代码解释器、创建新网站、文本转音频、购物比价下单、根据 PDF 文档内容做出总结等等。</code></p><p><code>行业人士认为，这一更新的意义甚至相当于苹果App Store的诞生。开发者可以创建和发布自己的插件服务用户，标志着ChatGPT 不仅仅是一家互联网服务商，更是一个生态系统的开创者。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-14/2926611.shtml</guid>
+<author>渡江</author><pubDate>Sun, 14 May 2023 11:43:58 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>亿纬锂能拟在马来西亚建设锂电池工厂 已准备购买土地</title>
+<link>http://www.techweb.com.cn/it/2023-05-14/2926606.shtml</link>
+<description><![CDATA[<p><code>亿纬锂能公告显示，亿纬马来西亚与PEMAJU KELANG LAMA SDN.BHD（PKL）签订谅解备忘录，拟向PKL购买标的土地，在马来西亚建立锂电池制造厂。具体事项将由双方签订的最终买卖协议约定，尚具有不确定性。</code></p><p><code>PKL在马来西亚Kedah（吉打州）注册成立，标的土地测量面积约为66.58083英亩，购买价格为163864744.00令吉（当前约2.55亿元人民币）。</code></p><p><code>该谅解备忘录的签订，标志着亿纬锂能圆柱锂电池制造项目的有效推进，有利于双方充分发挥各自的资源和优势，进一步满足公司扩大圆柱电池产能规模的需求，以支持配套马来西亚及东南亚地区电动两轮车及电动工具制造企业。项目主要生产电动工具、电动两轮车用21700圆柱电池。</code></p><p><code>亿纬锂能最近三年披露的战略合作协议进展情况：</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0514/1684029614624.jpg"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0514/1684029597891.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-14/2926606.shtml</guid>
+<author>泽泷</author><pubDate>Sun, 14 May 2023 10:08:55 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>三星电子将在日本新建芯片开发设施 预计投资超过15亿元</title>
+<link>http://www.techweb.com.cn/it/2023-05-14/2926607.shtml</link>
+<description><![CDATA[<p><code>据日经新闻，三星电子将在横滨新建一个开发设施，这是一项极具象征意义的举措，有望促进日本和韩国芯片行业之间的合作。</code></p><p><code>据称，这套新的芯片开发设施将耗资超过300亿日元（当前约15.45亿元人民币），建在东京西南部的横滨，这里目前也是三星日本研究所的所在地。这套设施将专注于“后端”生产，也就是将晶圆封装成最终产品。</code></p><p><code>实际上，今年3月就有消息称三星合并了位于横滨和大阪的两家研发机构，并将在日本创建名为DSRJ的综合研发中心，而这所新的研发中心便位于三星横滨研究所内。</code></p><p><code>当时，三星表示合并两家研发中心的主要原因是韩国和日本之间关系的缓和，希望在日本建立一个全新的半导体和显示器研发中心。</code></p><p><code>此外，三星还希望以“Samsung Research Japan”的名义在日本为设备体验部门Device eXperience设立新的综合研究中心。外媒认为，三星正在试图通过重组在设备解决方案相关的研发机构来增强综合开发能力。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-14/2926607.shtml</guid>
+<author>问舟</author><pubDate>Sun, 14 May 2023 10:39:40 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>上海将深化与特斯拉合作 推动自动驾驶、机器人等布局</title>
+<link>http://www.techweb.com.cn/it/2023-05-14/2926612.shtml</link>
+<description><![CDATA[<p><code>IT之家&nbsp;特斯拉为上海工业经济稳增长提供了有力支撑。2022年特斯拉产量达到了72.7万辆，同比增长49.7%；产值达1839亿元，占全市汽车制造业产值23%，拉动工业产值增长1.3个百分点。</code></p><p><code>上海市经信委智能制造推进处副处长陈可乐表示，特斯拉作为新能源汽车的领先企业，为上海建设世界级汽车产业中心作出了积极贡献。下阶段，上海将进一步深化与特斯拉的合作，推动自动驾驶、机器人等功能板块在沪布局，共同打造具备核心技术优势、面向全球市场的科技产业集群。</code></p><p><code>在加强政策供给方面，上海一是制定发布《上海市加快新能源汽车产业发展实施计划（2021-2025 年）》，明确总体发展目标，到 2025 年新能源汽车年产量达到 120 万辆，产值突破 3500 亿元。</code></p><p><code>二是制定发布《上海市鼓励购买和使用新能源汽车实施办法》，对符合条件的消费者购买新能源汽车给予免费专用牌照政策支持。</code></p><p><code>三是制定发布了《上海市浦东新区促进无驾驶人智能网联汽车创新应用规定》、《上海市充（换）电设施“十四五”发展规划》等法规、政策，进一步完善新能源汽车产业生态。</code></p><p><code>相信大家或多或少都曾听说，目前新能源汽车或者是说智能网联汽车已经发展到了关键时刻，上半场的“电动化”之争已经接近尾声，下半场的“智能化”之争也已初步显现。目前，百度、华为、小米、大疆、蔚来、小鹏、理想等企业都在智能驾驶领域进行发展，其他传统车企也已经逐渐推出自家智驾方案。</code></p><p><code>虽然特斯拉并未在国内市场提供 FSD，但特斯拉也绝对属于是这一领域的领先者之一。相信很多特斯拉车主已经迫不及待地想在国内体验这一功能了，但同时也有很多用户在担心自动驾驶和辅助驾驶所面临的问题。</code></p><p><code>实际上，“无人车”上路，安全如何保证、违法如何处罚、事故如何处理…… 面对一系列问题，浦东已经出台了相关规定。</code></p><p><code>今年 2 月，《上海市浦东新区促进无驾驶人智能网联汽车创新应用规定》开始施行；3 月，相关实施细则落地，智能网联汽车企业可以在“车内不配备驾驶人和测试安全员”的情况下，在浦东新区特定区域进行测试、商业化运营等。法规还明确，开展无驾驶人智能网联汽车道路测试、示范应用、示范运营的企业应当符合多项安全要求，同时还规定了在车辆故障、事故情况下企业须采取的应急处置措施。</code></p><p><code>“汽车智能化的竞争窗口期已经开启，我们将通过立法推动产业做大做强。”上海市经信委副主任汤文侃说，法律保障能有效提振行业信心，吸引龙头企业，产业链的上下游企业都有意愿加大在沪布局，进一步增强上海智能网联汽车技术创新力和产业竞争力。</code></p><p><code>上海市浦东金桥智能网联汽车测试示范区，是国内特大型城市中心城区自动驾驶汽车开放测试道路，首期里程 29.3 公里。</code></p><p><code>目前，特斯拉中国用户在购买新车时可以选择&nbsp;64000 元的“完全自动驾驶能力”，但车主实际上只能使用 AP 和 EAP，包括车道内自动转向、自动刹车和高速公路上下匝道自动导航等功能。值得一提的是，财新在 4 月 3 日报道称，特斯拉即将在中国开始大规模 FSD 测试，不过没有提供更多细节。</code></p><p><code>IT之家提醒，虽然 FSD 名叫完全自动驾驶，但它实际上属于 L2 级辅助驾驶的范畴，目前仍需要驾驶员保持警惕并随时准备好接管车辆。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-14/2926612.shtml</guid>
+<author>问舟</author><pubDate>Sun, 14 May 2023 12:00:41 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>吉利神盾电池通过针刺测试 吉利银河L7将率先搭载</title>
+<link>http://www.techweb.com.cn/it/2023-05-14/2926614.shtml</link>
+<description><![CDATA[<p><code>5月13日，吉利银河专属的“神盾电池安全系统”在中汽研完成了首次基础安全测试，顺利通过电池针刺、电池包海水腐蚀浸泡、三面跌落重击、外部火烧共4项试验。</code></p><p><code>此次神盾电池首次连续挑战“电池包海水腐蚀浸泡、三面跌落重击、外部火烧以及电池针刺试验”四大电池安全试验并以远超国标的测试标准完成。</code></p><p><code>其中，电池针刺试验在业内公认难度最高、条件最严苛，试验表明，神盾电池被8mm钢针瞬间穿透。</code></p><p><code>静置观察24小时后，神盾电池未起火、未爆炸、未冒烟，电压保持稳定，测试全程最高温度未超过40℃，足以见得针刺试验只是神盾电池安全的入门标准。</code></p><p><code>在电池包海水腐蚀浸泡试验中，将神盾电池电池包浸入到深度1米、浓度为3.5%的氯化钠溶液中，连续浸泡24小时，取出静置观察2小时，未发生泄露、起火、爆炸等现象，远超浸泡0.5小时的国标要求。</code></p><p><code>电池包三面跌落重击测试中，电池包在2米高度，以底面、左侧面、右侧面分别连续自由跌落到水泥地面，静置观察2小时，电池包未发生电解液泄露，未起火、未爆炸，远超国标要求的单次1米高度跌落。</code></p><p><code>而在外部火烧试验中，将电池包置于试验设备上进行火烧，直接燃烧105秒+间接燃烧90秒，远超直接燃烧70秒+间接燃烧60秒的国标要求，静置24小时后，电池包未起火、未爆炸。</code></p><p><code>据吉利汽车介绍，即将上市的吉利银河L7，是首款搭载吉利神盾电池安全系统的车型。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-05-14/2926614.shtml</guid>
+<author>若风</author><pubDate>Sun, 14 May 2023 14:07:26 +0800</pubDate>
+<source>快科技</source>
 </item><item><title>OpenAI下周向ChatGPT Plus用户开放网络浏览和70多个插件</title>
 <link>http://www.techweb.com.cn/it/2023-05-13/2926591.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月13日消息，OpenAI发文称，将在下周向所有ChatGPT Plus 用户推出网络浏览和插件！从alpha 到 Beta，它们将允许ChatGPT 访问互联网并使用70多个第三方插件。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -61,13 +96,6 @@
 <guid>http://www.techweb.com.cn/it/2023-05-12/2926500.shtml</guid>
 <author>果青</author><pubDate>Fri, 12 May 2023 08:53:09 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>新势力唯一盈利车企 理想脱颖而出</title>
-<link>http://www.techweb.com.cn/it/2023-05-12/2926541.shtml</link>
-<description><![CDATA[<p>【TechWeb】曾经因为使用“落后”的增程技术被嘲笑的理想，现在却已经将蔚来和小鹏甩在了身后。</p><p>4月份，理想共交付了超过2.5万辆新车，超过了蔚来和小鹏的总和，国内新势力第一梯队的“蔚小理”开始了分化，理想成功坐稳新势力销冠宝座，并力争在6月实现单月交付突破3万辆目标。</p><p>5月10日，理想公布了2023年第一季度财报，在营收、净利润、销量等多项数据上创下了新高，同时理想也成为了目前最赚钱的新势力车企。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0512/1683863903890.jpg"></figure><p><strong>单季盈利9个亿 理想脱颖而出</strong></p><p>财报数据显示，理想第一季度实现营收187.87亿元，较2022年同期的95.6亿元增长96.5%，较去年第四季度的176.5亿元增长6.4%。其中，汽车销售营收为183.3亿元，较2022年同期的93.1亿元增长了96.9%，较去年第四季度的172.7亿元增长了6.1%。</p><p>二季度净利润为9.3亿元，去年同期则为净亏损1086.6万元，同比扭亏为盈，与2022年第四季度的净利润2.653亿元相比增长252.0%。</p><p>而如此亮眼的数据背后，是销量的提升。理想汽车第一季度共计交付52584辆新车，同比增长65.8%，实现了单季交付最佳成绩。相比之下，蔚来和小鹏第一季度的销量分别为31041辆和18230辆。</p><p>对于不断增长的销量，理想汽车CEO李想在财报财报电话会上表示，这与对销售部门的组织变革离不开关系。从今年年初开始，理想实行了对销售部门组织效率的优化工作，将此前由区域划分的销售工作改成以省划分，给每家门店更多的操作空间以提升订单转化率。</p><p>而对于接下来的目标，理想汽车预计今年二季度的交付区间为7.6万-8.1万辆，这意味着平均单月至少在2.5万辆以上。李想还放出豪言，争取6月份实现单月交付3万辆的目标。</p><p>理想L7在今年2月份正式上市，3月开始交付，而到了4月份交付量已破万，增长迅速。同时，理想L7Air和L8 Air车型在4月也开启了交付，更低的入门价格也对理想的销量起到了促进作用。</p><p>不过，理想第一季度的毛利率却出现了一定程度的下滑。当季的毛利率为19.8%，去年同期为22.4%，同比下降2.6%；2022年第四季度为20.0%。理想汽车对此解释称，主要为两个季度之间产品组合的差异所致。</p><p>此外，理想汽车联合创始人兼CFO李铁也在电话会上指出，“今年第一季度，理想ONE的销售使得季度整体车辆毛利率下降1.6%，我们预计将在上半年完成全部理想ONE的销售，所以基本可以剔除这部分的影响。虽然接下来BOM成本等存在不确定性，但仍然保持毛利率20%的指引。”</p><p>在研发费用方面，第一季度研发费用为18.5亿元，较去年同期的13.7亿元增长34.8%，但较2022年第四季度的20.7亿元下滑10.5%。理想方面解释称，“较2022年第四季度研发费用减少主要是由于新车项目的周期和进度有关。”</p><p>不过，李铁也表示，“理想汽车将保持原有计划，全年研发投入在100-120亿元左右。”这样算下来，在今年接下来的时间内，理想单季的研发费用至少在25亿元以上，而这些研发投入将助力理想接下来在智能驾驶和电动化方面的发展。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0512/1683863950179.jpg"></figure><p><strong>增程、纯电并行目标是大规模取代燃油车</strong></p><p>在“蔚小理”发展初期，三家公司选择了不同的技术路线。蔚来选择了难度最大、投入最高的换电，小鹏从技术方面入手选择了高压快充，而理想则选择了最简单的增程，当时一度被认为是落后的技术。</p><p>但也不得不承认，现阶段增程技术确实没有续航焦虑，再加上理想的包装宣传，现在已经有越来越多的新能源车企选择了增程技术。另外，还要承认的是，李想是懂用户的，将家庭出行作为切入点，打造的“奶爸车”在市场中得到了认可。</p><p>在取得了第一阶段成功之后，理想也将在纯电赛道上发力。上海车展期间，理想汽车发布了“双能战略”，表示将在“智能”和“电能”全面发力。在智能化方面，理想汽车智能驾驶正式迈入了3.0阶段，从高速场景进入到城市场景。电动化方面，理想正式开始发力纯电车型，并发布了800V超充纯电解决方案，将开启增程电动和高压纯电并驾齐驱的战略。</p><p>李想在财报会议上透露，理想汽车首款纯电车型会在今年第四季度发布，发布后用户可以到店试驾，之后开始交付，保持与理想L7、L8和L9相似的发布节奏。“为了做高压纯电的车型，我们很早就在研发和供应链资质上努力，目标高压纯电的车卖到增程差不多的价格，实现接近的毛利率。”李想表示。</p><p>李想强调，理想汽车无论是做增程电动还是纯电动车，目标都是大规模取代燃油车。在补能方式上，理想选择了800V高压快充，配合具备4C充电能力的电池，充电功率最高可达480千瓦，可实现“充电10分钟，续航400公里”的充电体验。根据规划，理想汽车到2025年将形成“1款旗舰车型+5款增程电动车型+5款高压纯电车型”的产品布局。</p><p>此外，理想今年还会加大充电网络的投入，计划在年底之前建成300个高速充电场站，覆盖京津冀、长三角、大湾区和成渝四大经济带，并在2025年底前将充电站拓展至3000个，覆盖全国90%高速里程和一二三线主要城市。为此，理想大概需要投入100亿元，而按照今年计划的300座充电站，则需要投入10亿元左右。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-12/2926541.shtml</guid>
-<author>萧健</author><pubDate>Fri, 12 May 2023 12:01:35 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>小度青禾手机外观长这样 主打学习手机？</title>
 <link>http://www.techweb.com.cn/tele/2023-05-13/2926588.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月13日消息，此前小度方面表示将于5月底推出智能手机。小度科技CEO景鲲在朋友圈发文称小度手机是又一新物种+全新品牌，名为“小度青禾”。</p><p>从工信部电信设备认证中心查询信息来看，目前小度青禾手机型号 XD-SEE00-2301 已入网，该设备支持 TD-LTE / LTE FDD 等4G 网络，由上海小度技术有限公司推出，设备产地四川泸州市，支持双卡双待，搭载安卓系统。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0513/1683943292845.png"></figure><p>从入网证件照来看，小度青禾手机采用直边边框设计，正面采用水滴屏设计，手机后置双摄像头，后置摄像头模组整体呈矩形设计，背部有“小度青禾”四个大字 Logo。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0513/1683943312129.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0513/1683943328788.png"></figure><p>小度科技除小度品牌为，2021 年推出全新科技品牌“添添”，旗下有智能音箱、智能耳机、智能学习平板、酒店配送机器人、智能健身镜等多款适应不同场景的硬件产品。</p><p>小度青禾手机将整合小度 AI 技术能力。目前，坊间关于小度青禾手机的定位有诸多猜测，从手机性能配置来看，不是高端旗舰款，有人认为会是一款主打学习功能的青少年用手机。</p><p>天眼查信息显示，百度在线网络技术(北京)有限公司已申请注册“小度青禾”商标，国际分类涉及科学仪器，当前商标状态为注册申请中。</p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -89,34 +117,6 @@
 <guid>http://www.techweb.com.cn/it/2023-05-13/2926594.shtml</guid>
 <author>泽泷</author><pubDate>Sat, 13 May 2023 13:11:42 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>2022年全球电动车销量排行榜前十名出炉：中国霸气占7席</title>
-<link>http://www.techweb.com.cn/it/2023-05-13/2926600.shtml</link>
-<description><![CDATA[<p style="margin-left:0px;">快科技5月13日消息，近日海外汽车媒体“Motor1”公布了2022年全球纯电动车销量排名，特斯拉两款主销车上榜，而中国则霸占了7席。</p><p style="margin-left:0px;">来看具体榜单，<strong>第一二名均来自特斯拉，分别为Model Y和Model 3</strong>，对应年销量74.75万辆和48.22万辆，同比2021年增幅为91%和-3%。</p><p style="margin-left:0px;text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0513/1683966367.jpg" alt="2022年全球电动车销量排行榜前十名出炉：中国霸气占7席"></p><p style="margin-left:0px;">值得一提的是，Model Y44%的销量来自于中国（包含港澳台市场），美国和加拿大的销量占34%。而Model 328%来自中国（包含港澳台市场）。</p><p style="margin-left:0px;"><strong>第三到第五名均来自中国品牌</strong>，五菱宏光MINIEV的销量是44.34万辆，与特斯拉Model 3销量接近；比亚迪海豚达到了20.52万辆，相比上一年增长916%，；同样还有比亚迪元PLUS，这款车在海外被称为ATTO 3，目前已经在多个国家上市，总销量达到了18.06万辆。</p><p style="margin-left:0px;">第六名为大众ID.4，去年全球卖出了17.56万辆，47%的销量来自于中国（包含港澳台市场）、39%来自于欧洲。</p><p style="margin-left:0px;"><strong>第七名到第十名均来自中国</strong>，分别为比亚迪秦EV，卖出了16.34万辆；广汽埃安Y，卖出11.98万辆；广汽埃安S，卖出11.70万辆；比亚迪汉EV，卖出11.65万辆。</p><p style="margin-left:0px;text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0513/1683966367.jpg" alt="2022年全球电动车销量排行榜前十名出炉：中国霸气占7席"></p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-13/2926600.shtml</guid>
-<author>落木</author><pubDate>Sat, 13 May 2023 16:26:07 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>上汽集团：庄菁雄接任上汽通用汽车总经理</title>
-<link>http://www.techweb.com.cn/it/2023-05-12/2926548.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月12日消息，据上汽集团官方微信公众号消息，因工作需要，王永清调任上汽集团副总经济师，不再担任上汽通用汽车总经理。原上汽通用汽车副总经理庄菁雄接任总经理一职。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0512/1683869527893.jpg"></figure><p style="text-align:center;">上汽通用汽车总经理 庄菁雄</p><p>公开资料显示，庄菁雄1973年出生，中共党员，硕士学位，高级工程师，历任上汽通用汽车制造工程部高级副经理、采购部执行总监、上汽集团质量和经济运行部总经理、赛可出行CEO、上汽通用汽车副总经理等职务。</p><p>上汽集团还表示，原上汽集团质量和经济运行部总经理陆一将出任上汽通用汽车副总经理，负责市场营销相关工作。他曾任上汽通用汽车市场营销部品牌规划高级经理、别克品牌总监、凯迪拉克市场营销部副部长、上汽北美公司总经理、上汽加州创新中心总经理、上汽加州资本管理有限公司总经理、上汽集团国际业务部副总经理等职务。</p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-12/2926548.shtml</guid>
-<author> 御风 </author><pubDate>Fri, 12 May 2023 13:33:34 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>叮咚买菜2023年Q1营收50亿元 同比下降8.2%</title>
-<link>http://www.techweb.com.cn/internet/2023-05-13/2926589.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月13日消息，叮咚买菜发布截至3月31日的2023年第一季度财报。财报显示，叮咚买菜第一季度总营收为49.975亿元（约合7.277亿美元），同比下降8.2%；净亏损5240万元（约合760万美元），而2022年同期净亏损4.774亿元；不按美国通用会计准则（Non-GAAP），净利润为610万元（约合90万美元），去年同期为净亏损4.222亿元。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0513/1683944990109.png"></figure><p>叮咚买菜2023年第一季度的GMV同比下降6.8%，从2022年同一季度的5.813亿元人民币降至5.412亿元人民币（7.938亿美元），主要是由于2023年一季度消费者需求下降，因为大多数疫情限制措施都已解除。</p><p>截至2023年3月31日，叮咚买菜拥有现金及现金等价物、短期投资为57.002亿元（约合8.300亿美元），而截至2022年12月31日为64.930亿元。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-05-13/2926589.shtml</guid>
-<author>果青</author><pubDate>Sat, 13 May 2023 10:30:01 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>京东生鲜运费规则调整：与其它自营商品合并支付 满99元包邮</title>
-<link>http://www.techweb.com.cn/it/2023-05-12/2926533.shtml</link>
-<description><![CDATA[<p>5月12日消息，京东发布生鲜运费调整公告：自 5 月 6 日起，京东生鲜自营商品可与其他自营商品合并运费支付（图书商品除外），合并支付满 99 元包邮，满 49 元但不足 99 元需支付 6 元运费（20KG 以内）。</p><p>当自营订单被拆分为两个或两个以上的子单，用户取消 / 拒收其中子单后，剩余子单支付的运费少于用户应支付的运费，系统将自动扣除相应的运费券 / 京豆 / 货款金额，用户账户内京豆数额不足以扣除时，订单会联动取消剩余子单。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-12/2926533.shtml</guid>
-<author>杨亮</author><pubDate>Fri, 12 May 2023 10:45:18 +0800</pubDate>
-<source>Donews</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
 <description><![CDATA[<p>最近，中国移动悄悄的宣布了一件&ldquo;大事儿&rdquo;，那就是&ldquo;一号双端&rdquo;业务正式启动，什么是&ldquo;一号双端&rdquo;业务呢？用户办理这个业务之后，就可以在可穿戴设备上与手机共享同一个号码，两者计算共同的话费和流量套餐。应用这个业务的的可穿戴设备主要是智能手表。</p>
@@ -168,12 +168,12 @@
 <guid>http://www.techweb.com.cn/it/2023-05-12/2926501.shtml</guid>
 <author>雪花</author><pubDate>Fri, 12 May 2023 08:55:11 +0800</pubDate>
 <source>快科技</source>
-</item><item><title>定了！马斯克：Linda Yaccarino出任推特新CEO</title>
-<link>http://www.techweb.com.cn/internet/2023-05-13/2926586.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月13日消息，美东时间12日，马斯克发布推文称NBCUniversal原全球广告业务主管Linda Yaccarino将出任推特首席执行官。她的工作重点将在业务运营方面；马斯克本人将把工作重点放在品牌设计与新技术领域。</p><p>马斯克随后在推特发文称，随着推特新CEO的就任，他本人可以将更多时间投入到特斯拉。</p><p>关于推特新CEO，马斯克在周四（11日）就有过“预告”，他宣布已经为X/推特找到一位新CEO的，并透露她将在大约六周内开始工作，他本人则将过渡到执行主席兼首席技术官的角色，负责产品、软件和系统运营。</p><p>事实上，马斯克在几个月之前就曾表示，一旦他寻找到接任者，他就将卸任推特CEO。</p><p>在去年豪掷440亿美元收购推特之后，“新官上任三把火”，马斯克就对这一公司进行了大刀阔斧的调整，随即解雇了大部分高管，数千名员工被裁，总部在上月也已迁往内华达州。</p><p>然而剧烈的业务调整似乎并未给推特带来更优面貌。自去年10月份马斯克正式接管以来，推特和广告商的合作并不顺利。许多大牌广告商都暂时停止在推特平台上投放广告。</p><p>根据数字营销分析公司 Pathmatics 的统计数据，截至今年2月份，在马斯克收购之前的推特平台前1000家广告商中，超过一半已停止投放广告。市场研究公司 SimilarWeb 的数据显示今年 2 月份，访问推特广告页面的用户数量同比下降了18%。</p><p>另外，身兼多家公司CEO的马斯克也引发了推特用户及特斯拉股东的不满。特斯拉投资者在今年4月通过公开信向特斯拉董事会表达意见，认为董事会应该干预马斯克的分心行为，曾敦促他退出推特，或者寻找一个能够全职专注于特斯拉的首席执行官。</p><p>而马斯克在推特用户中发起的一项调查中，也有58%的投票者认为他应该放弃在推特的最高职位。</p><p>马斯克卸任推特CEO可谓是众望所归。</p><p>据外媒信息，推特新CEO Linda Yaccarino于2011年加入NBC环球，负责广告销售。她之前在华纳娱乐工作了15年，是一位来自传统娱乐行业的职业经理人。</p><p>Linda Yaccarino现任NBCU全球广告和合作关系主席，作为广告销售主管，她是该公司推出有广告支持的流媒体服务的关键人物。而这正是推特现在所需要的——让广告商重回推特。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>苹果MR头显功能预计远超竞争对手 但出货可能要到今年年底</title>
+<link>http://www.techweb.com.cn/world/2023-05-14/2926604.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】5月14日消息，据外媒报道，在苹果宣布2023年度的全球开发者大会，也就是WWDC23，将在当地时间6月5日至9日举行之后，外界就预计传闻已久的MR头显将在大会上登场。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0514/1684027311396.jpg"></figure><p><code>而对于苹果融合了VR和AR功能的MR头显，多位消息人士透露其功能有望远超竞争对手的产品，有更高水平的性能和沉浸感。</code></p><p><code>在VR、AR等头显领域，已有多家公司推出相关的产品，苹果并不会是第一个，但他们做出更好的产品，也在预料之中。苹果过往的部分产品，在行业内就不是最先推出的，但却是最受期待的。</code></p><p><code>库克此前在接受采访时也曾表示，苹果的目标从来都不是成为第1，他们想做的只是将最好的产品带给消费者，如果他们的产品是最好的，他们不会因而是第2、第3、第4甚至是第5而烦恼。</code></p><p><code>但在预计有更强性能的同时，外媒也带来了略感失望的消息，他们在报道称由于生产推迟，大规模的生产可能要到9月份才会开始，出货可能也将推迟到今年年底。这也就意味着期待苹果这一款产品的用户，可能还要再等待一段时间。</code></p><p><code>另外，外媒在报道中还提到，苹果的首款MR头显，可能是“实验性”和“非常规的”，售价约为3000美元，FaceTime、Apple Fitness+和游戏，可能是主要用途。</code></p><p><code>从外媒的报道来看，苹果的MR头显在推出时，应用就预计会相当可观。上月底有外媒援引知晓苹果计划的一名消息人士的透露报道称，他们正致力于将为iPad设计的应用程序，适配将推出的MR头显，包括默认浏览器、音乐、电视、视频通话、新闻、文件管理、邮件、日历、地图等应用。</code></p><p><code>但至于外界期待已久的苹果MR头显，在6月份的全球开发者大会上是否推出，要在大会上才会揭晓，最终功能如何，能否远超竞争对手的产品，也要在发布会上才会见分晓。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-05-13/2926586.shtml</guid>
-<author>果青</author><pubDate>Sat, 13 May 2023 08:55:09 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-05-14/2926604.shtml</guid>
+<author>海蓝</author><pubDate>Sun, 14 May 2023 09:24:13 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>炳叔：IEEE的审稿权，是一种机会优势</title>
 <link>http://bingshu.blog.techweb.com.cn/archives/3494</link>
