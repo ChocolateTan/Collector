@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Fri, 26 May 2023 14:11:37 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 20:12:40 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -33,6 +33,13 @@
 <guid>http://www.techweb.com.cn/world/2023-05-26/2927593.shtml</guid>
 <author>小狐狸</author><pubDate>Fri, 26 May 2023 12:06:55 +0800</pubDate>
 <source>TechWeb.com.cn</source>
+</item><item><title>英伟达急单推升台积电产能利用率 5/4nm已接近饱和</title>
+<link>http://www.techweb.com.cn/world/2023-05-26/2927617.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】5月26日消息，据外媒报道，ChatGPT掀起的生成式人工智能研发和应用浪潮，也拉升了对英伟达高性能GPU的需求，此前就曾有报道称由于需求增加，他们已增加了在台积电的投片量。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685088784117.jpg"></figure><p><code>而相关媒体最新的报道显示，来自英伟达的急单，已经推升了台积电的两大工艺家族的产能利用率。</code></p><p><code>生成式人工智能对英伟达高性能GPU的需求，主要是H100、A100这两款针对数据中心的高性能GPU，以及为国内市场推出的H800和A800。业内人士透露，英伟达这几款GPU在台积电的大量订单，预计将贯穿全年。</code></p><p><code>消息人士透露，英伟达新增的订单，已经推升台积电7/6nm和5/4nm这两大制程工艺家族的产能利用率，后者的产能是已接近饱和。</code></p><p><code>7/6nm和5/4nm这两大制程工艺家族，目前仍是台积电主要的营收来源，近几个季度在他们营收中所占的比例都超过了50%。英伟达的订单推升这两大制程工艺家族的产能利用率，也就意味着台积电的营收，也将因此而会有提升。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-05-26/2927617.shtml</guid>
+<author>海蓝</author><pubDate>Fri, 26 May 2023 16:14:59 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>特斯拉车顶维权女车主被判败诉</title>
 <link>http://www.techweb.com.cn/it/2023-05-26/2927595.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月26日消息，近日，法院就特斯拉河南安阳女车主张女士的两个案件做出判决，法院驳回了张女士起诉特斯拉的诉讼请求，特斯拉胜诉。</p><p>公开资料显示，2021年4月19日上海车展特斯拉展台上，河南安阳张女士身穿“刹车失灵”的白色T恤，站在特斯拉展车车顶上维权。</p><p>历时两年所谓的“刹车失灵”的两个关联案件终于落槌。张女士起诉特斯拉侵犯其名誉权案，法院驳回了其诉讼请求，特斯拉胜诉；张女士起诉特斯拉侵犯其个人隐私案，法院同样驳回了其诉讼请求，特斯拉胜诉。</p><p>据媒体报道，双方的另一起纠纷，特斯拉起诉张女士车顶维权行为侵犯其名誉权，并赔偿因此事给特斯拉造成的直接财产损失“暂计500万元”，目前，开庭时间暂定为6月6日，张女士称在积极为该案件做应诉准备。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685079911856.jpg"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685079921266.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -40,13 +47,20 @@
 <guid>http://www.techweb.com.cn/it/2023-05-26/2927595.shtml</guid>
 <author>御风</author><pubDate>Fri, 26 May 2023 13:47:10 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>消息称TikTok正测试AI聊天机器人Tako：可与用户交流短视频相关问题</title>
-<link>http://www.techweb.com.cn/it/2023-05-26/2927554.shtml</link>
-<description><![CDATA[<p>5月26日消息，据透露，TikTok 正测试一款 AI 聊天机器人，该工具可与用户交流短视频相关问题，并帮助他们发现内容。</p><p>据路透社报道，显示该聊天机器人以一个小精灵形状的图标出现在应用界面上，用户可以在观看视频时点击它，进行文字对话，并获得视频内容相关的帮助。</p><p>对于 Tako，TikTok 的一位发言人表示，该社交媒体平台一直在探索新技术。</p><p>4 月，美国媒体报道称，TikTok 正在试验一种生成式 AI 工具，让用户可以创建虚拟形象。据上个月提交给美国专利和商标局的披露显示，TikTok 已经为“Tako”申请了商标，在包括“用于人工产生人类语言和文本的计算机软件”等类别中。</p><p>Watchful Technologies 的研究员丹尼尔・布库克说，与 ChatGPT 这样定位为通用聊天机器人不同，Tako 更像是一个导航助手，主要是鼓励用户观看更多视频。“所以如果你问‘查理王何时加冕？’Tako 会告诉你答案，但你也会看到相关的 TikTok 视频。”他说。</p><p>Watchful Technologies 展示了另一个例子，当用户问 Tako 一个问题，比如“我们怎样才能教孩子尊重别人”，聊天机器人就会给出回答，在总结 TikTok 用户给出的建议的同时，也推荐相关视频。</p><p>TikTok 已经设置了一个免责声明，称 Tako 是一个实验性质的聊天机器人，并且回答可能不准确。该公司会为了安全目的审查用户与 Tako 的对话，并警告用户不要与它分享私人信息。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>小鹏P7i 610鹏翼性能版试驾评测：内在美才是真的美</title>
+<link>http://www.techweb.com.cn/smarttraveling/2023-05-26/2927607.shtml</link>
+<description><![CDATA[<figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084722523.jpg"></figure><p><strong>TechWeb 文/卞海川</strong></p><p><strong>&nbsp;</strong>在新一轮组织架构调整后，何小鹏聚焦智能化战略，从销量反馈来看，小鹏P7i的上市让小鹏整体销量开始回暖。</p><p>我们此次试驾的车型为小鹏P7i的顶配车型610 鹏翼性能版。</p><p><strong>外观整体变化不大 多了两颗激光雷达</strong></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084738538.jpg"></figure><p>小鹏P7i的车身尺寸为4888×1896×1450mm，轴距2998mm，与老款车型相比，只是车身长度增加了8mm，其余参数保持不变。</p><p>610 鹏翼性能版只有两种可选颜色，分别为星际绿和其专属的超闪绿，我们这次拿到的是经典配色。</p><p>小鹏P7i系列的外观不像G3到G3i变化那么明显，如果不仔细看的话，P7i和P7在外观整体观感非常相似。</p><p>尽管改动不大，小鹏依旧对P7i的外观十分自信，小鹏官方表示，论车身的高长比和高宽比，P7i在同级完全没有对手。小鹏认为P7i在同级别车型中体态比例最优。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084757673.jpg"></figure><p>整车依旧延续了P7的运动轿跑的设计语言，流畅的车身让车身整体看上去非常简洁明了。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084775622.jpg"></figure><p>前脸部分，最大的变化在大灯处，采用分体式布局，不过两侧多了两颗激光雷达，P7i将激光雷达隐藏在大灯两侧，形成一体式的设计，没有破坏整体美感。这样的设计使其探测范围内没有任何车身部件遮挡，左右探测角度达到了182°，最大程度上消除视野盲区。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084814513.jpg"></figure><p>车身侧面基本没有变化，依旧采用无边框车门掀背设计，P7i具备了轿跑车应有的低姿态，运动风明显，P7的鹏翼门设计在改款车型上依旧获得保留，开启和关闭的方式与老款P7如出一辙。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084877120.jpg"></figure><p>19英寸铝合金轮圈采用全新造型，搭配前四活塞Brembo卡钳，更加深了整车的运动范儿，轮胎采用米其林的PILOT SPORT 4，规格为245/45 R19。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084894551.jpg"></figure><p>车尾部分采用了和老款相同的设计，新增加了一个尾门开启/关闭的实体按键。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084945599.jpg"></figure><p>至于隐藏式电动门把手、无框车门、全车静音电吸门等，这些都是全系标配。我们就不过多赘述。</p><p>总体来看，P7i 的升级在外观方面并不多，比较明显的变化是融合了激光雷达的全新大灯，尾灯也随之进行了调整，尾门下方则新增了一个开启按钮。另外，全新 P7i 还存在两处不太明显的改动，其前后包围稍有外突，为的是让新车更为立体。</p><p><strong>内饰全面升级 细节设计更优化</strong></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085036943.jpg"></figure><p>内饰方面，整体布局依旧延续此前的设计风格，车机使用逻辑简单，搭配高通骁龙8155芯片和全新Xmart 4.0车机系统后，全场景语音2.0系统的识别率和响应速度都得到了明显的提升。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085018461.jpg"></figure><p>智驾系统是P7i的重要升级部分，P7i 搭载了第二代智能辅助驾驶系统XNGP，它最高可拥有508TOPS的高算力，配合激光雷达等31个感知元件，可以对车周围360°探测。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085053950.jpg"></figure><p>目前，XNGP已经包含了城市NGP智能导航和LCC车道居中辅助功能，可在无高精地图覆盖的城市做到开放直行红绿灯识别起停、跨线绕行障碍的能力。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085067231.jpg"></figure><p>方向盘部分采用采用钢琴黑和哑光银色电镀，和G9同款，撞色的设计更突出层次，软垫部分也做了增厚，比老款手感好了很多，把控更稳。</p><p>对于P7车主吐槽的自动挡雨刮只能在车机内进行调节这一槽点，P7i对方向盘左侧拨杆的雨刮控制功能进行了改进，加入了雨刮自动挡的物理开关，使用拨杆可上下调节。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085209262.jpg"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085219165.jpg"></figure><p>中控台下方的扶手箱区域做了全新的设计，增加了斜向的手机无线充电面板和可升降杯托，下方预留出更大的储物空间。比较遗憾的是，无线充电板依然只有左侧区域可以进行充电。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085297527.jpg"></figure><p>门板装饰件和中控扶手均采用气宇灰配色，座舱整体的视觉更为统一。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085317124.jpg"></figure><p>此外，P7i 的丹拿音响从原来的 7.1.2 声道升级为了 7.1.4 声道，支持Xopera小鹏音乐厅功能。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085336928.jpg"></figure><p>顶部中央控制区域的按键进行了一些微调，总体变化不明显，不过依旧没有眼镜盒。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085423683.jpg"></figure><p>座椅方面也有所升级，换成前后慢回弹自适应座椅，前排座椅电动调节、加热、通风，记忆功能，同样都是全系标配。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685085443277.jpg"></figure><p>后排座椅的坐垫增加了25mm，让腿部有了更好的支撑，同时，后排座椅支持比例放倒。</p><p><strong>驾驶体验：进入三秒俱乐部</strong></p><p>动力方面，小鹏P7i其两驱版车型最大功率203kW，最大扭矩440Nm；四驱版车型最大功率348kW，最大扭矩757Nm。</p><p>百公里加速时间3.9S，进入3秒俱乐部，电池组容量升级到了86.2kWh，CLTC后驱版车型能够拥有702km的续航，四驱版车型也能拥有610km的续航。</p><p>四驱版本还加入了类似于特斯拉「赛道模式」的「车手模式」。在该模式下，允许驾驶者对车辆的设置进行自由地更改，以适应激烈驾驶的需求。</p><p>充电方面，P7i搭载400V电压平台，没有上和G9同款的800V高压快充。相比上一代车型，最大充电功率升级到了185kw，通过小鹏自营的超充装，官方数据显示10%～80%充电时间接近30min。</p><p>驾驶体验的舒适性和底盘息息相关，与特斯拉Model 3的底盘偏向运动性不同的是，小鹏P7i整体的感受更软，P7i的驾驶姿态更低，能较好的平衡驾驶性和舒适性。</p><p>在我们的城市试驾过程中，P7i的整体风格偏向运动，顶配的“鹏翼性能版”加速和操控感受更为平顺。</p><p>驾驶辅助部分的强化则是非常明显的，对于行人识别、车辆避让等基础功能还是非常灵敏的。</p><p>开启XNGP功能后，硬件的提升让P7i对周围的探测能力更强，对周围突发状况的判断也更成熟。不过需要注意的是，在NGP不可用的区域，或者遇到复杂路况，这个功能会主动退出，需要人为接管。</p><p>小鹏P7i的内在升级很到位，但对于价格，与同级别的Model3和比亚迪海豹相比会更高一些，起售价24.99万的P7i你觉得表现如何？</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-26/2927554.shtml</guid>
-<author>杨亮</author><pubDate>Fri, 26 May 2023 09:04:19 +0800</pubDate>
-<source>Donews</source>
+<guid>http://www.techweb.com.cn/smarttraveling/2023-05-26/2927607.shtml</guid>
+<author>卞海川</author><pubDate>Fri, 26 May 2023 15:21:12 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>TikTok正测试人工智能聊天机器人Tako：可帮助用户发现内容</title>
+<link>http://www.techweb.com.cn/world/2023-05-26/2927606.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月26日消息，据外媒报道，当地时间周四，TikTok在推特上表示，它正在测试一款名为“Tako”的人工智能（AI）聊天机器人。</p><p>据外媒报道，Tako能够回答问题，并帮助用户发现符合他们偏好的内容。目前，TikTok正在对这款聊天机器人进行有限测试，测试对象是菲律宾的部分用户，北美和欧洲的用户还不能使用它。</p><p>外媒报道称，TikTok目前在菲律宾的部分iPhone上提供Tako功能，用户可以要求这款聊天机器人帮助他们寻找他们想要的东西。</p><p>报道还称，Tako图标位于TikTok界面右侧的顶部位置，这表明TikTok希望这是一个用户可以轻松发现的突出功能。目前还不清楚TikTok使用什么人工智能模型来驱动Tako。</p><p>律师乔希·格本（Josh Gerben）发现，TikTok最近提交了名为Tako的“聊天机器人软件”的商标申请，这表明该公司正为更广泛的发布做准备。</p><p>TikTok是最新一家开始研发人工智能聊天机器人的科技公司，包括OpenAI、谷歌和Snapchat在内的其他科技公司已推出了人工智能聊天机器人。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-05-26/2927606.shtml</guid>
+<author>小狐狸</author><pubDate>Fri, 26 May 2023 15:11:30 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>北京家庭新能源小客车指标配置结果公布 最低60分入围</title>
 <link>http://www.techweb.com.cn/smarttraveling/2023-05-26/2927588.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月26日消息，北京2023年新能源小客车指标配置结果今日公布，其中家庭摇号分数最高的家庭258分，分数最低的家庭60分，相比去年56分的最低入围分数提高了4分。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685070001223.png"></figure><p>根据北京市小客车指标调控管理办公室公布的信息，截至2023年3月8日24时的申请，经审核，家庭新能源小客车指标申请共计276823个有效编码，个人新能源小客车指标申请共计476476个有效编码，单位新能源小客车指标申请共计19879家。</p><p>2023年家庭新能源小客车指标额度为50880个，个人新能源小客车指标额度为12720个，单位新能源小客车指标额度为3600个。</p><p>据了解，家庭积分排序入围的，将由市有关部门对家庭申请人的亲属关系进行核查。核查通过后，发放指标确认通知书。取得指标确认通知书的单位、家庭和个人，可登录北京市小客车指标调控管理信息系统自行下载打印小客车配置指标确认通知书，也可携带个人或单位有效证件到各区对外办公窗口领取小客车配置指标确认通知书。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -68,20 +82,6 @@
 <guid>http://www.techweb.com.cn/it/2023-05-26/2927553.shtml</guid>
 <author>小小</author><pubDate>Fri, 26 May 2023 09:03:03 +0800</pubDate>
 <source>网易科技</source>
-</item><item><title>全球DRAM有望7月份开始供不应求 全年需求预计也将超过供给</title>
-<link>http://www.techweb.com.cn/world/2023-05-25/2927504.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】5月25日消息，据外媒报道，去年下半年开始的存储芯片需求下滑，影响到了三星电子、SK海力士一众厂商的业绩，三星电子存储业务和SK海力士整体的营收，均连续三个季度同比环比大幅下滑，SK海力士在去年四季度和今年一季度更是出现了净亏损。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0525/1685000414383.jpg"></figure><p><code>但随着厂商的减产和市场状况开始好转，存储芯片供求也有了转好的迹象，外媒在最新的报道中就提到，DRAM的市场需求，最快预计在7月份就将超过厂商供应量。</code></p><p><code>此外，研究机构在最新的报告中，也对全年DRAM的需求量及供应量进行了调整，需求预计将超过1054亿颗2GB芯片，高于预计的1043亿颗的供应量。</code></p><p><code>预计今年DRAM需求量将超过供应量的这一市场研究机构，在4月份也曾有相关的预计，但当时他们是预计全年供应1550亿颗，超过1460亿颗的需求量。5月份报告中的预计供应量与需求量均有下调，但需求超过了供给。</code></p><p><code>从外媒的报道来看，研究机构预计全年DRAM的需求将超过供给，与三星电子减产有很大的关系。作为全球最大的存储芯片制造商，三星电子在4月份改变了此前不人为削减产量的态度，转为削减到有意义的水平。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-25/2927504.shtml</guid>
-<author>海蓝</author><pubDate>Thu, 25 May 2023 15:43:28 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>小米组建AI实验室大模型团队：AI领域人员已超1200人</title>
-<link>http://www.techweb.com.cn/it/2023-05-25/2927469.shtml</link>
-<description><![CDATA[<p>5月24日消息，小米集团透露，4月正式组建了AI实验室大模型团队，目前AI领域相关人员超1200人；小米将不断挖掘AI相关的用户场景，发挥自身技术优势，并以开放的态度与合作伙伴开拓更多机会。</p><p>据悉，栾剑是小米技术委员会AI实验室大模型团队负责人，向AI实验室主任王斌汇报。对于大模型，雷军表示，全力以赴坚决拥抱。雷军还透露“正在研发一些有趣的技术和产品，等打磨好了再给大家展示”。</p><p>在业内人士看来，小米拥有丰富的AIoT应用场景，小爱同学也好、电视也好，其它智能家居也好，如果将它们与大模型结合，它们的交互性将进一步增强。换句话说，智能家居就会从工具升级为智能体，这势必带来智能家居产业的再一次升级。</p><p>智能终端作为载体以及人机交互入口，有望引爆AIOS时代。智能音箱、智能助手等作为主流的自然语言接收入口，未来有望转化为人与万物互联的重要流量入口。</p><p>此前在今年3月的财报电话会议上，卢伟冰表示，小米采用多技术路线并行探索AI大模型的落地，ChatGPT的成功给了小米很大信心验证了这个方向的正确性。未来小米将继续大模型研究，引入更先进的大模型能力，包括探索多模态能力、智能座舱交互体验提升等。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-25/2927469.shtml</guid>
-<author>振亭</author><pubDate>Thu, 25 May 2023 09:45:03 +0800</pubDate>
-<source>快科技</source>
 </item><item><title>可追溯至40年前！日立本田合资零件厂承认长期造假</title>
 <link>http://www.techweb.com.cn/it/2023-05-26/2927569.shtml</link>
 <description><![CDATA[<p>5月25日消息，近日，日立和本田组建的零部件合资企业，日本第三大汽车零部件厂商日立安斯泰莫（アステモ），陷入了质检造假丑闻。</p><p>据报道，在日立安斯泰莫召开的发布会上，官方承认，该公司生产的，包括汽车零部件、摩托车零部件、铁路车辆零部件和工业用零部件在内的22种产品，在15个国内外工厂存在质检造假现象。</p><p>此次造假的产品涉及汽车的刹车及悬挂系统、铁路用阻尼器、产业用阻尼器等，出货量超2亿件，造假行为最早可以追溯到40年前。</p><p>对此，日立安斯泰莫株式会社总裁兼首席执行官柯睿思表示：</p><p>“由于不当行为给我们的客户和其他相关方造成了极大的不便和担忧，对此我们深表歉意。我们将认真对待调查结果，对此次曝光的不当行为和监管不力深感遗憾，并培育强大的合规文化，以防止类似事件再次发生。”</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -96,26 +96,26 @@
 <guid>http://www.techweb.com.cn/it/2023-05-26/2927562.shtml</guid>
 <author></author><pubDate>Fri, 26 May 2023 09:15:52 +0800</pubDate>
 <source>雪豹财经社</source>
-</item><item><title>网易有道2023年一季度智能设备营收下降16%</title>
-<link>http://www.techweb.com.cn/it/2023-05-25/2927540.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月25日消息，网易有道发布截至2023年3月31日的一季度财报，一季度总营收12亿元人民币（1.694亿美元），较上年下降3.1%；净亏损为2.06亿元，去年同期为净亏损1.02亿元，亏损额同比扩大一倍。</p><p>其中，一季度网易有道来自学习服务的营收为7.324亿元人民币（1.066亿美元），同比下降11.3%；来自智能设备的营收为2.127亿元人民币（3100万美元），同比下降16.0%；来自在线营销服务的营收为2.181亿元人民币（3180万美元），同比增长79.7%。</p><p>网易有道一季度毛利率为51.7%，2022年同期为53.5%。</p><p>网易有道2023年第一季度运营亏损为1.96亿元，去年同期运营亏损为1.25亿元。</p><p>截至2023年3月31日，网易有道持有现金、现金等价物、受限制现金、存款、短期投资为6亿元（约8750万美元）。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>台积电正同德国洽谈建厂补贴 最高有望达到建厂成本一半</title>
+<link>http://www.techweb.com.cn/world/2023-05-26/2927605.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】5月26日消息，据外媒报道，正在美国和日本建设晶圆厂的台积电，也在考虑在德国建厂，他们的两位资深副总经理已透露在同德国谈判，德国经济部门的发言人也已确认了此事。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685084364636.jpg"></figure><p><code>同台积电在美国和日本建厂一样，他们考虑在德国建设的工厂，如果确定建设，也有望获得高额的补贴。</code></p><p><code>外媒援引消息人士的透露报道称，台积电和德国正在就建厂的补贴事宜进行谈判，最高有望达到建厂成本的50%。</code></p><p><code>不过，外媒在报道中也提到，建厂的补贴目前还未确定，最终的补贴也有可能发生变化。在欧盟范围内，任何国家层面的补贴，也都需要得到欧盟委员会的批准。</code></p><p><code>虽然潜在的建厂及补贴还在洽谈中，尚未确定，但外媒在报道中表示，如果德国给予台积电的补贴，达到建厂成本的50%，就将与台积电在日本建厂的补贴比例相当，将高于其他芯片制造商在欧洲建厂的补贴比例。此前其他厂商在欧洲建厂，获得的最高补贴是建厂投资的40%。</code></p><p><code>另外，外媒在报道中还提到，台积电在德国建设的工厂，投资可能高达100亿欧元，而他们获得的补贴，将出自欧盟芯片法案所筹集的资金。欧盟芯片法案计划筹集430亿欧元的资金，以提高欧盟芯片的产量，避免供应链混乱，台积电可能成为最大的受益者。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-25/2927540.shtml</guid>
-<author>宜月</author><pubDate>Thu, 25 May 2023 21:34:18 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-05-26/2927605.shtml</guid>
+<author>海蓝</author><pubDate>Fri, 26 May 2023 15:02:49 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>Meta已启动最新一轮裁员 预计将影响6000人</title>
-<link>http://www.techweb.com.cn/world/2023-05-25/2927507.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月25日消息，据外媒报道，Meta已启动最新一轮裁员，这是该公司3月份宣布的裁员计划的最后一轮裁员，预计将影响约6000人。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0525/1685005386155.jpg"></figure><p>今年3月14日，Meta首席执行官（CEO）马克·扎克伯格（Mark Zuckerberg）宣布，计划再裁掉1万名员工，冻结5000个空缺职位的招聘，并取消更多低优先级的项目。当时，他还表示，受影响的业务部门员工将在今年5月得到通知。</p><p>此前，扎克伯格曾表示，裁减业务部门员工将是第三轮也是最后一轮裁员。在过去两个月里，该公司分两轮裁减了技术团队和招聘团队的员工。</p><p>当地时间周三，Meta的运营、项目管理、营销、政策、通信和风险分析部门员工宣布他们被解雇。</p><p>Meta表示，最新一轮裁员可能还会影响到其位于都柏林的国际总部的约490名员工，约占其爱尔兰员工总数的近20%。</p><p>在此次大规模裁员前，Meta在去年11月份裁掉了超过1.1万个工作岗位，占员工总数的13%，这是该公司创立18年来首次大规模裁员。</p><p>在新冠病毒大流行期间，Meta招聘了大量员工，从2020年初到2022年底，其员工人数几乎翻了一番。</p><p>在11月份宣布裁员之前，该公司拥有超过8.7万名员工。到这两次大规模裁员结束时，该公司的员工数量将减少25%，降至6.6万人左右。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>李彦宏：10年后全球50%的工作将会是提示词工程</title>
+<link>http://www.techweb.com.cn/internet/2023-05-26/2927602.shtml</link>
+<description><![CDATA[<p>新浪科技讯 5月26日上午消息，2023中关村论坛上，百度创始人、董事长兼首席执行官李彦宏发言指出，基于自然语言的人机交互新形式出现，将带来“提示词”革命，未来将不是你的代码写的好不好，而将是问题提的好不好。</p><p>&nbsp;李彦宏预测，10年以后全世界有50%的工作量会是提示词工程，提出问题比解决问题更重要。“未来比以前要更加需要教育孩子提出问题，而不仅仅是让他们解决问题。”李彦宏表示。（文猛）<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-25/2927507.shtml</guid>
-<author>小狐狸</author><pubDate>Thu, 25 May 2023 16:15:14 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>LG涉足电动汽车充电桩业务 旗下公司已开始生产</title>
-<link>http://www.techweb.com.cn/world/2023-05-25/2927513.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】5月25日消息，据外媒报道，电动汽车需求的增加，推升的不只是电动汽车及相关零部件的需求，也拉升了对充电桩等配套设施的需求，随着用户需求的不断增加，充电桩及充电服务也成了有潜力的业务。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0525/1685005040575.jpg"></figure><p><code>从外媒最新的报道来看，韩国消费类电子产品、移动通信产品和家用电器制造商LG电子，就已将他们的业务扩展到了电动汽车充电桩领域，旗下公司已开始生产。</code></p><p><code>LG电子也在官网披露了扩展电动汽车充电桩业务的消息，从他们公布的消息来看，开始生产充电桩的是HiEV Charger这一公司，他们在周三也举办了量产仪式。</code></p><p><code>作为一家电动汽车充电解决方案厂商，HiEV Charger的前身是AppleMango，LG与GS能源及GS Neotek在2022年联手将其收购，进而成为了LG旗下的公司。</code></p><p><code>LG电子在官网公布的消息还显示，在量产仪式上，HiEV Charger也公布了他们的产品组合，共有4款不同的电动汽车充电桩，两款为7kW，两款超快款分别为100kW和200kW。</code></p><p><code>LG电子在官网还提到，有管理咨询机构预计，全球电动汽车充电桩市场的规模，在2030年将增至1860亿美元。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<guid>http://www.techweb.com.cn/internet/2023-05-26/2927602.shtml</guid>
+<author>文猛</author><pubDate>Fri, 26 May 2023 14:35:46 +0800</pubDate>
+<source>新浪科技</source>
+</item><item><title>法拉第未来宣布FF 91第一阶段交付将于5月31日开始</title>
+<link>http://www.techweb.com.cn/smarttraveling/2023-05-26/2927596.shtml</link>
+<description><![CDATA[<p>【TechWeb】5月26日消息，法拉第未来宣布FF91电动汽车成功通过了美国联邦机动车安全标准（FMVSS）的碰撞测试要求，第一阶段交付将于美国时间5月31日开始。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0526/1685080113428.jpg"></figure><p>4月14日，法拉第未来完成了其首台量产电动汽车FF91 Futurist的生产，并在公司位于加州汉福德的FF ieFactory California生产线下线。</p><p>据悉，法拉第未来将FF91的交付分为三个阶段。在第一阶段，首批行业专家将全额支付FF91车辆的费用，以便预订车辆并接受车辆使用培训，并将在第二阶段开始时提车。此外，法拉第未来还将于美国时间6月6日与首批行业专家和用户举行共创日主题活动。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-25/2927513.shtml</guid>
-<author>海蓝</author><pubDate>Thu, 25 May 2023 17:04:27 +0800</pubDate>
+<guid>http://www.techweb.com.cn/smarttraveling/2023-05-26/2927596.shtml</guid>
+<author>萧健</author><pubDate>Fri, 26 May 2023 13:49:13 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
