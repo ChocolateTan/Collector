@@ -5,68 +5,96 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Thu, 01 Jun 2023 09:02:38 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 14:12:20 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>FF 91迎来交付时刻 贾跃亭开抖音造势 你愿意再次为梦想窒息吗？</title>
+     <item><title>外媒：苹果MR头显设计独特复杂 给生产带来前所未有的挑战</title>
+<link>http://www.techweb.com.cn/world/2023-06-01/2927986.shtml</link>
+<description><![CDATA[<p>【TechWeb】6月1日消息，据外媒报道，苹果的混合现实（MR）头显将是该公司有史以来最复杂的硬件产品，其独特的曲面设计给生产带来了前所未有的挑战。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685588610705.jpg"></figure><p>长期以来，一直有传言称苹果正在开发自己的MR头显，但该公司至今没有证实它的存在。</p><p>传言称，这款设备名为“Reality Pro”，将搭载M2芯片、xrOS系统，可通过眼球和手势来控制，能够提供虚拟现实（VR）和增强现实（AR）体验，价格可能高达3000美元。</p><p>外媒称，这款头显采用了非常规的曲面设计，且超薄、超轻，这使得它成为苹果有史以来最复杂的硬件产品，也导致它的售价在3000美元左右。</p><p>显示屏分析师罗斯·杨（Ross Young）表示，这款头显将配备2块1.4英寸的Micro OLED（OLED on Silicon）屏幕，亮度超过5000尼特，每块屏幕的像素密度为每英寸4000像素，每块屏幕的分辨率为4K。</p><p>据说，该头显使用的Micro OLED显示屏非常昂贵，以至于苹果不得不修复有缺陷的显示屏，而不是直接丢弃。</p><p>报道称，凭借着5000尼特或更高的亮度，这款头显可以支持目前市场上的VR头显中并不常见的HDR内容。</p><p>在分辨率方面，苹果的MR头显也将超过竞争对手。它的总分辨率为8K，优于Meta和其他公司生产的头显，包括Meta最高端的Quest Pro 2。</p><p>外媒称，由于其复杂的设计，苹果在制造原型头显时遇到了困难。在开发的早期阶段，苹果每天可以制造100台头显，但只有20台符合公司的标准。</p><p>至于发布时间，外界普遍预计，苹果将在北京时间6月6日凌晨1点开始的全球开发者大会上发布这款头显。此外，苹果在当地时间周二发出的年度开发者大会邀请函可能也暗示了MR头显的发布。（小狐狸）&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-06-01/2927986.shtml</guid>
+<author>小狐狸</author><pubDate>Thu, 01 Jun 2023 11:05:10 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>OpenAI公布大模型新训练方法：阻止ChatGPT“一本正经地胡说八道”</title>
+<link>http://www.techweb.com.cn/it/2023-06-01/2927964.shtml</link>
+<description><![CDATA[<p>北京时间6月1日早间消息，据报道，当地时间周三，OpenAI公司通过论文介绍了一种全新的方法，来训练生成式人工智能语言模型。</p><p>OpenAI这一研究成果来得很是时候，最近，随着生成式人工智能技术流行，以及美国2024年总统大选初步启动，人工智能“胡说八道”的问题引发了史无前例的关注和讨论。</p><p>去年，OpenAI公司推出了人工智能对话撰稿工具ChatGPT，背后依托于GPT3和GPT4语言模型。ChatGPT的优秀表现在全世界掀起了生成式人工智能的一股风暴，两个月之内，相关服务的月度活跃用户超过了一亿人，用户增长速度创造了新的世界纪录。</p><p>OpenAI背后的大股东之一是微软，微软已经累计对该公司投资130亿美元。目前，OpenAI的市值大约为290亿美元。</p><p>人工智能“胡说八道”，术语上也被称为“AI幻觉”。面对用户的提问，ChatGPT以及谷歌的Bard等工具会杜撰出一些虚假信息，看上去像是权威正确的答案。</p><p>比如，今年2月谷歌针对Bard工具推出了一个演示视频，视频中Bard有关美国韦伯太空望远镜的描述就存在错误。此外，美国纽约的几位律师最近使用ChatGPT撰写法律文件，ChatGPT描述了完全虚构的案例，这些律师将面临处罚。</p><p>OpenAI公司的研究人员表示，即使是最先进的人工智能模型也会杜撰虚假信息，尤其是在拿不准的时候，它们往往倾向于编造事实。</p><p>研究人员表示，在要求多步骤推理的领域，人工智能胡编的后果尤为严重，因为一个单一的逻辑错误会导致整个解决方案“翻车”。</p><p>OpenAI准备采用新战略，防止人工智能胡编。比如在过去，一旦提供一个正确的最终答案，模型会获得某种鼓励，但是以后，在每一个单一的逻辑推理环节如果表现正确，就将获得鼓励反馈。这种模式也被称之为“过程监督”（以往的模式术语“结果监督”）。</p><p>研究人员表示，“过程监督”模式有助于产生更加清晰合理的回答，它将会鼓励生成式人工智能能够像人类一样，在推理思考中做到“环环相扣”。</p><p>OpenAI公司“随机生成数学”研究专家卡尔·柯比（Karl Cobbe）表示，发现并且减少人工智能模型的逻辑错误，也就是“AI幻觉”，是构建“通用人工智能”的关键一步。另外，“过程监督”模式并非OpenAI公司发明，但是该公司正在加以推广普及。</p><p>柯比表示，新方法的目的，是解决人工智能胡编问题，从而让语言模型能够解决更加复杂的推理难题。</p><p>这位专家介绍，OpenAI已经发布了一个研究使用的数据集，包括80万条人工标签，可用上述新模式训练语言模型。</p><p>不过，美国电子隐私信息中心的资深律师本·魏特斯（Ben Winters）对这种新的训练模式表示质疑，他希望亲自查看OpenAI的完整数据集，以及相关的例子。</p><p>魏特斯表示，目前生成式人工智能还处于野蛮生长时代，OpenAI的新模式还无法实质性缓解AI胡编乱造错误答案的问题。</p><p>这位律师表示，最重要的是，OpenAI是否会将一些研究论文成果部署到实际产品中，如果没有这样的计划，这将会引发社会质疑，即他们到底要向公众发布怎样的最终产品。</p><p>美国布朗大学的学者维克塔（Suresh Venkatasubramanian）表示，目前还不清楚OpenAI的研究论文是否经过了同行评议，他认为这一研究还仅仅停留在“初步观察”阶段。</p><p>维克塔表示，在做出某种确定性结论之前，研究论文还需要在学术圈子内进行更多传播。他认为，如今，人工智能领域每天都会有很多研究成果，但是“大型语言模型”在工作时存在不稳定性，因此在某种条件、背景或者模式下的运行结果，可能无法应用于另外一种条件、背景或模式。</p><p>维克塔认为，在人工智能胡编的问题中，包括了语言模型胡编一些他人引言或者参考信息。OpenAI的新论文并没有证据能解决这一问题。</p><p>OpenAI专家柯比表示，未来将会在学术会议上把论文交给其他人，进行同行评议。对于何时将会把研究成果和“过程监督”整合到ChatGPT等最终产品中，OpenAI尚未发表官方评论。</p><p>美国人工智能研究专家萨拉·迈尔斯·韦斯特（Sarah Myers West）表示，人工智能公司开始解决虚假答案问题，这是一个好消息，但OpenAI目前的论文还停留在“公司内部研究”的阶段，还需要攻克更多难关。</p><p>韦斯特表示,在论文中，OpenAI发布一个“人类级反馈”的小规模数据集，但是并没有训练GPT4模型所用数据的更多介绍。虽然生成式人工智能已经开始改变普通人的工作生活，但是距离“负责任的人工智能应用”，还存在相当多的技术挑战。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-01/2927964.shtml</guid>
+<author>郑卓</author><pubDate>Thu, 01 Jun 2023 08:58:54 +0800</pubDate>
+<source>新浪科技</source>
+</item><item><title>马斯克深夜到访特斯拉上海超级工厂 新款Model 3或将量产</title>
+<link>http://www.techweb.com.cn/it/2023-06-01/2927971.shtml</link>
+<description><![CDATA[<p>【TechWeb】6月1日消息，据航班APP信息显示，马斯克私人飞机于北京时间5月31日21时26分落地上海虹桥机场，而3小时后今日凌晨0点28分，特斯拉对外事务副总裁陶琳发布了两张马斯克在上海超级工厂与员工合影的照片，并配文“感谢所有的支持！ 收获满满的一天！”</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685582751492.jpg"></p><p>值得一提的是，这是马斯克继2020年初在特斯拉上海超级工厂参与国产Model 3新车交付仪式之后，时隔3年后再次到访上海。消息称，马斯克此行或将考察上海超级工厂新款Model 3产线。此外，也有消息称此行还跟FSD自动驾驶落地、以及在上海扩建Megafactory储能超级工厂有关。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685582772644.jpg"></figure><p>据了解，马斯克私人飞机于北京时间5月30日上午九点左右落地北京，并接受了外交部、商务部、工信部多名官员的会见，此外还与宁德时代董事长曾毓群进行了交流。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-01/2927971.shtml</guid>
+<author>萧健</author><pubDate>Thu, 01 Jun 2023 09:27:34 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>iPhone 15 Pro Max核心参数曝光：首发3nm A17芯片+8GB内存</title>
+<link>http://www.techweb.com.cn/phone/2023-06-01/2927981.shtml</link>
+<description><![CDATA[<p>【Techweb】按照惯例，苹果将继续在今年9月举办一年一度的秋季新品发布会，届时全新的iPhone 15系列将正式与大家见面，不出意外的话该系列将继续推出包含iPhone 15、iPhone 15 Plus、iPhone 15 Pro和iPhone15 Pro Max四款机型，将在不同程度上带来升级，尤其顶配版的iPhone15 Pro Max机型。而现在有最新消息，近日海外爆料达人进一步带来该机几大核心参数细节。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685587047888.jpg"></p><p>据海外知名爆料达人Revegnus最新发布的信息显示，与此前曝光的消息基本一致，全新的iPhone 15 Pro Max最大的卖点之一就是将搭载最新的台积电3nm制程工艺的A17处理器，同时辅以8GB LPDDR5内存。作为今年可能唯一的3nm手机处理器，A17预计性能、发热、功耗方面将带给业绩绝对的惊喜。同时内存容量更大后，系统流畅度、游戏体验、多任务切换等高频场景的表现有望进一步改善。作为对比，当前的iPhone 14 Pro Max搭载的是4nm的A16（6核3.46GHz），搭配6GB LPDDR5。</p><p>其他方面，根据此前曝光的消息，全新的iPhone 15系列将继续提供与iPhone 14系列相同的四款机型，并且仍然有着明显的两极分化，其中两个Pro版将会配备ProMotion显示屏，屏幕亮度进一步提高，达到2500尼特，边框也将进一步缩窄。同时顶配版的iPhone 15 Pro Max此次将独占潜望式长焦镜头，支持6倍光学变焦，这也是第一款采用潜望长焦的苹果手机。并且由于潜望长焦系统比传统直立式长焦更为复杂，内部占用空间相对更大，因此苹果重新调整了镜头的位置。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685587060897.jpg"></p><p>据悉，全新的iPhone 15系列将有望继续在今年9月与大家见面，相比前代产品，今年的标准版机型与Pro版之间的差距将进一步扩大，而售价也将再创新高，尤其顶配版iPhone 15 Pro Max有望突破2万元。更多详细信息，我们拭目以待。</p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/phone/2023-06-01/2927981.shtml</guid>
+<author>Suky</author><pubDate>Thu, 01 Jun 2023 10:38:44 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>消息称英伟达CEO黄仁勋即将访华 拜访腾讯、字节等国内公司</title>
+<link>http://www.techweb.com.cn/it/2023-06-01/2927984.shtml</link>
+<description><![CDATA[<p>做为当前AI领域风头最劲的人物，英伟达CEO黄仁勋的一举一动很受关注，前几天他在台北出席了ComputeX电脑展，还发表了GH200 AI超算等一系列新产品，消息称他很快也会来到国内访问。</p><p>黄仁勋将会拜访国内的多家科技公司，主要是腾讯、字节跳动等，还有就是理想汽车、比亚迪、小米等，不过最终的行程还没确定，依然会有变化。</p><p>从拜访名单来看，黄仁勋这次会谈的主要是数据中心、汽车等相关领域的公司，他们对NVIDIA的HPC、AI及汽车芯片都有很高的需求，尤其是AI芯片，目前可以说供不应求，还在大幅涨价。</p><p>最近由于AI火爆，NVIDIA公司股价大涨，前两天市值一度突破1万亿美元，成为首家万亿市值的芯片公司，遥遥领先AMD、台积电及Intel、三星等公司。</p><p>创始人兼CEO黄仁勋持有公司8690万股股份，占比3.5％，其身价一夜之间就飙升了约65亿美元，现已超过330亿美元。</p><p>在黄仁勋之前，AMD CEO苏姿丰、英特尔CEO基辛格这两个月都已经拜访了国内公司，洽谈相关合作。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-01/2927984.shtml</guid>
+<author>宪瑞</author><pubDate>Thu, 01 Jun 2023 10:45:53 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>机构数据显示特斯拉Model Y一季度在国内销售9.44万辆</title>
+<link>http://www.techweb.com.cn/world/2023-06-01/2927976.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】6月1日消息，据外媒报道，作为特斯拉旗下量产最快的电动汽车，Model Y也被他们寄予厚望，期待成为全球最畅销的汽车，而这一款电动汽车在上市后也不负众望，很快就在部分市场取代Model 3，成为了特斯拉旗下销量最高的车型。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685585420497.jpg"></figure><p><code>在一季度结束之后，也曾有外媒在报道中提到，特斯拉Model Y在今年一季度是欧洲最畅销的汽车，在美国非皮卡领域的销量也是最高的。</code></p><p><code>而市场研究公司最新的数据显示，一季度在欧洲和美国市场表现不俗的Model Y，同期在国内市场也有不错的销量，一季度共销售94,467辆。</code></p><p><code>市场研究公司在报告中还披露，一季度Model Y在全球共销售267,171辆，国内市场的销量占比超过三分之一。</code></p><p><code>不过，随着柏林超级工厂和得克萨斯超级工厂产量的提升，特斯拉Model Y在欧洲和北美市场就将有更强的交付能力，国内市场销量预计仍会可观，但在销量中所占的比重，预计会有下滑，不会像今年一季度那样超过三分之一。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-06-01/2927976.shtml</guid>
+<author>海蓝</author><pubDate>Thu, 01 Jun 2023 10:16:11 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>日本弯道超车向美国取经 最先进的2nm EUV工艺学到手</title>
+<link>http://www.techweb.com.cn/it/2023-06-01/2927966.shtml</link>
+<description><![CDATA[<p>6月1日，在半导体工艺落后世界先进水平20多年之后，日本去年决心要重振晶圆制造，丰田、索尼、瑞萨等8家行业巨头联合成立了Rapidus公司，计划最快在2025年搞定2nm EUV工艺。</p><p>日本当前的工艺也就是45nm水平，直接进入2nm无异于弯道超车，为此Rapidus公司跟美国IBM公司达成了合作，要从后者那里获得2nm技术授权。</p><p>Rapidus公司将派出100名工程师到IBM公司学习，将获得2nm工艺生产所需的GAA环绕栅极晶体管技术，这是实现2nm的关键。</p><p>此前的4月份Rapidus已经派出一批工程师到IBM商谈合作了。</p><p>根据Rapidus公司的建设计划，他们将在日本北海道地区建立晶圆厂，2023年9月份开工，2024年6月份完成厂房基础设施，并开始洁净室建设。</p><p>2025年4月开始运营一条试验性生产线，并引进EUV光刻机等设备，目标是2027年开始大规模量产2nm工艺——这个进度比台积电、三星及Intel量产2nm节点工艺只晚了1-2年。</p><p>不仅要量产2nm工艺，Rapidus公司还计划在2030年代实现每年1万亿日元的营收，约合人民币510亿或者72亿美元。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-01/2927966.shtml</guid>
+<author>宪瑞</author><pubDate>Thu, 01 Jun 2023 09:02:16 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>苹果App Store去年创收1.1万亿美元 超九成归于开发者和企业</title>
+<link>http://www.techweb.com.cn/world/2023-06-01/2927994.shtml</link>
+<description><![CDATA[<p>【TechWeb】6月1日消息，据外媒报道，当地时间周三，苹果宣布，2022年，App Store创造了1.1万亿美元的开发者营业与销售额，同比增长29%。其中，超过90%的营业与销售额完全归于开发者和企业。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685593611622.jpg"></figure><p>这些数据来自于Analysis Group经济学家进行的一项研究，研究显示，在这1.1万亿美元中，有9100亿美元来自于实体商品和服务，有1090亿美元来自于App内的广告，还有1040亿美元来自于数字商品和服务。</p><p>Analysis Group深入分析了App Store生态系统增长背后的关键驱动因素，包括旅游和叫车等行业需求的反弹，以及社交媒体和零售应用等应用的广告支出的强劲增长。</p><p>App Store是苹果服务业务的重要组成部分，也是该公司的一大利润来源。在过去几年中，App Store的商业规模稳步增长，从2020年的6430亿美元增长到2021年的8680亿美元，并在2022年突破1万亿美元。</p><p>2022年，App Store实现了创纪录的一年，订阅人数从2021年的7.45亿增长到9亿，这一数字包含通过App Store订阅任何服务的用户，而不仅仅是Apple TV+和Apple Music的订阅用户。</p><p>此外，2022年，访问App Store的用户数量也再创新高。今年1月，苹果指出，每周有来自全球175个地区的超过6.5亿访问者访问App Store。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-06-01/2927994.shtml</guid>
+<author>小狐狸</author><pubDate>Thu, 01 Jun 2023 12:27:19 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>韩国半导体出口额同比仍在下滑 5月份降至73.7亿美元</title>
+<link>http://www.techweb.com.cn/world/2023-06-01/2927993.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】6月1日消息，据外媒报道，在消费电子产品需求下滑导致的半导体需求减少的影响下，韩国半导体产品的出口额已连续多个月同比下滑，在刚刚过去的5月份仍不乐观。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685592160190.jpg"></figure><p><code>韩国贸易、工业和能源部最新公布的数据显示，5月份韩国半导体的出口额为73.7亿美元，同比下滑36.2%，自去年8月份以来同比下滑的势头仍在延续。</code></p><p><code>从韩国方面公布的消息来看，5月份他们半导体的出口额同比下滑，也是由于需求和价格双重下滑影响。</code></p><p><code>由于半导体是韩国重要的出口产品，对整体的出口状况也有重要影响，在半导体的出口额同比仍下滑的情况下，韩国整体的出口在5月份同比也仍有下滑。</code></p><p><code>韩国贸易、工业和能源部的数据就显示，5月份韩国的出口额为522.4亿美元，去年同期为616亿美元，同比下滑15.2%，自2020年以来首次连续8个月同比下滑。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-06-01/2927993.shtml</guid>
+<author>海蓝</author><pubDate>Thu, 01 Jun 2023 12:06:16 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>FF 91迎来交付时刻 贾跃亭开抖音造势 你愿意再次为梦想窒息吗？</title>
 <link>http://www.techweb.com.cn/viewpoint/2023-05-31/2927945.shtml</link>
 <description><![CDATA[<p>贾跃亭开抖音了。</p><p>5月30日，贾跃亭在抖音发布第一条视频，为FF91发布会预热。其IP地址显示在美国，粉丝数量现已超过70万，被网友戏称为“云回国”。</p><p>有趣的是，贾跃亭最初只关注了两个账号，一个是他的前妻甘薇，另一个则是法拉第未来新能源汽车公司。随后，该关注列表无法再查看，关注人数也增至4人。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685529906898.jpg"></figure><p>贾跃亭在视频中表示，FF成立9年了，9年的坚守，9年的不屈，终于快等到了交付时刻。FF91这几年进行了大量的升级迭代，甚至换代。他希望“我们和AI一起，再次为梦想窒息”。</p><p>不得不说，贾跃亭是懂营销的。只是从乐视到FF，你愿意再次为梦想窒息吗？</p><p><strong>FF91将进入交付阶段</strong></p><p>北京时间5月31日上午9点，FF 91&amp;Faraday Future2.0发布会正式召开。法拉第未来创始人贾跃亭表示，经过9年的坚持，终于迎来颠覆时刻。法拉第未来的首辆量产车FF 91将进入交付阶段。</p><p>2017年，FF91在CES 2017上首次亮相。当时法拉第未来承诺将在2018年投产，但在资金紧张、管理层变动、退市警告等一系列不利因素下，这一计划一再推迟，直到5年后才实现。</p><p>从官方介绍来看，FF91的规格十分亮眼：142千瓦时的电池能提供381英里（约613.16公里）的EPA续航里程，CLTC标准下续航里程800公里+，三电机最大综合输出功率1050马力，火箭模式下0—96km/h加速2.27秒，最高时速约248km/h。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685529955576.jpg"></figure><p>内饰方面，法拉第未来配有27英寸的后屏，并声称这是“世界上最大的车内显示屏”，以及从三个5G天线中分别连接到不同移动运营商的“10G车载网络”。车辆还将配备驾驶座上的红外摄像头，以实现面部识别功能，增加安全性。</p><p>值得注意的是，AI成为此次法拉第未来发布会宣传重点之一，其在直播中正式发布了以FF AI为驱动力的下一代技术架构“FF aiHyper 6x4架构2.0”，声称将AI能力端到端整合，实现平台和系统的全AI化。</p><p>法拉第未来将FF91定位“超级尖端”市场，共有三个版本，限量版的“FF91 2.0 Futurist Alliance”售价30.9万美元（约合人民币219.5万元），稍后交付的“FF91 2.0 Futurist”售价24.9万美元（约合人民币176.9万元），标准2.0版的基础价格则仍未公布。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685529979678.jpg"></figure><p>此外，法拉第未来还重新开放了新车订购，用户需支付5000美元（国内50000元人民币），就可以预定FF 91新车。此前，法拉第未来曾在业务合并前的声明中称，它已收到超过14000份FF91车辆的预订，但这些订单绝大部分并未实际付款，只有数百份预定已支付。</p><p><strong>财务情况并不乐观</strong></p><p>法拉第未来一路走来，造车历程并不顺利。</p><p>2014年，时任乐视网CEO的贾跃亭明确表示“造车”，并在美国成立了电动车初创公司法拉第未来（Faraday Future，简称FF）。</p><p>2015年，乐视网向法拉第未来投入数千万美元作为天使投资，FF推出第一台原型车。一年后，FF首款电动智能概念超跑FF Zero 1亮相。</p><p>但到了2016年底，乐视网陷入“资金链断裂”风波。业内人士认为，法拉第未来的财务资金很大程度依靠贾跃亭对于上市公司乐视网的股权质押，致使两者的财务产生共振效应。所以在乐视陷入债务危机之后，FF也因资金不足导致部分项目停摆。</p><p>2017年1月，FF首款量产车FF 91在CES 2017首次发布。当年7月，贾跃亭被传以乐视汽车生态全球董事长的身份赴美主抓汽车业务，为汽车业务融资，至今未归。</p><p>2018年，FF收到来自恒大集团旗下恒大健康8.54亿美元投资，恒大健康拿到法拉第未来32%的股权。不过很快双方合作破裂，一度要对簿公堂。此后几年，法拉第未来因为资金问题几度动荡，直到2021年7月22日登陆纳斯达克。</p><p>在FF的发展中，资金困扰始终如影随形。即便已经上市，FF的财务情况仍然不容乐观。</p><p>最新财报显示，FF今年第一季度净收入为650万美元，亏损1.53亿美元。用于经营活动的净现金为1.032亿美元，资本支出为1690万美元，融资活动产生的净现金流入为1.344亿美元。截至2023年3月31日，公司拥有现金3300万美元，其中包括150万美元的限制性现金。</p><p>此次发布会中，FF制定了一个三阶段增长计划：第一阶段的目标是高质量、高产品力，按时交付FF91 Futurist Alliance、FF91 Futurist和FF91；第二阶段的目标是随着智能汽车销量的增长，推出未来的车型，创建移动生态，迅速增加生态收入；第三阶段目标是维持公司智能汽车收入的快速增长，同时实现包括互联网应用、软件和共享等生态收入的增长。FF在直播中表示，FF生态收入预计将在整体利润中占据越来越大的比重。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685530000341.jpg"></figure><p>由此来看，按时交付FF91是法拉第未来获得增长的前提。只能说，经历过多次交付延期后，希望这次FF91是真的要开启交付了。</p><p><strong>你愿意再次为梦想窒息吗？</strong></p><p>对于FF91将迎来交付时刻，贾跃亭的兴奋是肉眼可见的。在此次发布会之前，他开设了抖音账号，为FF91预热。5月31日一大早，就更新了微博、抖音，提醒大家见证FF 91的首批交付。</p><p>贾跃亭在直播中着重谈到了FF91这几年大量的升级迭代，甚至换代。他希望“我们和AI一起，再次为梦想窒息”。截至发稿，贾跃亭在抖音共发布了3条视频，均是关于FF91，获得超20万个赞。</p><p>很多网友对贾跃亭在造车上的坚持给予肯定，为他“加油”，认为他“能完成绝地反击”、“会成为传奇”，还有网友表示“贾总绝对不是骗子，骗子没有这么努力的”，甚至愿意“为梦想窒息，蒙眼前行”。</p><p>在发布会直播中，多位FF员工也谈到“YT（贾跃亭）是一个很有远见的人，他早在10年前就在想很多事情，现在正在成为现实。”“YT从来不说放弃，这种精神某种程度上也潜移默化的影响着公司上下每一个人”。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685530060538.jpg"></figure><p>与此同时，也有很多网友表示怀疑，毕竟FF91量产已经多次放鸽子，并戏称“齐白石的虾，张大千的虎，徐悲鸿的马，王羲之的字，贾跃亭的饼，号称五绝。”除了担心再次被骗，还有一些网友关心贾跃亭“何时回国”。是的，这么多年了，“下周回国”的梗还没过去。</p><p>那么，你会选择和贾跃亭一起，再次为梦想窒息吗？</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/viewpoint/2023-05-31/2927945.shtml</guid>
 <author>周小白</author><pubDate>Wed, 31 May 2023 18:53:44 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>WWDC23临近 苹果MR头显屏幕规格曝光：搭载2块1.41英寸屏幕</title>
-<link>http://www.techweb.com.cn/world/2023-05-31/2927905.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月31日消息，据外媒报道，显示屏分析师罗斯·杨（Ross Young）称，传闻中的苹果混合现实（MR）头显可能拥有像素密度极高、亮度极高的显示屏。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685505524908.jpg"></figure><p>罗斯·杨表示，苹果首款头显将配备2块1.4英寸的Micro OLED（OLED on Silicon）屏幕，亮度超过5000尼特，每块屏幕的像素密度为每英寸4000像素，每块屏幕的分辨率为4K。</p><p>关于苹果在MR头显中使用Micro OLED屏幕的传闻已经有一段时间了，预计三星显示（Samsung Display）将生产这种屏幕。</p><p>罗斯·杨所说的5000尼特亮度指的是峰值亮度，它确保了卓越的对比度、鲜艳的色彩和增强的高光，不会给用户带来不适感。</p><p>报道称，凭借着5000尼特或更高的亮度，这款头显可以支持目前市场上的VR头显中并不常见的HDR内容。</p><p>相比之下，Meta Quest 2的最大亮度约为100尼特，不提供HDR内容；HoloLens 2的亮度为500尼特；索尼PSVR 2头显的亮度大约为265尼特，支持HDR功能。</p><p>在分辨率方面，苹果的MR头显也将超过竞争对手。它的总分辨率为8K，优于Meta和其他公司生产的头显，包括Meta最高端的Quest Pro 2。</p><p>至于发布时间，外界普遍预计，苹果将在北京时间6月6日凌晨1点开始的全球开发者大会上发布这款名为“Reality Pro”的头显。</p><p>另外，苹果在当地时间周二发出的年度开发者大会邀请函可能也暗示了MR头显的发布。在WWDC23的邀请函中，同心弧线类似于VR头显中经常使用的镜头。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>最远可续航1370公里 吉利银河L7上市：售价13.87-17.37万元</title>
+<link>http://www.techweb.com.cn/it/2023-06-01/2927974.shtml</link>
+<description><![CDATA[<p>【TechWeb】6月1日消息，吉利银河L7日前正式上市，共推出五款配置车型，售价13.87-17.37万元，主要竞争对手为比亚迪宋PLUS DM-i。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685584549575.jpg"></p><p>吉利银河L7基于e-CMA架构打造，车身尺寸为4700/1905/1685mm，轴距为2785mm，定位为紧凑型SUV。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685584563954.jpg"></p><p>外观方面，新车采用了“银河之光”的设计语言，整体造型比较饱满，车头部分采用了封闭式设计，看上去不像是一台混动车，更像是纯电车型。车身侧面采用轻度的溜背设计，增加了些许运动感。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685584576322.jpg"></p><p>内饰方面，银河L7搭载了银河自在座舱，配备了10.25英寸仪表+13.2英寸中控屏＋16.2寸副驾屏＋25.6英寸ARHUD四块屏幕，可以显示丰富的车辆信息和娱乐信息。此外，新车采用了银河N OS系统，搭载了高通骁龙8155芯片，可以提供流畅的操作体验。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685584590931.jpg"></p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685584604470.jpg"></p><p>动力方面，银河L7搭载新一代雷神电混8848三挡变频电驱系统，为一台1.5T四缸发动机+电机组成的混动系统，使用P1+P2方案，既能够辅助驱动，也能够独立驱动行驶。性能方面，新车系统综合最大功率287kW，综合最大扭矩535牛·米，官方公布的百公里加速为6.9秒，百公里亏电油耗5.23L。此外，银河L7的纯电续航里程提供55km和115km两种，对应的综合续航里程分别为1310km和1370km。</p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-31/2927905.shtml</guid>
-<author>小狐狸</author><pubDate>Wed, 31 May 2023 11:59:05 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-06-01/2927974.shtml</guid>
+<author>萧健</author><pubDate>Thu, 01 Jun 2023 09:58:37 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>人工智能公司出门问问递表港交所</title>
-<link>http://www.techweb.com.cn/it/2023-05-31/2927872.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月31日消息，港交所公告显示，由前谷歌公司自然语言科学家李志飞创立的人工智能公司出门问问向港交所递交上市申请，中金公司、招银国际为联席保荐人。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685495705837.jpg"></figure><p>该公司主要业务为生成式AI与语音交互，股东包括谷歌、歌尔、红杉资本和海纳亚洲。招股书显示，出门问问2020-2022年营收分别约为2.65亿元、3.98亿元、5.00亿元人民币，2022年AI软件解决方案收入约3.03亿元，占总营收的60.6%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685495713284.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>哪吒汽车5月全系交付13029辆 同比增长18%，哪吒GT交付1716辆</title>
+<link>http://www.techweb.com.cn/it/2023-06-01/2927992.shtml</link>
+<description><![CDATA[<p>【TechWeb】6月1日消息，哪吒汽车5月销量出炉，全系交付13029辆，同比增长18%，包含海外销量2042辆。其中，哪吒V车系交付5138辆，哪吒U车系交付3963辆，哪吒S交付2212辆，而备受关注的哪吒GT交付1716辆。</p><p>&nbsp;</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685592246134.jpg"></p><p>截至2023年5月底，哪吒汽车累计交付298,335辆。而在5月30日当天，哪吒汽车的第30万辆量产车正式下线。2022年1月，哪吒汽车实现了从第1台到第10万台的历史性突破，此后作为首个年销量突破15万辆的新势力，哪吒汽车用时16个月，完成从第10万台到第30万台的跨越。</p><p>&nbsp;</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0601/1685592260862.jpg"></p><p>此外，哪吒S新增车型哪吒S 520 Lite版和哪吒S 520版在5月份正式上市，进一步将购车门槛降低到了18.98万元，并且而且填补了哪吒S在20万元以下市场、500km续航的产品空白。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-31/2927872.shtml</guid>
-<author>新喀鸦</author><pubDate>Wed, 31 May 2023 09:17:06 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>一路走低！Twitter估值只有马斯克收购价的三分之一</title>
-<link>http://www.techweb.com.cn/it/2023-05-31/2927858.shtml</link>
-<description><![CDATA[<p>北京时间5月31日早间消息，据报道，最近富达（Fidelity）下调了Twitter的股权估值，它认为，相比马斯克收购Twitter时支付的价格，现在Twitter的估值只有当时的三分之一。</p><p>当初马斯克与其它一些投资者花费440亿美元收购Twitter，马斯克实际上知道自己开价过高。最近马斯克曾报怨说，相比支付价，Twitter的估值不到当时的一半。富达给出的估值比马斯克所说更低。</p><p>去年11月时富达首次下调Twitter估值，当时的估值相当于收购价的44%，随后又在12月和今年2月两次下调数据。</p><p>自从马斯克接管之后Twitter陷入财务困境。马斯克完成对Twitter的收购后,根据协议Twitter将增加约130亿美元的债务，Twitter要为这笔债务支付利息。马斯克曾表示，Twitter广告营收下滑了50%。为了增加收入，马斯克推出“TwitterBlue”付费认证服务，可惜服务并未带来多少收入，订阅者不到月用户的1%。</p><p>当初马斯克440亿美元收购Twitter，现在Twitter的估值只有约150亿美元。在去年的收购中，马斯克获得Twitter79%的股份，花费250多亿美元，还有其它一些投资者参与交易。虽然Twitter面临诸多问题，今年马斯克拥有的财富仍然增加了480亿美元，主要是特斯拉股价上涨带来的。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-31/2927858.shtml</guid>
-<author>郑卓</author><pubDate>Wed, 31 May 2023 08:49:25 +0800</pubDate>
-<source>新浪科技</source>
-</item><item><title>iPhone 15系列相机大升级：定制三层堆栈式传感器 媲美全画幅单反</title>
-<link>http://www.techweb.com.cn/digi/2023-05-31/2927888.shtml</link>
-<description><![CDATA[<p>【Techweb】按照惯例，苹果将继续在今年9月举办一年一度的秋季新品发布会，届时全新的iPhone 15系列将正式与大家见面，不出意外的话该系列将继续推出包含iPhone15、iPhone 15 Plus、iPhone 15 Pro和iPhone15 Pro Max四款机型，将在不同程度上带来升级，尤其两个Pro版本，其中影像表现自然备受关注。而现在有最新消息，近日海外爆料达人进一步带来该机相机上的部分升级细节。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685500388472.jpg"></figure><p>据海外爆料达人最新发布的信息显示，与此前曝光的消息基本一致，全新的iPhone 15系列此次的升级内容颇多，其中相机部分是最大亮点，尤其顶配版本。结合此前相关爆料，新机（可能仅有iPhone15 Pro Max）将首次配备潜望式长焦镜头，最高支持6x光学变焦，并将使用索尼的最新技术定制的三层堆栈式传感器。该传感器满阱容量约为前代的三倍，Exmor T是1/1.35英寸5200万像素传感器，有效像素4800万，虽然尺寸及像素相对于1英寸大底优势不大，但双层晶体管技术理论上进光量翻倍，相机表现肯定提升不少，夜景拍摄绝对会让人刮目相看。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685500406262.png"></figure><p>其他方面，根据此前曝光的消息，全新的iPhone 15系列将继续提供与iPhone 14系列相同的四款机型，并且仍然有着明显的两极分化，其中两个Pro版将会配备ProMotion显示屏，屏幕亮度进一步提高，达到2500尼特，边框也将进一步缩窄。同时二者将搭载新一代的A17 Bionic，这颗芯片集于台积电3nm工艺（N3）打造，同时内存还将会升级到8GB。至于iPhone 15和iPhone 15 Plus，二者则仍将使用iPhone 14 Pro上的A16 Bionic，内存、相机模组也没有明显升级。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685500417968.png"></figure><p>据悉，全新的iPhone 15系列将有望继续在今年9月与大家见面，相比前代产品，今年的标准版机型与Pro版之间的差距将进一步扩大，而售价也将再创新高，尤其顶配版iPhone 15 ProMax有望突破2万元。更多详细信息，我们拭目以待。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/digi/2023-05-31/2927888.shtml</guid>
-<author>Suky</author><pubDate>Wed, 31 May 2023 10:34:54 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>赛力斯：大股东质押风险可控 不存在平仓风险</title>
-<link>http://www.techweb.com.cn/it/2023-05-31/2927942.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月31日消息，有投资者在互动平台上提问赛力斯，公司大股东大量质押股票，由于股票下跌严重，质押的股票是否存在平仓风险？</p><p>赛力斯回应称，大股东质押风险可控，不存在平仓风险。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685527582534.png"></figure><p>赛力斯发布的一季度财报显示，一季度归属于上市公司股东的净亏损达6.25亿元。</p><p>公开数据显示，自2022年中开始，赛力斯的股价已经从股价高点的87.75元跌至25.61元（截至5月30日收盘），市值蒸发超930亿元。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-31/2927942.shtml</guid>
-<author>御风</author><pubDate>Wed, 31 May 2023 18:07:43 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>美国“滴血验癌”创始人入狱：被判11年，曾被视作女版乔布斯</title>
-<link>http://www.techweb.com.cn/it/2023-05-31/2927876.shtml</link>
-<description><![CDATA[<p>5月31日消息，美国当地时间周二，曾被成为女版乔布斯的血液检测公司Theranos创始人伊丽莎白·霍姆斯(Elizabeth Holmes)正式入狱，开始了长达11年零3个月的牢狱生涯。</p><p><strong>据悉，她一手创立的Theranos估值一度高达90亿美元（约640亿人民币），《福布斯》也曾一度对其身价估值达45亿美元，后来直降为零。</strong></p><p>原因是她曾经宣称公司掌握了一项先进而且可以推广的技术：<strong>利用一款专利分析仪，只需要采集指尖的数滴血，就能检测出癌症和高胆固醇等多种疾病。</strong></p><p>当时霍姆斯和Theranos一度成为硅谷最闪耀的明星，30岁时就被《福布斯》杂志评为“全世界最年轻的白手起家女亿万富翁”，<strong>成为硅谷有史以来最闪耀的女性创业家，被称为下一个乔布斯。</strong></p><p>然而最后骗局被揭穿，Theranos跌落神坛，倒闭落幕。</p><p>有意思的是，此前的审判中律师兰斯·韦德还曾为其辩护称，她“犯了错误，但错误不是犯罪”，并补充说，<strong>“失败的企业并不意味着CEO就是罪犯。”</strong></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685496774774.jpg"></figure><p style="text-align:center;">霍姆斯的牢房</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-31/2927876.shtml</guid>
-<author>建嘉</author><pubDate>Wed, 31 May 2023 09:34:06 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>快播宣告破产 公司已注销</title>
-<link>http://www.techweb.com.cn/it/2023-05-31/2927885.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月31日消息，企查查APP显示，近日，深圳市快播科技有限公司发生工商变更，企业经营状态由吊销未注销变更为注销，注销原因为宣告破产。</p><p>深圳市快播科技有限公司成立于2007年12月，是一家基于视频点播的播放软件公司。法定代表人为于璐，注册资本1000万人民币，现由张克东、于璐、刘燕三人共同持股。对外投资信息显示，该公司持有北京快播科技有限公司、深圳市快玩科技有限公司等共6家公司股份，目前，6家公司均处于注销或吊销未注销状态。</p><p>此前，快播因版权侵权、传播淫秽信息等被有关部门处罚及查封，公司创始人王欣获刑入狱。2018年出狱后，王欣于当年7月退出快播公司，创立深圳市云歌人工智能技术有限公司。</p><p>2021年5月，深圳市快播科技有限公司管理人向法院提交了申请，以快播公司已全面清算，破产财产分配完毕为由，请求本院裁定终结快播公司的破产程序。</p><p>当年7月，深圳市快播科技有限公司管理人破产民事裁定书公开，审理法院为广东省深圳市中级人民法院。裁定书显示，早在2018年8月23日，本院裁定受理深圳金亚太科技有限公司对快播公司提出的破产清算申请。其后，广东省深圳市中级人民法院指定北京市中伦（深圳）律师事务所担任管理人。法院查明，2019年11月，法院以资不抵债为由裁定宣告快播公司破产。</p><p>经管理人调查，截至2021年5月25日，共有53家债权人申报债权，申报总额为6.83亿元，广东省深圳市中级人民法院裁定确认了46家债权，确认债权总额为9344万元，其中税款债权金额为613万元，普通债权总额为8731万元。</p><p>直至2021年3月9日，广东省深圳市中级人民法院裁定认可《深圳市快播科技有限公司第二次破产财产分配方案》。经过两次分配，快播公司职工债权的清偿比例为100%，税款债权的清偿比例为100%，普通债权的清偿比例为82.3976%。</p><p>裁定书显示，本案裁判结果为终结深圳市快播科技有限公司破产程序。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685499415862.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-31/2927885.shtml</guid>
-<author>周小白</author><pubDate>Wed, 31 May 2023 10:21:06 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-06-01/2927992.shtml</guid>
+<author>萧健</author><pubDate>Thu, 01 Jun 2023 12:05:26 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>荣耀成立集成电路设计新公司 赵明称“按需制定自研芯片”</title>
 <link>http://www.techweb.com.cn/it/2023-05-31/2927933.shtml</link>
@@ -75,13 +103,6 @@
 <guid>http://www.techweb.com.cn/it/2023-05-31/2927933.shtml</guid>
 <author>浩渺</author><pubDate>Wed, 31 May 2023 16:53:51 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>9.58万元起 2023款比亚迪元Pro上市：升级e平台3.0技术</title>
-<link>http://www.techweb.com.cn/it/2023-05-31/2927938.shtml</link>
-<description><![CDATA[<p>【TechWeb】5月31日消息，2023款比亚迪元Pro正式上市，共推出三款车型，售价为9.58万元—11.38万元。新车基本延续了现款车型的外观及内饰设计，在配置上进行了升级，同时动力系统也升级为e平台3.0平台的八合一电动力总成，性价比进一步提升。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685524825467.jpg"></p><p>2023款元Pro外观造型采用了Dragon Face 3.0设计语言打造，与现款车型基本保持一致，经典的侧开式后备厢尾门和外挂式备胎得到了保留，并新增元气粉、活力白、能量灰三款外观配色。车身尺寸为4375/1785/1680mm，轴距为2535mm，定位为小型SUV。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685524836399.jpg"></p><p>&nbsp;</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685524847604.jpg"><br><br>&nbsp;</p><p>新车内饰则新增清新蓝双色内饰，设计更为年轻时尚，天蓝色座椅包边和门板饰条做工精致，极富质感。全系车型标配8英寸液晶仪表和10.1英寸中控屏，并搭载DiLink 4.0智能网联系统，支持手机NFC车钥匙和VTOL移动电站功能。</p><p>&nbsp;</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685524859972.jpg"></p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685524874157.jpg"><br><br><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685524887846.jpg"></p><p>动力方面，2023款元Pro搭载e平台3.0技术，升级八合一电动力总成，响应更轻快同时能耗更低。新车搭载的驱动电机最大功率为70kW，峰值扭矩为180N·m，百公里电耗低至12.4kW·h。此外，新车将提供320km和401km两种续航版本，搭配30分钟极速快充，完全可以满足市内日常的出行需求。<br>&nbsp;</p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-31/2927938.shtml</guid>
-<author>萧健</author><pubDate>Wed, 31 May 2023 17:23:10 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>苹果因发布虚假宣传广告被北京市场监管部门罚款20万元</title>
 <link>http://www.techweb.com.cn/it/2023-05-31/2927919.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月31日消息，5 月 24 日苹果电子产品商贸（北京）有限公司因发布虚假广告被北京市东城区市场监督管理局处以 20 万元的行政处罚。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685517186979.jpg"></p><p>据悉2022年2月14日，执法人员依据举报线索浏览当事人上述网站，发现其通过上述网站为其销售的Macbook Air产品发布广告，广告使用了“8核中央处理器 干活够爽快，用电省得狠。”“M1芯片拥有我们迄今打造的最快的中央处理器。”等内容，并在页面右上角有“&lt;广告&gt;”字样。</p><p>经调查，上述页面为当事人为所售的Macbook Air笔记本发布的商业广告。Macbook Air笔记本搭载的M1芯片配备8核中央处理器，包括四个高性能核心和四个高效能核心。2021年10月，苹果公司推出了配备M1 Pro和M1 Max芯片的MacBook Pro。M1 Pro和M1 Max芯片搭载的是由8颗高性能核心和2颗高效率核心组成的全新10核中央处理器，运行速度相比M1提升最高可达70%。</p><p>综上，案发时M1芯片配备的中央处理器并非为苹果公司打造的最快的。你单位在配备M1芯片的Macbook Air和配备M1 Pro和M1 Max芯片的MacBook Pro同时销售的情况下，在Macbook Air产品广告中宣称其搭载的M1芯片“拥有我们迄今打造的最快的中央处理器。”内容与事实不符。上述广告内容由当事人自行编辑制作及上传发布，广告费用无法核算。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -96,27 +117,6 @@
 <guid>http://www.techweb.com.cn/it/2023-05-31/2927920.shtml</guid>
 <author>小小</author><pubDate>Wed, 31 May 2023 15:22:23 +0800</pubDate>
 <source>网易科技</source>
-</item><item><title>研究发现GPT-4进行数据分析的成本不到人类分析师的1%</title>
-<link>http://www.techweb.com.cn/it/2023-05-31/2927901.shtml</link>
-<description><![CDATA[<p>阿里巴巴旗下研究机构达摩院及新加坡南洋理工大学的研究发现，OpenAI新发布的大型语言模型GPT-4进行数据分析的成本只要人类资深分析师（平均年薪9万美元）的0.45%，或是菜鸟分析员的0.71%。</p><p>报告显示，GPT-4的成本不但远比人类分析师低廉，效率也快上不少。</p><p>不过，GPT-4的图表正确度、部分个案的报告呈现及格式表现不如人类。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-31/2927901.shtml</guid>
-<author></author><pubDate>Wed, 31 May 2023 11:12:38 +0800</pubDate>
-<source>钛媒体</source>
-</item><item><title>A股运动品牌第一股！贵人鸟破产重整 990万股股票被拍卖</title>
-<link>http://www.techweb.com.cn/it/2023-05-31/2927928.shtml</link>
-<description><![CDATA[<p>5月31日消息，淘宝拍卖网站显示，贵人鸟990万股股票将于6月19日被司法拍卖，起拍价为2445万余元。</p><p>拍卖公告显示，竞买人需要缴纳保证金250万元，拍卖时间定在6月19日10时至6月20日10时止。</p><p>据悉，此次拍卖的标的物为贵人鸟集团（香港）有限公司，所持有的990万股贵人鸟股票。企查查App显示，贵人鸟集团（香港）有限公司为贵人鸟第二大股东，持股比例为14.41%，持股数为2.26亿股。</p><p>拍卖公告还显示，这990万股股票已被司法冻结，有质押。因股票总价值较高，参拍出价需慎重，一旦竞买成功，悔拍将承担严重不利后果。</p><p>贵人鸟成立于2004年7月，2014年上市成为了“A股运动品牌第一股”，是许多70后、80后耳熟能详的品牌。</p><p>2015年巅峰时刻，贵人鸟市值一度超过400亿元，但仅过5年，贵人鸟因为经营不善，市值缩水超过96%，仅剩不足15亿元，被债权人申请破产重整。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-05-31/2927928.shtml</guid>
-<author>随心</author><pubDate>Wed, 31 May 2023 15:52:14 +0800</pubDate>
-<source>快科技</source>
-</item><item><title>LG电子正同初创公司Tenstorrent联手研发下一代芯片</title>
-<link>http://www.techweb.com.cn/world/2023-05-31/2927930.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】5月31日消息，据外媒报道，LG旗下的消费电子产品厂商LG电子，正同AI计算领域的初创公司Tenstorrent，联手研发可能用于LG电子智能消费电子产品和汽车产品的下一代芯片。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685519394557.jpg"></figure><p><code>Tenstorrent成立于2016年，总部位于多伦多，他们致力于打造用于人工智能的计算机，公司CEO Jim Keller是一名微处理器工程师，曾在苹果和AMD工作。</code></p><p><code>对于两家公司之间的合作，Tenstorrent方面预计将提升LG未来的高端电视、高性能汽车芯片及其他智能产品的AI功能和高性能计算能力。</code></p><p><code>对于同Tenstorrent联手研发下一代芯片，LG首席技术官Byoung-hoon Kim称Tenstorrent市场领先的AI和RISC-V CPU技术，将提升LG未来产品系统级芯片的竞争力，LG经历市场检验的视频编解码技术则将帮助Tenstorrent提升数据中心高性能处理器的市场。</code></p><p><code>Byoung-hoon Kim还透露，同Tenstorrent联手研发下一代芯片仅仅是开始，两家公司将分享技术路线图，不断扩大合作范围。</code></p><p><code>随着LG近几年不断扩大业务范围，大力发展电动汽车零部件、机器人及电动汽车充电服务等业务，他们对芯片的需求也在不断增加，对芯片的要求也在提升，与其他公司联手研发芯片，有利于更好的满足他们自身的需求。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-31/2927930.shtml</guid>
-<author>海蓝</author><pubDate>Wed, 31 May 2023 15:53:53 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
 <description><![CDATA[<p>最近，中国移动悄悄的宣布了一件&ldquo;大事儿&rdquo;，那就是&ldquo;一号双端&rdquo;业务正式启动，什么是&ldquo;一号双端&rdquo;业务呢？用户办理这个业务之后，就可以在可穿戴设备上与手机共享同一个号码，两者计算共同的话费和流量套餐。应用这个业务的的可穿戴设备主要是智能手表。</p>
@@ -140,13 +140,6 @@
 <guid>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</guid>
 <author>一颗赛艇</author><pubDate>Wed, 20 Jun 2018 16:56:00 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>消息称苹果多位高管并不热衷于MR头显 库克也未深度参与设计</title>
-<link>http://www.techweb.com.cn/world/2023-05-30/2927828.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】5月30日消息，据外媒报道，在苹果宣布2023年度的全球开发者大会，将在当地时间6月5日-9日举行之后，外界就预计传闻已久的MR头显，有望在今年的大会期间登场。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0530/1685427733786.jpg"></figure><p><code>而随着全球开发者大会的临近，有关苹果MR头显台前幕后的更多消息也在浮出水面。有外媒在报道称，苹果内部有多位关键高管对MR头显态度谨慎，并未深度参与。</code></p><p><code>外媒在报道中提到，未深度参与的苹果高管就包括了CEO库克。外媒在报道中称库克坚定的认为头显设备应专注于不引人注目的增强现实，他也没有深入参与设计，而是选择只参加演示。</code></p><p><code>外媒在报道中还提到，库克在MR头显上相对不参与的做法，有时被认为是优柔寡断，并引起员工的沮丧，导致进度拖延和获取资源方面的担忧。</code></p><p><code>如果说被视为苹果经营专家、在技术上并不擅长的库克不深度参与设计还情有可原，但克雷格·费德里希和约翰尼·斯鲁吉这两位苹果主要的技术高管，也持谨慎态度，不热衷参与甚至持怀疑态度，就略显意外。</code></p><p><code>作为苹果负责软件工程的高级副总裁，克雷格·费德里希是苹果发布会的关键人物，承担了大量的演示任务，但有外媒在报道中称，他与头显产品的研发保持着距离，似乎持怀疑态度。</code></p><p><code>约翰尼·斯鲁吉是负责苹果硬件技术的高级副总裁，是苹果的十位高级副总裁之一，他被认为在私下里对头显设备持怀疑态度，将其比作是一个科学项目。另外，外媒在报道中提到，斯鲁吉曾警告称，设计头显所需要的高性能芯片会分散对新iPhone芯片的注意力，而iPhone的新芯片可以带来更多的收入。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-30/2927828.shtml</guid>
-<author>海蓝</author><pubDate>Tue, 30 May 2023 14:30:37 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>李彦宏10亿创投基金促进大模型生态：启动"文心杯"创业大赛 设1000万大奖 </title>
 <link>http://www.techweb.com.cn/internet/2023-05-31/2927912.shtml</link>
 <description><![CDATA[<p>【TechWeb】5月31日消息，百度创始人、董事长兼首席执行官李彦宏在摩根大通全球中国峰会期间宣布，百度将设立10亿元人民币的百度文心投资基金，旨在推动大模型生态繁荣，同时启动"文心杯"创业大赛，最高奖项为价值1000万元早期投资。</p><p>李彦宏表示：“为打造更有活力的生态系统，并帮助开发者开发各种AI原生应用，百度计划设立一个10亿元人民币的投资基金。我们还将推出“文心杯”创业大赛。参赛者可以提交想法和原型，我们将寻找最有潜力的想法，并为其提供资金。美国开发者正基于ChatGPT或其他语言模型开发新应用。在中国，更多开发者将会基于文心大模型来开发AI应用。"</p><p>“未来，我认为中国会有自己的生态系统，拥有自己的大语言模型和基础模型。中国会出现至少一个、也可能是两个或三个基础大模型，可以支持人们开发各种AI原生应用。比如，百度的文心大模型就致力于成为AI开发者的默认基础模型之一。"他在发言中表示。</p><p>李彦宏还指出，“我非常看好中国AI应用的发展前景，如果回顾过去几十年历史，在中国大家都非常愿意拥抱新兴技术。虽然我们没有发明Android、iOS或Windows系统，但我们开发了许多非常创新的应用，比如微信、抖音和滴滴等，还有很多应用都很受欢迎、很实用。在人工智能时代，也是同样的情况。科技带来了很多可能，我们非常善于开发应用，并充分利用了这些可能。"</p><p>据介绍，本次创业大赛于5月31日正式启动，报名持续到6月25日24:00关闭。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685511718440.jpg"></figure><p>按要求，参赛团队需专注于AIGC、大模型创新应用方向，有意愿且有能力基于文心大模型搭建应用，或将文心大模型与自有产品进行结合。无论是有创业计划的初创团队，还是有成型产品或demo的初创公司，均可参赛。</p><p>大赛将为参赛团队开放文心大模型相关能力及百度智能云算力资源，并邀请来自IDG资本、百度风投、百度资本等知名机构投资人与多位百度AI专家担任评审。获奖团队有机会获得总值1000万元、500万元、200万元的资金与资源投资，以及AI大模型技术辅导与交流赋能。</p><p>同时，百度还将设立规模为10亿元的文心投资基金，面向AIGC领域潜力股创企，提供涵盖资金、技术、业务资源在内的全面扶持，持续关注AI领域优质创业团队，推动中国AI大模型生态繁荣。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685511732223.jpg"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -168,13 +161,20 @@
 <guid>http://www.techweb.com.cn/it/2023-05-31/2927946.shtml</guid>
 <author>果青</author><pubDate>Wed, 31 May 2023 19:04:32 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>苹果WWDC23主题演讲有望超过2个小时 成苹果最长主题演讲之一</title>
-<link>http://www.techweb.com.cn/world/2023-05-31/2927937.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】5月31日消息，据外媒报道，苹果2023年度的全球开发者大会，也就是WWDC23，在下周二凌晨1点就将开始，新产品、新系统等在当天的主题演讲中，预计就将亮相。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685524076660.jpg"></figure><p><code>对于今年全球开发者大会的主题演讲，长期关注苹果的一名资深记者，周三在社交媒体上表示，考虑到全部新的硬件和软件，他预计主题演讲将很容易超过2个小时，将成为苹果有史以来最长的主题演讲之一。</code></p><p><code>这名资深记者在社交媒体上还预计，下周的苹果全球开发者大会将聚焦多款新Mac、MR头显和新的操作系统这三大领域。</code></p><p><code>作为苹果应用开发者的盛会，苹果在6月份举行的全球开发者大会上都会推出各大产品线新的操作系统，按命名惯例，今年将推出iOS 17、iPadOS 17、tvOS 17、watchOS 10和macOS 14。</code></p><p><code>除了操作系统，苹果在部分年份也会推出新的硬件产品，主要是Mac，在去年的大会期间就推出了搭载M2芯片的MacBook Air和13英寸款MacBook Pro，今年在大会上则是有望推出15英寸版MacBookAir、Mac Studio等多款新Mac。</code></p><p><code>对于今年的大会，分析师和机构还预计有望推出传闻已久的MR头显，操作系统也将一并推出，这一新的硬件产品及操作系统将成为最受期待的部分。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>FF91量产交付 贾跃亭能否靠FF还清负债？至少要卖8千辆、目前限量300台</title>
+<link>http://www.techweb.com.cn/it/2023-05-31/2927943.shtml</link>
+<description><![CDATA[<p>5月31日，法拉第未来召开FF 91&amp;Faraday Future2.0发布会，法拉第未来创始人贾跃亭在会上宣布，法拉第未来的首辆量产车FF 91将进入交付阶段。贾跃亭作为创始人，用了9年时间也终于圆了他的“造车梦”。</p><p>发布会上，<strong>贾跃亭也公布了FF 91 2.0 Futurist Alliance的售价，30.9万美元（约合人民币219.5万元），全球限量300台，</strong>Futurist售价为24.9万美元（约合人民币176.9万元）。贾跃亭希望能把FF打造成为智能电车时代下的“法拉利+迈巴赫”。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0531/1685528012801.png"></figure><p>随着FF91重新以量产车的姿态，走进大众眼中，而在国内已经成为老赖的贾跃亭，能否凭借FF91翻盘，重新恢复自己的信用呢？目前来看，即便最理想的状况，FF91的销售额全部给贾跃亭，距离他本人还清债务，还有不短的距离。</p><p>天眼查APP显示，此前公开的贾跃亭个人破产申请文件显示，贾跃亭的债权人数量为100至199个。其中20个最大的无担保债权人名单，索赔金额合计24.91亿美元（约人民币176亿元）。</p><p><strong>以此简单测算，贾跃亭至少得卖出8000辆FF91 Futurist Alliance，</strong>才能勉强填补上国内的债务窟窿，但目前FF91全球限量300台，对贾老板来说，通过卖车还钱，现阶段困难重重。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-05-31/2927937.shtml</guid>
-<author>海蓝</author><pubDate>Wed, 31 May 2023 17:18:29 +0800</pubDate>
-<source>TechWeb.com.cn</source>
+<guid>http://www.techweb.com.cn/it/2023-05-31/2927943.shtml</guid>
+<author>若风</author><pubDate>Wed, 31 May 2023 18:15:07 +0800</pubDate>
+<source>快科技</source>
+</item><item><title>特斯拉股价大涨！马斯克再次成为世界首富</title>
+<link>http://www.techweb.com.cn/it/2023-06-01/2927957.shtml</link>
+<description><![CDATA[<p>北京时间6月1日早间消息，据报道，法国奢侈品巨头LVMH集团在巴黎的股价下跌2.6%，公司创始人贝尔纳·阿尔诺（Bernard Arnault）让出全球首富宝座，马斯克再次登顶。</p><p>阿尔诺现年74岁，今年二人争夺全球首富头衔，彼此交替，针锋相对。去年12月阿尔诺超越马斯克，因为当时通胀飙升，科技股低迷，奢侈品行业却拥有更强的抵抗力。LVMH旗下拥有Louis Vuitton、Fendi和Hennessy等品牌。</p><p>现在经济呈现衰退迹象，投资者对奢侈品行业的信心开始下滑。自4月以来LVMH股价已经下跌10%，阿尔诺的净资产曾在一天之内蒸发110亿美元。特斯拉刚好相反，股价上涨，今年马斯克身家上涨553亿美元。马斯克的财富约有71%来自特斯拉，今年至特斯拉股价大涨66%。</p><p>目前马斯克拥有财富1923亿美元，阿尔诺以1866亿美元排在第二位。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-01/2927957.shtml</guid>
+<author>郑卓</author><pubDate>Thu, 01 Jun 2023 08:39:18 +0800</pubDate>
+<source>新浪科技</source>
 </item><item><title>炳叔：IEEE的审稿权，是一种机会优势</title>
 <link>http://bingshu.blog.techweb.com.cn/archives/3494</link>
 <description><![CDATA[<p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
