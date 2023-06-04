@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Sun, 04 Jun 2023 14:08:43 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 20:11:50 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -54,12 +54,12 @@
 <guid>http://www.techweb.com.cn/it/2023-06-04/2928137.shtml</guid>
 <author>远洋</author><pubDate>Sun, 04 Jun 2023 11:13:30 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>消息称微软总裁将会见英国财政大臣，或考虑关闭动视暴雪在英业务</title>
-<link>http://www.techweb.com.cn/it/2023-06-04/2928138.shtml</link>
-<description><![CDATA[<p>&nbsp;6 月 4 日消息，据彭博社报道，微软总裁布拉德史密斯将于下周会见英国财政大臣杰里米亨特，表达他对英国竞争和市场管理局（CMA）阻止其以 690 亿美元（备注：当前约 4892.1 亿元人民币）收购动视暴雪公司这一决定的不满。</p><p>报道称，史密斯将与亨特以及 CMA 的官员在伦敦举行会谈。此前，CMA 在 4 月 26 日否决了微软对动视暴雪的收购。报道指出，英国官员们对史密斯在采访中批评 CMA 的言论感到不快。史密斯在采访中表示，批准微软收购案的欧盟是一个比英国更好的商业选址。</p><p>彭博社援引知情人士消息称，微软一个极端的选择可能是绕过英国的禁令继续推进交易，或者关闭动视暴雪在英国市场的业务。微软希望以此向英国政府施压，这证实了 Mlex 新闻社早些时候的报道。</p><p>据介绍，CMA 阻拦微软收购案的一个重要论点是，游戏开发成本已经高得难以承受，而微软的收购将进一步加剧市场垄断，推高游戏价格。此前曾报道，微软已于今年 3 月取消了 1 美元（备注：当前约 7.09 元人民币）的 Xbox Game Pass 优惠，用户需要为 Xbox Game Pass Ultimate 支付每月 14.99 美元（备注：当前约 106 元人民币）的订阅费用。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>消息称华为版ChatGPT“盘古 Chat”7月7日发布，面向To B/G政企端客户</title>
+<link>http://www.techweb.com.cn/it/2023-06-04/2928151.shtml</link>
+<description><![CDATA[<p>&nbsp;6 月 4 日消息，钛媒体从华为内部独家获悉，华为公司将发布一款直接对标 ChatGPT 的多模态千亿级大模型产品，名为“盘古 Chat”。</p><p>据介绍，盘古大模型于 2020 年 11 月在华为云内部立项成功。这款“盘古 Chat ”预计将于今年 7 月 7 日举行的华为云开发者大会 (HDC.Cloud 2023) 上对外发布以及内测，产品主要面向 To B / G 政企端客户。</p><p>根据华为公布的一份论文数据显示，华为盘古 PanGu-Σ 大模型参数最多为 1.085 万亿，基于华为自研的 MindSpore 框架开发。整体来看，PanGu-Σ 大模型在对话方面可能已接近 GPT-3.5 的水平。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685869967178.jpg"></figure><p>查询公开资料获悉，华为盘古大模型于 2021 年 4 月正式对外发布，后来又在 2022 年 4 月升级到 2.0 版本。目前，AI 大模型中的 NLP 大模型、CV 大模型以及科学计算大模型（气象大模型）均已被标记为即将上线状态。</p><p>据介绍，这是首个千亿参数中文预训练大模型，CV 大模型则首次达到 30 亿参数。盘古 CV 大模型业界最大 CV 大模型、首次实现兼顾判别与生成能力、在 ImageNet 上小样本学习能力上的业界第一；盘古气象大模型提供秒级天气预报；紫东.太初是全球首个图、文、音三模态大模型。</p><p>对于盘古大模型定位，华为内部团队确立了三项最关键的核心设计原则：一是模型要大，可以吸收海量数据；二是网络结构要强，能够真正发挥出模型的性能；三是要具有优秀的泛化能力，可以真正落地到各行各业的工作场景。</p><p>根据华为云高管的演讲 PPT 信息，目前华为“盘古系列 AI 大模型”基础层主要包括 NLP 大模型、CV 大模型、以及科学计算大模型等，上层则是与合作伙伴开发的华为行业大模型。</p><p>华为云官网显示，盘古大模型由 NLP 大模型、CV 大模型、多模态大模型、科学计算大模型等多个大模型构成，通过模型泛化，解决传统 AI 作坊式开发模式下不能解决的 AI 规模化、产业化难题，可以支持多种自然语言处理任务，包括文本生成、文本分类、问答系统等等。</p><p>具体来看，盘古 NLP 大模型首次使用 Encoder-Decoder 架构，兼顾 NLP 大模型的理解能力和生成能力，保证了模型在不同系统中的嵌入灵活性。下游应用中，仅需少量样本和可学习参数即可完成千亿规模大模型的快速微调和下游适配，这一模型在智能舆论以及智能营销方面都有不错的表现。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870016174.jpg"></figure><p style="text-align:center;">盘古 NLP 大模型</p><p>盘古 CV 大模型是首次实现模型按需抽取的业界最大 CV 大模型，首次实现兼顾判别与生成能力，基于模型大小和运行速度需求，自适应抽取不同规模模型，AI 应用开发快速落地。使用层次化语义对齐和语义调整算法，在浅层特征上获得了更好的可分离性，使小样本学习的能力获得了显著提升，达到业界第一，这一模型在智能巡检以及智慧物流方面有不错的表现。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870048499.jpg"></figure><p style="text-align:center;">盘古 CV 大模型</p><p>盘古气象大模型提供秒级天气预报，借助创新的 3DEST 网络结构以及分层时间聚合算法，在气象预报的关键要素和常用时间范围上精度均超过当前最先进的预报方法，速度相比传统方法提升 1000 倍以上。同时，盘古气象大模型支持广泛的下游预报方案，如在台风路径预测任务上，相比传统数值气象预报方法，盘古气象大模型可以降低 20% 以上的位置误差。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870083468.jpg"></figure><p style="text-align:center;">盘古气象大模型</p><p>浙商证券此前披露的信息显示，华为在训练千亿参数的盘古大模型时调用了超过 2000 块的昇腾 910 芯片，进行了超 2 个月的数据训练能力。华为内部称，每年大模型训练调用 GPU / TPU 卡超过 4000 片，3 年的大模型算力成本高达 9.6 亿元人民币。</p><p>东吴证券梳理的华为盘古大模型产业链研报中指出，华为盘古大模型的优势在于人才储备和算力自主可控，有望成为国内领先的大模型，其生态产业链标的有望迎来加速发展，包括拓维信息、四川长虹、麒麟软件（中国软件）、统信软件（诚迈科技）、麒麟信安等华为生态公司。国盛证券则认为，华为盘古为首个多模态千亿级大模型，有望赋能百业。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870109249.jpg"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870116948.png"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870124641.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-04/2928138.shtml</guid>
-<author>渡江</author><pubDate>Sun, 04 Jun 2023 11:16:11 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-06-04/2928151.shtml</guid>
+<author>问舟</author><pubDate>Sun, 04 Jun 2023 17:17:01 +0800</pubDate>
 <source>IT之家</source>
 </item><item><title>一季度中国游戏市场二八分化：前十厂商挣了810亿，腾讯网易占八成</title>
 <link>http://www.techweb.com.cn/it/2023-06-04/2928146.shtml</link>
@@ -82,6 +82,27 @@
 <guid>http://www.techweb.com.cn/it/2023-06-04/2928136.shtml</guid>
 <author>渡江</author><pubDate>Sun, 04 Jun 2023 10:38:48 +0800</pubDate>
 <source>IT之家</source>
+</item><item><title>比亚迪上调车辆保养价格，部分车型涨幅达 50%</title>
+<link>http://www.techweb.com.cn/it/2023-06-04/2928153.shtml</link>
+<description><![CDATA[<p>6 月 4 日消息，近日不少网友反映，比亚迪上调了部分车型的保养费，其中部分车型保养费上调的幅度达到 50% 左右。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870530208.jpg"></figure><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870535909.jpg"></figure><p style="text-align:center;">保养价格变化（下图为涨价后价格）</p><p>从各地车主反映的实际情况来看，这次保养费上调涉及的车型包括比亚迪宋、秦、汉系列混动车型以及部分纯电车型，涨幅根据所在城市和车型的不同有所差异，部分车型的保养价格涨幅甚至高达 50%。纯电车型上调的幅度比较小，混动车型上调的幅度相对比较大。例如北京、上海、深圳、广州、杭州等一线城市以及新一线城市价格涨幅较大，宋、秦系列混动车型最低保养价格从之前的 325 元提升至 485 元，涨幅高达 49.2%。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0604/1685870571406.jpg"></figure><p>据悉，有与比亚迪关系较为密切的博主 @向北不断电 称，比亚迪保养的商城价格体系持续了 5 年，现在做了重新的调整。调整的核心在于“工时费”，所以涨价幅度一级城市＞二级城市＞三级城市。相对而言，纯电车型涨价幅度比较小，插混车型涨价幅度较大，但增加了整车基础检测项目。不过他表示自己言论并不是官方答复，只是基于自己所了解的情况进行介绍。</p><p>比亚迪旗下车型均支持首任车主三电终身质保，但是需满足的条件之一便包括要通过官方进行车辆的保养和维护，因此大部分车主会在比亚迪官方进行保养，此次保养涨价引发了部分车主不满。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-04/2928153.shtml</guid>
+<author>远洋</author><pubDate>Sun, 04 Jun 2023 17:24:48 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>消息称微软总裁将会见英国财政大臣，或考虑关闭动视暴雪在英业务</title>
+<link>http://www.techweb.com.cn/it/2023-06-04/2928138.shtml</link>
+<description><![CDATA[<p>&nbsp;6 月 4 日消息，据彭博社报道，微软总裁布拉德史密斯将于下周会见英国财政大臣杰里米亨特，表达他对英国竞争和市场管理局（CMA）阻止其以 690 亿美元（备注：当前约 4892.1 亿元人民币）收购动视暴雪公司这一决定的不满。</p><p>报道称，史密斯将与亨特以及 CMA 的官员在伦敦举行会谈。此前，CMA 在 4 月 26 日否决了微软对动视暴雪的收购。报道指出，英国官员们对史密斯在采访中批评 CMA 的言论感到不快。史密斯在采访中表示，批准微软收购案的欧盟是一个比英国更好的商业选址。</p><p>彭博社援引知情人士消息称，微软一个极端的选择可能是绕过英国的禁令继续推进交易，或者关闭动视暴雪在英国市场的业务。微软希望以此向英国政府施压，这证实了 Mlex 新闻社早些时候的报道。</p><p>据介绍，CMA 阻拦微软收购案的一个重要论点是，游戏开发成本已经高得难以承受，而微软的收购将进一步加剧市场垄断，推高游戏价格。此前曾报道，微软已于今年 3 月取消了 1 美元（备注：当前约 7.09 元人民币）的 Xbox Game Pass 优惠，用户需要为 Xbox Game Pass Ultimate 支付每月 14.99 美元（备注：当前约 106 元人民币）的订阅费用。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-04/2928138.shtml</guid>
+<author>渡江</author><pubDate>Sun, 04 Jun 2023 11:16:11 +0800</pubDate>
+<source>IT之家</source>
+</item><item><title>塔塔集团将建立印度首座锂离子电池超级工厂，初始投资1300亿卢比</title>
+<link>http://www.techweb.com.cn/it/2023-06-04/2928152.shtml</link>
+<description><![CDATA[<p>6 月 4 日消息，印度古吉拉特邦政府宣布，印度实业巨头塔塔集团与该邦签署协议，将建立该国首座锂离子电池超级工厂。</p><p>公示文件显示，当地时间周五，塔塔集团子公司 Tata Agaratas Energy Storage Solutions 与古吉拉特邦签署谅解备忘录，将在该邦建立产能达 20 千兆瓦时的电动汽车电池工厂，生产印度首批锂离子电池，预计初始投资近 1300 亿卢比（备注：当前约 111.8 亿元人民币），为超 1.3 万人创造直接和间接就业机会。</p><p>塔塔集团（टाटा समूह）是印度目前最大的集团公司，包括 7 个部门 96 个公司，在六大洲 40 多个国家经营业务，其产品出口到 140 个国家，涉及航空、汽车、快消产品、化学物质、国防航太、配电系统、工程、金融、医疗、资讯、铁路机车、房地产、钢铁、通讯等领域。</p><p>据公开资料，塔塔集团得名于其创始人贾姆希德吉・塔塔，其家族成员几乎一直担任集团董事长。集团过渡期间的董事长是拉坦・塔塔。<br>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-04/2928152.shtml</guid>
+<author>问舟</author><pubDate>Sun, 04 Jun 2023 17:20:30 +0800</pubDate>
+<source>IT之家</source>
 </item><item><title>英特尔Innovation 2023定档9月19日 预计发布14代桌面酷睿处理器</title>
 <link>http://www.techweb.com.cn/it/2023-06-03/2928116.shtml</link>
 <description><![CDATA[<p style="margin-left:0px;text-align:justify;"><a href="https://www.ithome.com/">IT之家</a> 6 月 3 日消息，英特尔现已宣布将在 9 月 19 日举行 Innovation 2023 活动。从时间来看，英特尔预计将在此次活动上发布 14 代酷睿桌面处理器。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0603/1685781340611.png"></figure><p style="margin-left:0px;text-align:justify;">在去年的英特尔 Innovation 2022 上，英特尔介绍了至强、Arc GPU 以及酷睿系列处理器的最新进展，并发布了&nbsp;13 代酷睿 K 系列处理器。今年，英特尔预计将发布 14 代酷睿处理器，代号为“Raptor Lake Refresh”，即 13代酷睿的小更新版，预计架构不变，频率更高。此外，英特尔也可能介绍有关 14 代酷睿移动处理器以及锐炫 B 系列显卡的消息，届时请关注IT之家的详细报道。</p><p style="margin-left:0px;text-align:justify;">英特尔 Innovation 2023 官方预告：</p><p style="margin-left:0px;text-align:justify;">英特尔将整个行业聚集在一起，深入研究正在突破极限并改变世界的硬件和软件技术解决方案。我们将行业的精华、技术的未来以及英特尔开发者论坛带入英特尔 Innovation 2023。</p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -95,27 +116,6 @@
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/smarttraveling/2023-06-03/2928109.shtml</guid>
 <author>泽泷</author><pubDate>Sat, 03 Jun 2023 09:42:59 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>必应聊天放宽限制：每轮会话最多支持30次交流 每日上限增至300次</title>
-<link>http://www.techweb.com.cn/world/2023-06-02/2928083.shtml</link>
-<description><![CDATA[<p>【TechWeb】6月2日消息，据外媒报道，微软必应工程和产品部负责人Jordi Ribas宣布，必应聊天（Bing Chat）现在支持每轮会话最多30次交流，每天最多进行300次交流。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0602/1685689069551.jpg"></figure><p>今年2月7日，微软推出了由人工智能（AI）驱动的新版必应。除了常规的必应搜索结果，新版必应还增加了一个聊天选项，允许用户与AI进行长时间、开放式的文本对话，并获得问题的答案。</p><p>当必应聊天首次亮相时，该公司并没有对该工具设置任何限制。然而，这是短暂的，因为多名用户开始提交报告，称该工具提供了不准确的答复或出现了不礼貌的情况。因此，在过去几个月里，微软逐渐提高了该工具的限制，以增强其可用性。</p><p>今年3月份，外媒报道称，微软正探索在必应聊天给出的回复中投放广告，这是必应自推出人工智能功能以来日活跃用户达到1亿且不断增长的必然结果。</p><p>今年5月份，Ribas表示，必应聊天新增了聊天内容“导出”和“分享”功能。用户只需要将鼠标放在需要导出的聊天内容上方，就会出现几个快速操作按钮，其中包括“导出”和“分享”选项。</p><p>微软希望将必应聊天变成一个“平台”，为此该公司将很快增加对第三方插件的支持，以扩展其功能。（小狐狸）</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-06-02/2928083.shtml</guid>
-<author>小狐狸</author><pubDate>Fri, 02 Jun 2023 15:00:41 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>马化腾要收紧队形？腾讯张军回应：外部群聊天，不是跟公司内部说的</title>
-<link>http://www.techweb.com.cn/it/2023-06-02/2928087.shtml</link>
-<description><![CDATA[<p>【TechWeb】6月2日消息，近日，马化腾在某微信群分享了一篇关于裁员的文章，并称“后续环境挑战目前看还挺大。你们要收紧队形，做一些余量考虑，应对一些突发的挑战。不可过于乐观”。</p><p>随后，该截图在网上刷屏，引发热议。有网友将马化腾此番言论与腾讯联系到一起，认为是在说腾讯内部情况，暗示腾讯可能还要继续裁员。</p><p>对此，腾讯公关总监张军在朋友圈回应称，“在外部群里聊了个天，本意是跟一家投资公司管理层做一些居安思危和降本增效的探讨，没想到流传出来，越说越歪，以为是内部讲话”。</p><p>近来，互联网大厂屡屡传出裁员的消息，且比例不低，这可能是马化腾此番言论引发网友猜测腾讯裁员的一个原因。</p><p>最新财报显示，截至2023年3月31日，腾讯共有10.62万名雇员。而截至2022年3月31日则为11.62万名，截至2022年12月31日为10.84万名。据此推算，腾讯一季度员工减少超2000人，近一年员工减少近1万人。</p><p>同为大厂，日前阿里也再度传出裁员消息，裁员板块涉及淘天集团、菜鸟、本地生活、云智能集团、大文娱；总裁员名额2.5w；淘宝天猫产研裁员25%；阿里云智能裁员7%等。</p><p>对此，阿里集团在官微回应称，“近日，关于淘宝天猫、阿里云、菜鸟、本地生活各个业务裁员谣言传得很厉害，但谣言就是谣言。我们的招聘正在紧锣密鼓的进行。”2023年六大业务集团总计需新招15000人，其中校招超过3000人。</p><p>不过，从阿里过去几个季度的财报来看，其员工数量确实在持续减少。财报显示，截至3月31日，阿里员工数量为235216人，而截至2022年12月31日为239740人，一季度减少4524人。</p><p>此外，阿里巴巴在2022年一季度减少4375人、二季度减少9241人、三季度减少1797人、四季度减少4163人。也就是说，在过去的5个季度，阿里员工数量减少了2.41万人。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-02/2928087.shtml</guid>
-<author>周小白</author><pubDate>Fri, 02 Jun 2023 15:32:40 +0800</pubDate>
-<source>TechWeb.com.cn</source>
-</item><item><title>安卓 / iOS支付宝10.3.86版本支持深色模式 可跟随系统开启</title>
-<link>http://www.techweb.com.cn/internet/2023-06-03/2928111.shtml</link>
-<description><![CDATA[<p style="margin-left:0px;text-align:justify;">支付宝推送 10.3.86 版本更新（<a href="https://android.ithome.com/">安卓</a> / iOS），支持深色模式，可在“设置”-“通用”-“深色模式”开启。深色模式可以选择跟随系统或者手动开启。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0603/1685767094127.png"></figure><p style="margin-left:0px;text-align:justify;">支付宝于 2022 年底对“深色模式”进行内测招募，IT之家体验后发现，支付宝深色模式目前还未适配蚂蚁森林、神奇海洋、蚂蚁庄园、芝麻信用等。</p><p style="margin-left:0px;text-align:justify;">IT之家注：同样的色彩，在浅色背景和深色背景上人眼视觉感知的亮度与饱和度不同。深色模式通过对文字和系统图标的颜色做优化处理，确保人眼观看感受的一致性、舒适性和阅读的易读性。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/internet/2023-06-03/2928111.shtml</guid>
-<author>故渊</author><pubDate>Sat, 03 Jun 2023 12:39:54 +0800</pubDate>
 <source>IT之家</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
