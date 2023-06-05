@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Mon, 05 Jun 2023 20:14:02 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 02:08:39 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -26,6 +26,13 @@
 <guid>http://www.techweb.com.cn/it/2023-06-05/2928184.shtml</guid>
 <author>御风 </author><pubDate>Mon, 05 Jun 2023 10:15:38 +0800</pubDate>
 <source>TechWeb.com.cn</source>
+</item><item><title>OpenAI网站访问量大增 机构称3月份有超过8亿用户访问</title>
+<link>http://www.techweb.com.cn/world/2023-06-05/2928192.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】6月5日消息，据外媒报道，人工智能聊天机器人ChatGPT的爆火，也将其开发商OpenAI推向了前台，公司网站的访问量也大幅提升。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0605/1685936872210.jpg"></figure><p><code>研究公司的数据就显示，在今年的3月份，共有8.47亿独立用户访问了OpenAI的网站，3月份的访问量环比大增54.21%。</code></p><p><code>3月份的访问量大增，也推升OpenAI成为了当月全球访问量第18高的网站，首次进入前20，较2月份的第27位提升9位。</code></p><p><code>事实上，OpenAI网站的访问量并不是在3月份才大幅增加，在ChatGPT大火之后，外界对他们的关注就已大幅提升。研究公司的数据就显示，在今年2月份，OpenAI网站访问量的排名就有大幅提升，在全球网站访问量中的排名，由1月份的第51位，跃居到了第27位。</code></p><p><code>作为ChatGPT的开发商，这一大火的应用虽然在5月份已经有了iOS版app，针对安卓系统的版本也在准备中，但在3月份，主要还是通过网站使用ChatGPT，OpenAI网站自然就有大量的用户访问。</code></p><p><code>外媒在报道中还提到，OpenAI网站的访问量在今年2月份就已超过10亿，3月份预计达到了16亿。</code></p><p><code>从机构的数据来看，在OpenAI网站的访问者中，平均每9人就有1人来自美国，美国也是他们最大的访问量来源。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/world/2023-06-05/2928192.shtml</guid>
+<author>海蓝</author><pubDate>Mon, 05 Jun 2023 11:54:28 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>消息称台积电已启动2nm试产前期准备工作，目标今年试产近千片</title>
 <link>http://www.techweb.com.cn/it/2023-06-05/2928172.shtml</link>
 <description><![CDATA[<p>&nbsp;6 月 5 日消息，据台湾地区经济日报报道，业界传出，台积电全力冲刺下世代制程技术，近期启动 2nm 试产前期准备工作，将搭配导入最先进 AI 系统来节能减碳并加速试产效率，预计苹果、英伟达等大厂都会是台积电 2nm 量产后首批客户，并扩大与三星、英特尔等竞争对手的差距。</p><p>台积电表示不评论相关传闻，强调 2nm 技术研发进展顺利，预计 2025 年量产。</p><p>消息人士透露，台积电因应 2nm 试产前置前期准备工作，内部也开始调度工程师人力到竹科研发厂区做准备，预计召集千人以上的研发团队，在竹科宝山晶圆 20 厂领先全球量产 2nm。公开信息显示，台积电未来最先进的 2nm 生产基地会先落脚竹科宝山晶圆 20 厂，该厂区为四期规划，后续并将扩至中科，共计有六期的工程。</p><p>业界传出，台积电 2nm 研发初期会先在竹科建立小量试产生产线，目标今年试产近千片，试产顺利后，将导入后续建造完成的竹科宝山晶圆 20 厂，由该厂团队接力冲刺 2024 年风险试产与 2025 年量产目标。</p><p>据悉，台积电 2nm 将首度采用全新环绕闸极（GAA）电晶体架构。台积电先前于技术论坛中指出，相关新技术整体系统效能较 3nm 大幅提升，客户群先期投入合作开发意愿远高于 3nm 家族初期，并可量身定做更多元方案。</p><p>据悉，台积电先前已释出 2nm 家族制程蓝图规划，其中 N2 将于 2025 年量产，并为高速运算（HPC）产品量身打造背面电轨设计，将在 2025 下半年推出；另外，2nm 家族的 N2P 和 N2X 预计 2026 年推出。</p><p>英伟达执行长黄仁勋先前曾公开指出，台积电将把英伟达与其他伙伴耗时近四年合作的 AI 系统导入 2nm 试产作业，预计 6 月展开，不仅运算时间仅需约 40 分之一，并进一步精进周期、量产时程，同时降低制造碳足迹，并为 2nm 乃至更先进制程做好准备。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -40,13 +47,6 @@
 <guid>http://www.techweb.com.cn/world/2023-06-05/2928180.shtml</guid>
 <author>海蓝</author><pubDate>Mon, 05 Jun 2023 09:49:49 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>Y Combinator 创始人：股市投资者难以参与 AI 浪潮</title>
-<link>http://www.techweb.com.cn/it/2023-06-05/2928165.shtml</link>
-<description><![CDATA[<p>6 月 5 日早间消息，美国著名创业孵化器 Y Combinator 联合创始人、风投家保罗・格雷厄姆（Paul Graham）最近公开表示，公共市场投资者缺少渠道参与 AI 浪潮，因为几乎所有的优秀 AI 公司都是私营企业。</p><p>许多 AI 创业公司是新成立的，诞生可能只有 5 年多，它们高度依赖私人资本，比如 VC、PE 公司的投资。普通散户投资者可能没有类似的资金，也可能无法直接投资 AI 创业公司。</p><p>AI 创业公司如果想进入公开股票市场交易，可能需要等好几年时间，大多 AI 企业的规模和营收可能无法达到门槛，没有机会进入公开股票市场。对于想上市的企业而言，眼下并非好时机。目前 IPO 市场处于动荡期，上市吸引力不足，即使是很大很成功的私营企业也不愿意此时上市。</p><p>如何让公共市场投资者参与投资呢？格雷厄姆认为有两条路径：一是上市公司收购 AI 创业公司，变身为 AI 企业；二是创业公司以更快的速度进入公共股票市场。不过格雷厄姆认为这两条路都不是太好的选择，选择第一条路可能只是企业在迎合市场舆论，选择第二条路的 AI 创业公司可能只是想获得投资。</p><p>有些人不同意格雷厄姆的看法，他们认为公共股票市场投资者可以投资英伟达、微软、Alphabet 或者 Meta。今年 AI 概念股股价飙升，但推波助澜的主要是机构投资者而非散户。</p><p>格雷厄姆暗示，私人投资 AI 创业公司有机会获得巨额暴利。今年一季度，生成式 AI 创业公司获得 VC 投资 17 亿美元，还有价值 107 亿美元的交易已经宣布但没有完结。3 年前的一季度，AI 创业公司融资额只有 2.5 亿美元。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-05/2928165.shtml</guid>
-<author>新浪科技</author><pubDate>Mon, 05 Jun 2023 09:04:15 +0800</pubDate>
-<source>新浪科技</source>
 </item><item><title>华为已申请GPT相关商标</title>
 <link>http://www.techweb.com.cn/it/2023-06-05/2928199.shtml</link>
 <description><![CDATA[<p>【TechWeb】6月5日消息，天眼查App显示，华为技术有限公司于近期申请注册了两枚“HUAWEI NETGPT”商标，国际分类为科学仪器、网站服务，当前商标状态为申请中。此外，华为已成功注册多枚“盘古”“PANGU”商标。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0605/1685946759211.png"></figure><p>此前，据钛媒体报道，华为公司将发布一款直接对标ChatGPT的多模态千亿级大模型产品，名为“盘古Chat”。</p><p>报道称，预计华为盘古Chat将于今年7月7日举行的华为云开发者大会 (HDC.Cloud 2023) 上对外发布以及内测，产品主要面向To B/G政企端客户。</p><p>公开资料显示，华为盘古大模型是由华为云、循环智能和鹏城实验室联合开发的业界首个千亿级生成和理解中文NLP大模型。它具备语言理解和模型生成能力，除了NLP大模型外，华为盘古大模型还包括CV大模型、科学计算大模型等多个大模型，通过模型泛化，解决AI规模化、产业化难题。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
