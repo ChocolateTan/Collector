@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Thu, 08 Jun 2023 20:16:32 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 02:12:03 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -47,6 +47,13 @@
 <guid>http://www.techweb.com.cn/it/2023-06-08/2928403.shtml</guid>
 <author>站长之家</author><pubDate>Thu, 08 Jun 2023 14:37:47 +0800</pubDate>
 <source>站长之家</source>
+</item><item><title>中国电信广东客服：受影响用户的接听电话功能逐步恢复</title>
+<link>http://www.techweb.com.cn/tele/2023-06-08/2928424.shtml</link>
+<description><![CDATA[<p>【TechWeb】6月8日消息，今日，多位中国电信广东用户反映，手机卡没信号，无法拨打电话，也上不了网，甚至连中国电信服务热线10000也无法拨通。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0608/1686220099484.jpg"></figure><p>对此，中国电信广东客服官微回应称，“因网络异常，影响部分移动用户接听电话，我们正在进行抢修，由此给您带来的不便，我们深表歉意，感谢您的理解和支持。 ”</p><p>据 中国电信广东客服官微最新消息，经紧急抢修，自 16:30 起，受影响的用户正逐步恢复，对在此期间受到影响的客户表示真诚的歉意。</p><p>网传一张疑似事故原因的通报中显示，该故障为“特别重大网络故障”，等级已经达到B级别。此前，中国电信业也因网络问题多次登上热搜。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0608/1686220117648.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/tele/2023-06-08/2928424.shtml</guid>
+<author> 御风 </author><pubDate>Thu, 08 Jun 2023 18:29:52 +0800</pubDate>
+<source>TechWeb.com.cn</source>
 </item><item><title>DeepMind人工智能创造出比人类快70%的排序算法，可让全球软件速度更快</title>
 <link>http://www.techweb.com.cn/it/2023-06-08/2928383.shtml</link>
 <description><![CDATA[<p>6 月 8 日消息，谷歌旗下 DeepMind 开发的人工智能 AlphaDev 创造了一种新的数据排序方法，比人类程序员设计的算法快了 70%，这一发现可能让全球数以百万计的软件运行得更快。</p><p>数据排序是计算机的基本功能之一，用于按照字母顺序或者数字大小来排列数据。目前已经有很多不同的排序算法，但是由于经过几十年的优化，人类很难再有创新。</p><p>AlphaDev 的设计目标是发现新的算法来完成给定的任务，并且尽量超越现有的方法。它不是对当前的算法进行微调，而是从零开始构建。其使用了一种叫做汇编代码的中间语言，这种语言比人类编写的代码更接近计算机的二进制指令，也更容易让 AlphaDev 创造出更高效的算法。</p><p>AlphaDev 每次生成一个指令，然后测试它的输出是否正确，同时还要求生成最短的算法。DeepMind 表示，这项任务难度非常大，因为可能的指令组合数量非常庞大。</p><p>当被要求创建一个排序算法时，AlphaDev 惊人地发现了一种比最好的算法快 70% 的方法，用于对五个数据进行排序。即使对 25 万个数据进行排序，它也能比最好的算法快 1.7%。</p><p>“我们一开始以为它出错了或者有什么 bug，但是当我们分析了这个程序，我们意识到 AlphaDev 真的发现了一种更快的方法。”DeepMind 的 Daniel Mankowitz 说。</p><p>由于排序算法被广泛应用于各种常用软件中，这一改进可能会对全球计算产生重大影响。DeepMind 已经将它们开源，并且加入了一个叫做 Libc++ 的常用代码库，这意味着任何人都可以立即使用它们，这是这个代码库中排序算法部分十多年来第一次更新。</p><p>Mankowitz 说，由于物理极限，摩尔定律（IT之家注：即芯片性能定期翻倍）即将终结，但是 AlphaDev 可能能够通过提高效率来弥补这一点。</p><p>英国伯明翰大学的 Mark Lee 说，AlphaDev 很有趣，即使 1.7% 的速度提升也很有用。但他说，对这种方法能否弥补摩尔定律终结持怀疑态度，因为它不太可能在更复杂的软件中取得同样的进步。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -61,12 +68,12 @@
 <guid>http://www.techweb.com.cn/it/2023-06-08/2928364.shtml</guid>
 <author>故渊</author><pubDate>Thu, 08 Jun 2023 08:40:49 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>首位走出考场的考生喊话马化腾 新版QQ空间太难用 腾讯回应了</title>
-<link>http://www.techweb.com.cn/it/2023-06-07/2928351.shtml</link>
-<description><![CDATA[<p>【TechWeb】6月7日消息，据@浙江经视报道，2023高考首日，在杭州十四中考点，第一科语文科目考试还没有结束，一名男生就走出了考场。面对记者采访，该男生喊话马化腾：“腾讯能不能把QQ空间改回老版，新版太难用了！</p><p>对此，腾讯QQ官微回应称，“鹅收到喊话啦~我们非常重视你的建议！先专心考试，等考试结束后，我们第一时间联系你！祝你高考顺利！”</p><p>在留言区，也有不少网友给出了建议：“恢复老说说的浏览记录”“把涂鸦还给我”“还我极速版”“QQ厘米秀上架”“完善空间主页的搜索功能”“点赞评论转发的通知分开”“空间减少一些广告推广”“恢复浏览记录”“想要QQ看点”“把小世界去掉”……</p><p>你希望QQ改进哪些功能呢？</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0607/1686129966928.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>数据中心热衷于AI GPU供应多元化 AMD有望成最大受益者</title>
+<link>http://www.techweb.com.cn/world/2023-06-08/2928410.shtml</link>
+<description><![CDATA[<p><code>【TechWeb】6月8日消息，据外媒报道，在ChatGPT等人工智能应用的推动下，相关厂商对AI GPU的需求明显增加，供应H100、A100等高性能GPU的英伟达，成为一大受益方，他们截至4月30日的2023财年第一财季的营收，环比就增长19%，也有报道称他们已增加了在台积电的订单，以满足客户的需求。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0608/1686211260284.jpg"></figure><p><code>AI GPU需求的增加，除了给英伟达带来新的发展机遇，也为其他厂商带来了机会。</code></p><p><code>有相关媒体援引业内人士的透露报道中，数据中心正热衷于AI GPU供应商多元化，AMD就打算通过他们的Instinct MI300系列，成为英伟达H100 GPU的替代选项，进而获得最大收益。</code></p><p><code>从相关媒体的报道来看，AMD数据中心加速处理器Instinct MI300，采用台积电的5nm制程工艺，专为高能效人工智能训练和高性能计算工作负载而设计，业内人士预计将在四季度量产。</code></p><p><code>作为英伟达H100的竞争者，AMD在寻求通过Instinct MI300，挑战英伟达在AI GPU市场的主导地位。</code></p><p><code>相关媒体在报道中也提到，英伟达A100和H100 GPU已成为全球AI GPU市场的焦点，但行业观察人士认为，英伟达在通往主导地位的道路上将面临挑战。</code></p><p><code>供应链方面的人士透露，从软件、硬件、生态系统力量、价格、供应等来看，英伟达在AI GPU市场均处于领导地位，但上下游的供应商并不希望一家公司主导市场，这将压缩价格和供应谈判的空间，多家公司已在同AMD合作。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-07/2928351.shtml</guid>
-<author>周小白</author><pubDate>Wed, 07 Jun 2023 17:27:50 +0800</pubDate>
+<guid>http://www.techweb.com.cn/world/2023-06-08/2928410.shtml</guid>
+<author>海蓝</author><pubDate>Thu, 08 Jun 2023 16:06:44 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>今晚见！小米Civi 3迪士尼100周年限定版官宣：米奇粉最爱</title>
 <link>http://www.techweb.com.cn/phone/2023-06-08/2928373.shtml</link>
@@ -75,20 +82,6 @@
 <guid>http://www.techweb.com.cn/phone/2023-06-08/2928373.shtml</guid>
 <author>Suky</author><pubDate>Thu, 08 Jun 2023 09:02:40 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>台积电预计今年资本支出约为320亿美元</title>
-<link>http://www.techweb.com.cn/it/2023-06-08/2928404.shtml</link>
-<description><![CDATA[<p>&nbsp;6 月 8 日消息，英伟达看好生成式 AI 应用前景，黄仁勋表示 H100 由台积电独家代工，不考虑新增第二家晶圆代工。</p><p>但台积电的业务并没有受到英伟达乐观声明的影响，公司高层表示今年不加大资本支出。</p><p>台积电此前预测今年资本支出为 320-360 亿美元，本周二召开的年度股东大会上，台积电董事长刘德音表示今年的资本支出按照下限执行，为 320 亿美元（备注：当前约 2281.6 亿元人民币）。</p><p>作为对比，台积电 2022 年资本支出为 360 亿美元，而且去年还将基本建设预算下调了 10%。</p><p>台积电董事长刘德音称：“台积电正在经历库存调整期，但客户正在降低库存，我们看到一些终端市场正在复苏。今年的销售额可能会略有下降，但我们预计从明年开始将实现强劲增长”。</p><p>这一预测表明，与整个半导体行业一样，龙头台积电在面对消费者支出的急剧下降和经济复苏不及预期的情况下，对投资仍持谨慎态度。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-08/2928404.shtml</guid>
-<author>故渊</author><pubDate>Thu, 08 Jun 2023 14:39:34 +0800</pubDate>
-<source>IT之家</source>
-</item><item><title>中国电信广东客服：受影响用户的接听电话功能逐步恢复</title>
-<link>http://www.techweb.com.cn/tele/2023-06-08/2928424.shtml</link>
-<description><![CDATA[<p>【TechWeb】6月8日消息，今日，多位中国电信广东用户反映，手机卡没信号，无法拨打电话，也上不了网，甚至连中国电信服务热线10000也无法拨通。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0608/1686220099484.jpg"></figure><p>对此，中国电信广东客服官微回应称，“因网络异常，影响部分移动用户接听电话，我们正在进行抢修，由此给您带来的不便，我们深表歉意，感谢您的理解和支持。 ”</p><p>据 中国电信广东客服官微最新消息，经紧急抢修，自 16:30 起，受影响的用户正逐步恢复，对在此期间受到影响的客户表示真诚的歉意。</p><p>网传一张疑似事故原因的通报中显示，该故障为“特别重大网络故障”，等级已经达到B级别。此前，中国电信业也因网络问题多次登上热搜。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0608/1686220117648.png"></figure><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/tele/2023-06-08/2928424.shtml</guid>
-<author> 御风 </author><pubDate>Thu, 08 Jun 2023 18:29:52 +0800</pubDate>
-<source>TechWeb.com.cn</source>
 </item><item><title>分析师称苹果应收购迪士尼 以推动Vision Pro普及</title>
 <link>http://www.techweb.com.cn/world/2023-06-08/2928399.shtml</link>
 <description><![CDATA[<p><code>【TechWeb】6月8日消息，据外媒报道，在本周二凌晨开始的2023年度全球开发者大会上，苹果正式推出了他们的首款头显Vision Pro，起售价3499美元，将于明年年初在美国市场首发。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0608/1686197136625.jpg"></figure><p><code>作为苹果推出的首款头显产品，起售价3499美元的Apple Vision Pro，将苹果硬件产品线的售价推向了一个新的高度，但也有分析师认为，高昂的价格，可能会影响苹果这一头显设备的销量。</code></p><p><code>对于Apple Vision Pro，有分析师称苹果应收购迪士尼，以推动这一设备的普及。</code></p><p><code>从分析师的报告来看，苹果收购迪士尼，主要在于内容。这一分析师在报告中就表示，他们预计3499美元的起售价将是Vision Pro普及的阻力，但如果苹果收购了迪士尼，他们所创造的有吸引力的内容，将推动消费者购买Vision Pro。</code></p><p><code>值得注意的是，迪士尼CEO鲍勃·伊格尔也出现在了苹果2023年度全球开发者大会的主题演讲中，为苹果的Vision Pro站台，并宣布与苹果在这一新设备上达成了合作，在Vision Pro上市之后，用户将能通过这一设备观看来自Disney+的电影和电视节目，这也推动迪士尼的股价上涨。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -96,6 +89,13 @@
 <guid>http://www.techweb.com.cn/world/2023-06-08/2928399.shtml</guid>
 <author>海蓝</author><pubDate>Thu, 08 Jun 2023 12:13:01 +0800</pubDate>
 <source>TechWeb.com.cn</source>
+</item><item><title>台积电预计今年资本支出约为320亿美元</title>
+<link>http://www.techweb.com.cn/it/2023-06-08/2928404.shtml</link>
+<description><![CDATA[<p>&nbsp;6 月 8 日消息，英伟达看好生成式 AI 应用前景，黄仁勋表示 H100 由台积电独家代工，不考虑新增第二家晶圆代工。</p><p>但台积电的业务并没有受到英伟达乐观声明的影响，公司高层表示今年不加大资本支出。</p><p>台积电此前预测今年资本支出为 320-360 亿美元，本周二召开的年度股东大会上，台积电董事长刘德音表示今年的资本支出按照下限执行，为 320 亿美元（备注：当前约 2281.6 亿元人民币）。</p><p>作为对比，台积电 2022 年资本支出为 360 亿美元，而且去年还将基本建设预算下调了 10%。</p><p>台积电董事长刘德音称：“台积电正在经历库存调整期，但客户正在降低库存，我们看到一些终端市场正在复苏。今年的销售额可能会略有下降，但我们预计从明年开始将实现强劲增长”。</p><p>这一预测表明，与整个半导体行业一样，龙头台积电在面对消费者支出的急剧下降和经济复苏不及预期的情况下，对投资仍持谨慎态度。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-08/2928404.shtml</guid>
+<author>故渊</author><pubDate>Thu, 08 Jun 2023 14:39:34 +0800</pubDate>
+<source>IT之家</source>
 </item><item><title>宣战苹果Vision Pro，消息称三星、谷歌和高通正在开发新的MR产品</title>
 <link>http://www.techweb.com.cn/it/2023-06-08/2928412.shtml</link>
 <description><![CDATA[<p>6 月 8 日消息，据 BusinessKorea 报道，苹果近日发布了具有虚拟现实（VR）和增强现实（AR）功能的 Vision Pro 混合现实（MR）头显，也被外界视作下一款改变业界格局的苹果产品。业内人士预计，就像当前的智能手机竞争一样，MR 赛道未来也会是“苹果与反苹果集团之间的对抗”。</p><p>业内消息人士此前透露，包括三星电子、谷歌和高通在内的安卓阵营正在开发 MR 产品，目标最早在今年内推出。其中，谷歌负责 MR 专用操作系统的开发，高通负责 MR 专用芯片组的研发，而三星则会推出 MR 硬件产品。</p><p>谷歌负责产品管理的副总裁 Sameer Samat 在 5 月举行的谷歌年度开发者大会上表示：“我们对在沉浸式 XR 领域与三星电子的新合作感到兴奋。我们将在今年晚些时候分享更多消息。”XR（扩展现实）是 VR、AR 和 MR 的总称。</p><p>三星在今年 2 月向韩国知识产权局提交了 Galaxy Glasses 的商标申请。业内人士猜测，三星 XR 产品的形状更像普通眼镜，而非像苹果 Vision Pro 那样的滑雪护目镜。</p><p>值得注意的是，这也是安卓阵营首次为 XR 市场联合起来。过去，每个安卓阵营成员都选择单打独斗，然后又自我放弃。比如谷歌在 2016 年启动了 Daydream 项目，为智能手机开发 VR 平台，但在 2019 年放弃了该计划。三星曾与 Meta 子公司 Oculus 在 2014 年推出过 Gear VR 耳机，但此后没有发布相关产品。</p><p>据报道，市场研究公司 Counterpoint Research 预计，全球 MR / XR 头显出货量将从 2022 年的 1800 万台增长到 2025 年的 1.1 亿台，而到 2030 年会达到 10 亿台。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -110,12 +110,12 @@
 <guid>http://www.techweb.com.cn/it/2023-06-08/2928405.shtml</guid>
 <author>宜月</author><pubDate>Thu, 08 Jun 2023 14:43:39 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>可城市可越野 仰望U8云辇-P系统有何过人之处？</title>
-<link>http://www.techweb.com.cn/smarttraveling/2023-06-07/2928348.shtml</link>
-<description><![CDATA[<p>【TechWeb】作为比亚迪旗下高端品牌仰望的首款车型，仰望U8是如何撑起百万级身价的，答案是极致的技术创新，仰望U8搭载了自研的“易四方”驱动平台和云辇-P智能液压车身控制系统（以下简称云辇-P）。</p><p>“易四方”平台我们很好理解，就是4个车轮由4个独立电机来控制，可实现单个车轮的驱动、制动、前进和后退，让车辆具备超强的车身姿态调整能力，当然技术实现起来还是有相当难度的。</p><p>而云辇-P作为一套“看不见，摸不着”的底盘控制系统，我们很难理解它是如何工作的以及对车辆的性能、驾驶体验有着怎样的影响。近日，仰望汽车举行了云辇-P系统相关的技术沟通会，向我们详细介绍了云辇-P系统的工作原理以及使用场景。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0607/1686128535981.jpg"></figure><p><strong>可实现3向6自由度车身控制，支持17+1种驾驶模式</strong></p><p>仰望U8作为一台硬派越野车，它无疑能够带我们去到普通城市SUV到不了的地方，但在车主的日常用车当中，城市铺装路面无疑还是最日常的使用场景，所以为了兼具城市舒适驾驶和越野穿越能力，比亚迪打造了云辇-P智能液压车身控制系统。</p><p>云辇-P系统由智探架构、智算中心、智控技术构成，充分发挥新能源汽车的电动化、智能化优势，搭建起感知、决策、执行的完整系统架构。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0607/1686128546164.jpg"></figure><p>在感知层面，云辇-P系统通过仰望U8搭载的激光雷达、高清摄像头等50多个传感器，全方位、实时对车辆行驶的路面、环境、车身姿态等多个维度信息进行探测，将这些数据传到智算中心。</p><p>智算中心是云辇-P系统的大脑，可以简单理解为一台电脑，具有多核高性能处理能力，但同时对安全性和可靠性也有着更高的要求。在智算中心，系统通过自主研发的行云算法，对传输过来的车身姿态、车轮载荷等数据进行高速运算，实时输出最佳控制策略。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0607/1686128553327.jpg"></figure><p>根据比亚迪官方的介绍，目前仰望U8具备最多17+1种驾驶模式，同时未来通过OTA升级，还可以增加更多的调价档位、功能模式等等，实现快速迭代。<br>在执行层面，云辇-P系统采用了更适合越野场景、可靠性更高的液压悬架结构，智算中心输出策略后系统通过控制各关键零部件内的油液压力实现高度调节、刚度调节、阻尼调节、四轮联动、露营调平等功能。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0607/1686128560123.jpg"></figure><p>也正是得益于这套系统，在目前主流越野车中，仅有仰望U8可实现高度+刚度+阻尼三项自主调节功能。同时，云辇-P还能够与横向、纵向控制协同，实现了3向6自由度的车身控制，全面覆盖车辆安全、舒适、操控、越野、娱乐需求。</p><p><strong>可城市可越野，满足用户全场景、多路况需求</strong></p><p>云辇-P这一整套复杂的系统，为的就是更好的兼顾城市和越野的用车场景，在城市要做到舒适的驾乘体验，在越野场景又要能够发挥出仰望U8极致的越野性能。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0607/1686128572394.jpg"></figure><p>在城市日常常见的频繁快速启停场景，仰望U8可通过车身姿态感知与驾驶行为感知，对车辆进行动态监测，同时智算中心实时输出最佳策略瞬时提升刚度、阻尼，抑制急加速抬头和急刹车点头现象，在改善舒适性，减轻驾乘者的晕车不适感的同时，还能提升加减速性能。根据比亚迪的介绍，仅通过云辇-P系统的调节，仰望U8的刹车距离就可以缩短0.3米。</p><p>而在高速行驶过弯、变线等场景当中，由于越野车较高车身以及偏软的悬架调教，往往会给人一种忽忽悠悠犹如坐船的感觉。仰望U8搭载的云辇-P系统在这些场景下瞬时增强车身刚度，提升阻尼，减小车身垂向位移，减小侧倾梯度，可以给到驾驶者更好的信心，同时也减小乘坐的不适感。</p><p>在越野场景，仰望U8所搭载的云辇-P前后悬架调节行程最大可达150mm，手动模式下车身可升高80mm，可降低40mm。通过超高举升带来超强的越野通过性，U8豪华版无涉水喉涉水深度可达1m，U8越野玩家版配备了涉水喉最大涉水深度可提升至1.4m，极大的增强了用户在较复杂涉水工况下的安全通过能力。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0607/1686128584124.jpg"></figure><p>此外，由于超长主动调节行程，仰望U8在后备箱取物、上下车、出入地库、通过收费站取卡等用车场景中也能为用户提供便捷。行驶在高速路段，U8配备的高度随速调节功能可以主动降低车身高度减少风阻、能耗，提升车身稳定性。</p><p>在更高难度的越野路况中，比如车辆的单轮、对角轮处于悬空的半失衡状态时，云辇-P的四轮联动技术可为即将悬空的车轮减振器输送油液，拉长悬架行程，提高车轮贴地性与整车平衡感，保证四轮动力有效输出，从而实现脱困。值得一提的是，云辇-P凭借四轮联动功能可使车辆最大轮差达620mm，整车的循迹指数RTI值达600以上。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0607/1686128593674.png"></figure><p>而在飞越沙脊、冲坡跌落等紧急情况时，云辇-P系统可应急触发3级刚度，从而减少50%冲击载荷，保障车辆与人员的安全。</p><p>在沟通会现场，仰望品牌的工程师也展示了仰望U8的“一键调平”模式。在户外露营时，车辆所处的路面很有可能会有较大的起伏，云辇-P系统可通过姿态控制模块独立控制四轮高度，使车身与重力方向的平面始终保持垂直，从而实现车内的水平，满足用户在野外露营时车内正常的休息与娱乐。</p><p>云辇是比亚迪自研的车身控制系统，打破了国外品牌长期的技术壁垒。除了云辇-P以外，还有云辇-C智能阻尼车身控制系统，云辇-A智能空气车身控制系统，以及在仰望U9上可以实现原地弹跳、三轮行驶的云辇-X系统。与刀片电池、e平台3.0、CTB电池车身一体化技术、DM-i、DM-P混动技术、“易四方”技术等一起构建起了比亚迪技术的护城河。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>百度肖阳：未来不仅要卷智商情商，还要卷“搜商”</title>
+<link>http://www.techweb.com.cn/internet/2023-06-08/2928380.shtml</link>
+<description><![CDATA[<p>6月7日，高考首日，AI挑战高考语文的新闻刷屏。</p><p>在一场关于高考直播的中，百度搜索正在内测的“AI伙伴”现场挑战高考语文考试，包括作文、微写作、古诗词赏析、文言文翻译、阅读填空等题型。一篇文言文作文甚至迷惑了资深语文老师庄临旭，误以为是真人所写，给了很高的评价，认为水平都超过95％的同学。</p><p>参与直播连线的清华大学科普大V学霸“毕导”也直言：“再来一次高考语文，我可能考不过它。”他还感叹，“人均学霸的时代就要来了。”</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0608/1686187687301.jpg"></p><p>这个AI伙伴，是去年就因为写高考语文作文而成功出圈的AI数字人度晓晓带来的助手。去年，度晓晓作答了全国新高考Ⅰ卷题为《本手、妙手、俗手》的议论文，拿下了48分的高分，战胜了超75%的考生，文章更是在全网刷屏。</p><p>在AI时代，掌握提示词是核心能力。无论输入什么问题，大模型总能给出答案，但是要让它生成高质量的内容，就需要用户输入若干优质的提示词。对同一个大模型，给予不同的提示词会生成不同的结果。可以说，谁拥有提示词工程能力，谁就拿到了释放大模型强大生产能力的钥匙。百度创始人、董事长兼首席执行官李彦宏就曾在一次演讲中大胆预测：10年后，全世界有50%的工作将是提示词工程。</p><p>在这次高考连线直播中，百度集团副总裁、搜索平台负责人肖阳，现场教授观众如何正确地使用提示词，让AI产生更好的结果，可以归纳成一个公式：提示词=任务+角色+上下文背景+细节补充。比如用“AI伙伴”做杜甫的《病柏》古诗词阅读理解，在不做提示词优化的情况下，得到的答案较为全面，中规中矩；但在经过提示词优化之后，答案质量显著提升。</p><p style="text-align:center;"><img src="http://upload.techweb.com.cn/imgs/2023/0608/1686187716193.jpg"></p><p>对此肖阳表示，“未来不仅要卷智商、情商，还要卷‘搜商’。就像互联网时代，能够更好地使用搜索的人，优势越来越大，差距会越拉越大。AI伙伴是搜索代际变革的一部分，更好地使用提示词，更好地使用AI伙伴，获得的优势会越来越大。提示词工程应该是AI时代每个人的必修课，用大模型去创造更多、获得更多。”</p><p>在今年5月底举行的2023万象·百度移动生态大会上，肖阳就演示了“AI伙伴”的能力。这款全能的“Al伙伴”，能够听懂用户的任何问题，并用语音进行互动，还能帮助用户标记答案中的重点，提供权威的来源，同时支持调用各种工具和服务，以及根据用户意图制作图片或进行文案创作，如一位贴心伙伴时刻陪伴用户，让用户随时随地与未来对话。</p><p>AI伙伴是利用百度语义检索技术＋大语言模型的结晶，而这是具有划时代意义的。肖阳在万象大会上称，将语义检索技术与大语言模型结合，促进搜索的理解、推理、组织和创作潜能进一步释放，有望在多方面催生颠覆式创新，促成搜索奇点降临。</p><p>而这得益于百度在人工智能上十年的全情投入。百度是全球为数不多进行人工智能四层架构全栈布局的人工智能公司，各个层面都有关键自研技术和产品，芯片层有高端芯片昆仑芯，框架层有飞桨深度学习框架，模型层有文心预训练大模型，而在应用层上，百度搜索也在行业率先打响了大模型落地应用的“第一枪”。</p><p>据悉，在百度搜索“高考”即可进入百度高考专题页面，百度利用平台和技术优势，提供各类高考信息和服务，在百度APP内搜索“高考”，即可体验一站式AI助考服务。服务内容包括但不限于备考服务、在线查分、志愿填报、录取查询等，全面覆盖考前、考中、考后三大阶段。此外百度在今年基于AI技术全面升级了高考的搜索体验，首次推出高考搜索指数，还升级了如AI志愿助手等服务，全程助力高考。</p><p>&nbsp;</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/smarttraveling/2023-06-07/2928348.shtml</guid>
-<author>萧健</author><pubDate>Wed, 07 Jun 2023 17:05:39 +0800</pubDate>
+<guid>http://www.techweb.com.cn/internet/2023-06-08/2928380.shtml</guid>
+<author></author><pubDate>Thu, 08 Jun 2023 09:29:34 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>SIM卡：踏上末日之旅！ </title>
 <link>http://www.techweb.com.cn/wanbao/2018-06-20/2607174.shtml</link>
