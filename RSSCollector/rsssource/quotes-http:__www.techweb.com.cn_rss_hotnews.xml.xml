@@ -5,7 +5,7 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Sun, 11 Jun 2023 14:07:47 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 20:12:11 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
@@ -40,19 +40,19 @@
 <guid>http://www.techweb.com.cn/it/2023-06-11/2928533.shtml</guid>
 <author>远洋</author><pubDate>Sun, 11 Jun 2023 11:39:57 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>欲挑战微软OpenAI组合 甲骨文寻求和加拿大AI创企Cohere结盟</title>
-<link>http://www.techweb.com.cn/it/2023-06-10/2928520.shtml</link>
-<description><![CDATA[<p>新浪科技讯 北京时间6月10日午间消息，甲骨文寻求与加拿大语言模型公司Cohere达成云AI协议。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0610/1686376595635.jpg"></figure><p>&nbsp;据悉，甲骨文计划通过与Cohere结盟，以赶上那些销售基于大语言模型的服务的更大的云计算竞争对手。</p><p>&nbsp;消息人士透露，甲骨文高管Steve Miranda告诉员工，该公司计划出售对Cohere大语言模型的访问权限，类似于数千名微软云客户购买OpenAI软件的访问权限，后者可以自动执行任务。</p><p>&nbsp;Miranda告诉员工，甲骨文还计划使用Cohere的软件，为自己的人力资源和供应链管理应用添加AI功能，就像微软使用OpenAI软件为Office 365应用中的自动化功能提供动力一样。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>华为上调2023年手机出货量目标至4000万部</title>
+<link>http://www.techweb.com.cn/it/2023-06-11/2928536.shtml</link>
+<description><![CDATA[<p>【TechWeb】6月11日消息，面对手机市场下行、5G功能缺失的不利背景下，华为依然上调了2023年的手机出货量目标。</p><p>据中证报消息，从产业链人士处获悉，华为近期已上调2023年手机出货量目标至4000万部，而华为年初将这一目标设为3000万部级别。市场研究机构Omdia数据显示，2022年华为手机出货量为2800万部。产业链人士称，这意味着，华为对2023年公司手机出货行情有信心。</p><p>有媒体报道称，本次出货目标上调主要还是基于P60系列以及Mate X3强势的市场表现，同时华为的供应链也得到了相应恢复。</p><p>公开数据显示，2023年上半年智能手机市场不及预期，相比其它厂商，华为成为众多手机厂商当中为数不多的实现出货增长的厂商，相比2022年同期实现了高达41%的增长，总市场份额也提升至9.2%。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-10/2928520.shtml</guid>
-<author>刘明亮</author><pubDate>Sat, 10 Jun 2023 13:58:31 +0800</pubDate>
-<source>新浪科技</source>
-</item><item><title>OpenAI CEO：目前开源不是最佳路径 不会很快有GPT-5</title>
-<link>http://www.techweb.com.cn/it/2023-06-10/2928514.shtml</link>
-<description><![CDATA[<p>6 月 10 日消息，今日在 2023 北京智源大会的“AI 安全与对齐”主题论坛上，OpenAI 联合创始人 Sam Altman 首度对中国观众发表演讲，并参与问答环节。</p><p>智源研究院理事长张宏江向 Sam Altman 提问称，会很快看到 GPT-5 吗？Sam Altman 表示，我也很好奇，我们没有答案，我们不会很快有 GPT-5，我们必须把安全性作为很重要的一部分。</p><p>张宏江还提问称：我们距离通用人工智能（AGI）还有多远？对此 Sam Altman 表示，这很难评估具体时间，可能下个十年我们会有非常强大的 AI 系统，新技术从根本上改变世界的速度比我们想象的快。</p><p>关于 OPEN AI 有没有重新开放代码的计划，Sam AItman 表示，我们已经开放了一些模型测试，但我认为开源目前不是最佳路径。</p><p>IT之家查询公开信息获悉，北京智源人工智能研究院（Beijing Academy of Artificial Intelligence，BAAI）是人工智能领域的新型研发机构。2018 年 11 月 14 日，在科技部和北京市支持下，联合北京大学、清华大学、中国科学院、百度、小米、字节跳动、美团点评、旷视科技等北京人工智能领域优势单位共建。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<guid>http://www.techweb.com.cn/it/2023-06-11/2928536.shtml</guid>
+<author> 御风</author><pubDate>Sun, 11 Jun 2023 15:57:12 +0800</pubDate>
+<source>TechWeb.com.cn</source>
+</item><item><title>长安汽车：到 2025 年，深蓝汽车推出 6 款产品、阿维塔推出 4 款产品</title>
+<link>http://www.techweb.com.cn/it/2023-06-11/2928537.shtml</link>
+<description><![CDATA[<p>IT之家 6 月 11 日消息，长安汽车在投资者互动平台表示，到 2025 年，长安系中国品牌将推出 27 款全新新能源产品。其中深蓝汽车推出 S7 等 6 款产品，阿维塔推出 E12 等 4 款产品。</p><p>投资者：</p><p>到 2025 年，长安系中国品牌还将推出 27 款全新新能源产品。其中深蓝汽车推出 S7 等 6 款产品，阿维塔推出 E12 等 4 款产品。</p><p>长安汽车：</p><p>感谢您的建议。公司将加快推进新能源板块发展，新能源产品方面，到 2025 年，长安系中国品牌还将推出 27 款全新新能源产品。其中深蓝汽车推出 S7 等 6 款产品，阿维塔推出 E12 等 4 款产品。感谢关注。</p><p>IT之家此前报道，长安汽车在接受投资者调研时表示，将成立东南亚事业部、欧洲区域总部，还将适时在美洲、非洲等地建立区域总部。同时还将逐步建立不少于 20 个本地化营销机构，海外市场网点突破 3000 家。</p><p>长安汽车将投入 40 亿元，在泰国布局全球 “右舵生产基地”，将在 2024 年实现投产，首期产能 10 万辆，二期将增加至 20 万辆。同时，2024 年，长安汽车将正式登陆欧洲市场，2-3 年完成欧洲主要市场的进入和布局。未来，长安汽车在欧洲市场销量将突破 30 万辆。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-10/2928514.shtml</guid>
-<author>远洋</author><pubDate>Sat, 10 Jun 2023 11:18:11 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-06-11/2928537.shtml</guid>
+<author>泽泷</author><pubDate>Sun, 11 Jun 2023 16:44:01 +0800</pubDate>
 <source>IT之家</source>
 </item><item><title>大号移动充电宝 福特申请汽车外置电池技术专利</title>
 <link>http://www.techweb.com.cn/it/2023-06-10/2928521.shtml</link>
