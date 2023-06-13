@@ -5,14 +5,28 @@
         <description>TechWeb晚报，热门人物，TechWeb头条，TechWeb要闻推荐，TechWeb言论</description>
         <copyright>TechWeb.com.cn</copyright>
         <generator>Tiger</generator>
-        <lastBuildDate>Tue, 13 Jun 2023 02:10:53 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 08:52:54 +0800</lastBuildDate>
         <ttl>10</ttl>
         <image>
             <url>http://www.techweb.com.cn/xml.gif</url>
             <title>TechWeb 每日热点推荐 RSS阅读</title>
             <link>http://www.techweb.com.cn/rss/hotnews.xml</link>
         </image>
-     <item><title>苹果Vision Pro国内上市要改名？华为四年前已注册同名商标</title>
+     <item><title>帮助用户筛选合适产品？亚马逊利用生成式AI总结产品评价</title>
+<link>http://www.techweb.com.cn/it/2023-06-13/2928606.shtml</link>
+<description><![CDATA[<p>北京时间6月13日早间消息，据报道，亚马逊将利用人工智能技术帮助用户寻找合适的产品。</p><p>这家电商巨头最近开始在其购物应用中测试一项功能，可以利用人工智能技术总结客户针对部分产品发表的评论。这项功能还会简单概述消费者喜欢或不喜欢某款产品的哪些方面，同时在总结内容旁标注“由人工智能根据客户评论生成”。</p><p>比如，该功能会针对Magic Mixies儿童玩具总结道，消费者针对这款玩具的“有趣因素、外观、价值、性能、质量、充电和渗漏”等方面给出积极反馈。</p><p>“但绝大多数客户对这些方面表达了负面观点。”该总结写道，“例如，有些客户花费100多美元购买一款不值得的玩具，还有人在产品质量和充电方面遇到问题。”</p><p>亚马逊证实，该公司的确在测试这项功能。他们并未分享具体细节，以及使用了哪些人工智能模型来总结和生成文本。</p><p>“我们正在各大业务中大举投资生成式人工智能。”亚马逊发言人林赛·沙纳汉（Lindsay Shanahan）在声明中说。</p><p>亚马逊一直都在依靠人工智能和机器学习来投放精准广告，为消费者提供个性化推荐。但最近围绕生成式人工智能及OpenAI的ChatGPT聊天机器人形成的热潮，令亚马逊等众多科技公司更加专注于这项技术。亚马逊CEO安迪·贾西（Andy Jassy）在今年4月表示，生成式人工智能和大语言模型将会“改变和改进客户体验的方方面面”。</p><p>使用人智能来总结客户评价对消费者很有帮助。亚马逊网站上售卖的商品达到数百万件，某个单品的评论经常达到数以千计。该公司之前尝试通过一键评分系统来方便消费者评价一款产品，这样一来，无需撰写完整评论，也可以发表反馈。但最近，部分消费者开始使用聊天机器人撰写亚马逊的商品评价。</p><p>如何赢得消费者信任一直以来都是亚马逊面临的一大问题。无论是亚马逊的网站，还是其他在线市场上，都充斥着大量的虚假评论，许多公司已经开始借助人工审核员和自动化工具来清除虚假评论。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-13/2928606.shtml</guid>
+<author>郑卓</author><pubDate>Tue, 13 Jun 2023 08:37:46 +0800</pubDate>
+<source>新浪科技</source>
+</item><item><title>即将“一统美国”？美国电动汽车充电公司逐步整合特斯拉充电标准</title>
+<link>http://www.techweb.com.cn/it/2023-06-13/2928605.shtml</link>
+<description><![CDATA[<p>北京时间6月13日早间消息，据报道，美国的电动汽车充电公司正谨慎地对待特斯拉充电技术成为美国主要标准一事。几天前，福特和通用汽车表示，将采用特斯拉的充电技术，但对于如何实现充电标准之间的互操作仍然存有疑问。</p><p>特斯拉、福特和通用汽车总共占有美国电动汽车市场的超过60%份额。这几家公司达成的协议可能会让特斯拉的充电技术，即北美充电标准（NACS）成为美国主要的汽车充电标准。本周一，特斯拉股价上涨2.2%。</p><p>这一合作协议也意味着，包括ChargePoint、EVgo和Blink Charging在内的公司如果只提供CCS充电系统，那么就会面临客户流失的风险。CCS是美国政府支持的充电标准，与NACS存在竞争关系。</p><p>白宫上周五表示，提供特斯拉充电接口的电动汽车充电站只要同时也支持CCS接口，就有资格分享规模数十亿美元的美国联邦补贴。白宫的目标是推动数十万充电桩的部署，并认为这是推动电动汽车普及的不可缺少的一部分。</p><p>瑞士电气巨头ABB的子公司、充电桩制造商ABB E-mobility北美也将提供NACS充电接口的选择，目前该公司正在设计并测试相关产品。</p><p>该公司负责外部事务的副总裁阿萨夫·纳格勒（Asaf Nagler）表示：“我们正看到，市场对于将NACS充电接口集成到我们的充电桩和设备中表现出极大的兴趣。客户都在问，‘我们什么时候能买到这种产品？’”“但我们最不希望的是匆忙寻找一个不完美的解决方案。我们仍然不能完全理解特斯拉充电桩本身的所有局限。”</p><p>施耐德电气美国公司也在提供电动汽车充电的软硬件。该公司高管阿什利·霍瓦特（Ashley Horvat）说，自福特和通用汽车宣布这一决定以来，市场对于集成NACS充电接口的兴趣正在提升。</p><p>Blink Charging周一表示，将推出一款采用特斯拉接口的新快充设备。ChargePoint和Tritium DCFC也是如此。EVgo表示，将在其快充网络中集成NACS标准。</p><p>受三大汽车巨头宣布充电合作的影响，几家汽车充电公司股价周五大幅下跌。不过在宣布将集成NACS之后，本周一，一些公司股价收复了部分失地。</p><p>目前市场仍然担心，NACS和CCS标准将如何顺利地彼此兼容，以及同时在市场上推广两种充电标准是否会增加供应商和用户的成本。</p><p>各大汽车制造商和美国政府都没有解释，两种标准的互操作性将如何实现，也没有解释其中的费用结算方式。</p><p>充电桩制造商XCharge北美的联合创始人阿蒂什·帕特尔（Aatish Patel）表示：“我们还不太清楚，未来的充电体验会变成什么样。”</p><p>充电桩的制造商和运营商已经注意到了对互操作性的几方面担忧：特斯拉超级充电站能否为高电压车辆提供合适的快速充电，以及特斯拉充电电缆的设计是否适合一些汽车的充电接口。</p><p>特斯拉的超级充电站与特斯拉汽车进行了深度集成，支付工具也与用户账户捆绑在一起，用户可以通过特斯拉应用无缝地充电和支付。特斯拉还提供了可在非特斯拉充电站为汽车充电的电源适配器，并开放超级充电站供非特斯拉车辆使用。</p><p>“如果你没有特斯拉汽车，但想要用超级充电站，情况就不是很明确。福特、通用汽车和其他汽车制造商想要在他们的产品上引入多少特斯拉技术，以实现无缝的整合？或者，他们是否将采用不那么无缝的方式，从而实现对更大的充电网络的兼容？”帕特尔说。</p><p>一名从事超级充电站开发的前特斯拉员工表示，集成NACS充电标准在短期内会增加成本和复杂度，但鉴于特斯拉能带来更多的车辆和更好的用户体验，政府需要支持这个标准。</p><p>这名特斯拉前员工目前在一家充电公司工作。由于特斯拉与通用汽车的合作，这家正开发CCS充电技术的公司正在重新“评估”其战略。</p><p>推广CCS充电标准的行业组织CharIN北美的总裁奥列格·洛格维诺夫表示：“特斯拉的方案还不是一个标准。在成为标准之前，它还有很长的路要走。”</p><p>洛格维诺夫也是电动汽车充电零部件供应商IoTecha的首席执行官。他表示，CCS标准值得支持，因为它与多家供应商有十几年的合作历史。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+<category>TechWeb</category>
+<guid>http://www.techweb.com.cn/it/2023-06-13/2928605.shtml</guid>
+<author>郑卓</author><pubDate>Tue, 13 Jun 2023 08:35:28 +0800</pubDate>
+<source>新浪科技</source>
+</item><item><title>苹果Vision Pro国内上市要改名？华为四年前已注册同名商标</title>
 <link>http://www.techweb.com.cn/it/2023-06-12/2928557.shtml</link>
 <description><![CDATA[<p>【TechWeb】6月12日消息，日前，苹果在2023年全球开发者大会上发布了旗下首款MR（混合现实）头显产品——Apple Vision Pro。有媒体报道称，该产品命名与华为4年前已成功注册的“Vision Pro”商标“撞车”了。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0612/1686532584265.png"></figure><p>国家知识产权商标局、中国商标网显示，2019年5月16日，华为就已申请了Vision Pro的商标，并于2021年11月27日正式公告，该商标专用权期限为2021年11月28日至2031年11月27日，其专用权期限长达10年。</p><p>商标详情显示，Vision Pro商标注册号为38242888，国际分类9，核定使用商品/服务项目包括液晶电视、头戴式虚拟现实装置、无线电设备等等。</p><p>据了解，华为Vision Pro商标覆盖华为智能观影眼镜Vision Glass以及华为Vision智慧屏系列两个产品线，与头显产品并无关联。</p><p>有业内人士表示，苹果 Vision Pro 国内上市时可能会要改名。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
@@ -40,12 +54,12 @@
 <guid>http://www.techweb.com.cn/it/2023-06-12/2928578.shtml</guid>
 <author>萧健</author><pubDate>Mon, 12 Jun 2023 13:39:38 +0800</pubDate>
 <source>TechWeb.com.cn</source>
-</item><item><title>消息称德国无意增加英特尔建厂补贴 预算中没有更多资金支持</title>
-<link>http://www.techweb.com.cn/world/2023-06-12/2928563.shtml</link>
-<description><![CDATA[<p><code>【TechWeb】6月12日消息，据外媒报道，今年3月份，有外媒援引知情人士的透露报道称，由于能源价格和建厂成本上升等未预见的挑战，英特尔寻求德国方面提高马格德堡晶圆厂的建厂补贴，希望能提高到接近100亿欧元。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0612/1686534328576.jpg"></figure><p><code>但从外媒最新的报道来看，英特尔可能难以如愿获得更多的建厂补贴，德国方面无意提高补贴金额。</code></p><p><code>外媒在报道中表示，德国财政部的一名高官表示预算中已没有更多可用资金，他们正在努力巩固预算，而不是扩大预算，并强调他们无法满足增加的要求。</code></p><p><code>英特尔是去年3月15日，宣布在德国萨克森-安哈尔特州的首府马格德堡建设先进的半导体晶圆厂的，是他们未来10年在欧盟800亿欧元投资中第一阶段投资的关键项目，最初计划的建厂投资高达170亿欧元。</code></p><p><code>由于英特尔的投资，能提供大量的就业岗位，拉动当地经济的发展，德国方面也准备提供补贴，此前有报道称德国是计划提供68亿欧元的建厂补贴。</code></p><p><code>即便德国无意将给予英特尔的建厂补贴提高至100亿欧元，68亿欧元也比较可观，达到了建厂投资的40%。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
+</item><item><title>宁德时代发布骐骥换电：重卡补能仅需几分钟</title>
+<link>http://www.techweb.com.cn/it/2023-06-12/2928600.shtml</link>
+<description><![CDATA[<p>【TechWeb】6月12日消息，宁德时代发布了自研一站式重卡底盘换电解决方案骐骥换电，可在几分钟内完成换电，大幅提升运输效率，降低重卡运输的成本压力。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0612/1686569459404.jpg"></figure><p>据了解，骐骥换电一站式解决方案包含骐骥换电块、骐骥换电站、骐骥云平台。</p><p>其中，骐骥换电块基于宁德时代第三代磷酸铁锂化学体系，同时采用无热扩散技术，CTP成组技术，电池使用寿命超过15000次。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0612/1686569470958.jpg"></figure><p>骐骥换电站采用自适应无级调节技术，可以实现不同车型、不同品牌的一站通换。单块电池容量为171kWh，用户可以针对不同路况、不同距离、不同载重等场景，自由选择1-3块的电池数量。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0612/1686569476753.jpg"></figure><p>骐骥云平台则通过对换电全场景数据进行数字化解析、构建，依托车、站、电池的信息交互，将数据聚合成骐骥云，并通过大数据计算实现资产监控、智能调度、预约换电、路线规划等功能。</p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0612/1686569482768.jpg"></figure><p>根据官方的数据，一台年行驶20万公里的重卡，总使用成本每年可节约3-6万元，大大降低重卡运输的成本压力。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
 <category>TechWeb</category>
-<guid>http://www.techweb.com.cn/world/2023-06-12/2928563.shtml</guid>
-<author>海蓝</author><pubDate>Mon, 12 Jun 2023 09:47:35 +0800</pubDate>
+<guid>http://www.techweb.com.cn/it/2023-06-12/2928600.shtml</guid>
+<author>萧健</author><pubDate>Mon, 12 Jun 2023 19:32:12 +0800</pubDate>
 <source>TechWeb.com.cn</source>
 </item><item><title>明年iPhone 15 Pro系列或靠“抽奖”：两批次A17芯片效能有差异</title>
 <link>http://www.techweb.com.cn/digi/2023-06-12/2928542.shtml</link>
@@ -68,13 +82,6 @@
 <guid>http://www.techweb.com.cn/smarttraveling/2023-06-12/2928571.shtml</guid>
 <author>远洋</author><pubDate>Mon, 12 Jun 2023 10:58:52 +0800</pubDate>
 <source>IT之家</source>
-</item><item><title>是不是没钱了？Twitter拒绝向谷歌云支付费用</title>
-<link>http://www.techweb.com.cn/it/2023-06-12/2928547.shtml</link>
-<description><![CDATA[<p>北京时间6月12日早间消息，据报道，Twitter拒绝向谷歌云（Google Cloud）支付费用，两家公司的合作将于本月续约，如果Twitter坚持，它的信用和安全团队可能会瘫痪。</p><p>在去年马斯克收购Twitter之前，Twitter曾与谷歌云签署一份多年合同，谷歌将帮助Twitter打击垃圾信息，保护账户。现在两家公司出现矛盾，Twitter信用和安全团队会受到影响，但到底受到怎样的影响还不是很明确。有媒体报道称，至少从3月开始Twitter就在尝试与谷歌重新协商。</p><p>Twitter将一些服务放在自有服务器，有一些服务托管至亚马逊、谷歌云平台。3月份亚马逊曾警告Twitter，将会扣留广告付款，因为Twitter使用AWS服务欠下费用。</p><p>自从马斯克收购Twitter以来，公司大幅削减成本，裁员几千人。马斯克已经下达命令，必须将基础设施成本削减10亿美元，当中包括云服务开支。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-12/2928547.shtml</guid>
-<author>郑卓</author><pubDate>Mon, 12 Jun 2023 08:56:35 +0800</pubDate>
-<source>新浪科技</source>
 </item><item><title>苹果已在研发M3芯片版15英寸MacBook Air 预计明年年初推出</title>
 <link>http://www.techweb.com.cn/world/2023-06-12/2928573.shtml</link>
 <description><![CDATA[<p><code>【TechWeb】6月12日消息，据外媒报道，正如分析师和研究机构所预计的一样，苹果公司在6月6日凌晨1点开始的2023年度全球开发者大会的主题演讲中，推出了15英寸版MacBook Air，搭载10核GPU的M2芯片，配备15.3英寸屏幕，起售价1299美元，国内市场则是10,499元起，将在6月13日发售。</code></p><figure class="image"><img src="http://upload.techweb.com.cn/imgs/2023/0612/1686539536140.jpg"></figure><p><code>在推出搭载M2芯片的版本之后，苹果下一步预计就将推出M3芯片的版本，也有外媒在报道中提到，苹果已经在研发M3芯片版的15英寸MacBook Air，预计在明年年初推出。</code></p><p><code>对于M3芯片，长期关注苹果的一名资深记者认为CPU核心和GPU核心同M2芯片相当，但制程工艺将会由M2芯片的5nm提升至3nm。</code></p><p><code>同苹果此前推出的M2芯片一样，M3芯片也将会用于苹果的多款Mac产品，除了15英寸版MacBook Air，预计还将用于13英寸版MacBook Air、13英寸版MacBook Pro、iMac。</code></p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
@@ -88,13 +95,6 @@
 <category>TechWeb</category>
 <guid>http://www.techweb.com.cn/internet/2023-06-12/2928582.shtml</guid>
 <author>原祎鸣</author><pubDate>Mon, 12 Jun 2023 15:10:33 +0800</pubDate>
-<source>新浪科技</source>
-</item><item><title>特斯拉股价连续11天上涨 做空机构“含泪咽下”61亿美元损失</title>
-<link>http://www.techweb.com.cn/it/2023-06-12/2928550.shtml</link>
-<description><![CDATA[<p>北京时间6月12日早间消息，据报道，最近一段时间，美国纯电车制造商特斯拉公司的股价节节攀升，但是那些抛售股票的特斯拉做空机构则蒙受了巨额损失。根据金融数据公司S3的统计，在目前这一轮上涨通道中，做空机构已经损失了大约60.8亿美元。</p><p>大约从5月初开始，特斯拉股价进入一个上涨通道，而截至上周五收盘，特斯拉股价已经连续11个交易日上涨。和5月24日的收盘价相比，特斯拉目前的股价大约上涨了接近四成。</p><p>众所周知的是，特斯拉一直是华尔街做空机构热衷做空的股票。做空机构往往接入股票，进行抛售，随后期待股价会进一步下跌，从而在更低的价位上买回股票，归还给股票借出方，并通过差价谋取做空利润。</p><p>金融数据公司S3预测性分析业务负责人爱霍尔·杜桑尼斯基（Ihor Dusaniwsky)表示，在全球金融市场，特斯拉是被做空规模最大的股票，目前有价值224.3亿美元的特斯拉股票已经被做空机构抛售。</p><p>杜桑尼斯基表示，虽然特斯拉的股价开始回升，但是从4月以来，做空机构一直在加大对特斯拉的赌注，因为他们并不相信特斯拉股价有长期上涨的市场动力，最终的价格回调是不可避免的。</p><p>这位分析师介绍说，2023年年初至今，一共有1530万股特斯拉股票被专业机构做空，一共价值36亿美元。而在过去30天时间里，做空机构继续看空特斯拉股票，被做空的特斯拉股票增加了130万股，价值3.03亿美元。做空规模增加了1.4%，但是让做空机构倍感失望的是，特斯拉股价在这一时期却上涨了39%。</p><p>上周五交易日，特斯拉股价上涨了4.06%，收于244.4美元，目前市值约7746亿美元。</p><p style="text-align: center; text-indent: 0;"><img alt="文章" src="http://s1.techweb.com.cn/static/img/20180614.png" border="0" /></p>]]></description>
-<category>TechWeb</category>
-<guid>http://www.techweb.com.cn/it/2023-06-12/2928550.shtml</guid>
-<author>郑卓</author><pubDate>Mon, 12 Jun 2023 09:05:16 +0800</pubDate>
 <source>新浪科技</source>
 </item><item><title>预售16.98万元起 比亚迪宋PLUS冠军版将于6月19日上市</title>
 <link>http://www.techweb.com.cn/it/2023-06-12/2928586.shtml</link>
